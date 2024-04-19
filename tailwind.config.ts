@@ -53,6 +53,10 @@ const config = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
+      backgroundImage: {
+        'home-bg': "url('../public/Edda_bg_min.jpg')",
+        // 'poem-bg': "url('./public/poem-bg.png')",
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
