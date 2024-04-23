@@ -1,156 +1,156 @@
 const greenlandicsongofatli = [
     {
         id: 1,
-        class:'main_wrapper_text_string',
+        class:"m-7",
 
-        contentON: <><p>Guðrún Gjúkadóttir hefndi bræðra sinna, svá sem frægt er orðit. Hon drap fyrst sonu Atla, en eftir drap hon Atla ok brenndi höllina ok hirðina alla. Um þetta er sjá kviða ort:</p></>,
+        contentON: <span><p className="mb-2">Guðrún Gjúkadóttir hefndi bræðra sinna, svá sem frægt er orðit. Hon drap fyrst sonu Atla, en eftir drap hon Atla ok brenndi höllina ok hirðina alla. Um þetta er sjá kviða ort:</p></span>,
 
-        contentRU: <><p>Гудрун, дочь Гьюки, отомстила за своих братьев, как об этом много рассказывалось: она убила сначала сыновей Атли, а потом самого Атли и сожгла его палаты и всю его дружину. Об этом сложена такая песнь:</p></>
+        contentRU: <span><p>Гудрун, дочь Гьюки, отомстила за своих братьев, как об этом много рассказывалось: она убила сначала сыновей Атли, а потом самого Атли и сожгла его палаты и всю его дружину. Об этом сложена такая песнь:</p></span>
     },
     {
         id: 2,
         number: '1.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Atli sendi<br />
+        contentON: <span className="flex w-40">Atli sendi<br />
         ár til Gunnars<br />
         kunnan segg at ríða,<br />
         Knéfröðr var sá heitinn;<br />
         at görðum kom hann Gjúka<br />
         ok at Gunnars Höllu,<br />
         bekkjum aringreypum<br />
-        ok at bjóri svásum.</>,
+        ok at bjóri svásum.</span>,
 
-        contentRU: <>Атли когда-то<br />
+        contentRU: <span className="flex w-40">Атли когда-то<br />
         отправил к Гуннару<br />
         хитрого мужа<br />
         по имени Кнефрёд;<br />
         в вотчину Гьюки,<br />
         к Гуннару прибыл он,<br />
         в дом, к очагу,<br />
-        к вкусному пиву.</>
+        к вкусному пиву.</span>
     },
     {
         id: 3,
         number: '2.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Drukku þar dróttmegir,<br />
+        contentON: <span className="flex w-40">Drukku þar dróttmegir,<br />
         en dyljendr þögðu,<br />
         vín í valhöllu,<br />
         vreiði sásk þeir Húna;<br />
         kallaði þá Knéfröðr<br />
         kaldri röddu,<br />
         seggr inn suðræni<br />
-        sat hann á bekk háum:</>,
+        sat hann á bekk háum:</span>,
 
-        contentRU: <>Дружинники пили<br />
+        contentRU: <span className="flex w-40">Дружинники пили<br />
         в вальгалле вино<br />
         и гуннам не верили,<br />
         молчали предатели;<br />
         Кнефрёд воскликнул<br />
         недобрым голосом, —<br />
         на высокой скамье<br />
-        сидел южанин.</>
+        сидел южанин.</span>
     },
     {
         id: 4,
         number: '3.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Atli mik hingat sendi<br />
+        contentON: <span className="flex w-40">«Atli mik hingat sendi<br />
         ríða erendi<br />
         mar inum mélgreypa<br />
         myrkvið inn ókunna,<br />
         at biðja yðr, Gunnarr,<br />
         at it á bekk kæmið<br />
         með hjalmum aringreypum<br />
-        at sækja heim Atla.</>,
+        at sækja heim Atla.</span>,
 
-        contentRU: <>«Атли я послан<br />
+        contentRU: <span className="flex w-40">«Атли я послан<br />
         сюда с порученьем,<br />
         верхом проскакал я<br />
         сквозь чащу Мюрквид<br />
         просить вас с Гуннаром<br />
         к Атли в гости,<br />
         в дом свой зовет он<br />
-        вас, шлемоносные!</>
+        вас, шлемоносные!</span>
     },
     {
         id: 5,
         number: '4.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Skjöldu kneguð þar velja<br />
+        contentON: <span className="flex w-40">Skjöldu kneguð þar velja<br />
         ok skafna aska,<br />
         hjalma gullroðna<br />
         ok Húna mengi,<br />
         silfrgyllt söðulklæði,<br />
         serki valrauða,<br />
         dafar darraðar,<br />
-        drösla mélgreypa.</>,
+        drösla mélgreypa.</span>,
 
-        contentRU: <>Дадут вам щиты<br />
+        contentRU: <span className="flex w-40">Дадут вам щиты<br />
         и пики на выбор,<br />
         в золоте шлемы,<br />
         попоны расшитые,<br />
         множество гуннов,<br />
         рубахи червленые,<br />
         стяги на копьях,<br />
-        ретивых коней!</>
+        ретивых коней!</span>
     },
     {
         id: 6,
         number: '5.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Völl lézk ykkr ok mundu gefa<br />
+        contentON: <span className="flex w-40">Völl lézk ykkr ok mundu gefa<br />
         víðrar Gnitaheiðar,<br />
         af geiri gjallanda<br />
         ok af gylltum stöfnum,<br />
         stórar meiðmar<br />
         ok staði Danpar,<br />
         hrís þat it mæra,<br />
-        er meðr Myrkvið kalla.»</>,
+        er meðr Myrkvið kalla.»</span>,
 
-        contentRU: <>Широкое даст<br />
+        contentRU: <span className="flex w-40">Широкое даст<br />
         Гнитахейд поле,<br />
         пики звенящие,<br />
         челны златоносные.<br />
         золота груды,<br />
         и Данпа земли,<br />
         и лес знаменитый,<br />
-        что Мюрквид зовется!»</>
+        что Мюрквид зовется!»</span>
     },
     {
         id: 7,
         number: '6.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Höfði vatt þá Gunnarr<br />
+        contentON: <span className="flex w-40">Höfði vatt þá Gunnarr<br />
         ok Högna til sagði:<br />
         «Hvat ræðr þú okkr, seggr inn æri,<br />
         alls vit slíkt heyrum?<br />
         Gull vissa ek ekki<br />
         á Gnitaheiði,<br />
         þat er vit ættim-a<br />
-        annat slíkt.</>,
+        annat slíkt.</span>,
 
-        contentRU: <>Гуннар тогда<br />
+        contentRU: <span className="flex w-40">Гуннар тогда<br />
         повернулся к Хёгни:<br />
         «Что скажешь,<br />
         брат младший?<br />
         Не знаю я золота<br />
         с полей Гнитахейд,<br />
         что нашей добычей<br />
-        давно бы не стало!</>
+        давно бы не стало!</span>
     },
     {
         id: 8,
         number: '7.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sjau eigum vit salhús<br />
+        contentON: <span className="flex w-40">Sjau eigum vit salhús<br />
         sverða full,<br />
         hverju eru þeira<br />
         hjölt ór gulli;<br />
@@ -161,9 +161,9 @@ const greenlandicsongofatli = [
         hjalm ok skjöld hvítastan<br />
         kominn ór höll Kíars,<br />
         einn er minn betri<br />
-        en sé allra Húna.»</>,
+        en sé allra Húna.»</span>,
 
-        contentRU: <>У нас семь палат,<br />
+        contentRU: <span className="flex w-40">У нас семь палат,<br />
         полных мечами,<br />
         их рукояти<br />
         в резьбе золотой,<br />
@@ -174,14 +174,14 @@ const greenlandicsongofatli = [
         из Кьярова дома,<br />
         кольчуги из золота,<br />
         и лук мой лучше<br />
-        всех гуннских луков!»</>
+        всех гуннских луков!»</span>
     },
     {
         id: 9,
         number: '8.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Högni kvað:<br />
+        contentON: <span className="flex w-40">Högni kvað:<br />
         «Hvat hyggr þú brúði bendu,<br />
         þá er hon okkr baug sendi,<br />
         varinn váðum heiðingja?<br />
@@ -189,9 +189,9 @@ const greenlandicsongofatli = [
         Hár fann ek heiðingja<br />
         riðit í hring rauðum,<br />
         ylfskr er vegr okkarr<br />
-        at ríða erendi.»</>,
+        at ríða erendi.»</span>,
 
-        contentRU: <>Хёгни сказал:<br />
+        contentRU: <span className="flex w-40">Хёгни сказал:<br />
         «Почему нам жена<br />
         кольцо прислала<br />
         в волчьей одежде?<br />
@@ -199,121 +199,121 @@ const greenlandicsongofatli = [
         Волос вплетен был<br />
         волчий в кольцо —<br />
         по волчьей тропе<br />
-        придется нам ехать!»</>
+        придется нам ехать!»</span>
     },
     {
         id: 10,
         number: '9.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Niðjar hvöttu Gunnar<br />
+        contentON: <span className="flex w-40">Niðjar hvöttu Gunnar<br />
         né náungr annarr,<br />
         rýnendr né ráðendr<br />
         né þeir er ríkir váru;<br />
         kvaddi þá Gunnarr,<br />
         sem konungr skyldi,<br />
         mærr í mjöðranni<br />
-        af móði stórum:</>,
+        af móði stórum:</span>,
 
-        contentRU: <>Не подстрекали<br />
+        contentRU: <span className="flex w-40">Не подстрекали<br />
         родичи Гуннара,<br />
         молчали советчики,<br />
         воины смелые;<br />
         велел тогда Гуннар,<br />
         как должно владыке<br />
         от щедрой души,<br />
-        на пиршестве княжьем:</>
+        на пиршестве княжьем:</span>
     },
     {
         id: 11,
         number: '10.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Rístu nú, Fjörnir,<br />
+        contentON: <span className="flex w-40">«Rístu nú, Fjörnir,<br />
         láttu á flet vaða<br />
         greppa gullskálir<br />
-        með gumna höndum.</>,
+        með gumna höndum.</span>,
 
-        contentRU: <>«Фьёрнир, вставай!<br />
+        contentRU: <span className="flex w-40">«Фьёрнир, вставай!<br />
         Пусть вкруговую<br />
         ковши золотые<br />
-        пойдут по рукам!</>
+        пойдут по рукам!</span>
     },
     {
         id: 12,
         number: '11.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ulfr mun ráða<br />
+        contentON: <span className="flex w-40">Ulfr mun ráða<br />
         arfi Niflunga,<br />
         gamlir, gránvarðir,<br />
         ef Gunnars missir,<br />
         birnir blakkfjallir<br />
         bíta þreftönnum,<br />
         gamna greystóði,<br />
-        ef Gunnarr né kemr-at.»</>,
+        ef Gunnarr né kemr-at.»</span>,
 
-        contentRU: <>Пусть волки наследье<br />
+        contentRU: <span className="flex w-40">Пусть волки наследье<br />
         отнимут у Нифлунгов —<br />
         серые звери, —<br />
         коль я останусь!<br />
         Пусть мирные хижины<br />
         станут добычей<br />
         белых медведей,<br />
-        коль я не поеду!»</>
+        коль я не поеду!»</span>
     },
     {
         id: 13,
         number: '12.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Leiddu landrögni<br />
+        contentON: <span className="flex w-40">Leiddu landrögni<br />
         lýðar óneisir,<br />
         grátendr gunnhvata<br />
         ór garði húna.<br />
         Þá kvað þat inn æri<br />
         erfivörþr Högna:<br />
         «Heilir farið nú ok horskir,<br />
-        hvars ykkr hugr teygir!»</>,
+        hvars ykkr hugr teygir!»</span>,
 
-        contentRU: <>Простились люди<br />
+        contentRU: <span className="flex w-40">Простились люди<br />
         с конунгом, плача,<br />
         когда уезжал он<br />
         из гуннского дома;<br />
         сказал тогда юный<br />
         наследник Хёгни:<br />
         «Путь свой вершите,<br />
-        как дух вам велит!»</>
+        как дух вам велит!»</span>
     },
     {
         id: 14,
         number: '13.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Fetum létu fræknir<br />
+        contentON: <span className="flex w-40">Fetum létu fræknir<br />
         um fjöll at þyrja<br />
         mari ina mélgreypu<br />
         Myrkvið inn ókunna;<br />
         hristisk öll Húnmörk<br />
         þar er harðmóðgir fóru,<br />
         ráku þeir vandstyggva<br />
-        völlu algræna.</>,
+        völlu algræna.</span>,
 
-        contentRU: <>Рысью пустили<br />
+        contentRU: <span className="flex w-40">Рысью пустили<br />
         резвых коней<br />
         по горным склонам<br />
         сквозь чащу Мюрквид;<br />
         Хунмарк дрожал<br />
         от топота конского,<br />
         гнали покорных<br />
-        по травам зеленым.</>
+        по травам зеленым.</span>
     },
     {
         id: 15,
         number: '14.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Land sáu þeir Atla<br />
+        contentON: <span className="flex w-40">Land sáu þeir Atla<br />
         ok liðskjalfar djúpa,<br />
         Bikka greppar standa<br />
         á borg inni háu,<br />
@@ -328,9 +328,9 @@ const greenlandicsongofatli = [
         at varða þeim Gunnari,<br />
         af þeir hér vitja kvæmi<br />
         með geiri gjallanda<br />
-        at vekja gram hildi.</>,
+        at vekja gram hildi.</span>,
 
-        contentRU: <>Атли владенья<br />
+        contentRU: <span className="flex w-40">Атли владенья<br />
         они увидели,<br />
         воинов Бикки<br />
         на стенах высоких;<br />
@@ -345,37 +345,37 @@ const greenlandicsongofatli = [
         наготове снаружи,<br />
         чтоб Гуннара встретить,<br />
         когда бы затеял он<br />
-        с конунгом битву.</>
+        с конунгом битву.</span>
     },
     {
         id: 16,
         number: '15.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Systir fann þeira snemst,<br />
+        contentON: <span className="flex w-40">Systir fann þeira snemst,<br />
         at þeir í sal kómu<br />
         bræðr hennar báðir, —<br />
         bjóri var hon lítt drukkin:<br />
         «Ráðinn ertu nú, Gunnarr.<br />
         Hvat muntu, ríkr, vinna<br />
         við Húna harmbrögðum?<br />
-        Höll gakk þú ór snemma.</>,
+        Höll gakk þú ór snemma.</span>,
 
-        contentRU: <>Первой сестра<br />
+        contentRU: <span className="flex w-40">Первой сестра<br />
         братьев приметила —<br />
         хмельной не была она —<br />
         у входа в палату:<br />
         «Гуннар, ты предан!<br />
         Гунны коварны,<br />
         не справишься с ними, —<br />
-        спасайся скорее!</>
+        спасайся скорее!</span>
     },
     {
         id: 17,
         number: '16.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Betr hefðir þú, bróðir,<br />
+        contentON: <span className="flex w-40">Betr hefðir þú, bróðir,<br />
         at þú í brynju færir,<br />
         sem hjalmum aringreypum<br />
         at séa heim Atla,<br />
@@ -388,9 +388,9 @@ const greenlandicsongofatli = [
         en Atla sjalfan<br />
         létir þú í ormgarð koma,<br />
         nú er sá ormgarðr<br />
-        ykkr of folginn.»</>,
+        ykkr of folginn.»</span>,
 
-        contentRU: <>Лучше б тебе<br />
+        contentRU: <span className="flex w-40">Лучше б тебе<br />
         кольчугу надеть,<br />
         а не шлем, окованный<br />
         кольцами золота,<br />
@@ -403,59 +403,59 @@ const greenlandicsongofatli = [
         вверг бы ты Атли<br />
         в ров змеиный,<br />
         а ныне вы сами<br />
-        в него попадаете!»</>
+        в него попадаете!»</span>
     },
     {
         id: 18,
         number: '17.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Gunnarr kvað:<br />
+        contentON: <span className="flex w-40">Gunnarr kvað:<br />
         «Seinat er nú, systir,<br />
         at samna Niflungum;<br />
         langt er at leita<br />
         lýða sinnis til,<br />
         ef rosmufjöll Rínar<br />
-        rekka óneissa.»</>,
+        rekka óneissa.»</span>,
 
-        contentRU: <>Гуннар сказал:<br />
+        contentRU: <span className="flex w-40">Гуннар сказал:<br />
         «Не успеть мне, сестра,<br />
         Нифлунгов кликнуть,<br />
         далеко искать<br />
         удалую дружину,<br />
         с холмов красных Рейна<br />
-        воинов храбрых!»</>
+        воинов храбрых!»</span>
     },
     {
         id: 19,
         number: '18.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Fengu þeir Gunnar<br />
+        contentON: <span className="flex w-40">Fengu þeir Gunnar<br />
         ok í fjötur settu<br />
         vin Borgunda<br />
-        ok bundu fastla.</>,
+        ok bundu fastla.</span>,
 
-        contentRU: <>Схвачен был Гуннар,<br />
+        contentRU: <span className="flex w-40">Схвачен был Гуннар,<br />
         накрепко скован,<br />
         друг бургундов,<br />
-        связан надежно.</>
+        связан надежно.</span>
     },
     {
         id: 20,
         number: '19.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sjau hjó Högni<br />
+        contentON: <span className="flex w-40">Sjau hjó Högni<br />
         sverði hvössu,<br />
         en inum átta<br />
         hratt hann í eld heitan;<br />
         svá skal frækn<br />
         fjándum verjask<br />
         [sem] Högni varði<br />
-        hendr [sínar].</>,
+        hendr [sínar].</span>,
 
-        contentRU: <>Хёгни сразил<br />
+        contentRU: <span className="flex w-40">Хёгни сразил<br />
         мечом семерых,<br />
         восьмого спихнул<br />
         в огонь пылавший.<br />
@@ -463,66 +463,66 @@ const greenlandicsongofatli = [
         сражаться с врагом,<br />
         как Хёгни бился,<br />
         себя защищая.<br />
-        *********</>
+        *********</span>
     },
     {
         id: 21,
         number: '20.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>********* Gunnars;<br />
+        contentON: <span className="flex w-40">********* Gunnars;<br />
         frágu fræknan,<br />
         ef fjör vildi,<br />
         gotna þjóðann,<br />
-        gulli kaupa.</>,
+        gulli kaupa.</span>,
 
-        contentRU: <>Спросили, не хочет ли<br />
+        contentRU: <span className="flex w-40">Спросили, не хочет ли<br />
         готов властитель<br />
         золото дать,<br />
-        откупиться от смерти.</>
+        откупиться от смерти.</span>
     },
     {
         id: 22,
         number: '21.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Gunnarr kvað:<br />
+        contentON: <span className="flex w-40">Gunnarr kvað:<br />
         «Hjarta skal mér Högna<br />
         í hendi liggja<br />
         blóðugt, ór brjósti<br />
         skorit baldriða<br />
         saxi slíðrbeitu,<br />
-        syni þjóðans.»</>,
+        syni þjóðans.»</span>,
 
-        contentRU: <>Гуннар сказал:<br />
+        contentRU: <span className="flex w-40">Гуннар сказал:<br />
         «Пусть сердце Хёгни<br />
         в руке моей будет,<br />
         сердце кровавое<br />
         сына конунга,<br />
         острым ножом<br />
-        из груди исторгнуто».</>
+        из груди исторгнуто».</span>
     },
     {
         id: 23,
         number: '22.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Skáru þeir hjarta<br />
+        contentON: <span className="flex w-40">Skáru þeir hjarta<br />
         Hjalla ór brjósti<br />
         blóðugt ok á bjóð lögðu<br />
-        ok báru þat fyr Gunnar.</>,
+        ok báru þat fyr Gunnar.</span>,
 
-        contentRU: <>Вырвали сердце<br />
+        contentRU: <span className="flex w-40">Вырвали сердце<br />
         у Хьялли из ребер,<br />
         на блюде кровавое<br />
-        подали Гуннару.</>
+        подали Гуннару.</span>
     },
     {
         id: 24,
         number: '23.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þá kvað þat Gunnarr,<br />
+        contentON: <span className="flex w-40">Þá kvað þat Gunnarr,<br />
         gumna dróttinn:<br />
         «Hér hefi ek hjarta<br />
         Hjalla ins blauða,<br />
@@ -531,9 +531,9 @@ const greenlandicsongofatli = [
         er mjök bifask,<br />
         er á bjóði liggr,<br />
         bifðisk halfu meir,<br />
-        er í brjósti lá.»</>,
+        er í brjósti lá.»</span>,
 
-        contentRU: <>Гуннар воскликнул,<br />
+        contentRU: <span className="flex w-40">Гуннар воскликнул,<br />
         владыка дружины:<br />
         «Тут лежит сердце<br />
         трусливого Хьялли,<br />
@@ -542,33 +542,33 @@ const greenlandicsongofatli = [
         даже на блюде<br />
         лежа, дрожит оно, —<br />
         у Хьялли в груди<br />
-        дрожало сильнее!»</>
+        дрожало сильнее!»</span>
     },
     {
         id: 25,
         number: '24.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hló þá Högni,<br />
+        contentON: <span className="flex w-40">Hló þá Högni,<br />
         er til hjarta skáru<br />
         kvikvan kumblasmið,<br />
         klökkva hann sízt hugði;<br />
         blóðugt þat á bjóð lögðu<br />
-        ok báru fyr Gunnar.</>,
+        ok báru fyr Gunnar.</span>,
 
-        contentRU: <>Вождь рассмеялся —<br />
+        contentRU: <span className="flex w-40">Вождь рассмеялся —<br />
         страха не ведал он, —<br />
         когда грудь рассекли<br />
         дробящего шлемы<br />
         и сердце на блюде<br />
-        подали Гуннару.</>
+        подали Гуннару.</span>
     },
     {
         id: 26,
         number: '25.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Mærr kvað þat Gunnarr<br />
+        contentON: <span className="flex w-40">Mærr kvað þat Gunnarr<br />
         geirniflungr:<br />
         «Hér hefi ek hjarta<br />
         Högna ins frækna,<br />
@@ -577,9 +577,9 @@ const greenlandicsongofatli = [
         er lítt bifask,<br />
         er á bjóði liggr,<br />
         bifðisk svági mjök,<br />
-        þá er í brjósti lá.</>,
+        þá er í brjósti lá.</span>,
 
-        contentRU: <>Гуннар сказал,<br />
+        contentRU: <span className="flex w-40">Гуннар сказал,<br />
         славный Нифлунг:<br />
         «Тут лежит сердце<br />
         смелого Хёгни,<br />
@@ -588,37 +588,37 @@ const greenlandicsongofatli = [
         оно не дрожит,<br />
         лежа на блюде,<br />
         как не дрожало<br />
-        и прежде, в груди его!</>
+        и прежде, в груди его!</span>
     },
     {
         id: 27,
         number: '26.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Svá skaltu, Atli,<br />
+        contentON: <span className="flex w-40">Svá skaltu, Atli,<br />
         augum fjarri,<br />
         sem munt<br />
         menjum verða;<br />
         er und einum mér<br />
         öll of folgin<br />
         hodd Niflunga,<br />
-        lifir-a nú Högni.</>,
+        lifir-a nú Högni.</span>,
 
-        contentRU: <>Атли, ты радости<br />
+        contentRU: <span className="flex w-40">Атли, ты радости<br />
         так не увидишь,<br />
         как не увидишь<br />
         ты наших сокровищ!<br />
         Я лишь один,<br />
         если Хёгни убит,<br />
         знаю, где скрыто<br />
-        сокровище Нифлунгов!</>
+        сокровище Нифлунгов!</span>
     },
     {
         id: 28,
         number: '27.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ey var mér týja,<br />
+        contentON: <span className="flex w-40">Ey var mér týja,<br />
         meðan vit tveir lifðum,<br />
         nú er mér engi,<br />
         er ek einn lifik.<br />
@@ -629,9 +629,9 @@ const greenlandicsongofatli = [
         — í veltanda vatni<br />
         lýsask valbaugar, —<br />
         heldr en á höndum gull<br />
-        skíni Húna börnum.»</>,
+        skíni Húna börnum.»</span>,
 
-        contentRU: <>Был жив он — сомненье<br />
+        contentRU: <span className="flex w-40">Был жив он — сомненье<br />
         меня донимало,<br />
         нет его больше —<br />
         нет и сомненья:<br />
@@ -642,54 +642,54 @@ const greenlandicsongofatli = [
         Пусть в водах сверкают<br />
         вальские кольца,<br />
         а не на руках<br />
-        отпрысков гуннских!»</>
+        отпрысков гуннских!»</span>
     },
     {
         id: 29,
         number: '28.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Atli kvað:<br />
+        contentON: <span className="flex w-40">Atli kvað:<br />
         «Ýkvið ér hvélvögnum,<br />
-        haftr er nú í böndum.»</>,
+        haftr er nú í böndum.»</span>,
 
-        contentRU: <>Атли сказал:<br />
+        contentRU: <span className="flex w-40">Атли сказал:<br />
         «Готовьте повозку,<br />
         пленник закован!» <br />
         <br />
         И стража сокровищ,<br />
         Одина битвы,<br />
         поводья рвущий<br />
-        на гибель повез.</>
+        на гибель повез.</span>
     },
     {
         id: 30,
         number: '29.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Atli inn ríki<br />
+        contentON: <span className="flex w-40">Atli inn ríki<br />
         reið Glaum mönum,<br />
         sleginn rógþornum,<br />
         sifjungr þeira.<br />
         *********<br />
         Guðrún sigtífa,<br />
         varnaði við tárum,<br />
-        vaðin í þyshöllu.</>,
+        vaðin í þyshöllu.</span>,
 
-        contentRU: <>Атли могучий<br />
+        contentRU: <span className="flex w-40">Атли могучий<br />
         ехал на Глауме,<br />
         [непонятное место]<br />
         Гудрун богов<br />
         *********<br />
         слез не лила,<br />
-        войдя в палату.</>
+        войдя в палату.</span>
     },
     {
         id: 31,
         number: '30.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Guðrún kvað:<br />
+        contentON: <span className="flex w-40">Guðrún kvað:<br />
         «Svá gangi þér, Atli,<br />
         sem þú við Gunnar áttir<br />
         eiða oft of svarða<br />
@@ -702,9 +702,9 @@ const greenlandicsongofatli = [
         Ok meir þaðan<br />
         menvörð bituls<br />
         dolgrögni dró<br />
-        til dauðs skokkr.</>,
+        til dauðs skokkr.</span>,
 
-        contentRU: <>Гудрун сказала:<br />
+        contentRU: <span className="flex w-40">Гудрун сказала:<br />
         «Клятвы тебя<br />
         пусть покарают,<br />
         которые Гуннару<br />
@@ -712,14 +712,14 @@ const greenlandicsongofatli = [
         клялся ты солнцем,<br />
         Одина камнем,<br />
         ложа конем<br />
-        и Улля кольцом!»</>
+        и Улля кольцом!»</span>
     },
     {
         id: 32,
         number: '31.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Lifanda gram<br />
+        contentON: <span className="flex w-40">Lifanda gram<br />
         lagði í garð,<br />
         þan er skriðinn var,<br />
         skatna mengi,<br />
@@ -730,9 +730,9 @@ const greenlandicsongofatli = [
         glumðu strengir;<br />
         svá skal gulli<br />
         frækn hringdrifi<br />
-        við fira halda.</>,
+        við fira halda.</span>,
 
-        contentRU: <>Воины конунга<br />
+        contentRU: <span className="flex w-40">Воины конунга<br />
         взяли живого,<br />
         в ров положили.<br />
         где ползали змеи;<br />
@@ -743,122 +743,122 @@ const greenlandicsongofatli = [
         струны звенели;<br />
         так должен смелый —<br />
         кольца дарящий —<br />
-        добро защищать!</>
+        добро защищать!</span>
     },
     {
         id: 33,
         number: '32.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Atli lét<br />
+        contentON: <span className="flex w-40">Atli lét<br />
         lands síns á vit<br />
         jó eyrskáan<br />
         aftr frá morði;<br />
         dynr var í garði,<br />
         dröslum of þrungit,<br />
         vápnsöngr virða,<br />
-        váru af heiði komnir.</>,
+        váru af heiði komnir.</span>,
 
-        contentRU: <>Атли направил<br />
+        contentRU: <span className="flex w-40">Атли направил<br />
         в путь обратный<br />
         коня своего<br />
         после убийства.<br />
         С топотом кони<br />
         теснились в ограде,<br />
         звенели доспехи<br />
-        дружины вернувшейся.</>
+        дружины вернувшейся.</span>
     },
     {
         id: 34,
         number: '33.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Út gekk þá Guðrún<br />
+        contentON: <span className="flex w-40">Út gekk þá Guðrún<br />
         Atla í gögn<br />
         með gylltum kálki<br />
         at reifa gjöld rögnis:<br />
         «Þiggja knáttu, þengill,<br />
         í þinni höllu<br />
         glaðr at Guðrúnu<br />
-        gnadda niflfarna.»</>,
+        gnadda niflfarna.»</span>,
 
-        contentRU: <>Вышла Гудрун,<br />
+        contentRU: <span className="flex w-40">Вышла Гудрун,<br />
         чтоб Атли встретить<br />
         с кубком в руках<br />
         золотым, как пристало;<br />
         «Конунг, прими<br />
         в палатах твоих<br />
         от Гудрун зверенышей,<br />
-        в сумрак ушедших!»</>
+        в сумрак ушедших!»</span>
     },
     {
         id: 35,
         number: '34.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Umðu ölskálir<br />
+        contentON: <span className="flex w-40">Umðu ölskálir<br />
         Atla vínhöfgar,<br />
         þá er í höll saman<br />
         Húnar tölðusk,<br />
         gumar gransíðir,<br />
-        gengu inn hvatir.</>,
+        gengu inn hvatir.</span>,
 
-        contentRU: <>Звенели чаши,<br />
+        contentRU: <span className="flex w-40">Звенели чаши,<br />
         от пива тяжелые,<br />
         когда собрались<br />
         гунны усатые,<br />
         в палате толпились<br />
-        храбрые воины.</>
+        храбрые воины.</span>
     },
     {
         id: 36,
         number: '35.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Skævaði þá in skírleita<br />
+        contentON: <span className="flex w-40">Skævaði þá in skírleita<br />
         *********<br />
         veigar þeim at bera,<br />
         afkár dís jöfrum<br />
         ok ölkrásir valði<br />
         nauðug neffölum,<br />
-        en níð sagði Atla:</>,
+        en níð sagði Atla:</span>,
 
-        contentRU: <>Плавно вошла<br />
+        contentRU: <span className="flex w-40">Плавно вошла<br />
         с питьем яснолицая,<br />
         еду подала<br />
         побледневшему Атли,<br />
         сказала ему<br />
-        слова оскорбленья:</>
+        слова оскорбленья:</span>
     },
     {
         id: 37,
         number: '36.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Sona hefir þinna,<br />
+        contentON: <span className="flex w-40">«Sona hefir þinna,<br />
         sverða deilir,<br />
         hjörtu hrædreyrug<br />
         við hunang of tuggin;<br />
         melta knáttu, móðugr,<br />
         manna valbráðir,<br />
         eta at ölkrásum<br />
-        ok í öndugi at senda.</>,
+        ok í öndugi at senda.</span>,
 
-        contentRU: <>«С медом ты съел<br />
+        contentRU: <span className="flex w-40">«С медом ты съел<br />
         сердца сыновей —<br />
         кровавое мясо,<br />
         мечи раздающий!<br />
         Перевари теперь<br />
         трупную пищу,<br />
         что съедена с пивом,<br />
-        и после извергни!</>
+        и после извергни!</span>
     },
     {
         id: 38,
         number: '37.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Kallar-a þú síðan<br />
+        contentON: <span className="flex w-40">Kallar-a þú síðan<br />
         til knéa þinna<br />
         Erp né Eitil,<br />
         ölreifa tvá;<br />
@@ -867,23 +867,23 @@ const greenlandicsongofatli = [
         gulls miðlendr<br />
         geira skefta,<br />
         manar meita<br />
-        né mara keyra.»</>,
+        né mara keyra.»</span>,
 
-        contentRU: <>Не подзовешь,<br />
+        contentRU: <span className="flex w-40">Не подзовешь,<br />
         не возьмешь на колени<br />
         Эйтиля с Эрпом,<br />
         веселых от пива;<br />
         не увидишь, как дротики<br />
         крепят на древки,<br />
         гривы стригут,<br />
-        скачут верхом!»</>
+        скачут верхом!»</span>
     },
     {
         id: 39,
         number: '38.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ymr varð á bekkjum,<br />
+        contentON: <span className="flex w-40">Ymr varð á bekkjum,<br />
         afkárr söngr virða,<br />
         gnýr und guðvefjum,<br />
         grétu börn Húna;<br />
@@ -892,9 +892,9 @@ const greenlandicsongofatli = [
         bræðr sína berharða<br />
         ok buri svása,<br />
         unga, ófróða,<br />
-        þá er hon við Atla gat.</>,
+        þá er hon við Atla gat.</span>,
 
-        contentRU: <>Вопили неистово<br />
+        contentRU: <span className="flex w-40">Вопили неистово<br />
         люди в палате,<br />
         коврами увешанной,<br />
         плакали гунны;<br />
@@ -903,83 +903,83 @@ const greenlandicsongofatli = [
         братьев смелых<br />
         и милых сынов,<br />
         юных, немудрых,<br />
-        от Атли рожденных</>
+        от Атли рожденных</span>
     },
     {
         id: 40,
         number: '39.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Gulli söri<br />
+        contentON: <span className="flex w-40">Gulli söri<br />
         in gaglbjarta,<br />
         hringum rauðum<br />
         reifði hon húskarla;<br />
         sköp lét hon vaxa,<br />
         en skíran malm vaða,<br />
         æva fljóð ekki<br />
-        gáði fjarghúsa.</>,
+        gáði fjarghúsa.</span>,
 
-        contentRU: <>Золото сеяла<br />
+        contentRU: <span className="flex w-40">Золото сеяла<br />
         лебяжьебелая,<br />
         челяди кольца<br />
         дарила червонные;<br />
         судьбе покорясь,<br />
         раздавала сокровища,<br />
         капищ она<br />
-        не жалела, щедрая.</>
+        не жалела, щедрая.</span>
     },
     {
         id: 41,
         number: '40.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Óvarr Atli<br />
+        contentON: <span className="flex w-40">Óvarr Atli<br />
         óðan hafði hann sik drukkit,<br />
         vápn hafði hann ekki,<br />
         varnaði-t hann við Gudrúnu,<br />
         oft var sá leikr betri,<br />
         þá er þau lint skyldu<br />
         oftar um faðmask<br />
-        fyr öðlingum.</>,
+        fyr öðlingum.</span>,
 
-        contentRU: <>Атли беспечный<br />
+        contentRU: <span className="flex w-40">Атли беспечный<br />
         пьян был от пива,<br />
         меча не схватил,<br />
         не противился Гудрун<br />
         иными бывали<br />
         их прежние встречи,<br />
         когда он при всех<br />
-        обнимал ее нежно!</>
+        обнимал ее нежно!</span>
     },
     {
         id: 42,
         number: '41.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hon beð broddi<br />
+        contentON: <span className="flex w-40">Hon beð broddi<br />
         gaf blóð at drekka<br />
         hendi helfússi<br />
         ok hvelpa leysti,<br />
         hratt fyr hallar dyrr<br />
         ok húskarla vakði<br />
         brandi brúðr heitum,<br />
-        þau lét hon gjöld bræðra.</>,
+        þau lét hon gjöld bræðra.</span>,
 
-        contentRU: <>Постель она с лезвия<br />
+        contentRU: <span className="flex w-40">Постель она с лезвия<br />
         кровью насытила<br />
         рукой, в Хель ведущей,<br />
         выгнала псов,<br />
         дверь заперла,<br />
         подняла домочадцев,<br />
         дом запалила<br />
-        в отплату за братьев.</>
+        в отплату за братьев.</span>
     },
     {
         id: 43,
         number: '42.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Eldi gaf hon þá alla,<br />
+        contentON: <span className="flex w-40">Eldi gaf hon þá alla,<br />
         er inni váru<br />
         ok frá morði þeira Gunnars<br />
         komnir váru ór Myrkheimi;<br />
@@ -988,9 +988,9 @@ const greenlandicsongofatli = [
         bær Buðlunga,<br />
         brunnu ok skjaldmeyjar<br />
         inni aldrstamar,<br />
-        hnigu í eld heitan.</>,
+        hnigu í eld heitan.</span>,
 
-        contentRU: <>Всех предала<br />
+        contentRU: <span className="flex w-40">Всех предала<br />
         огню, кто вернулся<br />
         из Мюркхейма вспять<br />
         после Гуннара смерти;<br />
@@ -999,38 +999,38 @@ const greenlandicsongofatli = [
         Будлунгов двор,<br />
         щитоносные девы<br />
         падали мертвые<br />
-        в жаркое пламя.</>
+        в жаркое пламя.</span>
     },
     {
         id: 44,
         number: '43.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Fullrætt er um þetta,<br />
+        contentON: <span className="flex w-40">Fullrætt er um þetta,<br />
         ferr engi svá síðan<br />
         brúðr í brynju<br />
         bræðra at hefna;<br />
         hon hefir þriggja<br />
         þjóðkonunga<br />
         banorð borit,<br />
-        björt, áðr sylti.</>,
+        björt, áðr sylti.</span>,
 
-        contentRU: <>Довольно об этом!<br />
+        contentRU: <span className="flex w-40">Довольно об этом!<br />
         Жены другие<br />
         кольчуг не наденут<br />
         для мести подобной!<br />
         Трем конунгам смерть<br />
         она принесла,<br />
         прежде чем гибель<br />
-        ее постигла!</>
+        ее постигла!</span>
     },
     {
         id: 45,
-        class:'main_wrapper_text_string',
+        class:"m-7",
 
-        contentON: <><p>Enn segir gleggra í Atlamálum inum grænlenzkum.</p></>,
+        contentON: <span><p className="mb-2">Enn segir gleggra í Atlamálum inum grænlenzkum.</p></span>,
 
-        contentRU: <><p>Еще подробнее об этом рассказано в Гренландских Речах Атли.</p></>
+        contentRU: <span><p>Еще подробнее об этом рассказано в Гренландских Речах Атли.</p></span>
     },
 ];
 

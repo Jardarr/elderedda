@@ -2,78 +2,78 @@ const ashortsongaboutsigurd = [
     {
         id: 2,
         number: '1.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ár var, þats Sigurðr<br />
+        contentON: <span className="flex w-40">Ár var, þats Sigurðr<br />
         sótti Gjúka,<br />
         Völsungr ungi,<br />
         er vegit hafði;<br />
         tók við tryggðum<br />
         tveggja bræðra,<br />
         seldusk eiða<br />
-        eljunfræknir.</>,
+        eljunfræknir.</span>,
 
-        contentRU: <>Давно это было, —<br />
+        contentRU: <span className="flex w-40">Давно это было, —<br />
         Сигурд-воитель,<br />
         юный Вёльсунг,<br />
         у Гьюки гостил;<br />
         клятвы он принял<br />
         от братьев обоих,<br />
         верности клятвы<br />
-        от воинов смелых.</>
+        от воинов смелых.</span>
     },
     {
         id: 3,
         number: '2.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Mey buðu hánum<br />
+        contentON: <span className="flex w-40">Mey buðu hánum<br />
         ok meiðma fjölð,<br />
         Guðrúnu ungu,<br />
         Gjúka dóttur;<br />
         drukku ok dæmðu<br />
         dægr margt saman<br />
         Sigurðr ungi<br />
-        ok synir Gjúka.</>,
+        ok synir Gjúka.</span>,
 
-        contentRU: <>Сигурду дали<br />
+        contentRU: <span className="flex w-40">Сигурду дали<br />
         казну и невесту —<br />
         юную Гудрун,<br />
         Гьюки дочь;<br />
         пиры и беседы<br />
         долгими были<br />
         у Гьюки сынов<br />
-        и юного Сигурда,</>
+        и юного Сигурда,</span>
     },
     {
         id: 4,
         number: '3.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Unz þeir Brynhildar<br />
+        contentON: <span className="flex w-40">Unz þeir Brynhildar<br />
         biðja fóru,<br />
         svá at þeim Sigurðr<br />
         reið í sinni<br />
         Völsungr ungi,<br />
         ok vega kunni;<br />
         hann of ætti,<br />
-        ef hann eiga knætti.</>,
+        ef hann eiga knætti.</span>,
 
-        contentRU: <>Пока не уехали<br />
+        contentRU: <span className="flex w-40">Пока не уехали<br />
         свататься к Брюнхильд,<br />
         и Сигурд с ними<br />
         вместе поехал,<br />
         юный Вёльсунг,<br />
         в битвах искусный.<br />
         Женой назвал бы<br />
-        ее, если б мог!</>
+        ее, если б мог!</span>
     },
     {
         id: 5,
         number: '4.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sigurðr inn suðræni<br />
+        contentON: <span className="flex w-40">Sigurðr inn suðræni<br />
         lagði sverð nökkvit,<br />
         mæki málfán,<br />
         á meðal þeirra;<br />
@@ -82,9 +82,9 @@ const ashortsongaboutsigurd = [
         né húnskr konungr<br />
         hefja sér at armi,<br />
         mey frumunga<br />
-        fal hann megi Gjúka.</>,
+        fal hann megi Gjúka.</span>,
 
-        contentRU: <>Юноша с юга<br />
+        contentRU: <span className="flex w-40">Юноша с юга<br />
         меч положил<br />
         обнаженный на ложе<br />
         меж ней и собой;<br />
@@ -93,79 +93,79 @@ const ashortsongaboutsigurd = [
         не обнимал<br />
         гуннский конунг,<br />
         деву сберег он<br />
-        для сына Гьюки.</>
+        для сына Гьюки.</span>
     },
     {
         id: 6,
         number: '5.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hon sér at lífi<br />
+        contentON: <span className="flex w-40">Hon sér at lífi<br />
         löst né vissi<br />
         ok at aldrlagi<br />
         ekki grand,<br />
         vamm þat er væri<br />
         eða vera hygði;<br />
         gengu þess á milli<br />
-        grimmar urðir.</>,
+        grimmar urðir.</span>,
 
-        contentRU: <>Она в своей жизни<br />
+        contentRU: <span className="flex w-40">Она в своей жизни<br />
         позора не знала,<br />
         обид от судьбы<br />
         еще не изведала,<br />
         не знала тревог<br />
         ни мнимых, ни истинных,<br />
         но путь преградила<br />
-        злая судьба!</>
+        злая судьба!</span>
     },
     {
         id: 7,
         number: '6.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ein sat hon úti<br />
+        contentON: <span className="flex w-40">Ein sat hon úti<br />
         aftan dags,<br />
         nam hon svá margt<br />
         um at mælask:<br />
         «Hafa skal ek Sigurð,<br />
         — eða þó svelta, —<br />
         mög frumungan<br />
-        mér á armi.</>,
+        mér á armi.</span>,
 
-        contentRU: <>Сидя под вечер<br />
+        contentRU: <span className="flex w-40">Сидя под вечер<br />
         около дома,<br />
         так, не таясь,<br />
         дева сказала:<br />
         «Будет Сигурд<br />
         в объятьях моих,<br />
         юный герой,<br />
-        или умрет!</>
+        или умрет!</span>
     },
     {
         id: 8,
         number: '7.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Orð mæltak nú,<br />
+        contentON: <span className="flex w-40">Orð mæltak nú,<br />
         iðrumk eftir þess:<br />
         kván er hans Guðrún,<br />
         en ek Gunnars;<br />
         ljótar nornir<br />
-        skópu oss langa þrá.»</>,
+        skópu oss langa þrá.»</span>,
 
-        contentRU: <>Так я сказала,<br />
+        contentRU: <span className="flex w-40">Так я сказала,<br />
         а после раскаюсь:<br />
         Гудрун — жена его,<br />
         я — жена Гуннара,<br />
         норны сулили нам<br />
-        долгое горе!»</>
+        долгое горе!»</span>
     },
     {
         id: 9,
         number: '8.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Opt gengr hon innan<br />
+        contentON: <span className="flex w-40">Opt gengr hon innan<br />
         ills of fylld,<br />
         ísa ok jökla,<br />
         aftan hvern,<br />
@@ -174,9 +174,9 @@ const ashortsongaboutsigurd = [
         ok hana Sigurðr<br />
         sveipr í rifti,<br />
         konungr inn húnski<br />
-        kván frjá sína.</>,
+        kván frjá sína.</span>,
 
-        contentRU: <>Часто выходит,<br />
+        contentRU: <span className="flex w-40">Часто выходит,<br />
         полная злобы,<br />
         на льды и снега<br />
         в вечернюю пору,<br />
@@ -185,52 +185,52 @@ const ashortsongaboutsigurd = [
         и Сигурд жену<br />
         обвивает покровом<br />
         и в объятья берет ее<br />
-        гуннский конунг.</>
+        гуннский конунг.</span>
     },
     {
         id: 10,
         number: '9.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Vön geng ek vilja,<br />
+        contentON: <span className="flex w-40">«Vön geng ek vilja,<br />
         vers ok beggja,<br />
         verð ek mik gæla<br />
-        af grimmum hug.»</>,
+        af grimmum hug.»</span>,
 
-        contentRU: <>«Нет у меня<br />
+        contentRU: <span className="flex w-40">«Нет у меня<br />
         ни мужа, ни радости, —<br />
         радость из гнева<br />
-        себе изготовлю!»</>
+        себе изготовлю!»</span>
     },
     {
         id: 11,
         number: '10.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Nam af þeim heiftum<br />
+        contentON: <span className="flex w-40">Nam af þeim heiftum<br />
         hvetjask at vígi:<br />
         «Þú skalt, Gunnarr,<br />
         gerst of láta<br />
         mínu landi<br />
         ok mér sjalfri;<br />
         mun ek una aldri<br />
-        með öðlingi.</>,
+        með öðlingi.</span>,
 
-        contentRU: <>Ненавидя, она<br />
+        contentRU: <span className="flex w-40">Ненавидя, она<br />
         убийство задумала:<br />
         «Гуннар, ты скоро<br />
         навек потеряешь<br />
         землю мою<br />
         и меня вместе с нею —<br />
         с конунгом мне<br />
-        счастья не видеть!</>
+        счастья не видеть!</span>
     },
     {
         id: 12,
         number: '11.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Mun ek aftr fara,<br />
+        contentON: <span className="flex w-40">Mun ek aftr fara,<br />
         þars ek áðan vark<br />
         með nábornum<br />
         niðjum mínum;<br />
@@ -239,9 +239,9 @@ const ashortsongaboutsigurd = [
         nema þú Sigurð<br />
         svelta látir<br />
         ok jöfurr öðrum<br />
-        æðri verðir.</>,
+        æðri verðir.</span>,
 
-        contentRU: <>Поеду туда,<br />
+        contentRU: <span className="flex w-40">Поеду туда,<br />
         откуда приехала,<br />
         там я жила<br />
         у родичей близких:<br />
@@ -250,37 +250,37 @@ const ashortsongaboutsigurd = [
         коль не убьешь ты<br />
         конунга Сигурда,<br />
         если над ним<br />
-        ты не возвысишься!</>
+        ты не возвысишься!</span>
     },
     {
         id: 13,
         number: '12.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Látum son fara<br />
+        contentON: <span className="flex w-40">Látum son fara<br />
         feðr í sinni,<br />
         skal-at ulf ala<br />
         ungan lengi.<br />
         Hveim verðr hölða<br />
         hefnd léttari<br />
         síðan til sátta,<br />
-        at sonr lifi?»</>,
+        at sonr lifi?»</span>,
 
-        contentRU: <>Сын пусть отправится<br />
+        contentRU: <span className="flex w-40">Сын пусть отправится<br />
         вслед за отцом!<br />
         Волка кормить<br />
         больше не будет!<br />
         Легче вражда<br />
         идет к примиренью,<br />
         если в живых<br />
-        нет больше сына».</>
+        нет больше сына».</span>
     },
     {
         id: 14,
         number: '13.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hryggr varð Gunnarr<br />
+        contentON: <span className="flex w-40">Hryggr varð Gunnarr<br />
         ok hnipnaði,<br />
         sveip sínum hug,<br />
         sat of allan dag;<br />
@@ -293,9 +293,9 @@ const ashortsongaboutsigurd = [
         alls sik Völsung<br />
         vissi firrðan<br />
         ok at Sigurð<br />
-        söknuð mikinn.</>,
+        söknuð mikinn.</span>,
 
-        contentRU: <>Гуннар печально<br />
+        contentRU: <span className="flex w-40">Гуннар печально<br />
         повесил голову,<br />
         день целый сидел он<br />
         в смятенье горестном;<br />
@@ -308,14 +308,14 @@ const ashortsongaboutsigurd = [
         ибо он знал,<br />
         что Вёльсунг погибнет<br />
         и будет ужасной<br />
-        эта потеря.</>
+        эта потеря.</span>
     },
     {
         id: 15,
         number: '14.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ýmist hann hugði<br />
+        contentON: <span className="flex w-40">Ýmist hann hugði<br />
         jafnlanga stund:<br />
         þat var eigi<br />
         afartítt,<br />
@@ -324,9 +324,9 @@ const ashortsongaboutsigurd = [
         Nam hann sér Högna<br />
         heita at rúnum,<br />
         þar átti hann<br />
-        alls fulltrúa:</>,
+        alls fulltrúa:</span>,
 
-        contentRU: <>Долгое время<br />
+        contentRU: <span className="flex w-40">Долгое время<br />
         томился в, раздумье:<br />
         прежде такого<br />
         еще не бывало,<br />
@@ -335,23 +335,23 @@ const ashortsongaboutsigurd = [
         С Хёгни он стал<br />
         совещаться тайно,<br />
         тот ему верным<br />
-        во всем был другом.</>
+        во всем был другом.</span>
     },
     {
         id: 16,
         number: '15.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Ein er mér Brynhildr<br />
+        contentON: <span className="flex w-40">«Ein er mér Brynhildr<br />
         öllum betri,<br />
         of borin Buðla,<br />
         hon er bragr kvenna;<br />
         fyrr skal ek mínu<br />
         fjörvi láta<br />
         en þeirar meyjar<br />
-        meiðmum týna.</>,
+        meiðmum týna.</span>,
 
-        contentRU: <>Гуннар сказал:<br />
+        contentRU: <span className="flex w-40">Гуннар сказал:<br />
         «Всех мне дороже<br />
         Брюнхильд, дочь Будли,<br />
         всех женщин она<br />
@@ -359,60 +359,60 @@ const ashortsongaboutsigurd = [
         скорее готов я<br />
         с жизнью расстаться,<br />
         чем этой жены<br />
-        потеряю сокровища!</>
+        потеряю сокровища!</span>
     },
     {
         id: 17,
         number: '16.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Vildu okkr fylki<br />
+        contentON: <span className="flex w-40">Vildu okkr fylki<br />
         til fjár véla?<br />
         Gótt er at ráða<br />
         Rínar malmi<br />
         ok unandi<br />
         auði stýra<br />
         ok sitjandi<br />
-        sælu njóta.»</>,
+        sælu njóta.»</span>,
 
-        contentRU: <>Не хочешь ли князя<br />
+        contentRU: <span className="flex w-40">Не хочешь ли князя<br />
         убить и богатства<br />
         княжьи присвоить?<br />
         Отлично владеть<br />
         сокровищем Рейна<br />
         и жить в довольстве,<br />
         правя страною<br />
-        И радуясь счастью!»</>
+        И радуясь счастью!»</span>
     },
     {
         id: 18,
         number: '17.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Einu því Högni<br />
+        contentON: <span className="flex w-40">Einu því Högni<br />
         andsvör veitti:<br />
         «Samir eigi okkr<br />
         slíkt at vinna,<br />
         sverði rofna<br />
         svarna eiða,<br />
         eiða svarna,<br />
-        unnar tryggðir.</>,
+        unnar tryggðir.</span>,
 
-        contentRU: <>Одно лишь в ответ<br />
+        contentRU: <span className="flex w-40">Одно лишь в ответ<br />
         вымолвил Хёгни:<br />
         «Не подобает нам<br />
         так поступать —<br />
         мечом рассечь<br />
         нами данные клятвы,<br />
         клятвы, что дали мы,<br />
-        наши обеты!</>
+        наши обеты!</span>
     },
     {
         id: 19,
         number: '18.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Vitum-a vit á moldu<br />
+        contentON: <span className="flex w-40">Vitum-a vit á moldu<br />
         menn in sælli,<br />
         meðan fjórir vér<br />
         folki ráðum<br />
@@ -423,9 +423,9 @@ const ashortsongaboutsigurd = [
         ef vér fimm sonu<br />
         fæðum lengi,<br />
         áttumgóða<br />
-        æxla knættim.</>,
+        æxla knættim.</span>,
 
-        contentRU: <>Не знаем людей<br />
+        contentRU: <span className="flex w-40">Не знаем людей<br />
         счастливее нас,<br />
         пока вчетвером<br />
         дружиной мы правим,<br />
@@ -436,29 +436,29 @@ const ashortsongaboutsigurd = [
         если бы впятером<br />
         за долгую жизнь<br />
         взрастить сынов<br />
-        знатного рода!</>
+        знатного рода!</span>
     },
     {
         id: 20,
         number: '19.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ek veit görla,<br />
+        contentON: <span className="flex w-40">Ek veit görla,<br />
         hvaðan vegir standa:<br />
         eru Brynhildar<br />
-        brek ofmikil.»</>,
+        brek ofmikil.»</span>,
 
-        contentRU: <>Знаю, откуда<br />
+        contentRU: <span className="flex w-40">Знаю, откуда<br />
         дороги ведут:<br />
         Брюнхильд страсть<br />
-        слишком сильна!»</>
+        слишком сильна!»</span>
     },
     {
         id: 21,
         number: '20.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Gunnarr kvað:<br />
+        contentON: <span className="flex w-40">Gunnarr kvað:<br />
         «Vit skulum Guthorm<br />
         gerva at vígi,<br />
         yngra bróður,<br />
@@ -466,9 +466,9 @@ const ashortsongaboutsigurd = [
         hann var fyr útan<br />
         eiða svarna,<br />
         eiða svarna,<br />
-        unnar tryggðir.»</>,
+        unnar tryggðir.»</span>,
 
-        contentRU: <>Гуннар сказал:<br />
+        contentRU: <span className="flex w-40">Гуннар сказал:<br />
         «Готторма мы<br />
         толкнем на убийство,<br />
         младшего брата,<br />
@@ -476,232 +476,232 @@ const ashortsongaboutsigurd = [
         Не произнес он<br />
         клятвы, что дали мы,<br />
         клятв, что давали мы,<br />
-        наших обетов».</>
+        наших обетов».</span>
     },
     {
         id: 22,
         number: '21.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Dælt var at eggja<br />
+        contentON: <span className="flex w-40">Dælt var at eggja<br />
         óbilgjarnan,<br />
         stóð til hjarta<br />
-        hjörr Sigurði.</>,
+        hjörr Sigurði.</span>,
 
-        contentRU: <>Легко согласился<br />
+        contentRU: <span className="flex w-40">Легко согласился<br />
         поспешный в поступках:<br />
         Сигурду меч<br />
-        в сердце вонзил.</>
+        в сердце вонзил.</span>
     },
     {
         id: 23,
         number: '22.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Réð til hefnda<br />
+        contentON: <span className="flex w-40">Réð til hefnda<br />
         hergjarn í sal<br />
         ok eftir varp<br />
         óbilgjörnum;<br />
         fló til Guthorms<br />
         Grams ramliga<br />
         kynbirt járn<br />
-        ór konungs hendi.</>,
+        ór konungs hendi.</span>,
 
-        contentRU: <>Отмстить захотел<br />
+        contentRU: <span className="flex w-40">Отмстить захотел<br />
         воинственный конунг,<br />
         меч свой метнул<br />
         в юнца неразумного:<br />
         с силою Грам<br />
         брошен был в Готторма,<br />
         светлый клинок,<br />
-        рукою смелого.</>
+        рукою смелого.</span>
     },
     {
         id: 24,
         number: '23.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hné hans of dolgr<br />
+        contentON: <span className="flex w-40">Hné hans of dolgr<br />
         til hluta tveggja,<br />
         hendr ok höfuð<br />
         hné á annan veg,<br />
         en fóta hlutr<br />
-        féll aftr í stað.</>,
+        féll aftr í stað.</span>,
 
-        contentRU: <>Надвое был<br />
+        contentRU: <span className="flex w-40">Надвое был<br />
         рассечен убийца,<br />
         прочь голова<br />
         отлетела с плечами,<br />
         рухнули ноги,<br />
-        назад завалились.</>
+        назад завалились.</span>
     },
     {
         id: 25,
         number: '24.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sofnuð var Guðrún<br />
+        contentON: <span className="flex w-40">Sofnuð var Guðrún<br />
         í sæingu<br />
         sorgalaus<br />
         hjá Sigurði,<br />
         en hon vaknaði<br />
         vilja firrð,<br />
         er hon Freys vinar<br />
-        flaut í dreyra.</>,
+        flaut í dreyra.</span>,
 
-        contentRU: <>Гудрун заснула,<br />
+        contentRU: <span className="flex w-40">Гудрун заснула,<br />
         горя не зная,<br />
         на ложе своем<br />
         с Сигурдом рядом —<br />
         но пробудилась<br />
         в печали и страхе,<br />
         увидев на ложе<br />
-        кровь друга Фрейра.</>
+        кровь друга Фрейра.</span>
     },
     {
         id: 26,
         number: '25.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Svá sló hon svárar<br />
+        contentON: <span className="flex w-40">Svá sló hon svárar<br />
         sínar hendr,<br />
         at rammhugaðr<br />
         reis upp við beð:<br />
         «Grát-a-ðu, Guðrún,<br />
         svá grimmliga,<br />
         brúðr frumunga,<br />
-        þér bræðr lifa.</>,
+        þér bræðr lifa.</span>,
 
-        contentRU: <>Так сильно она<br />
+        contentRU: <span className="flex w-40">Так сильно она<br />
         всплеснула руками,<br />
         что духом могучий<br />
         поднялся на ложе:<br />
         «Гудрун, не плачь,<br />
         жена моя юная, —<br />
         братья твои<br />
-        живы еще!</>
+        живы еще!</span>
     },
     {
         id: 27,
         number: '26.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Á ek til ungan<br />
+        contentON: <span className="flex w-40">Á ek til ungan<br />
         erfinytja,<br />
         kann-at hann firrask<br />
         ór fjándgarði;<br />
         þeir sér hafa<br />
         svárt ok dátt<br />
         enn nær numit<br />
-        nýlig ráð.</>,
+        nýlig ráð.</span>,
 
-        contentRU: <>Есть у меня<br />
+        contentRU: <span className="flex w-40">Есть у меня<br />
         юный наследник,<br />
         как его вызволить<br />
         из вражьего дома?<br />
         Братья твои<br />
         задумали новое,<br />
         замыслы их<br />
-        злобны и пагубны.</>
+        злобны и пагубны.</span>
     },
     {
         id: 28,
         number: '27.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ríðr-a þeim síðan,<br />
+        contentON: <span className="flex w-40">Ríðr-a þeim síðan,<br />
         þótt sjau alir,<br />
         systursonr<br />
         slíkr at þingi.<br />
         Ek veit görla,<br />
         hví gegnir nú:<br />
         ein veldr Brynhildr<br />
-        öllu bölvi.</>,
+        öllu bölvi.</span>,
 
-        contentRU: <>Сына сестры их<br />
+        contentRU: <span className="flex w-40">Сына сестры их<br />
         такого не будет,<br />
         хотя б семерых<br />
         ты породила!<br />
         Твердо я знаю<br />
         причину беды:<br />
         Брюнхильд одна<br />
-        во всем виновата!</>
+        во всем виновата!</span>
     },
     {
         id: 29,
         number: '28.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Mér unni mær<br />
+        contentON: <span className="flex w-40">Mér unni mær<br />
         fyr mann hvern,<br />
         en við Gunnar<br />
         grand ekki vannk;<br />
         þyrmða ek sifjum,<br />
         svörnum eiðum,<br />
         síðr værak heitinn<br />
-        hans kvánar vinr.»</>,
+        hans kvánar vinr.»</span>,
 
-        contentRU: <>Дева любила<br />
+        contentRU: <span className="flex w-40">Дева любила<br />
         меня одного,<br />
         но Гуннару я<br />
         не нанес ущерба;<br />
         узы родства<br />
         соблюдал и клятвы,<br />
         чтоб другом жены его<br />
-        не был я прозван».</>
+        не был я прозван».</span>
     },
     {
         id: 30,
         number: '29.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Kona varp öndu,<br />
+        contentON: <span className="flex w-40">Kona varp öndu,<br />
         en konungr fjörvi,<br />
         svá sló hon svárar<br />
         sínar hendr,<br />
         at kváðu við<br />
         kálkar í vá<br />
         ok gullu við<br />
-        gæss í túni.</>,
+        gæss í túni.</span>,
 
-        contentRU: <>Жена застонала, —<br />
+        contentRU: <span className="flex w-40">Жена застонала, —<br />
         конунг скончался:<br />
         так сильно она<br />
         всплеснула руками,<br />
         что зазвенели<br />
         кубки в углу,<br />
         а во дворе<br />
-        откликнулись гуси.</>
+        откликнулись гуси.</span>
     },
     {
         id: 31,
         number: '30.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hló þá Brynhildr<br />
+        contentON: <span className="flex w-40">Hló þá Brynhildr<br />
         Buðla dóttir<br />
         einu sinni<br />
         af öllum hug,<br />
         er hon til hvílu<br />
         heyra knátti<br />
         gjallan grát<br />
-        Gjúka dóttur.</>,
+        Gjúka dóttur.</span>,
 
-        contentRU: <>Тогда рассмеялась<br />
+        contentRU: <span className="flex w-40">Тогда рассмеялась<br />
         Брюнхильд, дочь Будли,<br />
         единственный раз<br />
         от души рассмеялась,<br />
         когда на ложе<br />
         своем услыхала<br />
         рыданья громкие<br />
-        дочери Гьюки.</>
+        дочери Гьюки.</span>
     },
     {
         id: 32,
         number: '31.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hitt kvað þá Gunnarr<br />
+        contentON: <span className="flex w-40">Hitt kvað þá Gunnarr<br />
         gramr haukstalda:<br />
         «Hlær-a þú af því,<br />
         heiftgjörn kona,<br />
@@ -710,9 +710,9 @@ const ashortsongaboutsigurd = [
         Hví hafnar þú<br />
         inum hvíta lit,<br />
         feikna fæðir?<br />
-        Hygg ek, at feig séir.</>,
+        Hygg ek, at feig séir.</span>,
 
-        contentRU: <>Сказал тогда Гуннар,<br />
+        contentRU: <span className="flex w-40">Сказал тогда Гуннар,<br />
         вождь дружины:<br />
         «Не от веселья<br />
         и не от радости<br />
@@ -721,37 +721,37 @@ const ashortsongaboutsigurd = [
         Отчего покраснела,<br />
         чудовищ родившая?<br />
         Скоро умрешь ты! —<br />
-        так мне сдается.</>
+        так мне сдается.</span>
     },
     {
         id: 33,
         number: '32.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þú værir þess<br />
+        contentON: <span className="flex w-40">Þú værir þess<br />
         verðust kvenna,<br />
         at fyr augum þér<br />
         Atla hjöggim,<br />
         sæir bræðr þínum<br />
         blóðugt sár,<br />
         undir dreyrgar<br />
-        knættir yfir binda.»</>,
+        knættir yfir binda.»</span>,
 
-        contentRU: <>Тебе подобало б<br />
+        contentRU: <span className="flex w-40">Тебе подобало б<br />
         своими глазами<br />
         увидеть, как Атли<br />
         мы изрубили бы,<br />
         брата увидеть<br />
         раны кровавые,<br />
         могла бы ты их<br />
-        ему перевязывать!»</>
+        ему перевязывать!»</span>
     },
     {
         id: 34,
         number: '33.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Brynhildr kvað:<br />
+        contentON: <span className="flex w-40">Brynhildr kvað:<br />
         «Frýr-a maðr þér engi,<br />
         hefir þú fullvegit;<br />
         lítt sésk Atli<br />
@@ -759,9 +759,9 @@ const ashortsongaboutsigurd = [
         hann mun ykkar<br />
         önd síðari<br />
         ok æ bera<br />
-        afl it meira.</>,
+        afl it meira.</span>,
 
-        contentRU: <>Брюнхильд сказала:<br />
+        contentRU: <span className="flex w-40">Брюнхильд сказала:<br />
         «Тебя не виню:<br />
         ты храбро бился!<br />
         Злобы твоей<br />
@@ -769,60 +769,60 @@ const ashortsongaboutsigurd = [
         Из вас двоих<br />
         проживет он дольше,<br />
         и силой тебя<br />
-        он превзойдет.</>
+        он превзойдет.</span>
     },
     {
         id: 35,
         number: '34.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Segja mun ek þér, Gunnarr,<br />
+        contentON: <span className="flex w-40">Segja mun ek þér, Gunnarr,<br />
         — sjalfr veiztu görla, —<br />
         hvé er yðr snemma<br />
         til saka réðuð;<br />
         varð ek til ung<br />
         né ofþrungin,<br />
         fullgædd féi<br />
-        á fleti bróður.</>,
+        á fleti bróður.</span>,
 
-        contentRU: <>Скажу я, Гуннар, —<br />
+        contentRU: <span className="flex w-40">Скажу я, Гуннар, —<br />
         ты сам это знаешь, —<br />
         поспешно вы<br />
         преступленье свершили!<br />
         Свободна во всем,<br />
         запретов не зная,<br />
         в богатстве жила<br />
-        я в братнином доме.</>
+        я в братнином доме.</span>
     },
     {
         id: 36,
         number: '35.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Né ek vilda þat,<br />
+        contentON: <span className="flex w-40">Né ek vilda þat,<br />
         at mik verr ætti,<br />
         áðr þér Gjúkungar<br />
         riðuð at garði,<br />
         þrír á hestum<br />
         þjóðkonungar,<br />
         en þeira för<br />
-        þörfgi væri.</>,
+        þörfgi væri.</span>,
 
-        contentRU: <>И замуж я<br />
+        contentRU: <span className="flex w-40">И замуж я<br />
         идти не хотела,<br />
         покуда вы, Гьюкунги,<br />
         к нам не приехали, —<br />
         трое верхом,<br />
         великие конунги, —<br />
         лучше бы не было<br />
-        этой встречи!</>
+        этой встречи!</span>
     },
     {
         id: 37,
         number: '36.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þeim hétumk þá<br />
+        contentON: <span className="flex w-40">Þeim hétumk þá<br />
         þjóðkonungi,<br />
         er með gulli sat<br />
         á Grana bógum;<br />
@@ -831,9 +831,9 @@ const ashortsongaboutsigurd = [
         né á engi hlut<br />
         at álitum,<br />
         þó þykkizk ér<br />
-        þjóðkonungar.</>,
+        þjóðkonungar.</span>,
 
-        contentRU: <>Тогда мне Атли<br />
+        contentRU: <span className="flex w-40">Тогда мне Атли<br />
         тайно поведал,<br />
         что он делить<br />
         достоянье не станет,<br />
@@ -844,14 +844,14 @@ const ashortsongaboutsigurd = [
         те земли, что мне,<br />
         молодой, обещал,<br />
         казну ту, что мне,<br />
-        молодой, отсчитал он.</>
+        молодой, отсчитал он.</span>
     },
     {
         id: 38,
         number: '37.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ok mér Atli þat<br />
+        contentON: <span className="flex w-40">Ok mér Atli þat<br />
         einni sagði,<br />
         at hvárki lézk<br />
         höfn of deila,<br />
@@ -862,9 +862,9 @@ const ashortsongaboutsigurd = [
         þá er mér jóðungri<br />
         eigu seldi<br />
         ok mér jóðungri<br />
-        aura talði.</>,
+        aura talði.</span>,
 
-        contentRU: <>В смятенье тогда<br />
+        contentRU: <span className="flex w-40">В смятенье тогда<br />
         душа моя стала:<br />
         убивать ли бойцов мне?<br />
         Кольчугу надев,<br />
@@ -873,14 +873,14 @@ const ashortsongaboutsigurd = [
         Все бы тогда<br />
         это проведали,<br />
         и многим тогда<br />
-        беды грозили бы.</>
+        беды грозили бы.</span>
     },
     {
         id: 39,
         number: '38.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þá var á hvörfun<br />
+        contentON: <span className="flex w-40">Þá var á hvörfun<br />
         hugr minn um þat,<br />
         hvárt ek skylda vega<br />
         eða val fella<br />
@@ -889,32 +889,32 @@ const ashortsongaboutsigurd = [
         þat myndi þá<br />
         þjóðkunnt vera<br />
         mörgum manni<br />
-        at munar stríði.</>,
+        at munar stríði.</span>,
 
-        contentRU: <>Мы наш уговор<br />
+        contentRU: <span className="flex w-40">Мы наш уговор<br />
         блюсти согласились:<br />
         очень хотела я<br />
         золото взять —<br />
         красные кольца<br />
         сына Сигмунда, —<br />
         сокровищ иных<br />
-        я не желала.</>
+        я не желала.</span>
     },
     {
         id: 40,
         number: '39.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Létum síga<br />
+        contentON: <span className="flex w-40">Létum síga<br />
         sáttmál okkur<br />
         lék mér meir í mun<br />
         meiðmar þiggja,<br />
         bauga rauða<br />
         burar Sigmundar;<br />
         né ek annars manns<br />
-        aura vildak.</>,
+        aura vildak.</span>,
 
-        contentRU: <>Тому обещалась,<br />
+        contentRU: <span className="flex w-40">Тому обещалась,<br />
         кто, в золоте весь.<br />
         правил Грани;<br />
         ничем на вас<br />
@@ -922,94 +922,94 @@ const ashortsongaboutsigurd = [
         ни взором своим,<br />
         ни своим обличьем —<br />
         хоть вы и казались<br />
-        князьями великими!</>
+        князьями великими!</span>
     },
     {
         id: 41,
         number: '40.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Unnak einum<br />
+        contentON: <span className="flex w-40">Unnak einum<br />
         né ýmissum,<br />
         bjó-at of hverfan<br />
         hug men-Skögul;<br />
         allt mun þat Atli<br />
         eftir finna,<br />
         er hann mína spyrr<br />
-        morðför görva,</>,
+        morðför görva,</span>,
 
-        contentRU: <>Один, а не многие,<br />
+        contentRU: <span className="flex w-40">Один, а не многие,<br />
         был мне дорог,<br />
         женщины дух<br />
         не был изменчивым!<br />
         Атли в этом<br />
         сам убедится, —<br />
         когда он услышит<br />
-        о смерти моей, —</>
+        о смерти моей, —</span>
     },
     {
         id: 42,
         number: '41.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>At þeygi skal<br />
+        contentON: <span className="flex w-40">At þeygi skal<br />
         þunngeð kona<br />
         annarrar ver<br />
         aldri leiða;<br />
         þá mun á hefndum<br />
-        harma minna.»</>,
+        harma minna.»</span>,
 
-        contentRU: <>Что не слабой была<br />
+        contentRU: <span className="flex w-40">Что не слабой была<br />
         жена, если заживо<br />
         в могилу идет<br />
         за мужем чужим, —<br />
         то будет месть<br />
-        за обиду мою!»</>
+        за обиду мою!»</span>
     },
     {
         id: 43,
         number: '42.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Upp reis Gunnarr<br />
+        contentON: <span className="flex w-40">Upp reis Gunnarr<br />
         gramr verðungar,<br />
         ok um hals konu<br />
         hendr of lagði;<br />
         gengu allir<br />
         ok þó ýmissir<br />
         af heilum hug<br />
-        hana at letja.</>,
+        hana at letja.</span>,
 
-        contentRU: <>Поднялся Гуннар,<br />
+        contentRU: <span className="flex w-40">Поднялся Гуннар,<br />
         конунг великий,<br />
         на плечи женщине<br />
         руки вскинул;<br />
         начали все,<br />
         один за другим,<br />
         ее отговаривать,<br />
-        силой удерживать.</>
+        силой удерживать.</span>
     },
     {
         id: 44,
         number: '43.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hratt af halsi<br />
+        contentON: <span className="flex w-40">Hratt af halsi<br />
         hveim þar sér,<br />
         lét-a mann sik letja<br />
-        langrar göngu.</>,
+        langrar göngu.</span>,
 
-        contentRU: <>Всех оттолкнула<br />
+        contentRU: <span className="flex w-40">Всех оттолкнула<br />
         она от себя,<br />
         всех, кто мешал<br />
-        долгой поездке.</>
+        долгой поездке.</span>
     },
     {
         id: 45,
         number: '44.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Nam hann sér Högna<br />
+        contentON: <span className="flex w-40">Nam hann sér Högna<br />
         hvetja at rúnum:<br />
         «Seggi vil ek alla<br />
         í sal ganga<br />
@@ -1020,9 +1020,9 @@ const ashortsongaboutsigurd = [
         unz af méli<br />
         enn mein komi;<br />
         þá látum því<br />
-        þarfar ráða.»</>,
+        þarfar ráða.»</span>,
 
-        contentRU: <>Хёгни он стал<br />
+        contentRU: <span className="flex w-40">Хёгни он стал<br />
         звать на совет:<br />
         «Хочу, чтобы воины<br />
         были в палате<br />
@@ -1033,14 +1033,14 @@ const ashortsongaboutsigurd = [
         пока не возникнет<br />
         помеха другая:<br />
         тогда пусть вершится,<br />
-        что предназначено!»</>
+        что предназначено!»</span>
     },
     {
         id: 46,
         number: '45.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Einu því Högni<br />
+        contentON: <span className="flex w-40">Einu því Högni<br />
         andsvör veitti:<br />
         «Leti-a maðr hana<br />
         langrar göngu,<br />
@@ -1051,9 +1051,9 @@ const ashortsongaboutsigurd = [
         hon æ borin<br />
         óvilja til,<br />
         mörgum manni<br />
-        at móðtrega.»</>,
+        at móðtrega.»</span>,
 
-        contentRU: <>Одно лишь в ответ<br />
+        contentRU: <span className="flex w-40">Одно лишь в ответ<br />
         вымолвил Хёгни:<br />
         «Пусть не мешают<br />
         долгой поездке,<br />
@@ -1064,216 +1064,216 @@ const ashortsongaboutsigurd = [
         рожденной была,<br />
         чтобы горе чинить,<br />
         многих людей<br />
-        в беду повергая!»</>
+        в беду повергая!»</span>
     },
     {
         id: 47,
         number: '46.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hvarf sér óhróðugr<br />
+        contentON: <span className="flex w-40">Hvarf sér óhróðugr<br />
         andspilli frá,<br />
         þar er mörk menja<br />
-        meiðmum deildi.</>,
+        meiðmum deildi.</span>,
 
-        contentRU: <>Беседу окончив,<br />
+        contentRU: <span className="flex w-40">Беседу окончив,<br />
         печальный ушел он.<br />
         А земля ожерелий<br />
-        делила сокровища.</>
+        делила сокровища.</span>
     },
     {
         id: 48,
         number: '47.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Leit hon of alla<br />
+        contentON: <span className="flex w-40">Leit hon of alla<br />
         eigu sína,<br />
         soltnar þýjar<br />
         ok salkonur;<br />
         gullbrynju smó,<br />
         — var-a gott í hug, —<br />
         áðr sik miðlaði<br />
-        mækis eggjum.</>,
+        mækis eggjum.</span>,
 
-        contentRU: <>Добро свое все<br />
+        contentRU: <span className="flex w-40">Добро свое все<br />
         она оглядела,<br />
         мертвых рабынь<br />
         и служанок убитых,<br />
         надела кольчугу, —<br />
         горестно было ей, —<br />
         прежде чем меч<br />
-        в себя вонзила.</>
+        в себя вонзила.</span>
     },
     {
         id: 49,
         number: '48.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hné við bollstri<br />
+        contentON: <span className="flex w-40">Hné við bollstri<br />
         hon á annan veg<br />
         ok hjörunduð<br />
-        hugði at ráðum:</>,
+        hugði at ráðum:</span>,
 
-        contentRU: <>Упала она<br />
+        contentRU: <span className="flex w-40">Упала она<br />
         сбоку на ложе<br />
         и, сталью пронзенная,<br />
-        так промолвила:</>
+        так промолвила:</span>
     },
     {
         id: 50,
         number: '49.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Nú skulu ganga,<br />
+        contentON: <span className="flex w-40">«Nú skulu ganga,<br />
         þeir er gull vili<br />
         ok minni því<br />
         at mér þiggja;<br />
         ek gef hverri<br />
         of hróðit sigli,<br />
         bók ok blæju,<br />
-        bjartar váðir.»</>,
+        bjartar váðir.»</span>,
 
-        contentRU: <>«Пусть подойдут<br />
+        contentRU: <span className="flex w-40">«Пусть подойдут<br />
         те, кто золото хочет<br />
         и серебро<br />
         мое получить!<br />
         Каждой я дам<br />
         золотые запястья,<br />
         покрывала в узорах,<br />
-        пестрые ткани!»</>
+        пестрые ткани!»</span>
     },
     {
         id: 51,
         number: '50.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þögðu allir,<br />
+        contentON: <span className="flex w-40">Þögðu allir,<br />
         við því orði<br />
         ok allir senn<br />
         andsvör veittu:<br />
         «Ærnar soltnar,<br />
         munum enn lifa.<br />
         Verða salkonur<br />
-        sæmð at vinna.»</>,
+        sæmð at vinna.»</span>,
 
-        contentRU: <>Все были безмолвны,<br />
+        contentRU: <span className="flex w-40">Все были безмолвны,<br />
         все размышляли,<br />
         и вместе ей<br />
         так все ответили:<br />
         «Довольно убитых!<br />
         Жизнь дорога нам!<br />
         Не надо служанкам<br />
-        оказывать чести».</>
+        оказывать чести».</span>
     },
     {
         id: 52,
         number: '51.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Unz af hyggjandi<br />
+        contentON: <span className="flex w-40">Unz af hyggjandi<br />
         hörskrýdd kona,<br />
         ung at aldri<br />
         orð viðr of kvað:<br />
         «Vilk-at ek mann trauðan<br />
         né torbænan<br />
         um óra sök<br />
-        aldri týna.</>,
+        aldri týna.</span>,
 
-        contentRU: <>Тогда, подумав,<br />
+        contentRU: <span className="flex w-40">Тогда, подумав,<br />
         жена молодая,<br />
         в одежде льняной,<br />
         слово промолвила:<br />
         «Я не хочу,<br />
         чтобы жизни лишались,<br />
         из-за меня<br />
-        смерть принимая!</>
+        смерть принимая!</span>
     },
     {
         id: 53,
         number: '52.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þó mun á beinum<br />
+        contentON: <span className="flex w-40">Þó mun á beinum<br />
         brenna yðrum<br />
         færi eyrir,<br />
         þá er ér fram komið,<br />
         neitt Menju góð,<br />
-        mín at vitja.</>,
+        mín at vitja.</span>,
 
-        contentRU: <>Пусть на ваших костях<br />
+        contentRU: <span className="flex w-40">Пусть на ваших костях<br />
         но будут обильны<br />
         уборы богатые,<br />
         Меньи сокровища,<br />
         когда доведется<br />
-        встретиться нам.</>
+        встретиться нам.</span>
     },
     {
         id: 54,
         number: '53.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sezktu niðr, Gunnarr,<br />
+        contentON: <span className="flex w-40">Sezktu niðr, Gunnarr,<br />
         mun ek segja þér<br />
         lífs örvæna<br />
         ljósa brúði;<br />
         mun-a yðvart far<br />
         allt í sundi,<br />
         þótt ek hafa<br />
-        öndu látit.</>,
+        öndu látit.</span>,
 
-        contentRU: <>Гуннар, послушай,<br />
+        contentRU: <span className="flex w-40">Гуннар, послушай,<br />
         вот что скажу я:<br />
         жить для меня<br />
         не стало надежды.<br />
         Но и ваша ладья<br />
         на пути опасном,<br />
         пусть даже я<br />
-        с жизнью расстанусь!</>
+        с жизнью расстанусь!</span>
     },
     {
         id: 55,
         number: '54.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sátt munuð it Guðrún<br />
+        contentON: <span className="flex w-40">Sátt munuð it Guðrún<br />
         snemr, en þú hyggir;<br />
         hefir kunn kona<br />
         við konungi<br />
         daprar minjar<br />
-        at dauðan ver.</>,
+        at dauðan ver.</span>,
 
-        contentRU: <>Скорей, чем думаешь,<br />
+        contentRU: <span className="flex w-40">Скорей, чем думаешь,<br />
         с Гудрун помиритесь,<br />
         хоть славной жене,<br />
         живущей у конунга,<br />
         горестно помнить<br />
-        о муже погибшем.</>
+        о муже погибшем.</span>
     },
     {
         id: 56,
         number: '55.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þar er mær borin,<br />
+        contentON: <span className="flex w-40">Þar er mær borin,<br />
         — móðir fæðir, —<br />
         sú mun hvítari<br />
         en inn heiði dagr<br />
         Svanhildr vera,<br />
-        sólar geisla.</>,
+        sólar geisla.</span>,
 
-        contentRU: <>Деву она<br />
+        contentRU: <span className="flex w-40">Деву она<br />
         там родила, —<br />
         будет Сванхильд<br />
         как солнечный луч,<br />
         будет светлее<br />
-        ясного дня.</>
+        ясного дня.</span>
     },
     {
         id: 57,
         number: '56.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Gefa muntu Guðrúnu<br />
+        contentON: <span className="flex w-40">Gefa muntu Guðrúnu<br />
         góðra nökkurum<br />
         skeyti skæða<br />
         skatna mengi;<br />
@@ -1282,9 +1282,9 @@ const ashortsongaboutsigurd = [
         hana mun Atli<br />
         eiga ganga,<br />
         of borinn Buðla,<br />
-        bróðir minn.</>,
+        bróðir minn.</span>,
 
-        contentRU: <>Гудрун, что многим<br />
+        contentRU: <span className="flex w-40">Гудрун, что многим<br />
         гибель несла,<br />
         замуж ты выдашь<br />
         за славного мужа,<br />
@@ -1293,33 +1293,33 @@ const ashortsongaboutsigurd = [
         Атли ее<br />
         в жены возьмет,<br />
         Будли рожденный,<br />
-        брат мой родной.</>
+        брат мой родной.</span>
     },
     {
         id: 58,
         number: '57.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Margs á ek minnask,<br />
+        contentON: <span className="flex w-40">Margs á ek minnask,<br />
         hvé við mik fóru,<br />
         þá er mik sára<br />
         svikna höfðuð,<br />
         vaðin at vilja<br />
-        vark, meðan ek lifðak.</>,
+        vark, meðan ek lifðak.</span>,
 
-        contentRU: <>Много могу я<br />
+        contentRU: <span className="flex w-40">Много могу я<br />
         припомнить недоброго<br />
         о том, как жестоко<br />
         была я обманута,<br />
         как я жила,<br />
-        лишенная радости!</>
+        лишенная радости!</span>
     },
     {
         id: 59,
         number: '58.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Muntu Oddrúnu<br />
+        contentON: <span className="flex w-40">Muntu Oddrúnu<br />
         eiga vilja,<br />
         en þik Atli mun<br />
         eigi láta;<br />
@@ -1328,9 +1328,9 @@ const ashortsongaboutsigurd = [
         hon mun þér unna<br />
         sem ek skyldak,<br />
         ef okkr góð of sköp<br />
-        gerði verða.</>,
+        gerði verða.</span>,
 
-        contentRU: <>Ты, Гуннар, на Оддрун<br />
+        contentRU: <span className="flex w-40">Ты, Гуннар, на Оддрун<br />
         захочешь жениться,<br />
         но Атли тебе<br />
         не даст согласья;<br />
@@ -1339,29 +1339,29 @@ const ashortsongaboutsigurd = [
         полюбит тебя,<br />
         как я бы любила,<br />
         если б судьбой<br />
-        то было назначено!</>
+        то было назначено!</span>
     },
     {
         id: 60,
         number: '59.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þik mun Atli<br />
+        contentON: <span className="flex w-40">Þik mun Atli<br />
         illu beita,<br />
         muntu í öngan<br />
-        ormgarð lagiðr.</>,
+        ormgarð lagiðr.</span>,
 
-        contentRU: <>Атли тебя<br />
+        contentRU: <span className="flex w-40">Атли тебя<br />
         будет преследовать,<br />
         будешь ты в яму<br />
-        змеиную брошен.</>
+        змеиную брошен.</span>
     },
     {
         id: 61,
         number: '60.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þat mun ok verða<br />
+        contentON: <span className="flex w-40">Þat mun ok verða<br />
         þvígit lengra,<br />
         at Atli mun<br />
         öndu týna,<br />
@@ -1370,9 +1370,9 @@ const ashortsongaboutsigurd = [
         því at hánum Guðrún<br />
         grýmir á beð<br />
         snörpum eggjum<br />
-        af sárum hug.</>,
+        af sárum hug.</span>,
         
-        contentRU: <>Вскоре за этим<br />
+        contentRU: <span className="flex w-40">Вскоре за этим<br />
         другое последует:<br />
         с жизнью простится<br />
         Атли, теряя<br />
@@ -1381,104 +1381,104 @@ const ashortsongaboutsigurd = [
         ибо в отчаянье<br />
         Гудрун его<br />
         на ложе пронзит<br />
-        лезвием острым.</>
+        лезвием острым.</span>
     },
     {
         id: 62,
         number: '61.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sæmri væri Guðrún,<br />
+        contentON: <span className="flex w-40">Sæmri væri Guðrún,<br />
         systir ykkur,<br />
         frumver sínum<br />
         at fylgja dauðum,<br />
         ef henni gæfi<br />
         góðra ráða<br />
         eða ætti hon hug<br />
-        ossum líkan.</>,
+        ossum líkan.</span>,
         
-        contentRU: <>Лучше бы Гудрун,<br />
+        contentRU: <span className="flex w-40">Лучше бы Гудрун,<br />
         вашей сестре,<br />
         за первым мужем,<br />
         за мертвым последовать,<br />
         если б ей дали<br />
         добрый совет<br />
         иль смелостью мне<br />
-        была б она равной!</>
+        была б она равной!</span>
     },
     {
         id: 63,
         number: '62.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ört mæli ek nú,<br />
+        contentON: <span className="flex w-40">Ört mæli ek nú,<br />
         en hon eigi mun<br />
         of óra sök<br />
         aldri týna;<br />
         hana munu hefja<br />
         hávar bárur<br />
         til Jónakrs<br />
-        óðaltorfu.</>,
+        óðaltorfu.</span>,
         
-        contentRU: <>С трудом говорю,<br />
+        contentRU: <span className="flex w-40">С трудом говорю,<br />
         но совет мой она<br />
         слушать не станет —<br />
         себя не убьет:<br />
         ее понесут<br />
         высокие волны<br />
         в иные края,<br />
-        в Йонакра земли.</>
+        в Йонакра земли.</span>
     },
     {
         id: 64,
         number: '63.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>[Ala mun hún sér jóð,<br />
+        contentON: <span className="flex w-40">[Ala mun hún sér jóð,<br />
         erfivörðu],<br />
         erfivörðu,<br />
         Jónakrs sonum;<br />
         mun hon Svanhildi<br />
         senda af landi,<br />
         sína mey<br />
-        ok Sigurðar.</>,
+        ok Sigurðar.</span>,
         
-        contentRU: <>*********<br />
+        contentRU: <span className="flex w-40">*********<br />
         Йонакра дети;<br />
         а Сванхильд ушлет<br />
         в другую страну,<br />
         дочь, от Сигурда<br />
-        ею рожденную.</>
+        ею рожденную.</span>
     },
     {
         id: 65,
         number: '64.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hana munu bíta<br />
+        contentON: <span className="flex w-40">Hana munu bíta<br />
         Bikka ráð,<br />
         því at Jörmunrekkr<br />
         óþarft lifir;<br />
         þá er öll farin<br />
         ætt Sigurðar;<br />
         eru Guðrúnar<br />
-        græti at fleiri.</>,
+        græti at fleiri.</span>,
         
-        contentRU: <>Погубит Сванхильд<br />
+        contentRU: <span className="flex w-40">Погубит Сванхильд<br />
         Бикки совет,<br />
         ибо Ёрмунрекк<br />
         гибель приносит, —<br />
         так исчезнет<br />
         Сигурда род,<br />
         чтоб Гудрун больше<br />
-        слез проливала.</>
+        слез проливала.</span>
     },
     {
         id: 66,
         number: '65.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Biðja mun ek þik<br />
+        contentON: <span className="flex w-40">Biðja mun ek þik<br />
         bænar einnar,<br />
         — sú mun í heimi<br />
         hinzt bæn vera —:<br />
@@ -1487,9 +1487,9 @@ const ashortsongaboutsigurd = [
         at undir oss öllum<br />
         jafnrúmt séi,<br />
         þeim er sultu<br />
-        með Sigurði.</>,
+        með Sigurði.</span>,
         
-        contentRU: <>Просьбу одну<br />
+        contentRU: <span className="flex w-40">Просьбу одну<br />
         тебе я выскажу, —<br />
         просьба моя<br />
         будет последняя, —<br />
@@ -1498,141 +1498,141 @@ const ashortsongaboutsigurd = [
         пусть будет для нас<br />
         для всех просторен,<br />
         для тех, кто умер<br />
-        с Сигурдом вместе.</>
+        с Сигурдом вместе.</span>
     },
     {
         id: 67,
         number: '66.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Tjaldi þar um þá borg<br />
+        contentON: <span className="flex w-40">Tjaldi þar um þá borg<br />
         tjöldum ok skjöldum,<br />
         valarift vel fáð<br />
         ok Vala mengi;<br />
         brenni mér inn húnska<br />
-        á hlið aðra.</>,
+        á hlið aðra.</span>,
         
-        contentRU: <>Украсьте костер<br />
+        contentRU: <span className="flex w-40">Украсьте костер<br />
         коврами, щитами,<br />
         рабов положите<br />
         и яркие ткани;<br />
         пусть рядом со мной<br />
-        сожжен будет конунг.</>
+        сожжен будет конунг.</span>
     },
     {
         id: 68,
         number: '67.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Brenni inum húnska<br />
+        contentON: <span className="flex w-40">Brenni inum húnska<br />
         á hlið aðra<br />
         mína þjóna<br />
         menjum göfga:<br />
         tveir at höfðum<br />
         ok tveir haukar;<br />
         þá er öllu skipt<br />
-        til jafnaðar.</>,
+        til jafnaðar.</span>,
         
-        contentRU: <>Будет конунг сожжен<br />
+        contentRU: <span className="flex w-40">Будет конунг сожжен<br />
         рядом с моими<br />
         рабами в уборах<br />
         богатых и ярких;<br />
         двух ястребов<br />
         в головах положите,<br />
         тогда будет все<br />
-        как должно исполнено.</>
+        как должно исполнено.</span>
     },
     {
         id: 69,
         number: '68.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Liggi okkar enn í milli<br />
+        contentON: <span className="flex w-40">Liggi okkar enn í milli<br />
         malmr hringvariðr,<br />
         egghvast járn,<br />
         sem endr lagit,<br />
         þá er vit bæði<br />
         beð einn stigum<br />
         ok hétum þá<br />
-        hjóna nafni.</>,
+        hjóna nafni.</span>,
         
-        contentRU: <>И пусть лежит<br />
+        contentRU: <span className="flex w-40">И пусть лежит<br />
         меч между нами<br />
         острый клинок,<br />
         как в ночи былые,<br />
         когда мы с Сигурдом<br />
         вместе лежали<br />
         и назывались<br />
-        женой и мужем.</>
+        женой и мужем.</span>
     },
     {
         id: 70,
         number: '69.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hrynja hánum þá<br />
+        contentON: <span className="flex w-40">Hrynja hánum þá<br />
         á hæl þeygi<br />
         hlunnblik hallar<br />
         hringi litkuð,<br />
         ef hánum fylgir<br />
         ferð mín heðan;<br />
         þeygi mun ór för<br />
-        aumlig vera.</>,
+        aumlig vera.</span>,
         
-        contentRU: <>И пусть ему<br />
+        contentRU: <span className="flex w-40">И пусть ему<br />
         пяту не отрежет<br />
         дверь, на которой<br />
         кольцо с украшеньем,<br />
         если за ним<br />
         вслед я поеду —<br />
         наш свадебный поезд<br />
-        бедным не будет!</>
+        бедным не будет!</span>
     },
     {
         id: 71,
         number: '70.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Því at hánum fylgja<br />
+        contentON: <span className="flex w-40">Því at hánum fylgja<br />
         fimm ambáttir,<br />
         átta þjónar,<br />
         eðlum góðir,<br />
         fóstrman mitt<br />
         ok faðerni,<br />
         þat er Buðli gaf<br />
-        barni sínu.</>,
+        barni sínu.</span>,
         
-        contentRU: <>Пять рабынь мы возьмем<br />
+        contentRU: <span className="flex w-40">Пять рабынь мы возьмем<br />
         и слуг восьмерых<br />
         высокого рода<br />
         с собой на костер,<br />
         рабынь, что выросли<br />
         в доме отцовом,<br />
         и то наследье,<br />
-        что Будли мне отдал.</>
+        что Будли мне отдал.</span>
     },
     {
         id: 72,
         number: '71.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Margt sagða ek,<br />
+        contentON: <span className="flex w-40">Margt sagða ek,<br />
         munda ek fleira,<br />
         er mér meir mjötuðr<br />
         málrúm gæfi;<br />
         ómum þverr,<br />
         undir svella,<br />
         satt eitt sagðak,<br />
-        svá mun ek láta.»</>,
+        svá mun ek láta.»</span>,
         
-        contentRU: <>Много сказала я,<br />
+        contentRU: <span className="flex w-40">Много сказала я,<br />
         больше смогла бы,<br />
         когда б мне судьба<br />
         на то дала время!<br />
         Голос мой глух,<br />
         раны горят,<br />
         правду одну<br />
-        говорю, умирая!»</>
+        говорю, умирая!»</span>
     },
 ];
 

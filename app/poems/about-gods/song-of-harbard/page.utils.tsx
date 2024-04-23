@@ -1,46 +1,46 @@
 const songofharbard = [
     {
         id: 1,
-        class:'main_wrapper_text_string',
-        contentON: <><p>
+        class:"m-7",
+        contentON: <span><p className="mb-2">
         Þórr fór ór Austrvegi ok kom at sundi einu. Öðrum megin sundsins
         var ferjukarlinn með skipit. Þórr kallaði:
-        </p></>,
-        contentRU: <><p>
+        </p></span>,
+        contentRU: <span><p>
         Тор возвращался с востока и подошел к какому-то проливу. По ту
         сторону пролива был перевозчик с лодкой. Тор крикнул:
-        </p></>
+        </p></span>
     },
     {
         id: 2,
         number: '1.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Hverr er sá sveinn sveina,<br />
-        er stendr fyr sundit handan?»</>,
+        contentON: <span className="flex w-40">«Hverr er sá sveinn sveina,<br />
+        er stendr fyr sundit handan?»</span>,
 
-        contentRU: <>«Что там за парень<br />
-        стоит у пролива?»</>
+        contentRU: <span className="flex w-40">«Что там за парень<br />
+        стоит у пролива?»</span>
     },
     {
         id: 3,
         number: '2.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
         «Hverr er sá karl karla,<br />
-        er kallar of váginn?»</>,
+        er kallar of váginn?»</span>,
 
-        contentRU: <>Тот ответил:<br />
+        contentRU: <span className="flex w-40">Тот ответил:<br />
         «Что за старик<br />
-        кричит за проливом?»</>
+        кричит за проливом?»</span>
     },
     {
         id: 4,
         number: '3.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Fer þú mik um sundit,<br />
         fæði ek þik á morgun;<br />
         meis hef ek á baki,<br />
@@ -48,9 +48,9 @@ const songofharbard = [
         át ek í hvíld,<br />
         áðr ek heiman fór,<br />
         síldr ok hafra;<br />
-        saðr em ek enn þess.»</>,
+        saðr em ek enn þess.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Переправь-ка меня!<br />
         Дам пищи на завтра:<br />
         за спиною в корзине<br />
@@ -58,85 +58,85 @@ const songofharbard = [
         В путь отправляясь,<br />
         наелся я вдоволь<br />
         селедок с овсянкой<br />
-        и сыт до сих пор».</>
+        и сыт до сих пор».</span>
     },
     {
         id: 5,
         number: '4.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
         «Árligum verkum<br />
         hrósar þú, verðinum;<br />
         veizt-at-tu fyrir görla,<br />
         döpr eru þín heimkynni,<br />
-        dauð, hygg ek, at þín móðir sé.»</>,
+        dauð, hygg ek, at þín móðir sé.»</span>,
 
-        contentRU: <>Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
         «Похвалился едой,<br />
         а жребий свой знаешь ли?<br />
         У тебя, наверно,<br />
-        и матери нет».</>
+        и матери нет».</span>
     },
     {
         id: 6,
         number: '5.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Þat segir þú nú,<br />
         er hverjum þykkir<br />
         mest at vita,<br />
-        at mín móðir dauð sé.»</>,
+        at mín móðir dauð sé.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Весть такая<br />
         каждому тягостна —<br />
         горько мне слышать<br />
-        о смерти матери!»</>
+        о смерти матери!»</span>
     },
     {
         id: 7,
         number: '6.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
         «Þeygi er sem þú<br />
         þrjú bú góð eigir;<br />
         berbeinn þú stendr<br />
         ok hefr brautinga gervi,<br />
-        þatki, at þú hafir brækr þínar.»</>,
+        þatki, at þú hafir brækr þínar.»</span>,
 
-        contentRU: <>Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
         «Едва ли тремя ты<br />
         дворами владеешь,<br />
         если ты бос<br />
         и одет как бродяга:<br />
-        даже нет и штанов!»</>
+        даже нет и штанов!»</span>
     },
     {
         id: 8,
         number: '7.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
         
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Stýrðu hingat eikjunni,<br />
         ek mun þér stöðna kenna, —<br />
         eða hverr á skipit,<br />
-        er þú heldr við landit?»</>,
+        er þú heldr við landit?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Правь-ка сюда,<br />
         я скажу, где пристать;<br />
         чей ты у берега<br />
-        держишь челнок?»</>
+        держишь челнок?»</span>
     },
     {
         id: 9,
         number: '8.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
         
-        contentON: <>Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
         «Hildolfr sá heitir,<br />
         er mik halda bað,<br />
         rekkr inn ráðsvinni,<br />
@@ -146,9 +146,9 @@ const songofharbard = [
         góða eina<br />
         ok þá, er ek görva kunna;<br />
         segðu til nafns þíns,<br />
-        ef þú vill um sundit fara!»</>,
+        ef þú vill um sundit fara!»</span>,
 
-        contentRU: <>Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
         «Хильдольв челнок<br />
         мне поручил,<br />
         воин, живущий<br />
@@ -158,14 +158,14 @@ const songofharbard = [
         но добрых людей<br />
         и людей мне известных;<br />
         назовись, и тогда<br />
-        тебя повезу я».</>
+        тебя повезу я».</span>
     },
     {
         id: 10,
         number: '9.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Segja mun ek til nafns míns,<br />
         þótt ek sekr séak,<br />
         ok til alls eðlis:<br />
@@ -175,9 +175,9 @@ const songofharbard = [
         þrúðvaldr goða,<br />
         við Þór knáttu hér dæma!<br />
         Hins vil ek nú spyrja,<br />
-        hvat þú heitir.»</>,
+        hvat þú heitir.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Назову свое имя,<br />
         хоть я средь врагов,<br />
         и о роде скажу:<br />
@@ -187,57 +187,57 @@ const songofharbard = [
         ты с владыкой богов<br />
         беседуешь — с Тором!<br />
         Знать я хочу,<br />
-        как сам ты зовешься».</>
+        как сам ты зовешься».</span>
     },
     {
         id: 11,
         number: '10.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
         «Hárbarðr ek heiti,<br />
-        hylk um nafn sjaldan.»</>,
+        hylk um nafn sjaldan.»</span>,
 
-        contentRU: <>Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
         «Харбард мне имя,<br />
-        скажу откровенно».</>
+        скажу откровенно».</span>
     },
     {
         id: 12,
         number: '11.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Hvat skaltu of nafn hylja,<br />
-        nema þú sakar eigir?»</>,
+        nema þú sakar eigir?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «А зачем бы тебе скрывать<br />
-        свое имя, если ты не в распре?»</>
+        свое имя, если ты не в распре?»</span>
     },
     {
         id: 13,
         number: '12.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «En þótt ek sakar eiga,<br />
         þá mun ek forða fjörvi mínu<br />
         fyr slíkum sem þú ert,<br />
-        nema ek feigr sé.»</>,
+        nema ek feigr sé.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Хотя бы и в распре,<br />
         спасусь от тебя,<br />
         если мне смерти<br />
-        судьба не сулит».</>
+        судьба не сулит».</span>
     },
     {
         id: 14,
         number: '13.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Harm ljótan<br />
         mér þykkir í því<br />
         at vaða um váginn til þín<br />
@@ -245,63 +245,63 @@ const songofharbard = [
         skylda ek launa<br />
         kögursveini þínum<br />
         kanginyrði,<br />
-        ef ek kæmumk yfir sundit.»</>,
+        ef ek kæmumk yfir sundit.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Неохота мне вброд<br />
         брести по заливу<br />
         и ношу мочить;<br />
         не то проучил бы<br />
         тебя, сопляка,<br />
         за брань и насмешки,<br />
-        на берег выйдя!»</>
+        на берег выйдя!»</span>
     },
     {
         id: 15,
         number: '14.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Hér mun ek standa<br />
         ok þín heðan bíða;<br />
         fannt-a þú mann in harðara<br />
-        at Hrungni dauðan.»</>,
+        at Hrungni dauðan.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Я здесь постою,<br />
         поджидая тебя;<br />
         храбрецов ты не видел<br />
-        со смерти Хрунгнира».</>
+        со смерти Хрунгнира».</span>
     },
     {
         id: 16,
         number: '15.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Hins viltu nú geta,<br />
         er vit Hrungnir deildum,<br />
         sá inn stórúðgi jötunn,<br />
         er ór steini var höfuðit á;<br />
         þó lét ek hann falla<br />
         ok fyrir hníga.<br />
-        Hvat vanntu þá meðan, Hárbarðr?»</>,
+        Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «О том говоришь ты,<br />
         как с Хрунгниром, турсом<br />
         каменноглавым,<br />
         славно я бился,<br />
         но я поразил его<br />
         в жарком бою.<br />
-        А что ты делал, Харбард?»</>
+        А что ты делал, Харбард?»</span>
     },
     {
         id: 17,
         number: '16.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Var ek með Fjölvari<br />
         fimm vetr alla<br />
         í ey þeiri,<br />
@@ -309,9 +309,9 @@ const songofharbard = [
         vega vér þar knáttum<br />
         ok val fella,<br />
         margs at freista,<br />
-        mans at kosta.»</>,
+        mans at kosta.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Сидел я у Фьёльвара<br />
         целых пять зим,<br />
         на острове том,<br />
@@ -319,23 +319,23 @@ const songofharbard = [
         бились мы там,<br />
         убивали врагов,<br />
         и то еще делали —<br />
-        дев соблазняли».</>
+        дев соблазняли».</span>
     },
     {
         id: 18,
         number: '17.',
-        class:'main_wrapper_text_stanza',
-        contentON: <>Þórr kvað:<br />
-        «Hversu snúnuðu yðr konur yðrar?»</>,
-        contentRU: <>Тор сказал:<br />
-        «Ну и как у вас шло с ними дело?»</>
+        class:"flex justify-center m-2",
+        contentON: <span className="flex w-40">Þórr kvað:<br />
+        «Hversu snúnuðu yðr konur yðrar?»</span>,
+        contentRU: <span className="flex w-40">Тор сказал:<br />
+        «Ну и как у вас шло с ними дело?»</span>
     },
     {
         id: 19,
         number: '18.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Sparkar áttu vér konur,<br />
         ef oss at spökum yrði;<br />
         horskar áttu vér konur,<br />
@@ -348,9 +348,9 @@ const songofharbard = [
         efri at ráðum;<br />
         hvílda ek hjá þeim systrum sjau,<br />
         ok hafða ek geð þeira allt ok gaman.<br />
-        Hvat vanntu þá meðan, Þórr?»</>,
+        Hvat vanntu þá meðan, Þórr?»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Милыми были,<br />
         когда покорялись,<br />
         разумными были,<br />
@@ -363,14 +363,14 @@ const songofharbard = [
         с семью я сестрами<br />
         ложе делил,<br />
         их любовью владел.<br />
-        А что ты делал, Тор?»</>
+        А что ты делал, Тор?»</span>
     },
     {
         id: 20,
         number: '19.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Ek drap Þjaza,<br />
         inn þrúðmóðga jötun,<br />
         upp ek varp augum<br />
@@ -379,9 +379,9 @@ const songofharbard = [
         þau eru merki mest<br />
         minna verka,<br />
         þau er allir menn síðan of séa.<br />
-        Hvat vanntu þá meðan, Hárbarðr?»</>,
+        Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Я Тьяци убил,<br />
         турса могучего,<br />
         бросил глаза я<br />
@@ -390,67 +390,67 @@ const songofharbard = [
         вот лучший памятник<br />
         подвигам Тора,<br />
         все видят его.<br />
-        А что ты делал, Харбард?»</>
+        А что ты делал, Харбард?»</span>
     },
     {
         id: 21,
         number: '20.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Miklar manvélar<br />
         ek hafða við myrkriður,<br />
         þá er ek vélta þær frá verum;<br />
         harðan jötun<br />
         ek hugða Hlébarð vera,<br />
         gaf hann mér gambantein,<br />
-        en ek vélta hann ór viti.»</>,
+        en ek vélta hann ór viti.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Соблазнял я искусно<br />
         наездниц ночных,<br />
         отнимал у мужей их;<br />
         жезл волшебства<br />
         Хлебард мне отдал,<br />
         турс храбрый, а я<br />
-        рассудка лишил его».</>
+        рассудка лишил его».</span>
     },
     {
         id: 22,
         number: '21.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Illum huga<br />
-        launaðir þú þá góðar gjafar.»</>,
+        launaðir þú þá góðar gjafar.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Злом отплатил ты<br />
-        за добрый подарок».</>
+        за добрый подарок».</span>
     },
     {
         id: 23,
         number: '22.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Þat hefr eik,<br />
         er af annarri skefr,<br />
         of sik er hverr í slíku.<br />
-        Hvat vanntu þá meðan Þórr?»</>,
+        Hvat vanntu þá meðan Þórr?»</span>,
         
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Срежь ветви дубка —<br />
         другой разрастется;<br />
         всяк занят собой.<br />
-        А что ты делал, Тор?»</>
+        А что ты делал, Тор?»</span>
     },
     {
         id: 24,
         number: '23.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Ek var austr<br />
         ok jötna barðak<br />
         brúðir bölvísar,<br />
@@ -459,9 +459,9 @@ const songofharbard = [
         ef allir lifði<br />
         vætr myndi manna<br />
         undir Miðgarði.<br />
-        Hvat vanntu þá meðan, Hárbarðr?»</>,
+        Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «На востоке я был,<br />
         там истреблял я<br />
         злобных жен турсов,<br />
@@ -470,52 +470,52 @@ const songofharbard = [
         разросся бы род их<br />
         и в Мидгарде люди<br />
         жить не смогли б.<br />
-        А что ты делал, Харбард?»</>
+        А что ты делал, Харбард?»</span>
     },
     {
         id: 25,
         number: '24.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Var ek á Vallandi<br />
         ok vígum fylgdak,<br />
         atta ek jöfrum,<br />
         en aldri sættak;<br />
         Óðinn á jarla,<br />
         þá er í val falla,<br />
-        en Þórr á þrælakyn.»</>,
+        en Þórr á þrælakyn.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Я в Валланде был,<br />
         в битвах участвовал,<br />
         князей подстрекал,<br />
         не склонял их к миру;<br />
         у Одина — ярлы,<br />
         павшие в битвах,<br />
-        у Тора — рабы».</>
+        у Тора — рабы».</span>
     },
     {
         id: 26,
         number: '25.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Ójafnt skipta<br />
         er þú myndir með ásum liði,<br />
-        ef þú ættir vilgi mikils vald.»</>,
+        ef þú ættir vilgi mikils vald.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Неравно бы ты<br />
         людей разделил,<br />
-        если властью владел бы».</>
+        если властью владел бы».</span>
     },
     {
         id: 27,
         number: '26.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Þórr á afl ærit,<br />
         en ekki hjarta;<br />
         af hræðslu ok hugbleyði<br />
@@ -524,9 +524,9 @@ const songofharbard = [
         hvárki þú þá þorðir<br />
         fyr hræðslu þinni<br />
         hnjósa né físa,<br />
-        svá at Fjalarr heyrði.»</>,
+        svá at Fjalarr heyrði.»</span>,
         
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «У Тора сил вдоволь,<br />
         да смелости мало;<br />
         со страху ты раз<br />
@@ -534,44 +534,44 @@ const songofharbard = [
         забыв, кто ты есть;<br />
         от страха чихать<br />
         и греметь ты не смел, —<br />
-        не услышал бы Фьялар».</>
+        не услышал бы Фьялар».</span>
     },
     {
         id: 28,
         number: '27.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Hárbarðr inn ragi,<br />
         ek mynda þik í hel drepa,<br />
-        ef ek mætta seilask um sund.»</>,
+        ef ek mætta seilask um sund.»</span>,
 
-        contentRU: <>Top сказал:<br />
+        contentRU: <span className="flex w-40">Top сказал:<br />
         «Харбард срамной!<br />
         Я убил бы тебя,<br />
-        да пролив мне помеха».</>
+        да пролив мне помеха».</span>
     },
     {
         id: 29,
         number: '28.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Hvat skyldir um sund seilask,<br />
         er sakir ro alls engar?<br />
-        Hvat vanntu þá, Þórr?»</>,
+        Hvat vanntu þá, Þórr?»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Что спешишь за пролив, —<br />
         я не в распре с тобой.<br />
-        А что ты делал, Тор?»</>
+        А что ты делал, Тор?»</span>
     },
     {
         id: 30,
         number: '29.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Ek var austr<br />
         ok ána varðak,<br />
         þá er mik sóttu<br />
@@ -580,9 +580,9 @@ const songofharbard = [
         gagni urðu þeir þó lítt fegnir,<br />
         þó urðu þeir mik fyrri<br />
         friðar at biðja.<br />
-        Hvat vanntu þá meðan, Hárbarðr?»</>,
+        Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «На востоке я был,<br />
         поток охранял,<br />
         со мною схватились<br />
@@ -591,408 +591,408 @@ const songofharbard = [
         да нечем кичиться им —<br />
         первыми стали<br />
         мира просить.<br />
-        А что ты делал, Харбард?»</>
+        А что ты делал, Харбард?»</span>
     },
     {
         id: 31,
         number: '30.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Ek var austr<br />
         ok við einhverja dæmðak,<br />
         lék ek við ina línhvítu<br />
         ok launþing háðak;<br />
         gladdak ina gullbjörtu,<br />
-        gamni mær unði.»</>,
+        gamni mær unði.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «На востоке я был,<br />
         беседовал с девой,<br />
         с белокурой я тешился,<br />
         тайно встречаясь,<br />
         одарял ее щедро, —<br />
-        она отдалась мне».</>
+        она отдалась мне».</span>
     },
     {
         id: 32,
         number: '31.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
-        «Góð átt þú þér mankynni þar þá.»</>,
+        contentON: <span className="flex w-40">Þórr kvað:<br />
+        «Góð átt þú þér mankynni þar þá.»</span>,
 
-        contentRU: <>Тор сказал:<br />
-        «То встречи изрядные».</>
+        contentRU: <span className="flex w-40">Тор сказал:<br />
+        «То встречи изрядные».</span>
     },
     {
         id: 33,
         number: '32.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Liðs þíns<br />
         væra ek þá þurfi, Þórr,<br />
-        at ek helda þeiri inni línhvítu mey.»</>,
+        at ek helda þeiri inni línhvítu mey.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Ты мне бы помог<br />
-        сохранить эту деву».</>
+        сохранить эту деву».</span>
     },
     {
         id: 34,
         number: '33.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Ek munda þér þá þat veita,<br />
-        ef ek viðr of kæmumk.»</>,
+        ef ek viðr of kæmumk.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Если ведал бы чем,<br />
-        помог бы охотно».</>
+        помог бы охотно».</span>
     },
     {
         id: 35,
         number: '34.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Ek mynda þér þá trúa,<br />
-        nema þú mik í tryggð véltir.»</>,
+        nema þú mik í tryggð véltir.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Поверил бы я,<br />
-        коль не ждал бы обмана».</>
+        коль не ждал бы обмана».</span>
     },
     {
         id: 36,
         number: '35.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Emk-at ek sá hælbítr<br />
-        sem húðskór forn á vár.»</>,
+        sem húðskór forn á vár.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Не кусаю я пяток,<br />
-        как старая обувь».</>
+        как старая обувь».</span>
     },
     {
         id: 37,
         number: '36.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
-        «Hvat vanntu þá meðan, Þórr?»</>,
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        «Hvat vanntu þá meðan, Þórr?»</span>,
 
-        contentRU: <>Харбард сказал:<br />
-        «А что ты делал, Тор?»</>
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        «А что ты делал, Тор?»</span>
     },
     {
         id: 38,
         number: '37.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Brúðir berserkja<br />
         barðak í Hléseyju;<br />
         þær höfðu verst unnit,<br />
-        vélta þjóð alla.»</>,
+        vélta þjóð alla.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Я жен берсерков<br />
         на Хлесей разил;<br />
         они извели<br />
-        волшбою народ».</>
+        волшбою народ».</span>
     },
     {
         id: 39,
         number: '38.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Klæki vanntu þá, Þórr,<br />
-        er þú á konum barðir.»</>,
+        er þú á konum barðir.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Вот дело позорное —<br />
-        жен истреблять».</>
+        жен истреблять».</span>
     },
     {
         id: 40,
         number: '39.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Vargynjur þat váru,<br />
         en varla konur,<br />
         skelldu skip mitt,<br />
         er ek skorðat hafðak,<br />
         ægðu mér járnlurki<br />
         en eltu Þjalfa.<br />
-        Hvat vanntu meðan, Hárbarðr?»</>,
+        Hvat vanntu meðan, Hárbarðr?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «То были волчицы,<br />
         а вовсе не жены:<br />
         разбили мой струг,<br />
         на подпорках стоявший,<br />
         грозили дубинами<br />
         и Тьяльви прогнали.<br />
-        А что ты делал, Харбард?»</>
+        А что ты делал, Харбард?»</span>
     },
     {
         id: 41,
         number: '40.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Ek vark í hernum,<br />
         er hingat gerðisk<br />
         gnæfa gunnfana,<br />
-        geir at rjóða.»</>,
+        geir at rjóða.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Был я в дружине,<br />
         спешившей сюда<br />
         стяг битвы поднять<br />
-        и копье окровавить».</>
+        и копье окровавить».</span>
     },
     {
         id: 42,
         number: '41.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Þess viltu nú geta,<br />
-        er þú fórt oss óljúfan at bjóða.»</>,
+        er þú fórt oss óljúfan at bjóða.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Ты о том говоришь,<br />
-        чем хотел досадить нам!»</>
+        чем хотел досадить нам!»</span>
     },
     {
         id: 43,
         number: '42.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Bæta skal þér þat þá<br />
         munda baugi,<br />
         sem jafnendr unnu,<br />
-        þeir er okkr vilja sætta.»</>,
+        þeir er okkr vilja sætta.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Кольцом я готов<br />
         тебе отплатить,<br />
         если нам помириться<br />
-        посредники скажут».</>
+        посредники скажут».</span>
     },
     {
         id: 44,
         number: '43.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Hvar namtu þessi<br />
         in hnæfiligu orð,<br />
         er ek heyrða aldregi<br />
-        in hnæfiligri?»</>,
+        in hnæfiligri?»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Ты где научился<br />
         речам глумливым?<br />
         Глумливее слов<br />
-        не слыхал никогда я».</>
+        не слыхал никогда я».</span>
     },
     {
         id: 45,
         number: '44.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Nam ek at mönnum<br />
         þeim inum aldrænum,<br />
-        er búa í heimis skógum.»</>,
+        er búa í heimis skógum.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Я их перенял<br />
         у древних людей<br />
-        из домашних курганов».</>
+        из домашних курганов».</span>
     },
     {
         id: 46,
         number: '45.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Þó gefr þú gott nafn dysjum,<br />
-        er þú kallar þær heimis skóga.»</>,
+        er þú kallar þær heimis skóga.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Ты ладно придумал<br />
         могильные кучи<br />
-        курганами звать».</>
+        курганами звать».</span>
     },
     {
         id: 47,
         number: '46.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
-        «Svá dæmi ek of slíkt far.»</>,
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        «Svá dæmi ek of slíkt far.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
-        «Так придумать я вправе».</>
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        «Так придумать я вправе».</span>
     },
     {
         id: 48,
         number: '47.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Orðkringi þín<br />
         mun þér illa koma,<br />
         ef ek ræð á vág at vaða;<br />
         ulfi hæra<br />
         hygg ek þik æpa munu,<br />
-        ef þú hlýtr af hamri högg.»</>,
+        ef þú hlýtr af hamri högg.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Отплачу я тебе<br />
         за обидные речи,<br />
         пролив переплыв:<br />
         громче волка ты будешь<br />
         выть, коль ударю<br />
-        молотом мощным!»</>
+        молотом мощным!»</span>
     },
     {
         id: 49,
         number: '48.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Sif á hó heima,<br />
         hans muntu fund vilja,<br />
         þann muntu þrek drýgja,<br />
-        þat er þér skyldara.»</>,
+        þat er þér skyldara.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «С любовником Сив<br />
         повстречайся в доме, —<br />
         важнее тебе<br />
-        свершить этот подвиг!»</>
+        свершить этот подвиг!»</span>
     },
     {
         id: 50,
         number: '49.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Mælir þú at munns ráði,<br />
         svá at mér skyldi verst þykkja,<br />
         halr inn hugblauði,<br />
-        hygg ek, at þú ljúgir.»</>,
+        hygg ek, at þú ljúgir.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Изрыгаешь ты все,<br />
         что в рот тебе лезет,<br />
         чтоб мне досадить,<br />
         воин трусливый!<br />
-        Сдается, что врешь ты!»</>
+        Сдается, что врешь ты!»</span>
     },
     {
         id: 51,
         number: '50.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Satt hygg ek mik segja;<br />
         seinn ertu at för þinni,<br />
         langt myndir þú nú kominn, Þórr,<br />
-        ef þú litum færir.»</>,
+        ef þú litum færir.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Правду я молвил,<br />
         в пути ты мешкаешь,<br />
         был бы далеко,<br />
-        челн захватив мой».</>
+        челн захватив мой».</span>
     },
     {
         id: 52,
         number: '51.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Hárbarðr inn ragi,<br />
-        heldr hefr þú nú mik dvalðan.»</>,
+        heldr hefr þú nú mik dvalðan.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Харбард срамной,<br />
-        задержал ты меня!»</>
+        задержал ты меня!»</span>
     },
     {
         id: 53,
         number: '52.',
-        class:'main_wrapper_text_stanza',
-        contentON: <>Hárbarðr kvað:<br />
+        class:"flex justify-center m-2",
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Ása-þórs hugða ek<br />
         aldregi mundu<br />
-        glepja féhirði farar.»</>,
+        glepja féhirði farar.»</span>,
         
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Я не думал, что станет<br />
         Асатору помехой<br />
-        в пути перевозчик».</>
+        в пути перевозчик».</span>
     },
     {
         id: 54,
         number: '53.',
-        class:'main_wrapper_text_stanza',
-        contentON: <>Þórr kvað:<br />
+        class:"flex justify-center m-2",
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Ráð mun ek þér nú ráða;<br />
         ró þú hingat bátinum,<br />
         hættum hætingi,<br />
-        hittu föður Magna.»</>,
-        contentRU: <>Тор сказал:<br />
+        hittu föður Magna.»</span>,
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Слушай совет мой:<br />
         греби-ка сюда!<br />
         Брань прекратим,<br />
-        переправь отца Магни!»</>
+        переправь отца Магни!»</span>
     },
     {
         id: 55,
         number: '54.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Farðu firr sundi,<br />
-        þér skal fars synja.»</>,
+        þér skal fars synja.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Переправы не жди,<br />
-        уходи от пролива!»</>
+        уходи от пролива!»</span>
     },
     {
         id: 56,
         number: '55.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Vísa þú mér nú leiðina,<br />
-        alls þú vill mik eigi um váginn ferja.»</>,
+        alls þú vill mik eigi um váginn ferja.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Как в обход мне идти,<br />
-        коль везти ты не хочешь?»</>
+        коль везти ты не хочешь?»</span>
     },
     {
         id: 57,
         number: '56.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         Lítit er at synja,<br />
         langt er at fara;<br />
         stund er til stokksins,<br />
@@ -1002,9 +1002,9 @@ const songofharbard = [
         þar mun Fjörgyn<br />
         hitta Þór, son sinn,<br />
         ok mun hon kenna hánum áttunga brautir<br />
-        til Óðins landa.»</>,
+        til Óðins landa.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
         «Быстр был отказ мой,<br />
         твой путь будет долог:<br />
         до бревна ты дойдешь<br />
@@ -1015,60 +1015,60 @@ const songofharbard = [
         встретится Фьёргюн,<br />
         она объяснит<br />
         путь в Одина земли,<br />
-        дорогу к родне».</>
+        дорогу к родне».</span>
     },
     {
         id: 58,
         number: '57.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
-        «Mun ek taka þangat í dag?»</>,
+        contentON: <span className="flex w-40">Þórr kvað:<br />
+        «Mun ek taka þangat í dag?»</span>,
 
-        contentRU: <>Тор сказал:<br />
-        «Доберусь ли сегодня?»</>
+        contentRU: <span className="flex w-40">Тор сказал:<br />
+        «Доберусь ли сегодня?»</span>
     },
     {
         id: 59,
         number: '58.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Taka við víl ok erfiði,<br />
         at upprennandi sólu,<br />
-        er ek get þána.»</>,
+        er ek get þána.»</span>,
 
-        contentRU: <>Харбард сказал:<br />
-        «На рассвете с трудом».</>
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        «На рассвете с трудом».</span>
     },
     {
         id: 60,
         number: '59.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þórr kvað:<br />
+        contentON: <span className="flex w-40">Þórr kvað:<br />
         «Skammt mun nú mál okkat,<br />
         alls þú mér skætingu einni svarar;<br />
         launa mun ek þér farsynjun,<br />
-        ef vit finnumk í sinn annat.»</>,
+        ef vit finnumk í sinn annat.»</span>,
 
-        contentRU: <>Тор сказал:<br />
+        contentRU: <span className="flex w-40">Тор сказал:<br />
         «Кратко скажу я<br />
         в ответ на глумленья:<br />
         тебе за отказ<br />
-        отомщу при встрече!»</>
+        отомщу при встрече!»</span>
     },
     {
         id: 61,
         number: '60.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
         «Far þú nú,<br />
-        þars þik hafi allan gramir.»</>,
+        þars þik hafi allan gramir.»</span>,
         
-        contentRU: <>Харбард сказал:<br />
-        «Да возьмут тебя тролли!»</>
+        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        «Да возьмут тебя тролли!»</span>
     },
 ];
 

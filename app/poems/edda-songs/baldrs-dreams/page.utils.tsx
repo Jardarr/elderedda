@@ -2,124 +2,124 @@ const baldrsdreams = [
     {
         id: 2,
         number: '1.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Senn váru æsir<br />
+        contentON: <span className="flex w-40">Senn váru æsir<br />
         allir á þingi<br />
         ok ásynjur<br />
         allar á máli,<br />
         ok um þat réðu<br />
         ríkir tívar,<br />
         hví væri Baldri<br />
-        ballir draumar.</>,
+        ballir draumar.</span>,
 
-        contentRU: <>Тотчас собрались<br />
+        contentRU: <span className="flex w-40">Тотчас собрались<br />
         все асы на тинг,<br />
         и асиньи все<br />
         сошлись на совет:<br />
         о том совещались<br />
         сильные боги,<br />
         отчего сны у Бальдра<br />
-        такие зловещие.</>
+        такие зловещие.</span>
     },
     {
         id: 3,
         number: '2.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Upp reis Óðinn,<br />
+        contentON: <span className="flex w-40">Upp reis Óðinn,<br />
         alda gautr,<br />
         ok hann á Sleipni<br />
         söðul of lagði;<br />
         reið hann niðr þaðan<br />
         niflheljar til;<br />
         mætti hann hvelpi,<br />
-        þeim er ór helju kom.</>,
+        þeim er ór helju kom.</span>,
 
-        contentRU: <>Один поднялся,<br />
+        contentRU: <span className="flex w-40">Один поднялся,<br />
         древний Гаут,<br />
         седло возложил<br />
         на спину Слейпнира;<br />
         оттуда он вниз<br />
         в Нифльхель поехал;<br />
         встретил он пса,<br />
-        из Хель прибежавшего.</>
+        из Хель прибежавшего.</span>
     },
     {
         id: 4,
         number: '3.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Sá var blóðugr<br />
+        contentON: <span className="flex w-40">Sá var blóðugr<br />
         um brjóst framan<br />
         ok galdrs föður<br />
         gól of lengi;<br />
         fram reið Óðinn,<br />
         foldvegr dunði;<br />
         hann kom at hávu<br />
-        Heljar ranni.</>,
+        Heljar ranni.</span>,
 
-        contentRU: <>У пса была грудь<br />
+        contentRU: <span className="flex w-40">У пса была грудь<br />
         кровью покрыта,<br />
         на отца колдовства<br />
         долго он лаял;<br />
         дальше помчался —<br />
         гудела земля —<br />
         Один к высокому<br />
-        Хель жилищу.</>
+        Хель жилищу.</span>
     },
     {
         id: 5,
         number: '4.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Þá reið Óðinn<br />
+        contentON: <span className="flex w-40">Þá reið Óðinn<br />
         fyrir austan dyrr,<br />
         þar er hann vissi<br />
         völu leiði;<br />
         nam hann vittugri<br />
         valgaldr kveða,<br />
         unz nauðig reis,<br />
-        nás orð of kvað:</>,
+        nás orð of kvað:</span>,
 
-        contentRU: <>На восток от ворот<br />
+        contentRU: <span className="flex w-40">На восток от ворот<br />
         выехал Один,<br />
         где, как он ведал,<br />
         вёльвы могила;<br />
         заклинанье он начал<br />
         и вещую поднял,<br />
         ответила вёльва<br />
-        мертвою речью:</>
+        мертвою речью:</span>
     },
     {
         id: 6,
         number: '5.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>«Hvat er manna þat<br />
+        contentON: <span className="flex w-40">«Hvat er manna þat<br />
         mér ókunnra,<br />
         er mér hefir aukit<br />
         erfitt sinni?<br />
         Var ek snivin snævi<br />
         ok slegin regni<br />
         ok drifin döggu,<br />
-        dauð var ek lengi.»</>,
+        dauð var ek lengi.»</span>,
 
-        contentRU: <>«Что там за воин,<br />
+        contentRU: <span className="flex w-40">«Что там за воин,<br />
         неведомый мне,<br />
         что в путь повелел мне<br />
         нелегкий отправиться?<br />
         Снег заносил меня,<br />
         дождь заливал<br />
         и роса покрывала, —<br />
-        давно я мертва».</>
+        давно я мертва».</span>
     },
     {
         id: 7,
         number: '6.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Óðinn kvað:<br />
+        contentON: <span className="flex w-40">Óðinn kvað:<br />
         «Vegtamr ek heiti,<br />
         sonr em ek Valtams;<br />
         segðu mér ór helju,<br />
@@ -127,9 +127,9 @@ const baldrsdreams = [
         Hveim eru bekkir<br />
         baugum sánir,<br />
         flet fagrlig<br />
-        flóuð gulli?»</>,
+        flóuð gulli?»</span>,
 
-        contentRU: <>Один сказал:<br />
+        contentRU: <span className="flex w-40">Один сказал:<br />
         «Имя мне Вегтам,<br />
         я Вальтама сын;<br />
         про Хель мне поведай,<br />
@@ -137,14 +137,14 @@ const baldrsdreams = [
         скамьи для кого<br />
         кольчугами устланы,<br />
         золотом пол<br />
-        усыпан красиво?»</>
+        усыпан красиво?»</span>
     },
     {
         id: 8,
         number: '7.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Völva kvað:<br />
+        contentON: <span className="flex w-40">Völva kvað:<br />
         «Hér stendr Baldri<br />
         of brugginn mjöðr,<br />
         skírar veigar,<br />
@@ -152,9 +152,9 @@ const baldrsdreams = [
         en ásmegir<br />
         í ofvæni;<br />
         nauðug sagðak,<br />
-        nú mun ek þegja.»</>,
+        nú mun ek þegja.»</span>,
 
-        contentRU: <>Вёльва сказала:<br />
+        contentRU: <span className="flex w-40">Вёльва сказала:<br />
         «Мед здесь стоит,<br />
         он сварен для Бальдра,<br />
         светлый напиток,<br />
@@ -162,14 +162,14 @@ const baldrsdreams = [
         отчаяньем сыны<br />
         асов охвачены.<br />
         Больше ни слова<br />
-        ты не услышишь».</>
+        ты не услышишь».</span>
     },
     {
         id: 9,
         number: '8.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Óðinn kvað:<br />
+        contentON: <span className="flex w-40">Óðinn kvað:<br />
         «Þegj-at-tu, völva,<br />
         þik vil ek fregna,<br />
         unz alkunna,<br />
@@ -177,9 +177,9 @@ const baldrsdreams = [
         Hverr mun Baldri<br />
         at bana verða<br />
         ok Óðins son<br />
-        aldri ræna?»</>,
+        aldri ræna?»</span>,
 
-        contentRU: <>Один сказал:<br />
+        contentRU: <span className="flex w-40">Один сказал:<br />
         «Вёльва, ответь!<br />
         Я спрашивать буду,<br />
         чтоб все мне открылось:<br />
@@ -187,14 +187,14 @@ const baldrsdreams = [
         кому доведется<br />
         стать Бальдра убийцей,<br />
         кто сына Одина<br />
-        смерти предаст».</>
+        смерти предаст».</span>
     },
     {
         id: 10,
         number: '9.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Völva kvað:<br />
+        contentON: <span className="flex w-40">Völva kvað:<br />
         «Höðr berr hávan<br />
         hróðrbaðm þinig,<br />
         hann mun Baldri<br />
@@ -202,9 +202,9 @@ const baldrsdreams = [
         ok Óðins son<br />
         aldri ræna;<br />
         nauðug sagðak,<br />
-        nú mun ek þegja.»</>,
+        nú mun ek þegja.»</span>,
 
-        contentRU: <>Вёльва сказала:<br />
+        contentRU: <span className="flex w-40">Вёльва сказала:<br />
         «Хёд ввергнет сюда<br />
         дерево славы;<br />
         ему доведется<br />
@@ -212,14 +212,14 @@ const baldrsdreams = [
         он сына Одина<br />
         смерти предаст.<br />
         Больше ни слова<br />
-        ты не услышишь».</>
+        ты не услышишь».</span>
     },
     {
         id: 11,
         number: '10.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Óðinn kvað:<br />
+        contentON: <span className="flex w-40">Óðinn kvað:<br />
         «Þegj-at-tu, völva,<br />
         þik vil ek fregna,<br />
         unz alkunna,<br />
@@ -227,9 +227,9 @@ const baldrsdreams = [
         Hverr mun heift Heði<br />
         hefnt of vinna<br />
         eða Baldrs bana<br />
-        á bál vega?»</>,
+        á bál vega?»</span>,
 
-        contentRU: <>Один сказал:<br />
+        contentRU: <span className="flex w-40">Один сказал:<br />
         «Вёльва, ответь!<br />
         Я спрашивать буду,<br />
         чтоб все мне открылось:<br />
@@ -237,14 +237,14 @@ const baldrsdreams = [
         кто за убийство<br />
         Хёду отплатит,<br />
         кем на костер<br />
-        он будет отправлен».</>
+        он будет отправлен».</span>
     },
     {
         id: 12,
         number: '11.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Völva kvað:<br />
+        contentON: <span className="flex w-40">Völva kvað:<br />
         Rindr berr Vála<br />
         í vestrsölum,<br />
         sá mun Óðins sonr<br />
@@ -254,9 +254,9 @@ const baldrsdreams = [
         áðr á bál of berr<br />
         Baldrs andskota;<br />
         nauðug sagðak,<br />
-        nú mun ek þegja.»</>,
+        nú mun ek þegja.»</span>,
 
-        contentRU: <>Вёльва сказала:<br />
+        contentRU: <span className="flex w-40">Вёльва сказала:<br />
         «Ринд в западном доме<br />
         Вали родит,<br />
         и Одина сын<br />
@@ -266,14 +266,14 @@ const baldrsdreams = [
         пока не убьет<br />
         Бальдра убийцу.<br />
         Больше ни слова<br />
-        ты не услышишь».</>
+        ты не услышишь».</span>
     },
     {
         id: 13,
         number: '12.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Óðinn kvað:<br />
+        contentON: <span className="flex w-40">Óðinn kvað:<br />
         «Þegj-at-tu, völva,<br />
         þik vil ek fregna,<br />
         unz alkunna,<br />
@@ -281,9 +281,9 @@ const baldrsdreams = [
         Hverjar ro þær meyjar,<br />
         er at muni gráta<br />
         ok á himin verpa<br />
-        halsa skautum?»</>,
+        halsa skautum?»</span>,
 
-        contentRU: <>Один сказал:<br />
+        contentRU: <span className="flex w-40">Один сказал:<br />
         «Вёльва, ответь!<br />
         Я спрашивать буду,<br />
         чтоб все мне открылось:<br />
@@ -291,14 +291,14 @@ const baldrsdreams = [
         кто эти девы,<br />
         что будут рыдать,<br />
         края покрывал<br />
-        в небо бросая».</>
+        в небо бросая».</span>
     },
     {
         id: 14,
         number: '13.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Völva kvað:<br />
+        contentON: <span className="flex w-40">Völva kvað:<br />
         «Ert-at-tu Vegtamr,<br />
         sem ek hugða,<br />
         heldr ertu Óðinn,<br />
@@ -308,9 +308,9 @@ const baldrsdreams = [
         «Ert-at-tu völva<br />
         né vís kona,<br />
         heldr ertu þriggja<br />
-        þursa móðir.»</>,
+        þursa móðir.»</span>,
 
-        contentRU: <>Вёльва сказала:<br />
+        contentRU: <span className="flex w-40">Вёльва сказала:<br />
         «Нет, ты не Вегтам,<br />
         как я считала,<br />
         ты, верно, Один,<br />
@@ -320,14 +320,14 @@ const baldrsdreams = [
         «Ты же не вёльва,<br />
         провидица вещая,<br />
         ты, верно, мать<br />
-        трех великанов!»</>
+        трех великанов!»</span>
     },
     {
         id: 15,
         number: '14.',
-        class:'main_wrapper_text_stanza',
+        class:"flex justify-center m-2",
 
-        contentON: <>Völva kvað:<br />
+        contentON: <span className="flex w-40">Völva kvað:<br />
         «Heim ríð þú, Óðinn,<br />
         ok ver hróðigr,<br />
         svá komir manna<br />
@@ -335,9 +335,9 @@ const baldrsdreams = [
         er lauss Loki<br />
         líðr ór böndum<br />
         ok ragna rök<br />
-        rjúfendr koma.»</>,
+        rjúfendr koma.»</span>,
 
-        contentRU: <>Вёльва сказала:<br />
+        contentRU: <span className="flex w-40">Вёльва сказала:<br />
         «Домой поезжай!<br />
         Гордись своей славой!<br />
         Отныне сюда<br />
@@ -345,7 +345,7 @@ const baldrsdreams = [
         пока свои узы<br />
         Локи не сбросит<br />
         и не настанет<br />
-        гибель богов!»</>
+        гибель богов!»</span>
     },
 ];
 

@@ -55,7 +55,7 @@ const config = {
       },
       backgroundImage: {
         'home-bg': "url('../public/Edda_bg_min.jpg')",
-        // 'poem-bg': "url('./public/poem-bg.png')",
+        'poem-bg': "url('../public/thursarn.jpg')",
       },
       borderRadius: {
         lg: "var(--radius)",
