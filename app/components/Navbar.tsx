@@ -38,14 +38,22 @@ export default function Navbar() {
         {/* <h1 className="text-2xl font-bold">
           Jardarr<span className="text-teal-800">Edda</span>
         </h1> */}
-        <Image className="w-20 p-2" src="/J-logo.png" width={150} height={30} alt="logo" />
+        <Image
+          className="w-20 p-2"
+          src="/J-logo.png"
+          width={150}
+          height={30}
+          alt="logo"
+        />
       </Link>
       <div className="hidden sm:flex">
         <>
           <NavigationMenu>
             <NavigationMenuList>
               <NavigationMenuItem>
-                <NavigationMenuTrigger>Goðakvæði</NavigationMenuTrigger>
+                <NavigationMenuTrigger>
+                  <Link href="/poems/about-gods">Goðakvæði</Link>
+                </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {SONGOFGODS.map((item: eddaHrefs) => (
                     <Link
@@ -69,7 +77,9 @@ export default function Navbar() {
           <NavigationMenu>
             <NavigationMenuList>
               <NavigationMenuItem>
-                <NavigationMenuTrigger>Hetjukvæði</NavigationMenuTrigger>
+                <NavigationMenuTrigger>
+                  <Link href="/poems/about-heroes">Hetjukvæði</Link>
+                </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {SONGOFHEROES.map((item) => (
                     <Link
@@ -93,7 +103,9 @@ export default function Navbar() {
           <NavigationMenu>
             <NavigationMenuList>
               <NavigationMenuItem>
-                <NavigationMenuTrigger>Eddukvæði</NavigationMenuTrigger>
+                <NavigationMenuTrigger>
+                  <Link href="/poems/edda-songs">Eddukvæði</Link>
+                </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {EDDASONGS.map((item: eddaHrefs) => (
                     <Link
@@ -117,7 +129,9 @@ export default function Navbar() {
           <NavigationMenu>
             <NavigationMenuList>
               <NavigationMenuItem>
-                <NavigationMenuTrigger>Viðbætir</NavigationMenuTrigger>
+                <NavigationMenuTrigger>
+                  <Link href="/poems/edda-app">Viðbætir</Link>
+                </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {EDDAAPP.map((item: eddaHrefs) => (
                     <Link
