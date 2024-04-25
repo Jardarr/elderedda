@@ -1,3 +1,4 @@
 Velkominn! Elder Edda - Monument to Old Norse poetry.
+Next js + Tailwind css
 
 www.jardarr.ru
