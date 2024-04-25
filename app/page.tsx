@@ -1,5 +1,27 @@
 import { Ephesis } from "next/font/google";
 const ephesis = Ephesis({ subsets: ["latin"], weight: "400" });
+import { Metadata } from 'next'
+ 
+export const metadata: Metadata = {
+  title: 'Jardarr | Elder Edda',
+  description: 'Старшая эдда - памятник древнескандинавской поэзии',
+  keywords: 'Старшая Эдда, поэзия, древний обычай',
+  viewport: 'width=device-width, initial-scale=1.0',
+  openGraph: {
+    title: 'Jardarr | Elder Edda',
+    description: 'Старшая эдда - памятник древнескандинавской поэзии',
+    siteName: 'Jardarr | Elder Edda',
+    images: [
+      {
+        url: '/og-logo.jpg',
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: 'ru_RU',
+    type: 'website',
+  },
+}
 
 export default function Home() {
 	return (

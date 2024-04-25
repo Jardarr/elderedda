@@ -1,5 +1,27 @@
 import React from "react";
 import { songofhjalmar } from "./page.utils";
+import { Metadata } from 'next'
+ 
+export const metadata: Metadata = {
+  title: 'Jardarr | Hjálmarskviða',
+  description: 'Старшая эдда - Песнь о Хьяльмаре',
+  keywords: 'Старшая Эдда, поэзия, древний обычай',
+  viewport: 'width=device-width, initial-scale=1.0',
+  openGraph: {
+    title: 'Jardarr | Hjálmarskviða',
+    description: 'Старшая эдда - Песнь о Хьяльмаре',
+    siteName: 'Jardarr | Elder Edda',
+    images: [
+      {
+        url: '/og-logo.jpg',
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: 'ru_RU',
+    type: 'website',
+  },
+}
 export default function SongOfHjalmar() {
   return (
     <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base">

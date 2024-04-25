@@ -1,6 +1,28 @@
 import React from "react";
 import { EDDAAPP } from "@/app/components/NavbarItemList";
 import Link from "next/link";
+import { Metadata } from 'next'
+ 
+export const metadata: Metadata = {
+  title: 'Jardarr | Viðbætir',
+  description: 'Старшая эдда - Приложения',
+  keywords: 'Старшая Эдда, поэзия, древний обычай',
+  viewport: 'width=device-width, initial-scale=1.0',
+  openGraph: {
+    title: 'Jardarr | Viðbætir',
+    description: 'Старшая эдда - Приложения',
+    siteName: 'Jardarr | Elder Edda',
+    images: [
+      {
+        url: '/og-logo.jpg',
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: 'ru_RU',
+    type: 'website',
+  },
+}
 
 export default function EddaApp() {
   return (

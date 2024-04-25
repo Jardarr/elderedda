@@ -1,5 +1,27 @@
 import React from "react";
 import { fafnirsspeeches } from "./page.utils";
+import { Metadata } from 'next'
+ 
+export const metadata: Metadata = {
+  title: 'Jardarr | Fáfnismál',
+  description: 'Старшая эдда - Речи Фафнира',
+  keywords: 'Старшая Эдда, поэзия, древний обычай',
+  viewport: 'width=device-width, initial-scale=1.0',
+  openGraph: {
+    title: 'Jardarr | Fáfnismál',
+    description: 'Старшая эдда - Речи Фафнира',
+    siteName: 'Jardarr | Elder Edda',
+    images: [
+      {
+        url: '/og-logo.jpg',
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: 'ru_RU',
+    type: 'website',
+  },
+}
 export default function FafnirsSpeeches() {
   return (
     <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base">

@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/Navbar";
@@ -6,10 +6,10 @@ import Footer from "./components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
-  title: "JardarEdda",
-  description: "Elder Edda's personal website",
-};
+// export const metadata: Metadata = {
+//   title: "JardarEdda",
+//   description: "Elder Edda's personal website",
+// };
 
 export default function RootLayout({
   children,
@@ -24,7 +24,7 @@ export default function RootLayout({
             <Navbar />
           </div>
           {children}
-          <div className="px-4 py-8 md:px-24"><Footer /></div>
+          <div className="px-4 md:px-24 py-4"><Footer /></div>
         </div>
       </body>
     </html>
