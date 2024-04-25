@@ -26,7 +26,7 @@ export default function Footer() {
           <span>&copy; 2024 Designed by Jardarr</span>
         </div>
       </div>
-      <div className="flex justify-center lg:justify-end w-full text-center lg:w-1/3">
+      <div className="flex justify-center items-center lg:justify-end w-full text-center lg:w-1/3">
         <Link href="https://t.me/jardarr">
           <svg
             xmlns="http://www.w3.org/2000/svg"
