@@ -1,11 +1,16 @@
 {
 	"name": "Jardarr | Elder Edda",
 	"short_name": "Elder Edda",
-	"start_url": "https://www.jardarr.ru/",
+	"start_url": "/",
 	"display": "standalone",
 	"background_color": "#000",
 	"description": "Старшая эдда - памятник древнескандинавской поэзии",
 	"icons": [
+		{
+			"src": "/favicon.ico",
+			"sizes": "any",
+			"type": "image/x-icon"
+		},
 		{
 			"src": "/favicon-16x16.png",
 			"sizes": "16x16",
