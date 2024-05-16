@@ -5,6 +5,7 @@
 	"name": "Jardarr | Elder Edda",
 	"short_name": "Elder Edda",
 	"display": "standalone",
+	"orientation": "portrait",
 	"background_color": "#000000",
 	"theme_color": "#000000",
 	"description": "Старшая эдда - памятник древнескандинавской поэзии",
