@@ -4,12 +4,12 @@ import { Metadata } from 'next'
  
 export const metadata: Metadata = {
   title: 'Jardarr | Elder Edda',
-  description: 'Старшая эдда - памятник древнескандинавской поэзии',
+  description: 'Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.',
   keywords: 'Старшая Эдда, поэзия, древний обычай',
   viewport: 'width=device-width, initial-scale=1.0',
   openGraph: {
     title: 'Jardarr | Elder Edda',
-    description: 'Старшая эдда - памятник древнескандинавской поэзии',
+    description: 'Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.',
     siteName: 'Jardarr | Elder Edda',
     images: [
       {
