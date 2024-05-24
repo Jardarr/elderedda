@@ -21,9 +21,6 @@ export const metadata: Metadata = {
     locale: 'ru_RU',
     type: 'website',
   },
-verification: {
-    yandex: '4e745eab2545bc74',
-  },
 }
 
 export default function Home() {
