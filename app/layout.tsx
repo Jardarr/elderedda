@@ -6,10 +6,11 @@ import Footer from "./components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
-// export const metadata: Metadata = {
-//   title: "JardarEdda",
-//   description: "Elder Edda's personal website",
-// };
+export const metadata: Metadata = {
+verification: {
+    yandex: '4e745eab2545bc74',
+  },
+}
 
 export default function RootLayout({
   children,
