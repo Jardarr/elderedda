@@ -25,7 +25,7 @@ export const metadata: Metadata = {
 }
 export default function EddaSongs() {
   return (
-    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-svh">
+    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height">
       <div className="flex flex-col w-[600px] bg-gray-800/70 rounded-md h-full">
         <div className="m-8 text-3xl text-teal-800 text-center font-bold">
           <h1>Eddukvæði</h1>

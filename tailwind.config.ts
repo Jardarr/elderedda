@@ -77,6 +77,9 @@ const config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+      height: {
+        'custom-height': 'calc(100vh - 136px)', // Вычисляем высоту, отнимая 136px от общей высоты экрана
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],

@@ -25,8 +25,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
 	return (
-		<div>
-			<div className="flex flex-col items-center justify-center bg-home-bg bg-cover bg-center bg-attachment-fixed bg-no-repeat h-dvh">
+			<div className="flex flex-col items-center justify-center bg-home-bg bg-cover bg-center bg-attachment-fixed bg-no-repeat h-custom-height">
 				<div className="text-white bg-gray-500/40 w-full text-center p-5 text-2xl">
 					<span className={`${ephesis.className}`}>
 						Hearing I ask <br />
@@ -38,6 +37,5 @@ export default function Home() {
 					</span>
 				</div>
 			</div>
-		</div>
 	);
 }

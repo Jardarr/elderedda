@@ -13,13 +13,11 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <body className={inter.className}>
-        <div>
           <div className="px-4 md:px-24">
             <Navbar />
           </div>
           {children}
           <div className="px-4 md:px-24 py-4"><Footer /></div>
-        </div>
       </body>
     </html>
   );
