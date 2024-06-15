@@ -20,6 +20,9 @@ export default function Footer() {
           <Link className="px-2" href="/poems/poetry">
             Ljóð
           </Link>
+          <Link className="px-2" href="/poems/stora-edda">
+            Stóra Edda
+          </Link>
         </div>
         <div className="w-full flex justify-center lg:justify-start px-2">
           <span>&copy; 2024 Designed by Jardarr</span>

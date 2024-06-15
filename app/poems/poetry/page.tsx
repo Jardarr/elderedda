@@ -33,10 +33,8 @@ export default function Poetry() {
             ))}
           </span>
         </div>
-        <div className="">
-          <span>
+        <div>
             <p>jardarr</p>
-          </span>
         </div>
       </div>
     </main>
