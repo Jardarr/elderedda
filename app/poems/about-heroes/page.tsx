@@ -31,7 +31,7 @@ export default function AboutHeroes() {
           <h1>Hetjukvæði</h1>
           <h2>Песни о Героях</h2>
         </div>
-        <div className="flex flex-col items-center mt-5">
+        <div className="flex flex-col items-center m-5">
           {SONGOFHEROES.map((item) => (
             <Link key={item.text} href={item.link} title={item.title}>
               <p>{item.text}</p>
