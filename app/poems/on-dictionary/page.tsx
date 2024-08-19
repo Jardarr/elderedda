@@ -1,38 +1,11 @@
 "use client";
 import { useState } from "react";
 import { linkList } from "./linkList";
-import { Metadata } from "next";
+import { mainData } from "./../../types/mainData";
 import ToTopButton from "./../../components/ToTopButton";
 import Link from "next/link";
 import Spinner from "@/app/components/Spinner";
-
-export const metadata: Metadata = {
-    title: "Jardarr | Orðabók",
-    description:
-        "Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона, первоначально опубликованного в 1874 году.",
-    keywords: "Старшая Эдда, поэзия, древний обычай",
-    viewport: "width=device-width, initial-scale=1.0",
-    openGraph: {
-        title: "Jardarr | Orðabók",
-        description:
-            "Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона, первоначально опубликованного в 1874 году.",
-        siteName: "Jardarr | Orðabók",
-        images: [
-            {
-                url: "/og-logo.jpg",
-                width: 800,
-                height: 600,
-            },
-        ],
-        locale: "ru_RU",
-        type: "website",
-    },
-};
-
-interface mainData {
-    word: string;
-    definitions: string[];
-}
+import Head from "next/head";
 
 export default function Home() {
     const [letter, setLetter] = useState<string>("");
@@ -62,7 +35,8 @@ export default function Home() {
     };
 
     return (
-        <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">
+        <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">  
+            <Head><title>Jardarr | Dictionary</title></Head>
             <div className="flex flex-col items-center w-[600px] bg-gray-800/70 rounded-md min-h-screen">
                 <div className="flex flex-col w-full p-8 text-2xl text-teal-800 text-center font-bold">
                     <h1>Cleasby & Vigfusson Old Norse dictionary</h1>
