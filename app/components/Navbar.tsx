@@ -52,11 +52,12 @@ export default function Navbar() {
             <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger>
-                  <Link href="/poems/about-gods">Goðakvæði</Link>
+                  <Link translate="no" href="/poems/about-gods">Goðakvæði</Link>
                 </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {SONGOFGODS.map((item: eddaHrefs) => (
                     <Link
+                      translate="no"
                       key={item.text}
                       href={item.link}
                       title={item.title}
@@ -78,11 +79,12 @@ export default function Navbar() {
             <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger>
-                  <Link href="/poems/about-heroes">Hetjukvæði</Link>
+                  <Link translate="no" href="/poems/about-heroes">Hetjukvæði</Link>
                 </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {SONGOFHEROES.map((item) => (
                     <Link
+                      translate="no"
                       key={item.text}
                       href={item.link}
                       title={item.title}
@@ -104,11 +106,12 @@ export default function Navbar() {
             <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger>
-                  <Link href="/poems/edda-songs">Eddukvæði</Link>
+                  <Link translate="no" href="/poems/edda-songs">Eddukvæði</Link>
                 </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {EDDASONGS.map((item: eddaHrefs) => (
                     <Link
+                      translate="no"
                       key={item.text}
                       href={item.link}
                       title={item.title}
@@ -130,11 +133,12 @@ export default function Navbar() {
             <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger>
-                  <Link href="/poems/edda-app">Viðbætir</Link>
+                  <Link translate="no" href="/poems/edda-app">Viðbætir</Link>
                 </NavigationMenuTrigger>
                 <NavigationMenuContent>
                   {EDDAAPP.map((item: eddaHrefs) => (
                     <Link
+                      translate="no"
                       key={item.text}
                       href={item.link}
                       title={item.title}
@@ -179,6 +183,7 @@ export default function Navbar() {
                     {SONGOFGODS.map((item: eddaHrefs) => (
                       <div key={item.text}>
                         <Link
+                          translate="no"
                           href={item.link}
                           title={item.title}
                           legacyBehavior
@@ -196,6 +201,7 @@ export default function Navbar() {
                     {SONGOFHEROES.map((item: eddaHrefs) => (
                       <div key={item.text}>
                         <Link
+                          translate="no"
                           href={item.link}
                           title={item.title}
                           legacyBehavior
@@ -213,6 +219,7 @@ export default function Navbar() {
                     {EDDASONGS.map((item: eddaHrefs) => (
                       <div key={item.text}>
                         <Link
+                          translate="no"
                           href={item.link}
                           title={item.title}
                           legacyBehavior
@@ -230,6 +237,7 @@ export default function Navbar() {
                     {EDDAAPP.map((item: eddaHrefs) => (
                       <div key={item.text}>
                         <Link
+                          translate="no"
                           href={item.link}
                           title={item.title}
                           legacyBehavior
