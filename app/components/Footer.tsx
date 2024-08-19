@@ -23,6 +23,9 @@ export default function Footer() {
           <Link className="px-2 hover:text-gray-300" href="/poems/stora-edda">
             Stóra Edda
           </Link>
+          <Link className="px-2 hover:text-gray-300" href="/poems/on-dictionary">
+            Orðabók
+          </Link>
         </div>
         <div className="w-full flex justify-center lg:justify-start px-2">
           <span>&copy; 2024 Designed by Jardarr</span>

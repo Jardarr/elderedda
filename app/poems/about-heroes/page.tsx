@@ -25,8 +25,8 @@ export const metadata: Metadata = {
 }
 export default function AboutHeroes() {
   return (
-    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-screen">
-      <div className="flex flex-col w-[600px] bg-gray-800/70 rounded-md h-full">
+    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">
+      <div className="flex flex-col w-[600px] bg-gray-800/70 rounded-md min-h-screen">
         <div className="m-8 text-3xl text-teal-800 text-center font-bold">
           <h1>Hetjukvæði</h1>
           <h2>Песни о Героях</h2>

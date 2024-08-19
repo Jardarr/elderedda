@@ -24,7 +24,7 @@ export const metadata: Metadata = {
 }
 export default function Poetry() {
   return (
-    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height">
+    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height sm:h-fit">
       <div className="flex justify-center items-center flex-col w-[600px] bg-gray-800/70 rounded-md h-full">
         <div className="m-8">
           <span>
@@ -34,7 +34,7 @@ export default function Poetry() {
           </span>
         </div>
         <div>
-            <p>jardarr</p>
+            <p className="text-center font-bold pb-5">jardarr</p>
         </div>
       </div>
     </main>
