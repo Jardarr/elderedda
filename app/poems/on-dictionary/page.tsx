@@ -61,7 +61,7 @@ export default function Home() {
                 </div>
                 <div className="m-5 flex flex-wrap justify-center">
                     {linkList.map((item) => (
-                        <Link className="text-gray-100 mx-1" key={item.letter} onClick={() => setLetter(item.letter)} href="#">{item.letter}</Link>
+                        <Link translate="no" className="text-gray-100 mx-1" key={item.letter} onClick={() => setLetter(item.letter)} href="#">{item.letter}</Link>
                     ))}
                 </div>
                 <div className="max-w-2xl p-3 flex flex-col">
