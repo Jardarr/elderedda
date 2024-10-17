@@ -13,7 +13,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <body className={`${inter.className}`}>
-          <div className="px-4 md:px-24">
+          <div className="px-4 md:px-24 bg-black sticky top-0">
             <Navbar />
           </div>
           {children}
