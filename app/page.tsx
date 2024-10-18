@@ -28,7 +28,7 @@ export const metadata: Metadata = {
 export default function Home() {
     return (
         <div className="flex flex-col items-center justify-center bg-home-bg bg-cover bg-center bg-attachment-fixed bg-no-repeat h-custom-height">
-            <div className="text-white bg-gray-500/40 w-full text-center p-5 text-2xl">
+            <div className="text-white bg-orange-900/20 w-full text-center p-5 text-2xl">
                 <span translate="no" className={`${ephesis.className}`}>
                     Hearing I ask <br />
                     from the holy races, From Heimdall&#39;s sons, <br />

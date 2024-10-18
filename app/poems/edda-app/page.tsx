@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 export default function EddaApp() {
     return (
         <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height">
-            <div className="flex flex-col items-center w-[600px] bg-gray-800/70 rounded-md h-full">
+            <div className="flex flex-col items-center w-[600px] bg-neutral-800/80 rounded-md h-full">
                 <div className="m-8 text-3xl text-teal-800 text-center font-bold">
                     <h1>Viðbætir</h1>
                     <h2>Приложения</h2>
@@ -39,7 +39,7 @@ export default function EddaApp() {
                             href={item.link}
                             title={item.title}
                         >
-                            <p className="mt-2">{item.text}</p>
+                            <p className="mt-2 text-lg">{item.text}</p>
                         </Link>
                     ))}
                 </div>

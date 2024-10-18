@@ -27,6 +27,37 @@ interface eddaHrefs {
     title: string;
     link: string;
 }
+
+const poemsLinks = [
+    {
+        text: "Goðakvæði",
+        link: "/poems/about-gods",
+    },
+    {
+        text: "Hetjukvæði",
+        link: "/poems/about-heroes",
+    },
+    {
+        text: "Eddukvæði",
+        link: "/poems/edda-songs",
+    },
+    {
+        text: "Viðbætir",
+        link: "/poems/edda-app",
+    },
+    {
+        text: "Ljóð",
+        link: "/poems/poetry",
+    },
+    {
+        text: "Stóra Edda",
+        link: "/poems/stora-edda",
+    },
+    {
+        text: "Orðabók",
+        link: "/poems/on-dictionary",
+    },
+]
 export default function Navbar() {
     const [isSheetOpen, setIsSheetOpen] = useState(false);
 
@@ -36,11 +67,8 @@ export default function Navbar() {
     return (
         <div className="flex w-full justify-between">
             <Link href="/">
-                {/* <h1 className="text-2xl font-bold">
-          Jardarr<span className="text-teal-800">Edda</span>
-        </h1> */}
                 <Image
-                    className="w-20 p-2"
+                    className="w-16 lg:w-20 p-2"
                     src="/J-logo.png"
                     width={150}
                     height={30}
@@ -197,61 +225,16 @@ export default function Navbar() {
                     </SheetTrigger>
                     <SheetContent>
                         <SheetHeader>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/about-gods"
-                                >
-                                    Goðakvæði
-                                </Link>
-                            </SheetTitle>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/about-heroes"
-                                >
-                                    Hetjukvæði
-                                </Link>
-                            </SheetTitle>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/edda-songs"
-                                >
-                                    Eddukvæði
-                                </Link>
-                            </SheetTitle>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/edda-app"
-                                >
-                                    Viðbætir
-                                </Link>
-                            </SheetTitle>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/poetry"
-                                >
-                                    Ljóð
-                                </Link>
-                            </SheetTitle>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/stora-edda"
-                                >
-                                    Stóra Edda
-                                </Link>
-                            </SheetTitle>
-                            <SheetTitle>
-                                <Link
-                                    onClick={handleLinkClick}
-                                    href="/poems/on-dictionary"
-                                >
-                                    Orðabók
-                                </Link>
+                            <SheetTitle className="flex flex-col">
+                                {poemsLinks.map((item) => (
+                                    <Link
+                                        key={item.text}
+                                        onClick={handleLinkClick}
+                                        href={item.link}
+                                    >
+                                        {item.text}
+                                    </Link>
+                                ))}
                             </SheetTitle>
                         </SheetHeader>
                     </SheetContent>

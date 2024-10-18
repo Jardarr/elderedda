@@ -1,6 +1,7 @@
 import React from "react";
 import { poetry } from "./page.utils";
 import { Metadata } from 'next'
+import Image from "next/image";
  
 export const metadata: Metadata = {
   title: 'Jardarr | Poetry',
@@ -24,9 +25,9 @@ export const metadata: Metadata = {
 }
 export default function Poetry() {
   return (
-    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height">
-      <div className="flex justify-center items-center flex-col w-[600px] bg-gray-800/70 rounded-md h-full">
-        <div className="m-8">
+    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">
+      <div className="flex justify-center items-center flex-col w-[600px] bg-neutral-800/80 rounded-md h-screen">
+        <div className="mx-8">
           <span>
             {poetry.map((poem, index) => (
               <p className="mb-4" key={index}>{poem.content}</p>
@@ -36,6 +37,7 @@ export default function Poetry() {
         <div>
             <p className="text-center font-bold pb-5">jardarr</p>
         </div>
+        <Image className="my-5 rounded-md bg-indigo-500 shadow-lg shadow-indigo-500/50" src="/jonaslaumarkussen.jpg" alt="jardarr" width={300} height={300} />
       </div>
     </main>
   );
