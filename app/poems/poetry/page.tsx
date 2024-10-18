@@ -44,7 +44,7 @@ export default function Poetry() {
         <div>
           <p className="text-center font-bold pb-5">jardarr</p>
         </div>
-        <Image className="my-5 rounded-md bg-indigo-500 shadow-lg shadow-indigo-500/50" src="/jonaslaumarkussen.jpg" alt="jardarr" width={300} height={300} />
+        <Image className="my-5 rounded-md bg-indigo-500 shadow-lg shadow-indigo-500/50" src="/jonaslaumarkussen.jpg" alt="Odin's Journey" width={300} height={300} />
       </div>
     </main>
   );
