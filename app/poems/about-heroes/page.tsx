@@ -40,7 +40,7 @@ export default function AboutHeroes() {
                     <h1>Hetjukvæði</h1>
                     <h2>Песни о Героях</h2>
                 </div>
-                <div className="flex flex-col items-center w-full max-w-60 lg:max-w-full my-5">
+                <div className="flex flex-col items-center w-full max-w-72 lg:max-w-full my-5">
                     {songsOfHeroes.length > 0 ? (
                         songsOfHeroes.map((item) => (
                             item.text && item.link && item.title ? ( // Проверяем, что все поля определены
