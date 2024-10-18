@@ -1,13 +1,12 @@
 import React from "react";
-import { EDDAAPP } from "@/app/components/NavbarItemList";
 import Link from "next/link";
-import { Metadata } from "next";
+import { Metadata, Viewport } from "next";
+import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
     title: "Jardarr | Viðbætir",
     description: "Старшая эдда - Приложения",
     keywords: "Старшая Эдда, поэзия, древний обычай",
-    viewport: "width=device-width, initial-scale=1.0",
     openGraph: {
         title: "Jardarr | Viðbætir",
         description: "Старшая эдда - Приложения",
@@ -24,7 +23,16 @@ export const metadata: Metadata = {
     },
 };
 
+export const viewport: Viewport = {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1,
+    userScalable: false,
+}
+
 export default function EddaApp() {
+    const eddaApp = EddaList?.[3]?.edda_app || [];
+
     return (
         <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height">
             <div className="flex flex-col items-center w-[600px] bg-neutral-800/80 rounded-md h-full">
@@ -32,16 +40,22 @@ export default function EddaApp() {
                     <h1>Viðbætir</h1>
                     <h2>Приложения</h2>
                 </div>
-                <div className="flex flex-col items-center w-full max-w-60 my-5">
-                    {EDDAAPP.map((item) => (
-                        <Link
-                            key={item.text}
-                            href={item.link}
-                            title={item.title}
-                        >
-                            <p className="mt-2 text-lg">{item.text}</p>
-                        </Link>
-                    ))}
+                <div className="flex flex-col items-center w-full max-w-60 lg:max-w-full my-5">
+                    {eddaApp.length > 0 ? (
+                        eddaApp.map((item) => (
+                            item.text && item.link && item.title ? ( // Проверяем, что все поля определены
+                                <Link
+                                    key={item.text}
+                                    href={item.link}
+                                    title={item.title}
+                                >
+                                    <p className="mt-2 text-lg">{item.text}</p>
+                                </Link>
+                            ) : null // Пропускаем элементы с недостающими полями
+                        ))
+                    ) : (
+                        <p>Нет доступных приложений к Эдде.</p> // Сообщение, если нет данных
+                    )}
                 </div>
             </div>
         </main>

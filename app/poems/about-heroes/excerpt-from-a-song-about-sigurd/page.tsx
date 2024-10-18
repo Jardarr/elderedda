@@ -1,12 +1,11 @@
 import React from "react";
 import { excerptfromasongaboutsigurd } from "./page.utils";
-import { Metadata } from 'next'
- 
+import { Metadata, Viewport } from 'next'
+
 export const metadata: Metadata = {
   title: 'Jardarr | Sigurðarkviða in meiri',
   description: 'Старшая эдда - Отрывок Песни о Сигурде',
   keywords: 'Старшая Эдда, поэзия, древний обычай',
-  viewport: 'width=device-width, initial-scale=1.0',
   openGraph: {
     title: 'Jardarr | Sigurðarkviða in meiri',
     description: 'Старшая эдда - Отрывок Песни о Сигурде',
@@ -22,6 +21,14 @@ export const metadata: Metadata = {
     type: 'website',
   },
 }
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+}
+
 export default function ExcerptFromASongAboutSigurd() {
   return (
     <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base">

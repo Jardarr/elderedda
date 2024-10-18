@@ -1,13 +1,12 @@
 import { Ephesis } from "next/font/google";
 const ephesis = Ephesis({ subsets: ["latin"], weight: "400" });
-import { Metadata } from "next";
+import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
     title: "Jardarr | Elder Edda",
     description:
         "Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.",
     keywords: "Старшая Эдда, поэзия, древний обычай",
-    viewport: "width=device-width, initial-scale=1.0",
     openGraph: {
         title: "Jardarr | Elder Edda",
         description:
@@ -24,6 +23,13 @@ export const metadata: Metadata = {
         type: "website",
     },
 };
+
+export const viewport: Viewport = {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1,
+    userScalable: false,
+}
 
 export default function Home() {
     return (

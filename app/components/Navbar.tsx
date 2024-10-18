@@ -18,52 +18,27 @@ import {
 } from "@/components/ui/navigation-menu";
 
 import Link from "next/link";
-import { EDDAAPP, EDDASONGS, SONGOFGODS, SONGOFHEROES } from "./NavbarItemList";
 import Image from "next/image";
 import { useState } from "react";
+import EddaList from "../utils/EddaList";
+import PoemsList from "../utils/PoemsList";
 
-interface eddaHrefs {
-    text: string;
-    title: string;
-    link: string;
+interface PoemsData {
+    name?: string;
+    text?: string;
+    title?: string;
+    link?: string;
 }
 
-const poemsLinks = [
-    {
-        text: "Goðakvæði",
-        link: "/poems/about-gods",
-    },
-    {
-        text: "Hetjukvæði",
-        link: "/poems/about-heroes",
-    },
-    {
-        text: "Eddukvæði",
-        link: "/poems/edda-songs",
-    },
-    {
-        text: "Viðbætir",
-        link: "/poems/edda-app",
-    },
-    {
-        text: "Ljóð",
-        link: "/poems/poetry",
-    },
-    {
-        text: "Stóra Edda",
-        link: "/poems/stora-edda",
-    },
-    {
-        text: "Orðabók",
-        link: "/poems/on-dictionary",
-    },
-]
+type PoemsCategory = "song_of_gods" | "song_of_heroes" | "edda_songs" | "edda_app";
+
 export default function Navbar() {
     const [isSheetOpen, setIsSheetOpen] = useState(false);
 
     const handleLinkClick = () => {
         setIsSheetOpen(false);
     };
+
     return (
         <div className="flex w-full justify-between">
             <Link href="/">
@@ -75,135 +50,42 @@ export default function Navbar() {
                     alt="logo"
                 />
             </Link>
+            {/* Навигационное меню для десктопов */}
             <div className="hidden sm:flex">
-                <>
-                    <NavigationMenu>
-                        <NavigationMenuList>
-                            <NavigationMenuItem>
-                                <NavigationMenuTrigger>
-                                    <Link
-                                        translate="no"
-                                        href="/poems/about-gods"
-                                    >
-                                        Goðakvæði
-                                    </Link>
-                                </NavigationMenuTrigger>
-                                <NavigationMenuContent>
-                                    {SONGOFGODS.map((item: eddaHrefs) => (
-                                        <Link
-                                            translate="no"
-                                            key={item.text}
-                                            href={item.link}
-                                            title={item.title}
-                                            legacyBehavior
-                                            passHref
-                                        >
-                                            <NavigationMenuLink
-                                                className={navigationMenuTriggerStyle()}
+                <NavigationMenu>
+                    <NavigationMenuList>
+                        {/* Цикл по каждому объекту массива Poems */}
+                        {EddaList.map((poemCategory, index) => (
+                            // Проверка на наличие категорий и вывод данных
+                            Object.keys(poemCategory).map((category) => (
+                                <NavigationMenuItem key={`${category}-${index}`}>
+                                    <NavigationMenuTrigger>
+                                    {poemCategory[category as PoemsCategory]?.[0]?.name?.replace(/_/g, ' ') || 'UNKNOWN'}
+                                    </NavigationMenuTrigger>
+                                    <NavigationMenuContent>
+                                        {/* Проверка на наличие категории и данных в ней */}
+                                        {poemCategory[category as PoemsCategory]?.map((item: PoemsData) => (
+                                            <Link
+                                                key={item.text}
+                                                href={item.link ?? "#"}
+                                                title={item.title}
+                                                legacyBehavior
+                                                passHref
                                             >
-                                                {item.text}
-                                            </NavigationMenuLink>
-                                        </Link>
-                                    ))}
-                                </NavigationMenuContent>
-                            </NavigationMenuItem>
-                        </NavigationMenuList>
-                    </NavigationMenu>
-                    <NavigationMenu>
-                        <NavigationMenuList>
-                            <NavigationMenuItem>
-                                <NavigationMenuTrigger>
-                                    <Link
-                                        translate="no"
-                                        href="/poems/about-heroes"
-                                    >
-                                        Hetjukvæði
-                                    </Link>
-                                </NavigationMenuTrigger>
-                                <NavigationMenuContent>
-                                    {SONGOFHEROES.map((item) => (
-                                        <Link
-                                            translate="no"
-                                            key={item.text}
-                                            href={item.link}
-                                            title={item.title}
-                                            legacyBehavior
-                                            passHref
-                                        >
-                                            <NavigationMenuLink
-                                                className={navigationMenuTriggerStyle()}
-                                            >
-                                                {item.text}
-                                            </NavigationMenuLink>
-                                        </Link>
-                                    ))}
-                                </NavigationMenuContent>
-                            </NavigationMenuItem>
-                        </NavigationMenuList>
-                    </NavigationMenu>
-                    <NavigationMenu>
-                        <NavigationMenuList>
-                            <NavigationMenuItem>
-                                <NavigationMenuTrigger>
-                                    <Link
-                                        translate="no"
-                                        href="/poems/edda-songs"
-                                    >
-                                        Eddukvæði
-                                    </Link>
-                                </NavigationMenuTrigger>
-                                <NavigationMenuContent>
-                                    {EDDASONGS.map((item: eddaHrefs) => (
-                                        <Link
-                                            translate="no"
-                                            key={item.text}
-                                            href={item.link}
-                                            title={item.title}
-                                            legacyBehavior
-                                            passHref
-                                        >
-                                            <NavigationMenuLink
-                                                className={navigationMenuTriggerStyle()}
-                                            >
-                                                {item.text}
-                                            </NavigationMenuLink>
-                                        </Link>
-                                    ))}
-                                </NavigationMenuContent>
-                            </NavigationMenuItem>
-                        </NavigationMenuList>
-                    </NavigationMenu>
-                    <NavigationMenu>
-                        <NavigationMenuList>
-                            <NavigationMenuItem>
-                                <NavigationMenuTrigger>
-                                    <Link translate="no" href="/poems/edda-app">
-                                        Viðbætir
-                                    </Link>
-                                </NavigationMenuTrigger>
-                                <NavigationMenuContent>
-                                    {EDDAAPP.map((item: eddaHrefs) => (
-                                        <Link
-                                            translate="no"
-                                            key={item.text}
-                                            href={item.link}
-                                            title={item.title}
-                                            legacyBehavior
-                                            passHref
-                                        >
-                                            <NavigationMenuLink
-                                                className={navigationMenuTriggerStyle()}
-                                            >
-                                                {item.text}
-                                            </NavigationMenuLink>
-                                        </Link>
-                                    ))}
-                                </NavigationMenuContent>
-                            </NavigationMenuItem>
-                        </NavigationMenuList>
-                    </NavigationMenu>
-                </>
+                                                <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+                                                    {item.text}
+                                                </NavigationMenuLink>
+                                            </Link>
+                                        ))}
+                                    </NavigationMenuContent>
+                                </NavigationMenuItem>
+                            ))
+                        ))}
+                    </NavigationMenuList>
+                </NavigationMenu>
             </div>
+
+            {/* Мобильное меню */}
             <div className="flex items-center sm:hidden">
                 <Sheet open={isSheetOpen} onOpenChange={setIsSheetOpen}>
                     <SheetTrigger
@@ -226,11 +108,11 @@ export default function Navbar() {
                     <SheetContent>
                         <SheetHeader>
                             <SheetTitle className="flex flex-col">
-                                {poemsLinks.map((item) => (
+                                {PoemsList.map((item) => (
                                     <Link
                                         key={item.text}
                                         onClick={handleLinkClick}
-                                        href={item.link}
+                                        href={item.link ?? "#"}
                                     >
                                         {item.text}
                                     </Link>

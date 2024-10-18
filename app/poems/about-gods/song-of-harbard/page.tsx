@@ -1,12 +1,11 @@
 import React from "react";
 import { songofharbard } from "./page.utils";
-import { Metadata } from 'next'
- 
+import { Metadata, Viewport } from 'next'
+
 export const metadata: Metadata = {
   title: 'Jardarr | Hárbarðsljóð',
   description: 'Старшая эдда - Песнь о Харбарде',
   keywords: 'Старшая Эдда, поэзия, древний обычай',
-  viewport: 'width=device-width, initial-scale=1.0',
   openGraph: {
     title: 'Jardarr | Hárbarðsljóð',
     description: 'Старшая эдда - Песнь о Харбарде',
@@ -22,6 +21,14 @@ export const metadata: Metadata = {
     type: 'website',
   },
 }
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+}
+
 export default function SongOfHarbard() {
   return (
     <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base">
