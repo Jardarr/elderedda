@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function Footer() {
+  const currentYear = new Date().getFullYear();
   return (
     <div className="flex flex-col lg:justify-between lg:flex-row md:text-xs text-gray-500 text-xs">
       <div className="flex justify-center flex-col">
@@ -29,7 +30,7 @@ export default function Footer() {
           </Link>
         </div>
         <div className="w-full flex justify-center lg:justify-start px-2">
-          <span translate="no">&copy; 2024 Designed by Jardarr</span>
+          <span translate="no">&copy; {currentYear} Designed by Jardarr</span>
         </div>
       </div>
       <div className="flex justify-center items-center lg:justify-end w-full text-center lg:w-1/3">
