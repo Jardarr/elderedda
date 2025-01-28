@@ -1,24 +1,29 @@
-// import type { Metadata } from "next";
-import { Inter } from 'next/font/google';
+import { Inter } from "next/font/google";
 import "./globals.css";
-import Navbar from "./components/Navbar";
+import Header from "./components/Header";
 import Footer from "./components/Footer";
+import { Provider } from "./components/Provider";
+import "./styles/index.css";
 
 const inter = Inter({ subsets: ["latin"] });
 export default function RootLayout({
-  children,
+	children,
 }: Readonly<{
-  children: React.ReactNode;
+	children: React.ReactNode;
 }>) {
-  return (
-    <html lang="ru">
-      <body className={`${inter.className}`}>
-          <div className="px-4 md:px-24 bg-black sticky top-0">
-            <Navbar />
-          </div>
-          {children}
-          <div className="px-4 md:px-24 py-4"><Footer /></div>
-      </body>
-    </html>
-  );
+	return (
+		<html lang="ru">
+			<body className={`${inter.className} bg-neutral-200 text-neutral-800 dark:bg-neutral-800 dark:text-neutral-200`}>
+				<Provider>
+					<div className="sticky top-0">
+						<Header />
+					</div>
+					{children}
+					<div className="px-4 md:px-24 py-4">
+						<Footer />
+					</div>
+				</Provider>
+			</body>
+		</html>
+	);
 }
