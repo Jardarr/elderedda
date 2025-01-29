@@ -34,7 +34,7 @@ export default function AboutHeroes() {
     const songsOfHeroes = EddaList?.[1]?.song_of_heroes || [];
 
     return (
-        <main className="flex items-center justify-center text-sm md:text-base h-screen sm:h-dvh">
+        <main className="flex items-center justify-center text-sm md:text-base sm:h-screen">
             <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>Hetjukvæði</h1>
