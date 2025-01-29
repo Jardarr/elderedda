@@ -34,7 +34,7 @@ export default function EddaSongs() {
     const eddaSongs = EddaList?.[2]?.edda_songs || [];
 
     return (
-        <main className="flex items-center justify-center text-sm md:text-base h-dvh sm:h-auto">
+        <main className="flex items-center justify-center text-sm md:text-base h-dvh sm:h-dvh">
             <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>Eddukvæði</h1>

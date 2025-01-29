@@ -31,7 +31,7 @@ export default function Footer() {
         </div>
         <Copyright />
       </div>
-      <div className="flex justify-center items-center lg:justify-end w-full text-center lg:w-1/3">
+      <div className="flex justify-center items-center lg:justify-end w-full text-center lg:w-1/3 my-8 sm:my-0">
         <Link href="https://t.me/jardarr">
           <Send />
         </Link>
