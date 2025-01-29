@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="ru">
-			<body className={`${inter.className} bg-neutral-200 text-neutral-800 dark:bg-neutral-800 dark:text-neutral-200`}>
+			<body className={`${inter.className} bg-neutral-300 text-neutral-800 dark:bg-gradient-to-r from-sky-950 via-black to-sky-950 dark:text-neutral-200`}>
 				<Provider>
 					<div className="sticky top-0">
 						<Header />
