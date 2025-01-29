@@ -31,8 +31,8 @@ export const viewport: Viewport = {
 }
 export default function StoraEdda() {
   return (
-    <main className="flex items-center justify-center text-sm md:text-base h-fit sm:h-screen">
-      <div className="flex flex-col justify-center w-[600px] rounded-md h-full p-4 pt-32">
+    <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
+      <div className="flex flex-col justify-center w-[600px] rounded-md h-full p-4 my-20">
         <div className="m-8 text-3xl sea-color text-center font-bold">
           <h1>Stóra Edda</h1>
           <h2>Большая Эдда</h2>

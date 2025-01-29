@@ -32,7 +32,7 @@ export const viewport: Viewport = {
 
 export default function Poetry() {
   return (
-    <main className="flex items-center justify-center text-sm md:text-base h-screen sm:h-dvh">
+    <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
       <div className="flex justify-center items-center flex-col w-[600px] rounded-md mt-32">
         <div className="mx-8">
           <span>
