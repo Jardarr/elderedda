@@ -34,9 +34,9 @@ export default function AboutGods() {
     const songsOfGods = EddaList?.[0]?.song_of_gods || []; // Проверяем, что EddaList и song_of_gods существуют
 
     return (
-        <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base h-custom-height">
-            <div className="flex flex-col items-center w-[600px] bg-neutral-800/80 rounded-md h-full">
-                <div className="m-8 text-3xl text-teal-800 text-center font-bold">
+        <main className="flex items-center justify-center text-sm md:text-base h-screen sm:h-auto">
+            <div className="flex flex-col items-center w-[600px] rounded-md my-20">
+                <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>Goðakvæði</h1>
                     <h2>Песни о Богах</h2>
                 </div>
@@ -49,7 +49,7 @@ export default function AboutGods() {
                                     href={item.link}
                                     title={item.title}
                                 >
-                                    <p className="mt-2 text-lg">{item.text}</p>
+                                    <p className="mt-2 text-lg hover:text-sky-500">{item.text}</p>
                                 </Link>
                             ) : null // Пропускаем элементы с недостающими полями
                         ))

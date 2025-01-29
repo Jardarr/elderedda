@@ -31,9 +31,9 @@ export const viewport: Viewport = {
 }
 export default function StoraEdda() {
   return (
-    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base">
-      <div className="flex flex-col w-[600px] bg-neutral-800/80 rounded-md h-full p-4">
-        <div className="m-8 text-3xl text-teal-800 text-center font-bold">
+    <main className="flex items-center justify-center text-sm md:text-base">
+      <div className="flex flex-col w-[600px] rounded-md h-full p-4 my-20">
+        <div className="m-8 text-3xl sea-color text-center font-bold">
           <h1>Stóra Edda</h1>
           <h2>Большая Эдда</h2>
         </div>
@@ -52,7 +52,7 @@ export default function StoraEdda() {
             <p className="mb-2">
               Вот что говорит автор сборника о своём труде:
             </p>
-            <p className="italic bg-zinc-800/70 rounded-md p-4">
+            <p className="italic bg-neutral-400/70 rounded-md p-4">
               &quot;Эта книга является попыткой собрать под одной обложкой как
               можно большее число важнейших древних текстов, связанных с
               германо-скандинавской мифологией. Очередной попыткой — т. к.
@@ -61,7 +61,7 @@ export default function StoraEdda() {
               первой попыткой — на русском языке&quot;.
             </p>
           </div>
-          <button className="my-5 py-2 px-2 bg-teal-800/70 hover:bg-teal-800 border border-transparent hover:border-teal-400 transition-all duration-300 ease-in-out rounded-md">
+          <button className="my-5 py-2 px-2 bg-[#203E51] hover:border-sky-400 text-neutral-200 border border-transparent transition-all duration-300 ease-in-out rounded-md">
             <Link
               href="https://drive.google.com/file/d/17G-EKf-ZNxHwrE-l-HRunFETvLExbLIY/view?usp=drive_link"
               target="_blank"

@@ -1,6 +1,5 @@
-import { Ephesis } from "next/font/google";
-const ephesis = Ephesis({ subsets: ["latin"], weight: "400" });
 import { Metadata, Viewport } from "next";
+import Hero from "./components/Hero";
 
 export const metadata: Metadata = {
     title: "Jardarr | Elder Edda",
@@ -33,9 +32,10 @@ export const viewport: Viewport = {
 
 export default function Home() {
     return (
-        <div className="flex flex-col items-center justify-center bg-home-bg bg-cover bg-center bg-attachment-fixed bg-no-repeat h-custom-height">
-            <div className="text-white bg-orange-900/20 w-full text-center p-5 text-2xl">
-                <span translate="no" className={`${ephesis.className}`}>
+        <div className="flex flex-col items-center justify-center">
+            <Hero />
+            <div className="w-full text-center p-5 text-2xl sea-color dark:text-neutral-300">
+                <span translate="no" style={{ fontFamily: 'Ephesis, sans-serif' }}>
                     Hearing I ask <br />
                     from the holy races, From Heimdall&#39;s sons, <br />
                     both high and low; Thou wilt, Valfather, <br />
