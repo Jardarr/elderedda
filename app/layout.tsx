@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import { Provider } from "./components/Provider";
 import "./styles/index.css";
+import ToTopButton from "./components/ToTopButton";
 
 const inter = Inter({ subsets: ["latin"] });
 export default function RootLayout({
@@ -22,6 +23,7 @@ export default function RootLayout({
 					<div className="px-4 md:px-24 py-4">
 						<Footer />
 					</div>
+					<ToTopButton />
 				</Provider>
 			</body>
 		</html>

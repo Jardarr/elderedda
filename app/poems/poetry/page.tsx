@@ -32,8 +32,8 @@ export const viewport: Viewport = {
 
 export default function Poetry() {
   return (
-    <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">
-      <div className="flex justify-center items-center flex-col w-[600px] bg-neutral-800/80 rounded-md h-screen">
+    <main className="flex items-center justify-center text-sm md:text-base h-auto">
+      <div className="flex justify-center items-center flex-col w-[600px] rounded-md my-32">
         <div className="mx-8">
           <span>
             {poetry.map((poem, index) => (

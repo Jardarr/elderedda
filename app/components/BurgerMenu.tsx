@@ -29,7 +29,7 @@ export default function BurgerMenu() {
                     />
                 </svg>
             </SheetTrigger>
-            <SheetContent className="bg-neutral-200 dark:bg-neutral-800/80">
+            <SheetContent className="bg-neutral-200/90 dark:bg-neutral-800/80">
                 <SheetHeader>
                     <SheetTitle className="flex flex-col">
                         {PoemsList.map((item) => (

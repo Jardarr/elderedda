@@ -344,23 +344,19 @@ const songofherver = [
     class: "m-7",
 
     contentON: (
-      <span className="flex w-40">
         <p className="mb-2">
           Hon sá nú haugeldana .... ok gengr til hauganna ok hræðist ekki, ok óð
           hon eldana sem reyk, þar til er hon kom at haugi berserkjanna. Þá kvað
           hon:
         </p>
-      </span>
     ),
 
     contentRU: (
-      <span className="flex w-40">
         <p>
           Тут она увидела огни над курганами и обитателей курганов, стоявших
           снаружи. Она бесстрашно пошла туда и проходила сквозь огонь как сквозь
           дым, пока не пришла к кургану берсерков. Тогда сказала она:
         </p>
-      </span>
     ),
   },
   {

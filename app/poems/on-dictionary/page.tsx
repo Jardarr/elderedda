@@ -2,7 +2,6 @@
 import { useState } from "react";
 import { linkList } from "./linkList";
 import { mainData } from "./../../types/mainData";
-import ToTopButton from "./../../components/ToTopButton";
 import Link from "next/link";
 import Spinner from "@/app/components/Spinner";
 import Head from "next/head";
@@ -35,12 +34,12 @@ export default function Home() {
     };
 
     return (
-        <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">  
+        <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">  
             <Head><title>Jardarr | Dictionary</title></Head>
-            <div className="flex flex-col items-center w-[600px] bg-neutral-800/80 rounded-md min-h-screen">
-                <div className="flex flex-col w-full p-8 text-2xl text-teal-800 text-center font-bold">
+            <div className="flex flex-col items-center w-[600px] rounded-md min-h-screen mt-20">
+                <div className="flex flex-col w-full p-8 text-2xl sea-color text-center font-bold">
                     <h1>Cleasby & Vigfusson Old Norse dictionary</h1>
-                    <p className="text-gray-200 text-xs mt-4 font-thin">
+                    <p className="text-neutral-900 dark:text-neutral-200 text-sm mt-4 italic">
                         Словарь древнескандинавского языка. Онлайн-версия
                         классического древнескандинавского/древнеисландского
                         словаря Ричарда Клисби и Гудбранда Вигфуссона,
@@ -49,14 +48,14 @@ export default function Home() {
                 </div>
                 <div className="my-5">
                     <input
-                        className="bg-gray-800 px-3 py-2 border border-slate-300 rounded-md text-sm shadow-sm placeholder-slate-400 focus:outline-none focus:border-teal-500 focus:ring-1 focus:ring-teal-500 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200 disabled:shadow-none"
+                        className="bg-neutral-300 text-sky-600 dark:text-neutral-200 dark:bg-neutral-400 px-3 py-2 border border-slate-300 rounded-md text-sm shadow-sm placeholder-sky-700 focus:outline-none focus:border-sky-400 focus:ring-1 focus:ring-sky-400 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200 disabled:shadow-none"
                         placeholder="æ"
                         type="text"
                         value={letter}
                         onChange={(e) => setLetter(e.target.value)}
                     />
                     <button
-                        className="ml-3 border py-2 px-3 text-sm rounded-md focus:border-teal-500 focus:ring-1 focus:ring-teal-500 hover:border-teal-500 transition ease-in-out duration-300 bg-teal-950/80"
+                        className="text-neutral-200 ml-3 border py-2 px-3 text-sm rounded-md focus:border-sky-400 focus:ring-1 focus:ring-sky-400 transition ease-in-out duration-300 bg-[#203E51] hover:border-sky-400"
                         onClick={getLetter}
                     >
                         Поиск
@@ -66,7 +65,7 @@ export default function Home() {
                     {linkList.map((item) => (
                         <Link
                             translate="no"
-                            className="text-gray-100 mx-1"
+                            className="text-neutral-800 dark:text-neutral-200 mx-1"
                             key={item.letter}
                             onClick={() => setLetter(item.letter)}
                             href="#"
@@ -82,7 +81,7 @@ export default function Home() {
                         </div>
                     ) : response.length > 0 ? (
                         response.map((norse, index) => (
-                            <div className="text-gray-100" key={index}>
+                            <div key={index}>
                                 <span
                                     translate="no"
                                     dangerouslySetInnerHTML={{
@@ -114,7 +113,6 @@ export default function Home() {
                         </div>
                     )}
                 </div>
-                <ToTopButton />
             </div>
         </main>
     );

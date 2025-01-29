@@ -1,15 +1,33 @@
+"use client";
+import { useState, useEffect } from "react";
 import { ArrowUpToLine } from "lucide-react";
 
 export default function ToTopButton() {
+    const [isVisible, setIsVisible] = useState(false);
+
+    useEffect(() => {
+        const handleScroll = () => {
+            setIsVisible(window.scrollY > 200);
+        };
+
+        window.addEventListener("scroll", handleScroll);
+        return () => window.removeEventListener("scroll", handleScroll);
+    }, []);
+
     const scrollToTop = () => {
         window.scrollTo({
             top: 0,
             behavior: "smooth",
         });
     };
+
     return (
-        <button className="fixed bottom-3 right-5 border py-2 px-3 text-sm rounded-md focus:border-teal-500 focus:ring-1 focus:ring-teal-500 hover:border-teal-500 transition ease-in-out duration-300 bg-teal-950/80" onClick={scrollToTop}>
+        <button
+            className={`fixed bottom-3 right-5 border py-2 px-3 text-sm text-neutral-200 rounded-md focus:border-sky-400 focus:ring-1 focus:ring-sky-400 transition ease-in-out duration-300 bg-[#203E51] hover:border-sky-400 ${
+                isVisible ? "opacity-100" : "opacity-0 pointer-events-none"
+            }`}
+            onClick={scrollToTop}>
             <ArrowUpToLine />
         </button>
-    )
+    );
 }

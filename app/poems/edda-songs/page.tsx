@@ -34,9 +34,9 @@ export default function EddaSongs() {
     const eddaSongs = EddaList?.[2]?.edda_songs || [];
 
     return (
-        <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base min-h-screen sm:h-fit">
-            <div className="flex flex-col items-center w-[600px] bg-neutral-800/80 rounded-md min-h-screen">
-                <div className="m-8 text-3xl text-teal-800 text-center font-bold">
+        <main className="flex items-center justify-center text-sm md:text-base h-dvh sm:h-auto">
+            <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
+                <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>Eddukvæði</h1>
                     <h2>Эддические песни</h2>
                 </div>
@@ -49,7 +49,7 @@ export default function EddaSongs() {
                                     href={item.link}
                                     title={item.title}
                                 >
-                                    <p className="mt-2 text-lg">{item.text}</p>
+                                    <p className="mt-2 text-lg hover:text-sky-500">{item.text}</p>
                                 </Link>
                             ) : null // Пропускаем элементы с недостающими полями
                         ))
