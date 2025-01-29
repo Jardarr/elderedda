@@ -34,7 +34,7 @@ export default function AboutGods() {
     const songsOfGods = EddaList?.[0]?.song_of_gods || []; // Проверяем, что EddaList и song_of_gods существуют
 
     return (
-        <main className="flex items-center justify-center text-sm md:text-base h-screen sm:h-auto">
+        <main className="flex items-center justify-center text-sm md:text-base h-screen sm:h-dvh">
             <div className="flex flex-col items-center w-[600px] rounded-md my-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>Goðakvæði</h1>
