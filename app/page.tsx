@@ -2,25 +2,49 @@ import { Metadata, Viewport } from "next";
 import Hero from "./components/Hero";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Elder Edda",
-    description:
-        "Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.",
-    keywords: "Старшая Эдда, поэзия, древний обычай",
-    openGraph: {
-        title: "Jardarr | Elder Edda",
-        description:
-            "Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.",
-        siteName: "Jardarr | Elder Edda",
-        images: [
-            {
-                url: "/og-logo.jpg",
-                width: 800,
-                height: 600,
-            },
-        ],
-        locale: "ru_RU",
-        type: "website",
-    },
+	title: "Jardarr | Старшая Эдда",
+	description: "Гибнут стада, родня умирает, и смертен ты сам; но знаю одно, что вечно бессмертно: умершего слава.",
+	keywords: ["Elder Edda, Старшая Эдда"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Старшая Эдда",
+		description: "Гибнут стада, родня умирает, и смертен ты сам; но знаю одно, что вечно бессмертно: умершего слава.",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Старшая Эдда",
+		description: "Гибнут стада, родня умирает, и смертен ты сам; но знаю одно, что вечно бессмертно: умершего слава.",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
 };
 
 export const viewport: Viewport = {

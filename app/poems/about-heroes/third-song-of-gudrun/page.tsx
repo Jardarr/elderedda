@@ -3,24 +3,50 @@ import { thirdsongofgudrun } from "./page.utils";
 import { Metadata, Viewport } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Jardarr | Guðrúnarkviða in þriðja',
-  description: 'Старшая эдда - Третья Песнь о Гудрун',
-  keywords: 'Старшая Эдда, поэзия, древний обычай',
-  openGraph: {
-    title: 'Jardarr | Guðrúnarkviða in þriðja',
-    description: 'Старшая эдда - Третья Песнь о Гудрун',
-    siteName: 'Jardarr | Elder Edda',
-    images: [
-      {
-        url: '/og-logo.jpg',
-        width: 800,
-        height: 600,
-      },
-    ],
-    locale: 'ru_RU',
-    type: 'website',
-  },
-}
+	title: "Jardarr | Третья Песнь о Гудрун",
+	description: "Херкьей звалась служанка Атли. Она когда-то была его любовницей. Она сказала Атли, что видела Тьодрека и Гудрун вместе. Атли очень опечалился...",
+	keywords: ["Elder Edda, Старшая Эдда, Третья Песнь о Гудрун"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Третья Песнь о Гудрун",
+		description: "Херкьей звалась служанка Атли. Она когда-то была его любовницей. Она сказала Атли, что видела Тьодрека и Гудрун вместе. Атли очень опечалился...",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Третья Песнь о Гудрун",
+		description: "Херкьей звалась служанка Атли. Она когда-то была его любовницей. Она сказала Атли, что видела Тьодрека и Гудрун вместе. Атли очень опечалился...",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
+};
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -33,6 +59,7 @@ export default function ThirdSongOfGudrun() {
   return (
     <main className="flex items-center justify-center text-sm md:text-base">
       <div className="flex flex-col w-[600px] rounded-md mt-20">
+      <span className="hidden sm:flex text-xs text-neutral-500"><a className="hover:text-sky-500" href="/">Jardarr Elder Edda</a>&nbsp;/&nbsp;<a className="hover:text-sky-500" href="/poems/about-heroes">Hetjukvæði</a>&nbsp;/&nbsp;<span>Guðrúnarkviða in þriðja</span></span>
         <div className="m-8 text-3xl sea-color text-center font-bold">
           <h1>Guðrúnarkviða in þriðja</h1>
           <h2>Третья Песнь о Гудрун</h2>

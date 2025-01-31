@@ -4,23 +4,49 @@ import { Metadata, Viewport } from "next";
 import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Hetjukvæði",
-    description: "Старшая эдда - Песни о Героях",
-    keywords: "Старшая Эдда, поэзия, древний обычай",
-    openGraph: {
-        title: "Jardarr | Hetjukvæði",
-        description: "Старшая эдда - Песни о Героях",
-        siteName: "Jardarr | Elder Edda",
-        images: [
-            {
-                url: "/og-logo.jpg",
-                width: 800,
-                height: 600,
-            },
-        ],
-        locale: "ru_RU",
-        type: "website",
-    },
+	title: "Jardarr | Песни о Героях",
+	description: "Она сказала: «Славься, день! И вы, дня сыны! И ты, ночь с сестрою! Взгляните на нас благостным взором, победу нам дайте!",
+	keywords: ["Elder Edda, Старшая Эдда, Песни о Героях"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Песни о Героях",
+		description: "Она сказала: «Славься, день! И вы, дня сыны! И ты, ночь с сестрою! Взгляните на нас благостным взором, победу нам дайте!",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Песни о Героях",
+		description: "Она сказала: «Славься, день! И вы, дня сыны! И ты, ночь с сестрою! Взгляните на нас благостным взором, победу нам дайте!",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
 };
 
 export const viewport: Viewport = {

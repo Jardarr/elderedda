@@ -3,24 +3,50 @@ import { brynhildsjourneytohel } from "./page.utils";
 import { Metadata, Viewport } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Jardarr | Helreið Brynhildar',
-  description: 'Старшая эдда - Поездка Брюнхильд в Хель',
-  keywords: 'Старшая Эдда, поэзия, древний обычай',
-  openGraph: {
-    title: 'Jardarr | Helreið Brynhildar',
-    description: 'Старшая эдда - Поездка Брюнхильд в Хель',
-    siteName: 'Jardarr | Elder Edda',
-    images: [
-      {
-        url: '/og-logo.jpg',
-        width: 800,
-        height: 600,
-      },
-    ],
-    locale: 'ru_RU',
-    type: 'website',
-  },
-}
+	title: "Jardarr | Поездка Брюнхильд в Хель",
+	description: "После смерти Брюнхильд было сложено два костра; один — для Сигурда, и этот костер сгорел первым, а Брюнхильд была сожжена на другом костре.",
+	keywords: ["Elder Edda, Старшая Эдда, Поездка Брюнхильд в Хель"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Поездка Брюнхильд в Хель",
+		description: "После смерти Брюнхильд было сложено два костра; один — для Сигурда, и этот костер сгорел первым, а Брюнхильд была сожжена на другом костре.",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Поездка Брюнхильд в Хель",
+		description: "После смерти Брюнхильд было сложено два костра; один — для Сигурда, и этот костер сгорел первым, а Брюнхильд была сожжена на другом костре.",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
+};
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -33,6 +59,7 @@ export default function BrynhildsJourneyToHel() {
   return (
     <main className="flex items-center justify-center text-sm md:text-base">
       <div className="flex flex-col w-[600px] rounded-md mt-20">
+      <span className="hidden sm:flex text-xs text-neutral-500"><a className="hover:text-sky-500" href="/">Jardarr Elder Edda</a>&nbsp;/&nbsp;<a className="hover:text-sky-500" href="/poems/about-heroes">Hetjukvæði</a>&nbsp;/&nbsp;<span>Helreið Brynhildar</span></span>
         <div className="m-8 text-3xl sea-color text-center font-bold">
           <h1>Helreið Brynhildar</h1>
           <h2>Поездка Брюнхильд в Хель</h2>
