@@ -4,23 +4,49 @@ import { Metadata, Viewport } from "next";
 import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Viðbætir",
-    description: "Старшая эдда - Приложения",
-    keywords: "Старшая Эдда, поэзия, древний обычай",
-    openGraph: {
-        title: "Jardarr | Viðbætir",
-        description: "Старшая эдда - Приложения",
-        siteName: "Jardarr | Elder Edda",
-        images: [
-            {
-                url: "/og-logo.jpg",
-                width: 800,
-                height: 600,
-            },
-        ],
-        locale: "ru_RU",
-        type: "website",
-    },
+	title: "Jardarr | Старшая Эдда - Приложения",
+	description: "Не властны мужи над богатством и силой, хоть сопутствует им успех. Несчастье приходит всегда неожиданно, никому не подвластна судьба.",
+	keywords: ["Elder Edda, Старшая Эдда, Приложения"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Старшая Эдда - Приложения",
+		description: "Не властны мужи над богатством и силой, хоть сопутствует им успех. Несчастье приходит всегда неожиданно, никому не подвластна судьба.",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Старшая Эдда - Приложения",
+		description: "Не властны мужи над богатством и силой, хоть сопутствует им успех. Несчастье приходит всегда неожиданно, никому не подвластна судьба.",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
 };
 
 export const viewport: Viewport = {

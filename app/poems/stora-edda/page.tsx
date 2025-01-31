@@ -4,23 +4,49 @@ import { Metadata, Viewport } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Jardarr | Stóra Edda",
-  description: "Большая Эдда - Эддические песни",
-  keywords: "Старшая Эдда, поэзия, древний обычай",
-  openGraph: {
-    title: "Jardarr | Stóra Edda",
-    description: "Большая Эдда - Эддические песни",
-    siteName: "Jardarr | Elder Edda",
-    images: [
-      {
-        url: "/og-logo.jpg",
-        width: 800,
-        height: 600,
-      },
-    ],
-    locale: "ru_RU",
-    type: "website",
-  },
+	title: "Jardarr | Большая Эдда",
+	description: "Эта книга является попыткой собрать под одной обложкой как можно большее число важнейших древних текстов, связанных с германо-скандинавской мифологией. ",
+	keywords: ["Elder Edda, Старшая Эдда, Большая Эдда"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Большая Эдда",
+		description: "v",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Большая Эдда",
+		description: "Эта книга является попыткой собрать под одной обложкой как можно большее число важнейших древних текстов, связанных с германо-скандинавской мифологией. ",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
 };
 
 export const viewport: Viewport = {

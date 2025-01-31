@@ -4,23 +4,49 @@ import { Metadata, Viewport } from "next";
 import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Goðakvæði",
-    description: "Старшая эдда - Песни о Богах",
-    keywords: "Старшая Эдда, поэзия, древний обычай",
-    openGraph: {
-        title: "Jardarr | Goðakvæði",
-        description: "Старшая эдда - Песни о Богах",
-        siteName: "Jardarr | Elder Edda",
-        images: [
-            {
-                url: "/og-logo.jpg",
-                width: 800,
-                height: 600,
-            },
-        ],
-        locale: "ru_RU",
-        type: "website",
-    },
+	title: "Jardarr | Песни о Богах",
+	description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
+	keywords: ["Elder Edda, Старшая Эдда, Песни о Богах"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Песни о Богах",
+		description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Песни о Богах",
+		description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
 };
 
 export const viewport: Viewport = {
@@ -34,7 +60,7 @@ export default function AboutGods() {
     const songsOfGods = EddaList?.[0]?.song_of_gods || []; // Проверяем, что EddaList и song_of_gods существуют
 
     return (
-        <main className="flex items-center justify-center text-sm md:text-base h-screen sm:h-dvh">
+        <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
             <div className="flex flex-col items-center w-[600px] rounded-md my-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>Goðakvæði</h1>

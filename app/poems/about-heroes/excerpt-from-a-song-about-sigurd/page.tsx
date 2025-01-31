@@ -3,24 +3,50 @@ import { excerptfromasongaboutsigurd } from "./page.utils";
 import { Metadata, Viewport } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Jardarr | Sigurðarkviða in meiri',
-  description: 'Старшая эдда - Отрывок Песни о Сигурде',
-  keywords: 'Старшая Эдда, поэзия, древний обычай',
-  openGraph: {
-    title: 'Jardarr | Sigurðarkviða in meiri',
-    description: 'Старшая эдда - Отрывок Песни о Сигурде',
-    siteName: 'Jardarr | Elder Edda',
-    images: [
-      {
-        url: '/og-logo.jpg',
-        width: 800,
-        height: 600,
-      },
-    ],
-    locale: 'ru_RU',
-    type: 'website',
-  },
-}
+	title: "Jardarr | Отрывок Песни о Сигурде",
+	description: "Гуннар сказал: «Сигурд обеты дал мне и клятвы, клятвы мне дал и все нарушил: меня обманул, а должен был крепко клятвы блюсти, обеты исполнить!",
+	keywords: ["Elder Edda, Старшая Эдда, Отрывок Песни о Сигурде"],
+	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+	applicationName: "Jardarr | Elder Edda",
+	openGraph: {
+		title: "Jardarr | Отрывок Песни о Сигурде",
+		description: "Гуннар сказал: «Сигурд обеты дал мне и клятвы, клятвы мне дал и все нарушил: меня обманул, а должен был крепко клятвы блюсти, обеты исполнить!",
+		url: "https://jardarr.ru",
+		siteName: "Jardarr | Elder Edda",
+		images: [
+			{
+				url: "/og-logo.jpg",
+				width: 800,
+				height: 600,
+				alt: "Jardarr | Elder Edda",
+			},
+		],
+		locale: "ru-RU",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Jardarr | Отрывок Песни о Сигурде",
+		description: "Гуннар сказал: «Сигурд обеты дал мне и клятвы, клятвы мне дал и все нарушил: меня обманул, а должен был крепко клятвы блюсти, обеты исполнить!",
+		images: ["/og-logo.jpg"],
+	},
+	robots: {
+		index: true,
+		follow: true,
+		nocache: true,
+		googleBot: {
+			index: true,
+			follow: true,
+			noimageindex: false,
+			"max-snippet": -1,
+			"max-image-preview": "large",
+			"max-video-preview": -1,
+		},
+	},
+	alternates: {
+		canonical: "https://jardarr.ru",
+	},
+};
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -33,6 +59,7 @@ export default function ExcerptFromASongAboutSigurd() {
   return (
     <main className="flex items-center justify-center text-sm md:text-base">
       <div className="flex flex-col w-[600px] rounded-md mt-20">
+      <span className="hidden sm:flex text-xs text-neutral-500"><a className="hover:text-sky-500" href="/">Jardarr Elder Edda</a>&nbsp;/&nbsp;<a className="hover:text-sky-500" href="/poems/about-heroes">Hetjukvæði</a>&nbsp;/&nbsp;<span>Sigurðarkviða in meiri</span></span>
         <div className="m-8 text-3xl sea-color text-center font-bold">
           <h1>
             Sigurðarkviða in meiri
