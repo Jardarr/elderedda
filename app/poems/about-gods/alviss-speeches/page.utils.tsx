@@ -5,8 +5,11 @@ const alvissspeeches = [
 		number: "1.",
 
 		contentON: (
-			<span className="flex w-40">
-				Alvíss kvað:
+			<span className="w-40">
+				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    A
+                </span>
+				lvíss kvað:
 				<br />
 				«Bekki breiða,
 				<br />
@@ -855,7 +858,7 @@ const alvissspeeches = [
 				<br />
 				ваны — Безветрием,
 				<br />
-				ётуны — Зноем,
+				етуны — Зноем,
 				<br />
 				Тишью Дня — альвы,
 				<br />
@@ -1130,7 +1133,7 @@ const alvissspeeches = [
 				наверно, ты знаешь, —<br />
 				как имя ночи,
 				<br />
-				дочери Нёра,
+				дочери Нера,
 				<br />в разных мирах».
 			</span>
 		),
@@ -1168,11 +1171,11 @@ const alvissspeeches = [
 				<br />
 				Покров — у божеств,
 				<br />
-				у ётунов — Тьма,
+				у етунов — Тьма,
 				<br />
 				у альвов — Сна Радость,
 				<br />
-				Грёзы Ньёрун — у карликов».
+				Грезы Ньерун — у карликов».
 			</span>
 		),
 	},
@@ -1247,7 +1250,7 @@ const alvissspeeches = [
 				<br />
 				Всходы — у ванов,
 				<br />
-				у ётунов — Хлеб,
+				у етунов — Хлеб,
 				<br />
 				и Солод — у альвов,
 				<br />а в Хель то — Поникшее».
@@ -1325,7 +1328,7 @@ const alvissspeeches = [
 				<br />
 				ваны — Пьянящим,
 				<br />
-				в Хель Мёдом зовут,
+				в Хель Медом зовут,
 				<br />
 				Чистой Влагою — турсы,
 				<br />

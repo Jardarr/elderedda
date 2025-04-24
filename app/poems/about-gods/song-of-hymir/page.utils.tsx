@@ -16,8 +16,11 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
-				Ár valtívar
+			<span className="w-40">
+				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    A
+                </span>
+				r valtívar
 				<br />
 				veiðar námu
 				<br />
@@ -385,7 +388,7 @@ const songofhymir = [
 			<span className="flex w-40">
 				Мать Тюра сказала:
 				<br />
-				«Ётуна родич!
+				«етуна родич!
 				<br />
 				Укрыть под котлом
 				<br />
@@ -587,7 +590,7 @@ const songofhymir = [
 				<br />
 				Вышли они,
 				<br />
-				а древний ётун
+				а древний етун
 				<br />
 				врагов провожал
 				<br />
@@ -634,7 +637,7 @@ const songofhymir = [
 				<br />
 				быка из стада,
 				<br />
-				ётун велел
+				етун велел
 				<br />к столу их готовить;
 			</span>
 		),
@@ -680,7 +683,7 @@ const songofhymir = [
 				<br />
 				съел двух быков
 				<br />
-				Хюмира ётуна;
+				Хюмира етуна;
 			</span>
 		),
 	},
@@ -768,7 +771,7 @@ const songofhymir = [
 				<br />
 				если приманку
 				<br />
-				даст ему ётун.
+				даст ему етун.
 				<br />
 				<br />
 				Хюмир сказал:
@@ -915,7 +918,7 @@ const songofhymir = [
 				<br />
 				направить ладью;
 				<br />
-				но ётун сказал,
+				но етун сказал,
 				<br />
 				что не станет далеко
 				<br />
@@ -1354,7 +1357,7 @@ const songofhymir = [
 				<br />
 				кубок метни!
 				<br />
-				Ётуна череп
+				етуна череп
 				<br />
 				крепче, чем кубок!»
 			</span>
@@ -1439,7 +1442,7 @@ const songofhymir = [
 				кубок мой ценный
 				<br />
 				разбит на куски, —<br />
-				ётун промолвил, —<br />
+				етун промолвил, —<br />
 				как прежде бывало,
 				<br />
 				сказать не смогу:
@@ -1609,7 +1612,7 @@ const songofhymir = [
 				Сбросив тогда
 				<br />
 				тяжкий котел, —<br />
-				поднял он Мьёлльнир,
+				поднял он Мьелльнир,
 				<br />
 				смерть приносящий,
 				<br />

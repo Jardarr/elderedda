@@ -18,7 +18,7 @@ export default function Header() {
                 </span>
             </div>
             <div className="flex items-center sea-color dark:text-neutral-300">
-                <div className="hidden sm:flex">
+                <div className="hidden sm:flex" style={{ fontFamily: "Goth, sans-serif" }}>
                     <Link translate="no" className="px-2 hover:text-sky-500 dark:hover:text-neutral-300" href="/poems/about-gods">
                         Goðakvæði
                     </Link>

@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import { Provider } from "./components/Provider";
-import "./styles/index.css";
+import "./index.css";
 import ToTopButton from "./components/ToTopButton";
 
 const inter = Inter({ subsets: ["latin"] });

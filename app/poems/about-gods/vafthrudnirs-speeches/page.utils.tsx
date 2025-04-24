@@ -5,8 +5,11 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
-				Óðinn kvað:
+			<span className="w-40">
+				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    O
+                </span>
+				ðinn kvað:
 				<br />
 				«Ráð þú mér nú, Frigg,
 				<br />
@@ -74,7 +77,7 @@ const vafthrudnirsspeeches = [
 				в чертогах богов —<br />
 				Вафтруднир слывет
 				<br />
-				сильнейшим из ётунов,
+				сильнейшим из етунов,
 				<br />
 				кто с ним сравнится!»
 			</span>
@@ -157,7 +160,7 @@ const vafthrudnirsspeeches = [
 				Пусть мудрость тебе
 				<br />
 				там помощью будет
-				<br />с ётуном в споре!»
+				<br />с етуном в споре!»
 			</span>
 		),
 	},
@@ -312,7 +315,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				жду приглашенья —<br />
 				долог был путь мой, —<br />
-				прими меня, ётун».
+				прими меня, етун».
 			</span>
 		),
 	},
@@ -801,7 +804,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				как небо возникло,
 				<br />
-				ётун, открой мне?»
+				етун, открой мне?»
 			</span>
 		),
 	},
@@ -913,7 +916,7 @@ const vafthrudnirsspeeches = [
 			<span className="flex w-40">
 				Вафтруднир сказал:
 				<br />
-				«Мундильфёри
+				«Мундильфери
 				<br />
 				зовется отец
 				<br />
@@ -998,7 +1001,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				день породившего,
 				<br />
-				Нёр — ночи отец;
+				Нер — ночи отец;
 				<br />
 				измыслили боги
 				<br />
@@ -1229,7 +1232,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				Эливагара
 				<br />
-				ётуном стали;
+				етуном стали;
 				<br />
 				отсюда свой род
 				<br />
@@ -1272,7 +1275,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				и все знаешь, Вафтруднир:
 				<br />
-				как же мог ётун,
+				как же мог етун,
 				<br />
 				не знавший жены,
 				<br />
@@ -1307,7 +1310,7 @@ const vafthrudnirsspeeches = [
 			<span className="flex w-40">
 				Вафтруднир сказал:
 				<br />
-				«У ётуна сильного
+				«У етуна сильного
 				<br />
 				дочка и сын
 				<br />
@@ -1519,7 +1522,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				как меж асами
 				<br />
-				Ньёрд появился?
+				Ньерд появился?
 				<br />
 				Посвящают ему
 				<br />
@@ -1887,7 +1890,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				«Прежде чем Волк
 				<br />
-				Альврёдуль сгубит,
+				Альвредуль сгубит,
 				<br />
 				дочь породит она;
 				<br />
@@ -1971,7 +1974,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				текут над жильем
 				<br />
-				дочерей Мёгтрасира;
+				дочерей Мегтрасира;
 				<br />
 				для людей эти девы —<br />
 				духи благие,
@@ -2056,7 +2059,7 @@ const vafthrudnirsspeeches = [
 				<br />
 				Моди и Магни
 				<br />
-				Мьёлльнир возьмут.
+				Мьелльнир возьмут.
 				<br />
 				когда Вингнис погибнет».
 			</span>
