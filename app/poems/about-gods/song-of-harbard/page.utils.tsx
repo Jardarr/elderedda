@@ -16,7 +16,10 @@ const songofharbard = [
         number: '1.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Hverr er sá sveinn sveina,<br />
+        contentON: <span className="w-40">«
+        <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            H
+        </span>verr er sá sveinn sveina,<br />
         er stendr fyr sundit handan?»</span>,
 
         contentRU: <span className="flex w-40">«Что там за парень<br />
@@ -312,10 +315,10 @@ const songofharbard = [
         mans at kosta.»</span>,
 
         contentRU: <span className="flex w-40">Харбард сказал:<br />
-        «Сидел я у Фьёльвара<br />
+        «Сидел я у Фьельвара<br />
         целых пять зим,<br />
         на острове том,<br />
-        что Альгрён зовется;<br />
+        что Альгрен зовется;<br />
         бились мы там,<br />
         убивали врагов,<br />
         и то еще делали —<br />
@@ -1012,7 +1015,7 @@ const songofharbard = [
         влево возьми —<br />
         дойдешь ты до Верланда;<br />
         там с сыном Тором<br />
-        встретится Фьёргюн,<br />
+        встретится Фьергюн,<br />
         она объяснит<br />
         путь в Одина земли,<br />
         дорогу к родне».</span>

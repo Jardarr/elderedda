@@ -5,8 +5,11 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
-				Gáttir allar,
+			<span className="w-40">
+				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    G
+                </span>
+				áttir allar,
 				<br />
 				áðr gangi fram,
 				<br />
@@ -172,7 +175,7 @@ const highsspeeches = [
 			<span className="flex w-40">
 				Ум надобен тем,
 				<br />
-				кто далёко забрел, —<br />
+				кто далеко забрел, —<br />
 				дома все тебе ведомо;
 				<br />
 				насмешливо будут
@@ -478,7 +481,7 @@ const highsspeeches = [
 				крылья той птицы
 				<br />
 				меня приковали
-				<br />в доме у Гуннлёд.
+				<br />в доме у Гуннлед.
 			</span>
 		),
 	},
@@ -3879,7 +3882,7 @@ const highsspeeches = [
 
 		contentRU: (
 			<span className="flex w-40">
-				Гуннлёд меня
+				Гуннлед меня
 				<br />
 				угостила медом
 				<br />
@@ -3923,7 +3926,7 @@ const highsspeeches = [
 				в камень велел я<br />
 				крепко вгрызаться;
 				<br />
-				ётунов стены
+				етунов стены
 				<br />
 				меня обступили,
 				<br />
@@ -3959,7 +3962,7 @@ const highsspeeches = [
 				<br />
 				все умный сумеет;
 				<br />
-				так ныне Одрёрир
+				так ныне Одрерир
 				<br />
 				в доме священном
 				<br />
@@ -3998,7 +4001,7 @@ const highsspeeches = [
 				<br />
 				когда бы не помощь
 				<br />
-				Гуннлёд прекрасной,
+				Гуннлед прекрасной,
 				<br />
 				меня обнимавшей.
 			</span>
@@ -4037,7 +4040,7 @@ const highsspeeches = [
 				<br />
 				спросить у Высокого:
 				<br />
-				Бёльверк — спросили —<br />
+				Бельверк — спросили —<br />
 				вернулся к богам
 				<br />
 				иль сразил его Суттунг?
@@ -4077,7 +4080,7 @@ const highsspeeches = [
 				<br />
 				обманом у Суттунга
 				<br />
-				Гуннлёд на горе.
+				Гуннлед на горе.
 			</span>
 		),
 	},
@@ -5386,7 +5389,7 @@ const highsspeeches = [
 		contentRU: (
 			<span className="flex w-40">
 				Девять песен узнал я<br />
-				от сына Бёльторна,
+				от сына Бельторна,
 				<br />
 				Бестлы отца,
 				<br />
@@ -5394,7 +5397,7 @@ const highsspeeches = [
 				<br />
 				великолепного,
 				<br />
-				что в Одрёрир налит.
+				что в Одрерир налит.
 			</span>
 		),
 	},
@@ -5505,7 +5508,7 @@ const highsspeeches = [
 				<br />
 				Двалин у карликов,
 				<br />
-				у ётунов Асвид,
+				у етунов Асвид,
 				<br />и сам я их резал.
 			</span>
 		),
@@ -6138,7 +6141,7 @@ const highsspeeches = [
 			<span className="flex w-40">
 				Пятнадцатое
 				<br />
-				Тьодрёрир пел
+				Тьодрерир пел
 				<br />
 				пред дверью Деллинга;
 				<br />
@@ -6311,7 +6314,7 @@ const highsspeeches = [
 				<br />
 				нужные людям,
 				<br />
-				ненужные ётунам.
+				ненужные етунам.
 				<br />
 				Благо сказавшему!
 				<br />

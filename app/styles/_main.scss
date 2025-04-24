@@ -1,17 +1,45 @@
 :root {
-    --sea-color: #203E51;
+    --sea-color: #203e51;
 }
 
 @font-face {
-    font-family: 'Goth';
-    src: url('/fonts/Gotham-Medium.woff2') format('woff2');
+    font-family: "Goth";
+    src: url("/fonts/Gotham-Medium.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Ephesis';
-    src: url('/fonts/Ephesis-Regular.woff2') format('woff2');
+    font-family: "Ephesis";
+    src: url("/fonts/Ephesis-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Eileen";
+    src: url("/fonts/Eileen-Caps-Black.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Elementary";
+    src: url("/fonts/Elementary-Gothic-Bookhand.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Kells";
+    src: url("/fonts/KellsFLF.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Feofan";
+    src: url("/fonts/Feofan.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }

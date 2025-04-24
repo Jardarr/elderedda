@@ -63,8 +63,8 @@ export default function EddaApp() {
         <main className="flex items-center justify-center text-sm md:text-base h-dvh">
             <div className="flex flex-col items-center w-[600px] rounded-md sm:mt-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1>Viðbætir</h1>
-                    <h2>Приложения</h2>
+                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Viðbætir</h1>
+                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Приложения</h2>
                 </div>
                 <div className="flex flex-col items-center w-full max-w-60 lg:max-w-full my-5">
                     {eddaApp.length > 0 ? (
@@ -75,12 +75,12 @@ export default function EddaApp() {
                                     href={item.link}
                                     title={item.title}
                                 >
-                                    <p className="mt-2 text-lg hover:text-sky-500">{item.text}</p>
+                                    <p className="mt-2 text-xl hover:text-sky-500" style={{ fontFamily: "Kells, sans-serif" }}>{item.text}</p>
                                 </Link>
                             ) : null // Пропускаем элементы с недостающими полями
                         ))
                     ) : (
-                        <p>Нет доступных приложений к Эдде.</p> // Сообщение, если нет данных
+                        null
                     )}
                 </div>
             </div>
