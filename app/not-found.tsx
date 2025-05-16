@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Page not found",
+    title: "Gjallarbru | Page not found",
     viewport: "width=device-width, initial-scale=1.0",
 };
 export default function NotFound() {

@@ -11,10 +11,10 @@ export default function Header() {
         <div className="flex w-full justify-between bg-white/20 dark:bg-black/30 backdrop-blur-lg shadow-lg absolute top-0 right-0 left-0 z-50 px-4 md:px-24">
             <div className="flex items-center">
                 <Link href="/">
-                    <Image className="w-14 sm:w-16 p-2" src="/jardarr-logo.png" width={150} height={30} alt="logo" />
+                    <Image className="w-14 sm:w-16 p-2" src="/gjallarbru.png" width={150} height={30} alt="logo" />
                 </Link>
-                <span className="uppercase sea-color w-10 sm:w-auto text-xs/3 sm:text-xl" style={{ fontFamily: "Goth, sans-serif" }}>
-                    Jardarr Elder Edda
+                <span className="uppercase  w-10 sm:w-auto text-xs/3 sm:text-xl" style={{ fontFamily: "Goth, sans-serif" }}>
+                    GJALLARBRU
                 </span>
             </div>
             <div className="flex items-center sea-color dark:text-neutral-300">

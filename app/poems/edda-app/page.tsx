@@ -4,16 +4,16 @@ import { Metadata, Viewport } from "next";
 import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
-	title: "Jardarr | Старшая Эдда - Приложения",
+	title: "Gjallarbru | Старшая Эдда - Приложения",
 	description: "Не властны мужи над богатством и силой, хоть сопутствует им успех. Несчастье приходит всегда неожиданно, никому не подвластна судьба.",
 	keywords: ["Elder Edda, Старшая Эдда, Приложения"],
 	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-	applicationName: "Jardarr | Elder Edda",
+	applicationName: "Gjallarbru | Elder Edda",
 	openGraph: {
-		title: "Jardarr | Старшая Эдда - Приложения",
+		title: "Gjallarbru | Старшая Эдда - Приложения",
 		description: "Не властны мужи над богатством и силой, хоть сопутствует им успех. Несчастье приходит всегда неожиданно, никому не подвластна судьба.",
-		url: "https://jardarr.ru",
-		siteName: "Jardarr | Elder Edda",
+		url: "https://gjallarbru.ru",
+		siteName: "Gjallarbru | Elder Edda",
 		images: [
 			{
 				url: "/og-logo.jpg",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "Jardarr | Старшая Эдда - Приложения",
+		title: "Gjallarbru | Старшая Эдда - Приложения",
 		description: "Не властны мужи над богатством и силой, хоть сопутствует им успех. Несчастье приходит всегда неожиданно, никому не подвластна судьба.",
 		images: ["/og-logo.jpg"],
 	},
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
 		},
 	},
 	alternates: {
-		canonical: "https://jardarr.ru",
+		canonical: "https://gjallarbru.ru",
 	},
 };
 

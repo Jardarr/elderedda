@@ -4,22 +4,22 @@ import { Metadata, Viewport } from "next";
 import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
-	title: "Jardarr | Песни о Богах",
+	title: "Gjallarbru | Песни о Богах",
 	description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
 	keywords: ["Elder Edda, Старшая Эдда, Песни о Богах"],
 	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-	applicationName: "Jardarr | Elder Edda",
+	applicationName: "Gjallarbru | Elder Edda",
 	openGraph: {
-		title: "Jardarr | Песни о Богах",
+		title: "Gjallarbru | Песни о Богах",
 		description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
-		url: "https://jardarr.ru",
-		siteName: "Jardarr | Elder Edda",
+		url: "https://gjallarbru.ru",
+		siteName: "Gjallarbru | Elder Edda",
 		images: [
 			{
 				url: "/og-logo.jpg",
 				width: 800,
 				height: 600,
-				alt: "Jardarr | Elder Edda",
+				alt: "Gjallarbru | Elder Edda",
 			},
 		],
 		locale: "ru-RU",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "Jardarr | Песни о Богах",
+		title: "Gjallarbru | Песни о Богах",
 		description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
 		images: ["/og-logo.jpg"],
 	},
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
 		},
 	},
 	alternates: {
-		canonical: "https://jardarr.ru",
+		canonical: "https://gjallarbru.ru",
 	},
 };
 
