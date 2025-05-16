@@ -2,22 +2,22 @@ import Dictionary from "@/app/components/Dictionary";
 import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Словарь",
+    title: "Gjallarbru | Словарь",
     description: "Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона",
     keywords: ["Elder Edda, Старшая Эдда, Словарь"],
     authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-    applicationName: "Jardarr | Elder Edda",
+    applicationName: "Gjallarbru | Elder Edda",
     openGraph: {
         title: "Jardarr | Словарь",
         description: "Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона",
-        url: "https://jardarr.ru",
-        siteName: "Jardarr | Elder Edda",
+        url: "https://gjallarbru.ru",
+        siteName: "Gjallarbru | Elder Edda",
         images: [
             {
                 url: "/og-logo.jpg",
                 width: 800,
                 height: 600,
-                alt: "Jardarr | Elder Edda",
+                alt: "Gjallarbru | Elder Edda",
             },
         ],
         locale: "ru-RU",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Jardarr | Словарь",
+        title: "Gjallarbru | Словарь",
         description: "Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона",
         images: ["/og-logo.jpg"],
     },
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
         },
     },
     alternates: {
-        canonical: "https://jardarr.ru",
+        canonical: "https://gjallarbru.ru",
     },
 };
 

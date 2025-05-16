@@ -1,26 +1,25 @@
 import React from "react";
 import { volvasprophecy } from "./page.utils";
 import { Metadata, Viewport } from "next";
-import { Home } from "lucide-react";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Прорицание вёльвы",
+    title: "Gjallarbru | Прорицание вёльвы",
     description: "Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.",
     keywords: ["Elder Edda, Старшая Эдда, Прорицание вёльвы"],
     authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-    applicationName: "Jardarr | Elder Edda",
+    applicationName: "Gjallarbru | Elder Edda",
     openGraph: {
-        title: "Jardarr | Прорицание вёльвы",
+        title: "Gjallarbru | Прорицание вёльвы",
         description: "Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.",
-        url: "https://jardarr.ru",
-        siteName: "Jardarr | Elder Edda",
+        url: "https://gjallarbru.ru",
+        siteName: "Gjallarbru | Elder Edda",
         images: [
             {
                 url: "/og-logo.jpg",
                 width: 800,
                 height: 600,
-                alt: "Jardarr | Elder Edda",
+                alt: "Gjallarbru | Elder Edda",
             },
         ],
         locale: "ru-RU",
@@ -28,7 +27,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Jardarr | Прорицание вёльвы",
+        title: "Gjallarbru | Прорицание вёльвы",
         description: "Внимайте мне все священные роды, великие с малыми Хеймдалля дети! О́дин, ты хочешь, чтоб я рассказала о прошлом всех сущих, о древнем, что помню.",
         images: ["/og-logo.jpg"],
     },
@@ -46,7 +45,7 @@ export const metadata: Metadata = {
         },
     },
     alternates: {
-        canonical: "https://jardarr.ru",
+        canonical: "https://gjallarbru.ru",
     },
 };
 
@@ -63,7 +62,7 @@ export default function VolvasProphecy() {
             <div className="flex flex-col w-[600px] rounded-md mt-20">
                 <span className="hidden sm:flex text-xs text-neutral-500">
                     <Link className="hover:text-sky-500" href="/">
-                        Jardarr Elder Edda
+                        Gjallarbru Elder Edda
                     </Link>
                     &nbsp;/&nbsp;
                     <Link className="hover:text-sky-500" href="/poems/about-gods">

@@ -4,24 +4,24 @@ import { Metadata, Viewport } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-    title: "Jardarr | Речи Гримнира",
+    title: "Gjallarbru | Речи Гримнира",
     description:
         "У конунга Храудунга было два сына: одного звали Агнар, другого — Гейррёд. Агнару было десять зим, а Гейррёду — восемь. Однажды они поехали вдвоем на лодке со своею снастью половить рыбу.",
     keywords: ["Elder Edda, Старшая Эдда, Речи Гримнира"],
     authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-    applicationName: "Jardarr | Elder Edda",
+    applicationName: "Gjallarbru | Elder Edda",
     openGraph: {
-        title: "Jardarr | Речи Гримнира",
+        title: "Gjallarbru | Речи Гримнира",
         description:
             "У конунга Храудунга было два сына: одного звали Агнар, другого — Гейррёд. Агнару было десять зим, а Гейррёду — восемь. Однажды они поехали вдвоем на лодке со своею снастью половить рыбу.",
-        url: "https://jardarr.ru",
-        siteName: "Jardarr | Elder Edda",
+        url: "https://gjallarbru.ru",
+        siteName: "Gjallarbru | Elder Edda",
         images: [
             {
                 url: "/og-logo.jpg",
                 width: 800,
                 height: 600,
-                alt: "Jardarr | Elder Edda",
+                alt: "Gjallarbru | Elder Edda",
             },
         ],
         locale: "ru-RU",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Jardarr | Речи Гримнира",
+        title: "Gjallarbru | Речи Гримнира",
         description:
             "У конунга Храудунга было два сына: одного звали Агнар, другого — Гейррёд. Агнару было десять зим, а Гейррёду — восемь. Однажды они поехали вдвоем на лодке со своею снастью половить рыбу.",
         images: ["/og-logo.jpg"],
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
         },
     },
     alternates: {
-        canonical: "https://jardarr.ru",
+        canonical: "https://gjallarbru.ru",
     },
 };
 
@@ -65,7 +65,7 @@ export default function GrimnirsSpeeches() {
             <div className="flex flex-col w-[600px] rounded-md mt-20">
                 <span className="hidden sm:flex text-xs text-neutral-500">
                     <Link className="hover:text-sky-500" href="/">
-                        Jardarr Elder Edda
+                        Gjallarbru Elder Edda
                     </Link>
                     &nbsp;/&nbsp;
                     <Link className="hover:text-sky-500" href="/poems/about-gods">

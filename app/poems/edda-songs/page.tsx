@@ -4,22 +4,22 @@ import { Metadata, Viewport } from "next";
 import EddaList from "@/app/utils/EddaList";
 
 export const metadata: Metadata = {
-	title: "Jardarr | Эддические песни",
+	title: "Gjallarbru | Эддические песни",
 	description: "Домой поезжай! Гордись своей славой! Отныне сюда никто не придет, пока свои узы Локи не сбросит и не настанет гибель богов!",
 	keywords: ["Elder Edda, Старшая Эдда, Эддические песни"],
 	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-	applicationName: "Jardarr | Elder Edda",
+	applicationName: "Gjallarbru | Elder Edda",
 	openGraph: {
-		title: "Jardarr | Эддические песни",
+		title: "Gjallarbru | Эддические песни",
 		description: "Домой поезжай! Гордись своей славой! Отныне сюда никто не придет, пока свои узы Локи не сбросит и не настанет гибель богов!",
-		url: "https://jardarr.ru",
-		siteName: "Jardarr | Elder Edda",
+		url: "https://gjallarbru.ru",
+		siteName: "Gjallarbru | Elder Edda",
 		images: [
 			{
 				url: "/og-logo.jpg",
 				width: 800,
 				height: 600,
-				alt: "Jardarr | Elder Edda",
+				alt: "Gjallarbru | Elder Edda",
 			},
 		],
 		locale: "ru-RU",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "Jardarr | Эддические песни",
+		title: "Gjallarbru | Эддические песни",
 		description: "Домой поезжай! Гордись своей славой! Отныне сюда никто не придет, пока свои узы Локи не сбросит и не настанет гибель богов!",
 		images: ["/og-logo.jpg"],
 	},
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
 		},
 	},
 	alternates: {
-		canonical: "https://jardarr.ru",
+		canonical: "https://gjallarbru.ru",
 	},
 };
 
