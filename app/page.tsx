@@ -58,7 +58,7 @@ export default function Home() {
     return (
         <div className="flex flex-col items-center justify-center">
             <Hero />
-            <div className="max-w-xl text-center p-5 text-xs italic sea-color dark:text-neutral-300">
+            <div style={{ fontFamily: "Good-vibes, sans-serif" }} className="max-w-2xl text-center p-5 text-lg sea-color dark:text-neutral-300">
                 <p className="mb-2">Добро пожаловать на Gjallarbru — портал, вдохновлённый древнескандинавской мифологией и её глубинной связью между человеческим и божественным.</p>
                 <p className="mb-2">
                     В мифах Gjallarbrú — мост, ведущий через реку Гьёлль к Хельхейму, миру мёртвых. Но в символическом смысле — это путь понимания, соединяющий нас с миром духов, с
