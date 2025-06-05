@@ -1,7 +1,6 @@
 :root {
   --sea-color: #203e51;
 }
-
 @font-face {
   font-family: "Goth";
   src: url("/fonts/Gotham-Medium.woff2") format("woff2");
