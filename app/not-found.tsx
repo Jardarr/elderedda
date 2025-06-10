@@ -1,9 +1,15 @@
-import { Metadata } from "next";
+import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Page not found",
-    viewport: "width=device-width, initial-scale=1.0",
 };
+
+export const viewport: Viewport = {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1,
+    userScalable: false,
+}
 export default function NotFound() {
     return (
         <div className="flex justify-center items-center bg-not-found bg-cover bg-fixed bg-top bg-no-repeat h-dvh">
