@@ -5,8 +5,8 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     A
                 </span>
                 r var þat Gunnarr
@@ -28,7 +28,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 То было когда
                 <br />
                 Гуннар сын Гьюки
@@ -53,7 +53,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fengin var harpa
                 <br />
                 fólkdjörfum gram,
@@ -73,7 +73,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Арфу он взял,
                 <br />
                 воин-правитель,
@@ -98,7 +98,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Söng þá Gunnarr
                 <br />
                 svá mælandi,
@@ -118,7 +118,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар же речи
                 <br />
                 такие завел,
@@ -143,7 +143,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 „Mína veit ek systur
                 <br />
                 manni verst gefna
@@ -163,7 +163,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Знаю, сестру мою
                 <br />
                 отдали худшему,
@@ -187,7 +187,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Víg lét þá
                 <br />
                 fyrir veizlu taka
@@ -207,7 +207,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Убийство затеял
                 <br />
                 за пира столом,
@@ -232,7 +232,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hví þú svá, Atli,
                 <br />
                 heiptir rœkir?
@@ -252,7 +252,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли, зачем
                 <br />
                 ты гнев свой обрушил?
@@ -277,7 +277,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sagði Huginn forðum
                 <br />
                 af hám meiði
@@ -297,7 +297,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хугин на древе
                 <br />
                 высоком сидел,
@@ -322,7 +322,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gat þess ok Glaumvör
                 <br />
                 er við gistum bæði
@@ -342,7 +342,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Глаумвер так мне
                 <br />
                 на ложе сказала,
@@ -367,7 +367,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dör sá ek þínum
                 <br />
                 dreyra roðinn,
@@ -387,7 +387,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Копье твоей кровью
                 <br />
                 омытое видела,
@@ -412,7 +412,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kvað ok Kostbera,
                 <br />
                 kvæn var hon Högna,
@@ -432,7 +432,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Костбера видела,
                 <br />
                 Хегни жена,
@@ -457,7 +457,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Oss hafa nornir
                 <br />
                 aldr um lagit,
@@ -477,7 +477,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Норны отмерили
                 <br />
                 Гьюки сынам
@@ -502,7 +502,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlær mik þat, Atli,
                 <br />
                 at þú hefir eigi
@@ -522,7 +522,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Счастлив я, Атли,
                 <br />
                 что ты не получишь
@@ -546,7 +546,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlær mik þat, Atli,
                 <br />
                 at þér Húna kindir
@@ -566,7 +566,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Счастлив я, Атли,
                 <br />
                 что Хегни веселому
@@ -591,7 +591,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlær mik þat, Atli,
                 <br />
                 at þú hefir látna
@@ -611,7 +611,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Счастлив я, Атли,
                 <br />
                 что наши мечи
@@ -636,7 +636,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skalat enn Gunnarr
                 <br />
                 æðru mæla,
@@ -656,7 +656,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но Гуннар не знает,
                 <br />
                 Гьюки потомок,
@@ -681,7 +681,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fyrr skal mér Góinn
                 <br />
                 grafa til hjarta
@@ -701,7 +701,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гоин мне пусть
                 <br />
                 сердце пронзает
@@ -725,7 +725,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þess mun Guðrún
                 <br />
                 grálega reka,
@@ -745,7 +745,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли, послушай
                 <br />
                 Гудрун тебе
@@ -770,7 +770,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 ok blandinn mjöð
                 <br />
                 blóði þeira
@@ -790,7 +790,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 с кровью их смешанный
                 <br />
                 пить будешь мед
@@ -815,7 +815,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skömm mun þín ævi
                 <br />
                 at skjöldunga liðna.
@@ -835,7 +835,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Скроет позор твой
                 <br />
                 скьельдунгов славу,
@@ -860,7 +860,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mun þik Guðrún
                 <br />
                 geiri leggja
@@ -880,7 +880,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Копьем тебя наземь
                 <br />
                 Гудрун повергнет
@@ -905,7 +905,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sofinn er nú Grábakr
                 <br />
                 ok Grafvitnir,
@@ -929,7 +929,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грабак и Граввитнир
                 <br />
                 и Граввеллуд,
@@ -958,7 +958,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ein vakir uppi
                 <br />
                 Atla móðir,
@@ -978,7 +978,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Только лишь Атли
                 <br />
                 мать не уснула,
@@ -1003,7 +1003,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hættu nú, harpa,
                 <br />
                 heðan mun ek líða
@@ -1023,7 +1023,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Арфа, умолкни!
                 <br />
                 Ведь я ухожу
@@ -1048,7 +1048,7 @@ const gunnarschant = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú er Gunnars slagr
                 <br />
                 görva kveðinn,
@@ -1068,7 +1068,7 @@ const gunnarschant = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннара песня
                 <br />
                 к концу подошла

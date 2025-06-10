@@ -6,7 +6,7 @@ const songofhelgasonofhjorvard = [
         contentON: (
             <span>
                 <p className="mb-2 text-center">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         F
                     </span>
                     rá Hjörvarði ok Sigrlinn.
@@ -50,10 +50,10 @@ const songofhelgasonofhjorvard = [
         number: "1.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Sáttu Sigrlinn Sváfnis dóttur, mey ina fegrstu í munarheimi? Þó hagligar Hjörvarðs konur gumnum þykkja at Glasislundi.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">«Sáttu Sigrlinn Sváfnis dóttur, mey ina fegrstu í munarheimi? Þó hagligar Hjörvarðs konur gumnum þykkja at Glasislundi.»</span>,
 
         contentRU: (
-            <span className="flex w-40">«Сигрлинн ты видел ли, Свафнира дочь? Нет ее краше в целой вселенной! Хоть и красивей Хьерварда жены воинам кажутся в Глясислунде».</span>
+            <span className="flex w-40 sm:w-60">«Сигрлинн ты видел ли, Свафнира дочь? Нет ее краше в целой вселенной! Хоть и красивей Хьерварда жены воинам кажутся в Глясислунде».</span>
         ),
     },
     {
@@ -62,7 +62,7 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað:
                 <br />
                 «Mundu við Atla
@@ -86,7 +86,7 @@ const songofhelgasonofhjorvard = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли сказал:
                 <br />
                 «Мудрая птица,
@@ -115,13 +115,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað: «Kjós-at-tu Hjörvarð né hans sonu né inar fögru fylkis brúðir, eigi brúðir þær, er buðlungr á; kaupum vel saman, þat er vina kynni.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли сказал: «Только не выбери Хьерварда князя, ни его сыновей, ни жен прекрасных, жен, которыми конунг владеет. Торг будет честный, — то дружбы обычай!»
             </span>
         ),
@@ -132,11 +132,11 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">Fuglinn kvað: «Hof mun ek kjósa, hörga marga, gullhyrnðar kýr frá grams búi, ef hánum Sigrlinn sefr á armi ok ónauðig jöfri fylgir.»</span>
+            <span className="flex w-40 sm:w-60">Fuglinn kvað: «Hof mun ek kjósa, hörga marga, gullhyrnðar kýr frá grams búi, ef hánum Sigrlinn sefr á armi ok ónauðig jöfri fylgir.»</span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Птица сказала: «Выберу храм, возьму алтари и коров златорогих из княжьего стада, коль Сигрлинн будет на ложе князя, если за ним последует всюду».
             </span>
         ),
@@ -163,13 +163,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Höfum erfiði ok ekki örindi, mara þraut óra á meginfjalli, urðum síðan Sæmorn vaða, þá var oss synjat Sváfnis dóttur, hringum gæddrar, er vér hafa vildum.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Наши старанья даром пропали: кони погибли в горах высоких, перебирались мы вброд через Семорн; а сватовство к Свафнира дочери в пышных уборах не удалось нам».
             </span>
         ),
@@ -217,13 +217,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Síð muntu, Helgi, hringum ráða, ríkr rógapaldr, né Röðulsvöllum, — örn gól árla, — ef þú æ þegir, þótt þú harðan hug, hilmir, gjaldir.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Поздно ты, Хельги, воин могучий, казной завладеешь и Редульсвеллиром, — орел кричит рано, — коль будешь молчать, пусть даже мужество, князь, покажешь».
             </span>
         ),
@@ -234,13 +234,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað: «Hvat lætr þú fylgja Helga nafni, brúðr bjartlituð, alls þú bjóða ræðr? Hygg þú fyr öllum atkvæðum vel. Þigg ek eigi þat, nema ek þik hafa.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал: «Светлая дева, что дашь в придачу, коль имя Хельги ты дать мне властна! О том, что скажешь, подумай крепко! Не будешь моей — на что мне имя!»
             </span>
         ),
@@ -251,11 +251,11 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">Valkyrja kvað: «Sverð veit ek liggja í Sigarsholmi fjórum færi en fimm tögu; eitt er þeira öllum betra vígnesta böl ok varit gulli.</span>
+            <span className="flex w-40 sm:w-60">Valkyrja kvað: «Sverð veit ek liggja í Sigarsholmi fjórum færi en fimm tögu; eitt er þeira öllum betra vígnesta böl ok varit gulli.</span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Валькирия сказала: «Мечи лежат на Сигарсхольме, четырьмя там меньше, чем пять десятков; есть там один самый лучший, золотом убран, — гибель для копий.
             </span>
         ),
@@ -266,13 +266,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hringr er í hjalti, hugr er í miðju, ógn er í oddi þeim er eiga getr; liggr með eggju ormr dreyrfáiðr, en á valböstu verpr naðr hala.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С кольцом рукоять, храбрость в клинке, страх в острие для тех, чьим он станет; на лезвие змей окровавленный лег, другой обвивает хвостом рукоять».
             </span>
         ),
@@ -304,13 +304,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Ert-at-tu, Hjörvarðr heilráðr konungr, folks oddviti, þótt þú frægr séir; léztu eld eta jöfra byggðir, en þeir angr við þik ekki gerðu.
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Неладно решил ты, конунг Хьервард, хоть ты и славен, войск предводитель; сожрать дал огню князей жилища, а ты вреда не видел от воинов.
             </span>
         ),
@@ -320,10 +320,10 @@ const songofhelgasonofhjorvard = [
         number: "11.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">En Hróðmarr skal hringum ráða, þeim er áttu órir niðjar; sá sésk fylkir fæst at lífi, hyggsk aldauða arfi at ráða.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">En Hróðmarr skal hringum ráða, þeim er áttu órir niðjar; sá sésk fylkir fæst at lífi, hyggsk aldauða arfi at ráða.»</span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но Хродмар владеть смеет богатством, что некогда было у родичей наших; мало за жизнь свою он боится, думает — мертвых наследьем владеет».
             </span>
         ),
@@ -357,7 +357,7 @@ const songofhelgasonofhjorvard = [
         class: "m-7",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 <div className="subtitle">
                     <p>Hrímgerðarmál</p>
                 </div>
@@ -370,19 +370,19 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">«Hverir ro hölðar í Hatafirði? Skjöldum er tjaldat á skipum; fræknliga látið, fátt hygg ek yðr séask, kennið mér nafn konungs.»</span>
+            <span className="flex w-40 sm:w-60">«Hverir ro hölðar í Hatafirði? Skjöldum er tjaldat á skipum; fræknliga látið, fátt hygg ek yðr séask, kennið mér nafn konungs.»</span>
         ),
 
-        contentRU: <span className="flex w-40">«Кто эти воины в Хатафьорде? Щиты на бортах, смелы вы с виду, ничто не страшит вас; кто же ваш конунг?»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">«Кто эти воины в Хатафьорде? Щиты на бортах, смелы вы с виду, ничто не страшит вас; кто же ваш конунг?»</span>,
     },
     {
         id: 19,
         number: "13.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Atli kvað: «Helgi hann heitir, en þú hvergi mátt vinna grand grami; járnborgir ro of öðlings flota; knegu-t oss fálur fara.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">Atli kvað: «Helgi hann heitir, en þú hvergi mátt vinna grand grami; járnborgir ro of öðlings flota; knegu-t oss fálur fara.»</span>,
 
-        contentRU: <span className="flex w-40">Атли сказал: «Хельги наш конунг, ты не смогла бы зло причинить ему; наши ладьи железом окованы, — ведьм не страшимся мы».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Хельги наш конунг, ты не смогла бы зло причинить ему; наши ладьи железом окованы, — ведьм не страшимся мы».</span>,
     },
     {
         id: 20,
@@ -390,10 +390,10 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">Hrímgerðr kvað: «Hvé þik heitir, halr inn ámáttki, hvé þik kalla konir? Fylkir þér trúir, er þik í fögrum lætr beits stafni búa.»</span>
+            <span className="flex w-40 sm:w-60">Hrímgerðr kvað: «Hvé þik heitir, halr inn ámáttki, hvé þik kalla konir? Fylkir þér trúir, er þik í fögrum lætr beits stafni búa.»</span>
         ),
 
-        contentRU: <span className="flex w-40">«Как ты зовешься, воин могучий? — молвила Хримгерд. — Князь тебе верит, если велел он стоять на носу».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">«Как ты зовешься, воин могучий? — молвила Хримгерд. — Князь тебе верит, если велел он стоять на носу».</span>,
     },
     {
         id: 21,
@@ -401,19 +401,19 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">Atli kvað: «Atli ek heiti, atall skal ek þér vera, mjök em ek gífrum gramastr; úrgan stafn ek hefi oft búit ok kvalðar kveldriður.</span>
+            <span className="flex w-40 sm:w-60">Atli kvað: «Atli ek heiti, atall skal ek þér vera, mjök em ek gífrum gramastr; úrgan stafn ek hefi oft búit ok kvalðar kveldriður.</span>
         ),
 
-        contentRU: <span className="flex w-40">Атли сказал: «Атли мне имя, дрожи, ужасайся, чудищ гублю я; часто с ладьи топил я в море всадниц ночных.</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Атли мне имя, дрожи, ужасайся, чудищ гублю я; часто с ладьи топил я в море всадниц ночных.</span>,
     },
     {
         id: 22,
         number: "16.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hvé þú heitir, hála nágráðug? Nefndu þinn, fála, föður; níu röstum er þú skyldi neðar vera ok vaxi þér á baðmi barr.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">Hvé þú heitir, hála nágráðug? Nefndu þinn, fála, föður; níu röstum er þú skyldi neðar vera ok vaxi þér á baðmi barr.»</span>,
 
-        contentRU: <span className="flex w-40">Кто ты, ведьма, жадная к трупам? Отца назови мне! В землю ступай, и пусть из тебя дерево вырастет!»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Кто ты, ведьма, жадная к трупам? Отца назови мне! В землю ступай, и пусть из тебя дерево вырастет!»</span>,
     },
     {
         id: 23,
@@ -421,12 +421,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrímgerðr kvað: «Hrímgerðr ek heiti, Hati hét minn faðir, þann vissa ek ámáttkastan jötun; margar brúðir hann lét frá búi teknar, unz hann Helgi hjó.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Хримгерд сказала: «Хримгерд зовусь я, Хати, отец мой, великан был могучий; женщин немало из дома похитил; Хельги убил его».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Хримгерд сказала: «Хримгерд зовусь я, Хати, отец мой, великан был могучий; женщин немало из дома похитил; Хельги убил его».</span>,
     },
     {
         id: 24,
@@ -434,12 +434,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað: «Þú vart, hála, fyr hildings skipum ok látt í fjarðar mynni fyrir; ræsis rekka er þú vildir Rán gefa, ef þér kæmi-t í þverst þvari.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Атли сказал: «Пред флотом героя в устье фьорда торчала ты, ведьма, дружину вождя Ран обрекая, но копьем пронзена ты».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Пред флотом героя в устье фьорда торчала ты, ведьма, дружину вождя Ран обрекая, но копьем пронзена ты».</span>,
     },
     {
         id: 25,
@@ -447,13 +447,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrímgerðr kvað: «Duliðr ertu nú, Atli, draums kveð ek þér vera, síga lætr þú brýnn fyr bráar; móðir mín lá fyrir mildings skipum; ek drekkða Hlövarðs sonum í hafi.
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">Хримгерд сказала: «Ты, Атли, ошибся, во сне ты грезишь! То мать запирала ладьи во фьорде, я ж отпрысков Хледвера в море топила.</span>
+            <span className="flex w-40 sm:w-60">Хримгерд сказала: «Ты, Атли, ошибся, во сне ты грезишь! То мать запирала ладьи во фьорде, я ж отпрысков Хледвера в море топила.</span>
         ),
     },
     {
@@ -462,12 +462,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gneggja myndir þú, Atli, ef þú geldr né værir, brettir sinn Hrímgerðr hala; aftarla hjarta, hygg ek, at þitt, Atli, sé, þótt hafir reina rödd.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Теперь не заржешь, холощеный Атли, коль хвост задеру я! Не в зад ли ушло твое сердце, Атли, хоть голосом конь ты!»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Теперь не заржешь, холощеный Атли, коль хвост задеру я! Не в зад ли ушло твое сердце, Атли, хоть голосом конь ты!»</span>,
     },
     {
         id: 27,
@@ -475,12 +475,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað: «Reini mun þér ek þykkja ef þú reyna knátt, ok stíga ek á land af legi, öll muntu lemjask, ef mér er alhugat, ok sveigja þinn, Hrímgerðr, hala.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Атли сказал: «Испытай на себе — каков жеребец я: сойду на берег, тебя растерзаю! Стоит мне захотеть — и хвост ты опустишь!»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Испытай на себе — каков жеребец я: сойду на берег, тебя растерзаю! Стоит мне захотеть — и хвост ты опустишь!»</span>,
     },
     {
         id: 28,
@@ -488,13 +488,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrímgerðr kvað: «Atli, gakk þú á land, ef afli treystisk, ok hittumk í vík Varins; rifja rétti er þú munt, rekkr, fáa, ef þú mér í krummur kemr.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хримгерд сказала: «Сойди же на берег, в силе уверенный, — жди меня в Варинсвик! Ребра я выпрямлю воину храброму, коль мне попадешься!»
             </span>
         ),
@@ -504,9 +504,9 @@ const songofhelgasonofhjorvard = [
         number: "23.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Atli kvað: «Munk-a ek ganga, áðr gumnar vakna ok halda of vísa vörð; er-a mér örvænt, nær óru kemr skass upp undir skipi.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">Atli kvað: «Munk-a ek ganga, áðr gumnar vakna ok halda of vísa vörð; er-a mér örvænt, nær óru kemr skass upp undir skipi.»</span>,
 
-        contentRU: <span className="flex w-40">Атли сказал: «Нет, не сойду: уснула дружина, вождя стерегу я; не стану дивиться, под килем ладьи ведьму увидев».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Нет, не сойду: уснула дружина, вождя стерегу я; не стану дивиться, под килем ладьи ведьму увидев».</span>,
     },
     {
         id: 30,
@@ -514,12 +514,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrímgerðr kvað: «Vaki þú, Helgi, ok bæt við Hrímgerði, er þú lézt höggvinn Hata; eina nótt kná hon hjá jöfri sofa, þá hefr hon bölva bætr.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Хримгерд сказала: «Хельги, очнись, выкуп дай Хримгерд, Хати убийца! Ночь бы одну переспать ей с князем, — вот был бы выкуп!»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Хримгерд сказала: «Хельги, очнись, выкуп дай Хримгерд, Хати убийца! Ночь бы одну переспать ей с князем, — вот был бы выкуп!»</span>,
     },
     {
         id: 31,
@@ -527,12 +527,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað: «Loðinn heitir, er þik skal eiga, leið ertu mannkyni, sá býr í Þolleyju þurs, hundvíss jötunn, hraunbúa verstr, sá er þér makligr maðr.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Атли сказал: «Лодин — жених твой, противна ты людям, на острове Толлей турс обитает, злой великан, — вот муж твой достойный».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Лодин — жених твой, противна ты людям, на острове Толлей турс обитает, злой великан, — вот муж твой достойный».</span>,
     },
     {
         id: 32,
@@ -540,14 +540,14 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrímgerðr kvað: «Hina vildu heldr, Helgi, er réð hafnir skoða fyrri nótt með firum; marggullin mær mér þótti afli bera; hér sté hon land af legi ok festi svá yðvarn
                 flota; hon ein því veldr, er ek eigi mák buðlungs mönnum bana.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хримгерд сказала: «Милей тебе, Хельги, та, что с дружиной гавань искала ночью минувшей; дева, вся в золоте, сошла на берег, ваш флот охраняла; из-за нее-то мне не
                 расправиться с войском конунга».
             </span>
@@ -559,12 +559,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað: «Heyr nú, Hrímgerðr, ef ek bæti harma þér, segðu görr grami: Var sú ein vættr, er barg öðlings skipum, eða fóru þær fleiri saman?»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Атли сказал: «Слушай, Хримгерд, возмещу твое горе, если князю поведаешь: одна ли валькирия флот охраняла иль много их было?»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Слушай, Хримгерд, возмещу твое горе, если князю поведаешь: одна ли валькирия флот охраняла иль много их было?»</span>,
     },
     {
         id: 34,
@@ -572,14 +572,14 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrímgerðr kvað: «Þrennar níundir meyja, þó reið ein fyrir hvít und hjalmi mær; marir hristusk, stóð af mönum þeira dögg í djúpa dali, hagl í háva viðu; þaðan kemr
                 með öldum ár, allt var mér þat leitt, er ek leitk.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хримгерд сказала: «Три раза девять, но светлая дева мчалась пред ними; кони дрожали, с грив их спадала роса на долины, град на леса, урожай обещая; претило смотреть
                 мне!»
             </span>
@@ -591,12 +591,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað: «Austr líttu nú, Hrímgerðr, ef þik lostna hefr Helgi helstöfum; á landi ok á vatni borgit er lofðungs flota ok siklings mönnum it sama.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Атли сказал: «Взгляни на восток — не разит ли Хельги рунами смерти? На суше, на море спаслась дружина и княжьи ладьи!</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли сказал: «Взгляни на восток — не разит ли Хельги рунами смерти? На суше, на море спаслась дружина и княжьи ладьи!</span>,
     },
     {
         id: 36,
@@ -604,12 +604,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað: «Dagr er nú, Hrímgerðr, en þik dvalða hefr Atli til aldrlaga; hafnarmark þykkir hlægligt vera, þars þú í steins líki stendr.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Атли тебя задержал до восхода, — погибнешь теперь; в камень приметный у входа в гавань ты превратишься!»</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Атли тебя задержал до восхода, — погибнешь теперь; в камень приметный у входа в гавань ты превратишься!»</span>,
     },
     {
         id: 37,
@@ -653,13 +653,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Kom þú heill, Heðinn, hvat kanntu segja nýra spjalla ór Nóregi? Hví er þér, stillir, stökkt ór landi ok ert einn kominn oss at finna?»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Здравствуй, Хедин, какие вести? Что нового слышно в земле норвежской? За что тебя, вождь, из дому выгнали, почему ты один идешь мне навстречу?»
             </span>
         ),
@@ -670,12 +670,12 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heðinn kvað: «[Erumk-a, stillir, stökkt ór landi], mik hefr miklu glæpr meiri sóttan: Ek hefi körna ina konungbornu brúði þína at bagarfulli.»
             </span>
         ),
 
-        contentRU: <span className="flex w-40">Хедин сказал: «Худшее горе меня постигло: выбрал я деву, рожденную конунгом, — о невесте твоей обет произнес я».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Хедин сказал: «Худшее горе меня постигло: выбрал я деву, рожденную конунгом, — о невесте твоей обет произнес я».</span>,
     },
     {
         id: 40,
@@ -683,14 +683,14 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað: «Sakask eigi þú, sönn munu verða ölmál, Heðinn, okkur beggja. Mér hefir stillir stefnt til eyrar, þriggja nátta skylak þar koma; if er mér á því, at ek
                 aftr koma; þá má at góðu gerask slíkt, ef skal.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал: «Себя не вини! Может быть, станет правым обет твой для нас обоих: князь меня вызвал на мыс песчаный, на третью ночь туда я направлюсь; вряд ли смогу
                 назад возвратиться; тогда твой обет будет ко благу».
             </span>
@@ -702,13 +702,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heðinn kvað: «Sagðir þú, Helgi, at Heðinn væri góðs verðr frá þér ok gjafa stórra; þér er sæmra sverð at rjóða, en frið gefa fjándum þínum.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хедин сказал: «Хельги, сказал ты, что Хедин достоин добра от тебя и даров богатых; пристойней тебе свой меч окровавить, чем мир даровать дерзким врагам».
             </span>
         ),
@@ -739,11 +739,11 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">«Reið á vargi, er rökvit var, fljóð eitt, er Heðinn fylgju beiddi; hón vissi þat, at veginn myndi Sigrlinnar sonr á Sigarsvöllum.»</span>
+            <span className="flex w-40 sm:w-60">«Reið á vargi, er rökvit var, fljóð eitt, er Heðinn fylgju beiddi; hón vissi þat, at veginn myndi Sigrlinnar sonr á Sigarsvöllum.»</span>
         ),
 
         contentRU: (
-            <span className="flex w-40">«На волке верхом ехала в сумерки та, что хотела стать его спутницей; знала она, что смерть ожидает Сигрлинн сына на Сигарсвеллире».</span>
+            <span className="flex w-40 sm:w-60">«На волке верхом ехала в сумерки та, что хотела стать его спутницей; знала она, что смерть ожидает Сигрлинн сына на Сигарсвеллире».</span>
         ),
     },
     {
@@ -767,10 +767,10 @@ const songofhelgasonofhjorvard = [
         number: "36.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Sendi Helgi Sigar at ríða eftir Eylima eingadóttur; «Bið bráðliga búna verða, ef hon vill finna fylki kvikvan.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">Sendi Helgi Sigar at ríða eftir Eylima eingadóttur; «Bið bráðliga búna verða, ef hon vill finna fylki kvikvan.»</span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От Хельги тогда Сигар был послан за дочкой единственной конунга Эйлими, — пусть соберется в дорогу скорее, если живым застать хочет князя.
             </span>
         ),
@@ -781,11 +781,11 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">Sigarr kvað: «Mik hefr Helgi hingat sendan við þik, Sváfa, sjalfa at mæla; þik kvaðsk hilmir hitta vilja, áðr ítrborinn öndu týndi.»</span>
+            <span className="flex w-40 sm:w-60">Sigarr kvað: «Mik hefr Helgi hingat sendan við þik, Sváfa, sjalfa at mæla; þik kvaðsk hilmir hitta vilja, áðr ítrborinn öndu týndi.»</span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигар сказал: «Хельги меня сюда отправил, чтобы с тобой говорить мне, Свафа; конунг желает тебя увидеть, прежде чем он расстанется с жизнью».
             </span>
         ),
@@ -796,13 +796,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sváfa kvað: «Hvat varð Helga Hjörvarðs syni? Mér er harðliga harma leitat, ef hann sær of lék eða sverð of beit, þeim skal ek gumna grand of vinna.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свафа сказала: «Что же с Хельги, Хьерварда сыном? Ты мне приносишь горе жестокое! В волнах он погиб, мечом ли зарублен, — я отомщу за гибель героя!»
             </span>
         ),
@@ -813,13 +813,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigarr kvað: «Fell hér í morgun at Frekasteini, buðlungr, sá er var, baztr und sólu; Alfr mun sigri öllum ráða, þótt þetta sinn þörfgi væri.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигар сказал: «Пал поутру у Волчьего Камня конунг, что был лучшим под солнцем; Альв победой мог бы гордиться, только напрасно ее одержал он».
             </span>
         ),
@@ -830,13 +830,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað: «Heil vertu, Sváfa, hug skaltu deila, sjá mun í heími hinztr fundr vera; téa buðlungi blæða undir, mér hefir hjörr komit hjarta it næsta.
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал: «Здравствуй, Свафа! Умерь свою скорбь! Будет последнею наша встреча: кровью исходят конунга раны; меч поразил меня рядом с сердцем.
             </span>
         ),
@@ -846,9 +846,9 @@ const songofhelgasonofhjorvard = [
         number: "41.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Bið ek þik, Sváfa, — brúðr grát-at-tu —, ef þú vill mínu máli hlýða, at þú Heðni hvílu gervir ok jöfur ungan ástum leiðir.»</span>,
+        contentON: <span className="flex w-40 sm:w-60">Bið ek þik, Sváfa, — brúðr grát-at-tu —, ef þú vill mínu máli hlýða, at þú Heðni hvílu gervir ok jöfur ungan ástum leiðir.»</span>,
 
-        contentRU: <span className="flex w-40">Свафа, невеста, прошу я, не сетуй! Если меня послушаться хочешь — Хедину ты ложе постелишь, конунга юного будешь любить».</span>,
+        contentRU: <span className="flex w-40 sm:w-60">Свафа, невеста, прошу я, не сетуй! Если меня послушаться хочешь — Хедину ты ложе постелишь, конунга юного будешь любить».</span>,
     },
     {
         id: 51,
@@ -856,13 +856,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sváfa kvað: «Mælt hafða ek þat í munarheimi, þá er mér Helgi hringa valði, myndig-a ek lostig at liðinn fylki jöfur ókunnan armi verja.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свафа сказала: «Молвила я в доме родимом в день, когда Хельги кольца мне выбрал: если погибнет — безвестного князя не обниму я по доброй воле».
             </span>
         ),
@@ -873,13 +873,13 @@ const songofhelgasonofhjorvard = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heðinn kvað: «Kysstu mik, Sváfa, kem ek eigi áðr Rogheims á vit né Röðulsfjalla, áðr ek hefnt hefik Hjörvarðs sonar, þess er buðlungr var beztr und sólu.»
             </span>
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хедин сказал: «Поцелуй меня, Свафа! Не суждено мне ни в Рогхейм вернуться, ни в Редульсфьелль тоже, пока не отмщу за Хьерварда сына, что конунгом был лучшим под
                 солнцем!»
             </span>

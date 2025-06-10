@@ -6,7 +6,7 @@ const killingtheniflungs = [
         contentON: (
             <>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         G
                     </span>
                     unnarr ok Högni tóku þá gullit allt, Fáfnis arf. Ófriðr var þá í milli Gjúkunga ok Atla. Kenndi hann Gjúkungum völd um andlát Brynhildar. Þat var til sætta, at

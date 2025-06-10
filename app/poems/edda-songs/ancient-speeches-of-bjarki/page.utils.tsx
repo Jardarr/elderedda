@@ -5,8 +5,8 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     D
                 </span>
                 agr es upp kominn,
@@ -28,7 +28,7 @@ const ancientspeechesofbjarki = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Близится день,
                 <br />
                 бьет крылами петел,
@@ -53,7 +53,7 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hár enn harðgreipi,
                 <br />
                 Hrólfr skjótandi,
@@ -73,7 +73,7 @@ const ancientspeechesofbjarki = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хар Крепкорукий
                 <br />
                 и Хрольв Стрелец,
@@ -98,14 +98,14 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hniginn’s í hadd jarðar
                 <br />
                 Hrólfr enn stórláti.
             </span>
         ),
 
-        contentRU: <span className="flex w-40">*********</span>,
+        contentRU: <span className="flex w-40 sm:w-60">*********</span>,
     },
     {
         id: 5,
@@ -113,7 +113,7 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gramr hinn gjöflasti
                 <br />
                 gœddi hirð sína
@@ -133,7 +133,7 @@ const ancientspeechesofbjarki = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вождь тароватый
                 <br />
                 дружинникам даровал
@@ -158,7 +158,7 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ýtti örr hilmir,
                 <br />
                 aldir við tóku,
@@ -178,7 +178,7 @@ const ancientspeechesofbjarki = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Щедрый одаривал,
                 <br />
                 мужи принимали,
@@ -203,7 +203,7 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gladdi gunnveitir
                 <br />
                 — gengum fagrbúnir —<br />
@@ -222,7 +222,7 @@ const ancientspeechesofbjarki = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Битвы вершитель
                 <br />
                 дарил — мы украсились
@@ -244,7 +244,7 @@ const ancientspeechesofbjarki = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá skalk hann kyrkja
                 <br />
                 sem enn kámleita
@@ -255,7 +255,7 @@ const ancientspeechesofbjarki = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40">*********</span>,
+        contentRU: <span className="flex w-40 sm:w-60">*********</span>,
     },
 ];
 

@@ -6,7 +6,7 @@ const firstsongofgudrun = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         G
                     </span>
                     uðrún sat yfir Sigurði dauðum. Hon grét eigi sem aðrar konur, en hon var búinn til at springa af harmi. Til gengu bæði konur ok karlar at hugga hana, en þat var
@@ -32,7 +32,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ár var, þats Guðrún
                 <br />
                 gerðisk at deyja,
@@ -52,7 +52,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так было — смерти
                 <br />
                 желала Гудрун,
@@ -77,7 +77,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gengu jarlar
                 <br />
                 alsnotrir fram,
@@ -97,7 +97,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мудрые ярлы
                 <br />
                 к ней подходили,
@@ -121,7 +121,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sátu ítrar
                 <br />
                 jarla brúðir,
@@ -141,7 +141,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Знатные жены
                 <br />
                 ярлов сидели,
@@ -165,7 +165,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað Gjaflaug,
                 <br />
                 Gjúka systir:
@@ -189,7 +189,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила Гьявлауг,
                 <br />
                 Гьюки сестра:
@@ -215,7 +215,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þeygi Guðrún
                 <br />
                 gráta mátti,
@@ -231,7 +231,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не было слез
                 <br />
                 горючих у Гудрун:
@@ -252,7 +252,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Herborg,
                 <br />
                 Húnalands dróttning:
@@ -271,7 +271,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила Херборг,
                 <br />
                 владычица гуннов:
@@ -294,7 +294,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Faðir ok móðir,
                 <br />
                 fjórir bræðr,
@@ -310,7 +310,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мать и отец
                 <br />
                 и четверо братьев
@@ -329,7 +329,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sjalf skylda ek göfga,
                 <br />
                 sjalf skylda ek götva,
@@ -349,7 +349,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сама их одела,
                 <br />
                 сама убрала их,
@@ -374,7 +374,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá varð ek hafta
                 <br />
                 ok hernuma
@@ -394,7 +394,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В плен тогда же
                 <br />
                 сама я попала,
@@ -419,7 +419,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hon ægði mér
                 <br />
                 af afbrýði
@@ -439,7 +439,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ревновала она,
                 <br />
                 бранила меня,
@@ -464,7 +464,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þeygi Guðrún
                 <br />
                 gráta mátti,
@@ -480,7 +480,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не было слез
                 <br />
                 горючих у Гудрун:
@@ -501,7 +501,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Gullrönd
                 <br />
                 Gjúka dóttir:
@@ -521,7 +521,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гулльранд, дочь Гьюки,
                 <br />
                 молвила так:
@@ -545,7 +545,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svipti hon blæju
                 <br />
                 af Sigurði
@@ -565,7 +565,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сдернула саван
                 <br />
                 с тела Сигурда,
@@ -589,7 +589,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á leit Guðrún
                 <br />
                 einu sinni,
@@ -609,7 +609,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Горестно взор
                 <br />
                 бросила Гудрун
@@ -634,7 +634,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá hné Guðrún
                 <br />
                 höll við bolstri,
@@ -650,7 +650,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вскрикнув, грянулась
                 <br />
                 оземь Гудрун;
@@ -671,7 +671,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá grét Guðrún
                 <br />
                 Gjúka dóttir,
@@ -691,7 +691,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Горько заплакала
                 <br />
                 Гудрун, дочь Гьюки,
@@ -716,7 +716,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Gullrönd
                 <br />
                 Gjúka dóttir:
@@ -740,7 +740,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила Гулльранд,
                 <br />
                 дочь Гьюки: «Знаю, —<br />
@@ -768,7 +768,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðrún kvað:
                 <br />
                 «Svá var minn Sigurðr
@@ -790,7 +790,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун сказала:
                 <br />
                 «Сигурд рядом
@@ -817,7 +817,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ek þótta ok
                 <br />
                 þjóðans rekkum
@@ -837,7 +837,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Чтили меня
                 <br />
                 воины конунга
@@ -861,7 +861,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sakna ek í sessi
                 <br />
                 ok í sæingu
@@ -881,7 +881,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ни на скамье его нет,
                 <br />
                 ни на ложе, —<br />
@@ -905,7 +905,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá ér of lýða
                 <br />
                 landi eyðið
@@ -929,7 +929,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Как ваши клятвы
                 <br />
                 ложными были,
@@ -957,7 +957,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Oft var í túni
                 <br />
                 teiti meiri,
@@ -977,7 +977,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Двор наш видал
                 <br />
                 дни веселее,
@@ -1000,7 +1000,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Brynhildr
                 <br />
                 Buðla dóttir:
@@ -1020,7 +1020,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила Брюнхильд,
                 <br />
                 Будли дочь:
@@ -1044,7 +1044,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Gullrönd
                 <br />
                 Gjúka dóttir:
@@ -1072,7 +1072,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила Гулльранд,
                 <br />
                 Гьюки дочь:
@@ -1105,7 +1105,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Brynhildr
                 <br />
                 Buðla dóttir:
@@ -1121,7 +1121,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила Брюнхильд,
                 <br />
                 Будли дочь:
@@ -1142,7 +1142,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá er vit í höll
                 <br />
                 húnskrar þjóðar
@@ -1162,7 +1162,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Когда мы увидели
                 <br />
                 в доме гуннов
@@ -1186,7 +1186,7 @@ const firstsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Stóð hon und stoð,
                 <br />
                 strengði hon efli;
@@ -1205,7 +1205,7 @@ const firstsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Став у столба,
                 <br />
                 собирала силы;

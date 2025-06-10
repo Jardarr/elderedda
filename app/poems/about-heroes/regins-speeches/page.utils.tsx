@@ -6,7 +6,7 @@ const reginsspeeches = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     igurðr gekk til stóðs Hjálpreks ok kaus sér af hest einn, er Grani var kallaðr síðan.
@@ -46,7 +46,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat fiska,
                 <br />
                 er renn flóði í,
@@ -62,7 +62,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Какая в потоке
                 <br />
                 рыба плывет
@@ -82,7 +82,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Geddan kvað:
                 <br />
                 «Andvari ek heiti,
@@ -100,7 +100,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Андвари сказал:
                 <br />
                 «Андвари мне имя,
@@ -123,7 +123,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Loki kvað:
                 <br />
                 «Segðu þat, Andvari,
@@ -141,7 +141,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Локи сказал:
                 <br />
                 «Молви мне, Андвари,
@@ -164,7 +164,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Andvari kvað:
                 <br />
                 «Ofrgjöld fáa
@@ -182,7 +182,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Андвари сказал:
                 <br />
                 «Тяжкая кара
@@ -224,7 +224,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Þat skal gull,
                 <br />
                 er Gustr átti,
@@ -242,7 +242,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Золото это,
                 <br />
                 что было у Густа,
@@ -289,7 +289,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Gull er þér nú reitt,
                 <br />
                 en þú gjöld hefir
@@ -305,7 +305,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Отдано золото,
                 <br />
                 выкуп немалый
@@ -325,7 +325,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hreiðmarr sagði:
                 <br />
                 «Gjafar þú gaft,
@@ -343,7 +343,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хрейдмар сказал:
                 <br />
                 «Дары ты принес,
@@ -366,7 +366,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Loki kvað:
                 <br />
                 «Enn er verra
@@ -383,7 +383,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Локи сказал:
                 <br />
                 «Хуже еще —<br />
@@ -405,7 +405,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hreiðmarr kvað:
                 <br />
                 «Rauðu gulli
@@ -423,7 +423,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хрейдмар сказал:
                 <br />
                 «Золотом красным
@@ -468,7 +468,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Lyngheiðr ok Lofnheiðr,
                 <br />
                 vitið mínu lífi farit,
@@ -487,7 +487,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Люнгхейд и Лофнхейд!
                 <br />
                 Знайте — конец мне!
@@ -511,7 +511,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hreiðmarr kvað:
                 <br />
                 «Al þú þó dóttur,
@@ -533,7 +533,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хрейдмар сказал:
                 <br />
                 «Дочь хоть роди,
@@ -582,7 +582,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Bróður kveðja
                 <br />
                 skaltu blíðliga
@@ -598,7 +598,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Брата просить
                 <br />
                 надо, как друга,
@@ -634,7 +634,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Kominn er hingat
                 <br />
                 konr Sigmundar,
@@ -654,7 +654,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Вот пришел
                 <br />
                 Сигмунда сын,
@@ -679,7 +679,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ek mun fæða
                 <br />
                 folkdjarfan gram;
@@ -699,7 +699,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я воспитаю
                 <br />
                 конунга-воина;
@@ -752,7 +752,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hátt munu hlæja
                 <br />
                 Hundings synir,
@@ -772,7 +772,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Смеялись бы громко
                 <br />
                 Хундинга родичи,
@@ -818,7 +818,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverir ríða þar
                 <br />
                 Ræfils hestum
@@ -838,7 +838,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кого это мчат
                 <br />
                 Ревиля кони
@@ -863,7 +863,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reginn svaraði:
                 <br />
                 «Hér ro vér Sigurðr
@@ -885,7 +885,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Регин ответил:
                 <br />
                 «Это с Сигурдом мы
@@ -912,7 +912,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Maðr kvað:
                 <br />
                 «Hnikar hétu mik,
@@ -934,7 +934,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хникар сказал:
                 <br />
                 «Хникар я звался,
@@ -977,7 +977,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Segðu mér þat, Hnikarr,
                 <br />
                 alls þá hvárttveggja veizt
@@ -993,7 +993,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Хникар, скажи мне,
@@ -1016,7 +1016,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hnikarr kvað:
                 <br />
                 «Mörg eru góð,
@@ -1034,7 +1034,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хникар сказал:
                 <br />
                 «Много есть добрых,
@@ -1057,7 +1057,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat er annat,
                 <br />
                 ef þú ert út of kominn
@@ -1073,7 +1073,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вторая примета:
                 <br />
                 если ты вышел,
@@ -1093,7 +1093,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat er it þriðja,
                 <br />
                 ef þú þjóta heyrir
@@ -1109,7 +1109,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Есть и третья:
                 <br />
                 если услышишь
@@ -1130,7 +1130,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Engr skal gumna
                 <br />
                 í gögn vega
@@ -1150,7 +1150,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Никто из бойцов
                 <br />
                 сражаться не должен,
@@ -1175,7 +1175,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat er fár mikit,
                 <br />
                 ef þú fæti drepr,
@@ -1191,7 +1191,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Если споткнешься
                 <br />
                 перед сраженьем —<br />
@@ -1210,7 +1210,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kembður ok þveginn
                 <br />
                 skal kænna hverr
@@ -1226,7 +1226,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Чист и причесан
                 <br />
                 должен быть мудрый
@@ -1263,7 +1263,7 @@ const reginsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Nú er blóðugr örn
                 <br />
                 bitrum hjörvi
@@ -1283,7 +1283,7 @@ const reginsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кровавый орел
                 <br />
                 острым мечом

@@ -71,15 +71,15 @@ export default function AlvissSpeeches() {
                     &nbsp;/&nbsp;<span>Alvíssmál</span>
                 </span>
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Alvíssmál</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Речи Альвиса</h2>
+                    <h1>Alvíssmál</h1>
+                    <h2 className="mt-2">Речи Альвиса</h2>
                 </div>
-                {alvissspeeches.map((poem) => (
-                    <div key={poem.id} className={poem.class}>
-                        <div>{poem.number}</div>
-                        <div className="text-xl/6 flex" style={{ fontFamily: "Kells, sans-serif" }}>{poem.contentON}</div>
-                        <div>{poem.number}</div>
-                        <div className="text-xl/6" style={{ fontFamily: "Feofan, sans-serif" }}>{poem.contentRU}</div>
+                {alvissspeeches.map((poem, id) => (
+                    <div key={id} className={poem.class}>
+                        <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                        <div className="font-Kells text-xl/6 sm:text-3xl/6 flex">{poem.contentON}</div>
+                        <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                        <div className="font-Feofan text-xl/6 sm:text-3xl/6">{poem.contentRU}</div>
                     </div>
                 ))}
                 <div className="flex justify-center my-8 mx-4">

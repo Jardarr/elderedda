@@ -63,26 +63,27 @@ export default function AboutGods() {
         <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
             <div className="flex flex-col items-center w-[600px] rounded-md my-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Goðakvæði</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Песни о Богах</h2>
+                    <h1>Goðakvæði</h1>
+                    <h2 className="mt-2">Песни о Богах</h2>
                 </div>
-                <div className="flex flex-col items-center w-full max-w-52 mt-5">
+                <nav className="flex flex-col items-center w-full max-w-52 mt-5">
                     {songsOfGods.length > 0 ? (
                         songsOfGods.map((item) => (
-                            item.text && item.link && item.title ? ( // Проверяем, что все поля определены
+                            item.text && item.link && item.title ? (
                                 <Link
                                     key={item.text}
                                     href={item.link}
                                     title={item.title}
+									aria-label={item.title}
                                 >
-                                    <p className="mt-2 text-xl hover:text-sky-500" style={{ fontFamily: "Kells, sans-serif" }}>{item.text}</p>
+                                    <p className="font-Kells mt-2 text-xl sm:text-3xl hover:text-sky-500">{item.text}</p>
                                 </Link>
-                            ) : null // Пропускаем элементы с недостающими полями
+                            ) : null
                         ))
                     ) : (
                         null
                     )}
-                </div>
+                </nav>
             </div>
         </main>
     );

@@ -6,7 +6,7 @@ const sigdrivasspeeches = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     igurðr reið upp á Hindarfjall ok stefndi suðr til Frakklands. Á fjallinu sá hann ljós mikit, svá sem eldr brynni, ok ljómaði af til himins. En er hann kom at,
@@ -34,7 +34,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat beit brynju?
                 <br />
                 Hví brá ek svefni?
@@ -56,7 +56,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто кольчугу рассек?
                 <br />
                 Кто меня разбудил?
@@ -84,7 +84,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hon kvað:
                 <br />
                 «Lengi ek svaf,
@@ -102,7 +102,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Она сказала:
                 <br />
                 «Долго спала я,
@@ -140,7 +140,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Heill dagr!
                 <br />
                 Heilir dags synir!
@@ -156,7 +156,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Она сказала:
                 <br />
                 «Славься, день!
@@ -179,7 +179,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heilir æsir!
                 <br />
                 Heilar ásynjur!
@@ -195,7 +195,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Славьтесь, асы!
                 <br />
                 И асиньи, славьтесь!
@@ -244,7 +244,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Bjór færi ek þér,
                 <br />
                 brynþings apaldr,
@@ -264,7 +264,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Клену тинга кольчуг
                 <br />
                 даю я напиток,
@@ -288,7 +288,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrúnar skaltu kunna,
                 <br />
                 ef þú vilt sigr hafa,
@@ -304,7 +304,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Руны победы,
                 <br />
                 коль ты к ней стремишься, —<br />
@@ -324,7 +324,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ölrúnar skaltu kunna,
                 <br />
                 ef þú vill annars kvæn
@@ -340,7 +340,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Руны пива
                 <br />
                 познай, чтоб обман
@@ -361,7 +361,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Full skal signa
                 <br />
                 ok við fári sjá
@@ -377,7 +377,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Рог освяти,
                 <br />
                 опасайся коварства,
@@ -398,7 +398,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bjargrúnar skaltu kunna,
                 <br />
                 ef þú bjarga vilt
@@ -414,7 +414,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Повивальные руны
                 <br />
                 познай, если хочешь
@@ -434,7 +434,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brimrúnar skaltu rísta,
                 <br />
                 ef þú vilt borgit hafa
@@ -456,7 +456,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Руны прибоя
                 <br />
                 познай, чтоб спасать
@@ -481,7 +481,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Limrúnar skaltu kunna,
                 <br />
                 af þú vilt læknir vera,
@@ -497,7 +497,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Целебные руны
                 <br />
                 для врачевания
@@ -518,7 +518,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Málrúnar skaltu kunna,
                 <br />
                 ef þú vilt, at manngi þér
@@ -539,7 +539,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Познай руны речи,
                 <br />
                 если не хочешь,
@@ -566,7 +566,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hugrúnar skaltu kunna,
                 <br />
                 ef þú vilt hverjum vera
@@ -590,7 +590,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Познай руны мысли,
                 <br />
                 если мудрейшим
@@ -618,7 +618,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á bjargi stóð
                 <br />
                 með Brimis eggjar,
@@ -634,7 +634,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стоял на горе
                 <br />
                 в шлеме, с мечом;
@@ -654,7 +654,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á skildi kvað ristnar,
                 <br />
                 þeim er stendr fyr skínandi goði,
@@ -674,7 +674,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Что руны украсили
                 <br />
                 щит бога света,
@@ -698,7 +698,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á bjarnar hrammi
                 <br />
                 ok á Braga tungu,
@@ -718,7 +718,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Лапу медведя
                 <br />
                 и Браги язык,
@@ -742,7 +742,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á gleri ok á gulli
                 <br />
                 ok á gumna heillum,
@@ -762,7 +762,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стекло и золото
                 <br />
                 и талисманы,
@@ -786,7 +786,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Allar váru af skafnar,
                 <br />
                 þær er váru á ristnar,
@@ -806,7 +806,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Руны разные
                 <br />
                 все соскоблили,
@@ -829,7 +829,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat eru bókrúnar,
                 <br />
                 þat eru bjargrúnar
@@ -851,7 +851,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 То руны письма,
                 <br />
                 повивальные руны,
@@ -877,7 +877,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú skaltu kjósa,
                 <br />
                 alls þér er kostr of boðinn,
@@ -893,7 +893,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Теперь выбирай,
                 <br />
                 коль выбор предложен,
@@ -913,7 +913,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Munk-a ek flæja,
@@ -931,7 +931,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Не побегу,
@@ -954,7 +954,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrdrífa kvað:
                 <br />
                 «Þat ræð ek þér it fyrsta,
@@ -972,7 +972,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрдрива сказала:
                 <br />
                 «Первый совет мой —<br />
@@ -994,7 +994,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér annat,
                 <br />
                 at þú eið né sverir,
@@ -1010,7 +1010,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Совет мой второй —<br />
                 клятв не давай
                 <br />
@@ -1029,7 +1029,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér þriðja,
                 <br />
                 at þú þingi á<br />
@@ -1044,7 +1044,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 А третий совет —<br />
                 на тинг придешь ты,
                 <br />
@@ -1063,7 +1063,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Allt er vant,
                 <br />
                 ef þú við þegir,
@@ -1084,7 +1084,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но и смолчать
                 <br />
                 ты не должен в ответ, —<br />
@@ -1110,7 +1110,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it fjórða,
                 <br />
                 ef býr fordæða
@@ -1126,7 +1126,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Четвертый совет —<br />
                 если в пути
                 <br />
@@ -1146,7 +1146,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fornjósnar augu
                 <br />
                 þurfu fira synir,
@@ -1162,7 +1162,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бдительный взор
                 <br />
                 каждому нужен,
@@ -1183,7 +1183,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it fimmta,
                 <br />
                 þóttú fagrar séir
@@ -1199,7 +1199,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пятый совет мой —<br />
                 увидишь красивых
                 <br />
@@ -1219,7 +1219,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it sétta,
                 <br />
                 þótt með seggjum fari
@@ -1235,7 +1235,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Совет мой шестой —<br />
                 если за пивом
                 <br />
@@ -1254,7 +1254,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Söngr ok öl
                 <br />
                 hefr seggjum verit
@@ -1270,7 +1270,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Песни и пиво
                 <br />
                 для многих мужей
@@ -1291,7 +1291,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it sjaunda,
                 <br />
                 ef þú sakar deilir
@@ -1307,7 +1307,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Совет мой седьмой —<br />
                 если ты в распре
                 <br />
@@ -1326,7 +1326,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it átta,
                 <br />
                 at þú skalt við illu sjá
@@ -1342,7 +1342,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Совет мой восьмой —<br />
                 зла берегись
                 <br />
@@ -1361,7 +1361,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it níunda,
                 <br />
                 at þú náum bjargir,
@@ -1377,7 +1377,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Девятый совет —<br />
                 хорони мертвецов
                 <br />
@@ -1396,7 +1396,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Laug skal gera,
                 <br />
                 þeim er liðnir eru,
@@ -1412,7 +1412,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Омой мертвецу
                 <br />
                 голову, руки,
@@ -1433,7 +1433,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it tíunda,
                 <br />
                 at þú trúir aldregi
@@ -1451,7 +1451,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Десятый совет —<br />
                 не верь никогда
                 <br />
@@ -1471,7 +1471,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sakar ok heiftir
                 <br />
                 hyggja-t svefngar vera
@@ -1487,7 +1487,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гнев и вражда
                 <br />
                 и обида не спят;
@@ -1508,7 +1508,7 @@ const sigdrivasspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat ræð ek þér it ellifta,
                 <br />
                 at þú við illu séir
@@ -1524,7 +1524,7 @@ const sigdrivasspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Последний совет мой —<br />
                 друзей коварства
                 <br />

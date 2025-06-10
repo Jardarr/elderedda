@@ -29,7 +29,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mær var ek meyja,
 				<br />
 				— móðir mik fæddi, —<br />
@@ -47,7 +47,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Девой счастливейшей
 				<br />
 				в женских хоромах
@@ -70,7 +70,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Svá var Sigurðr
 				<br />
 				of sonum Gjúka
@@ -90,7 +90,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Таким был Сигурд
 				<br />
 				пред Гьюки сынами,
@@ -115,7 +115,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Unz mér fyrmunðu
 				<br />
 				mínir bræðr,
@@ -135,7 +135,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Зависть братьев
 				<br />
 				моих обуяла —<br />
@@ -159,7 +159,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Grani rann at þingi,
 				<br />
 				— gnýr var at heyra, —<br />
@@ -178,7 +178,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Грани примчался, —<br />
 				слышен был топот, —<br />
 				Сигурд тогда
@@ -201,7 +201,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gekk ek grátandi
 				<br />
 				við Grana ræða,
@@ -221,7 +221,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				С Грани пошла я<br />
 				беседовать, плача,
 				<br />
@@ -244,7 +244,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Lengi hvarfaðak,
 				<br />
 				lengi hugir deildusk,
@@ -256,7 +256,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Долго терзалась я,
 				<br />
 				долго молчала,
@@ -273,7 +273,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hnipnaði Gunnarr,
 				<br />
 				sagði mér Högni
@@ -293,7 +293,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Голову скорбно
 				<br />
 				Гуннар склонил;
@@ -317,7 +317,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Líttu þar Sigurð
 				<br />
 				á suðrvega;
@@ -337,7 +337,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Взгляни на юг —<br />
 				вот Сигурд лежит!
 				<br />
@@ -361,7 +361,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Hví þú mér, Högni,
 				<br />
 				harma slíka
@@ -381,7 +381,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«Хегни, зачем ты
@@ -408,7 +408,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Svaraði Högni
 				<br />
 				sinni einu,
@@ -428,7 +428,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Одно лишь Хегни
 				<br />
 				молвил в ответ, —<br />
@@ -452,7 +452,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hvarf ek ein þaðan
 				<br />
 				annspilli frá
@@ -476,7 +476,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Одна я ушла
 				<br />
 				после этой беседы
@@ -505,7 +505,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Nótt þótti mér
 				<br />
 				niðmyrkr vera,
@@ -529,7 +529,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ночь мне казалась —<br />
 				как в новолунье,
 				<br />
@@ -557,7 +557,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fór ek af fjalli
 				<br />
 				fimm dægr talið,
@@ -569,7 +569,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пять дней я спускалась
 				<br />
 				по горным склонам,
@@ -586,7 +586,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sat ek með Þóru
 				<br />
 				sjau misseri,
@@ -606,7 +606,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Прожила я у Торы
 				<br />
 				семь полугодий,
@@ -630,7 +630,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hafðu vit á skriftum
 				<br />
 				þat er skatar léku,
@@ -650,7 +650,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вышили с ней мы
 				<br />
 				конунгов подвиги,
@@ -675,7 +675,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Skip Sigmundar
 				<br />
 				skriðu frá landi,
@@ -695,7 +695,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				По морю струги
 				<br />
 				Сигмунда плыли —<br />
@@ -719,7 +719,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá frá Grimildr,
 				<br />
 				gotnesk kona,
@@ -747,7 +747,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Проведала Гримхильд,
 				<br />
 				готская женщина,
@@ -778,7 +778,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Görr lézk Gunnarr
 				<br />
 				gull at bjóða
@@ -806,7 +806,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гуннар готов был —<br />
 				и Хегни тоже —<br />
 				выплатить золото,
@@ -837,7 +837,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Valdarr Dönum
 				<br />
 				með Jarizleifi,
@@ -865,7 +865,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вальдар датский,
 				<br />
 				и Ярицлейв с ним,
@@ -898,7 +898,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hverr vildi mér
 				<br />
 				hnossir velja,
@@ -917,7 +917,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Каждый пытался
 				<br />
 				подарок вручить мне,
@@ -942,7 +942,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Færði mér Grímhildr
 				<br />
 				full at drekka
@@ -962,7 +962,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гримхильд напиток
 				<br />
 				мне поднесла
@@ -986,7 +986,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Váru í horni
 				<br />
 				hvers kyns stafir
@@ -1005,7 +1005,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Были на роге
 				<br />
 				багряные руны —<br />
@@ -1029,7 +1029,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Váru þeim bjóri
 				<br />
 				böl mörg saman,
@@ -1049,7 +1049,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Были в той браге
 				<br />
 				многие беды,
@@ -1074,7 +1074,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				En þá gleymðu,
 				<br />
 				er getit höfðu,
@@ -1094,7 +1094,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Забыли тогда,
 				<br />
 				что совершили
@@ -1117,7 +1117,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Grímhildr kvað:
 				<br />
 				«Gef ek þér, Guðrún,
@@ -1139,7 +1139,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Дам тебе, Гудрун,
 				<br />
 				золота груду,
@@ -1164,7 +1164,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Húnskar meyjar,
 				<br />
 				þær er hlaða spjöldum
@@ -1184,7 +1184,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Девушек гуннских,
 				<br />
 				ткущих искусно,
@@ -1208,7 +1208,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Guðrún kvað:
 				<br />
 				«Vilk eigi ek
@@ -1230,7 +1230,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«Нет, не бывать
@@ -1256,7 +1256,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Grímhildr kvað:
 				<br />
 				«Hirð-a-ðu hölðum
@@ -1278,7 +1278,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гримхильд сказала:
 				<br />
 				«Враждебной не будь
@@ -1304,7 +1304,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Guðrún kvað:
 				<br />
 				«Mák-a ek, Grímhildr,
@@ -1326,7 +1326,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«Гримхильд, постылы мне
@@ -1352,7 +1352,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Grímhildr kvað:
 				<br />
 				«Þann hefi ek allra
@@ -1374,7 +1374,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гримхильд сказала:
 				<br />
 				«Великого конунга
@@ -1400,7 +1400,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Guðrún kvað:
 				<br />
 				«Hirð-a-ðu bjóða
@@ -1430,7 +1430,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«Нет, не стремись,
@@ -1465,7 +1465,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Grátandi Grímhildr
 				<br />
 				greip við orði,
@@ -1481,7 +1481,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Горько рыдая,
 				<br />
 				молвила Гримхильд,
@@ -1502,7 +1502,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Grímhildr kvað:
 				<br />
 				«Lönd gef ek enn þér,
@@ -1520,7 +1520,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Еще я дам земли
 				<br />
 				и с ними дружину,
@@ -1539,7 +1539,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Guðrún kvað:
 				<br />
 				«Þann mun ek kjósa
@@ -1561,7 +1561,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«Выбор я сделаю,
@@ -1588,7 +1588,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Senn var á hesti
 				<br />
 				hverr drengr litinn,
@@ -1612,7 +1612,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Воины все
 				<br />
 				на коней вскочили,
@@ -1641,7 +1641,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þar hliðverðir
 				<br />
 				hárar borgar
@@ -1653,7 +1653,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тогда вратари
 				<br />
 				высокого града
@@ -1670,7 +1670,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vakði mik Atli,
 				<br />
 				en ek vera þóttumk
@@ -1682,7 +1682,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Разбудил меня Атли —<br />
 				в тревоге была я,
 				<br />
@@ -1698,7 +1698,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Atli kvað:
 				<br />
 				«Svá mik nýliga
@@ -1718,7 +1718,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Атли сказал:
 				<br />
 				«Норны меня
@@ -1744,7 +1744,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Guðrún kvað:
 				<br />
 				«Þat er fyr eldi,
@@ -1766,7 +1766,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«Сон про железо
@@ -1790,7 +1790,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Atli kvað:
 				<br />
 				«Hugða ek hér í túni
@@ -1812,7 +1812,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Атли сказал:
 				<br />
 				«Снилось еще,
@@ -1835,7 +1835,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hugða ek mér af hendi
 				<br />
 				hauka fljúga
@@ -1855,7 +1855,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Снилось, что пущены
 				<br />
 				соколы мною,
@@ -1878,7 +1878,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hugða ek mér af hendi
 				<br />
 				hvelpa losna,
@@ -1898,7 +1898,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Снилось, что пущены
 				<br />
 				мною щенята,
@@ -1923,7 +1923,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Guðrún kvað:
 				<br />
 				«Þar munu seggir
@@ -1945,7 +1945,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гудрун сказала:
 				<br />
 				«То воины будут
@@ -1972,7 +1972,7 @@ const secondsongofgudrun = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Atli kvað:
 				<br />
 				«Lægja ek síðan,
@@ -1986,7 +1986,7 @@ const secondsongofgudrun = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Не легла, не спалось мне,
 				<br />
 				жаждавшей мести,

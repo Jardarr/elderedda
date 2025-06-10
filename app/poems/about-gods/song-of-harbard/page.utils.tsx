@@ -16,13 +16,13 @@ const songofharbard = [
         number: '1.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="w-40">«
-        <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+        contentON: <span className="w-40 sm:w-60">«
+        <span className="font-Eileen text-3xl/4">
             H
         </span>verr er sá sveinn sveina,<br />
         er stendr fyr sundit handan?»</span>,
 
-        contentRU: <span className="flex w-40">«Что там за парень<br />
+        contentRU: <span className="flex w-40 sm:w-60">«Что там за парень<br />
         стоит у пролива?»</span>
     },
     {
@@ -30,11 +30,11 @@ const songofharbard = [
         number: '2.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Ferjukarlinn kvað:<br />
         «Hverr er sá karl karla,<br />
         er kallar of váginn?»</span>,
 
-        contentRU: <span className="flex w-40">Тот ответил:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тот ответил:<br />
         «Что за старик<br />
         кричит за проливом?»</span>
     },
@@ -43,7 +43,7 @@ const songofharbard = [
         number: '3.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Fer þú mik um sundit,<br />
         fæði ek þik á morgun;<br />
         meis hef ek á baki,<br />
@@ -53,7 +53,7 @@ const songofharbard = [
         síldr ok hafra;<br />
         saðr em ek enn þess.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Переправь-ка меня!<br />
         Дам пищи на завтра:<br />
         за спиною в корзине<br />
@@ -68,14 +68,14 @@ const songofharbard = [
         number: '4.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Ferjukarlinn kvað:<br />
         «Árligum verkum<br />
         hrósar þú, verðinum;<br />
         veizt-at-tu fyrir görla,<br />
         döpr eru þín heimkynni,<br />
         dauð, hygg ek, at þín móðir sé.»</span>,
 
-        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Перевозчик сказал:<br />
         «Похвалился едой,<br />
         а жребий свой знаешь ли?<br />
         У тебя, наверно,<br />
@@ -86,13 +86,13 @@ const songofharbard = [
         number: '5.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Þat segir þú nú,<br />
         er hverjum þykkir<br />
         mest at vita,<br />
         at mín móðir dauð sé.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Весть такая<br />
         каждому тягостна —<br />
         горько мне слышать<br />
@@ -103,14 +103,14 @@ const songofharbard = [
         number: '6.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Ferjukarlinn kvað:<br />
         «Þeygi er sem þú<br />
         þrjú bú góð eigir;<br />
         berbeinn þú stendr<br />
         ok hefr brautinga gervi,<br />
         þatki, at þú hafir brækr þínar.»</span>,
 
-        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Перевозчик сказал:<br />
         «Едва ли тремя ты<br />
         дворами владеешь,<br />
         если ты бос<br />
@@ -122,13 +122,13 @@ const songofharbard = [
         number: '7.',
         class:"flex justify-center m-2",
         
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Stýrðu hingat eikjunni,<br />
         ek mun þér stöðna kenna, —<br />
         eða hverr á skipit,<br />
         er þú heldr við landit?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Правь-ка сюда,<br />
         я скажу, где пристать;<br />
         чей ты у берега<br />
@@ -139,7 +139,7 @@ const songofharbard = [
         number: '8.',
         class:"flex justify-center m-2",
         
-        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Ferjukarlinn kvað:<br />
         «Hildolfr sá heitir,<br />
         er mik halda bað,<br />
         rekkr inn ráðsvinni,<br />
@@ -151,7 +151,7 @@ const songofharbard = [
         segðu til nafns þíns,<br />
         ef þú vill um sundit fara!»</span>,
 
-        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Перевозчик сказал:<br />
         «Хильдольв челнок<br />
         мне поручил,<br />
         воин, живущий<br />
@@ -168,7 +168,7 @@ const songofharbard = [
         number: '9.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Segja mun ek til nafns míns,<br />
         þótt ek sekr séak,<br />
         ok til alls eðlis:<br />
@@ -180,7 +180,7 @@ const songofharbard = [
         Hins vil ek nú spyrja,<br />
         hvat þú heitir.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Назову свое имя,<br />
         хоть я средь врагов,<br />
         и о роде скажу:<br />
@@ -197,11 +197,11 @@ const songofharbard = [
         number: '10.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Ferjukarlinn kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Ferjukarlinn kvað:<br />
         «Hárbarðr ek heiti,<br />
         hylk um nafn sjaldan.»</span>,
 
-        contentRU: <span className="flex w-40">Перевозчик сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Перевозчик сказал:<br />
         «Харбард мне имя,<br />
         скажу откровенно».</span>
     },
@@ -210,11 +210,11 @@ const songofharbard = [
         number: '11.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Hvat skaltu of nafn hylja,<br />
         nema þú sakar eigir?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «А зачем бы тебе скрывать<br />
         свое имя, если ты не в распре?»</span>
     },
@@ -223,13 +223,13 @@ const songofharbard = [
         number: '12.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «En þótt ek sakar eiga,<br />
         þá mun ek forða fjörvi mínu<br />
         fyr slíkum sem þú ert,<br />
         nema ek feigr sé.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Хотя бы и в распре,<br />
         спасусь от тебя,<br />
         если мне смерти<br />
@@ -240,7 +240,7 @@ const songofharbard = [
         number: '13.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Harm ljótan<br />
         mér þykkir í því<br />
         at vaða um váginn til þín<br />
@@ -250,7 +250,7 @@ const songofharbard = [
         kanginyrði,<br />
         ef ek kæmumk yfir sundit.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Неохота мне вброд<br />
         брести по заливу<br />
         и ношу мочить;<br />
@@ -264,13 +264,13 @@ const songofharbard = [
         number: '14.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Hér mun ek standa<br />
         ok þín heðan bíða;<br />
         fannt-a þú mann in harðara<br />
         at Hrungni dauðan.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Я здесь постою,<br />
         поджидая тебя;<br />
         храбрецов ты не видел<br />
@@ -281,7 +281,7 @@ const songofharbard = [
         number: '15.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Hins viltu nú geta,<br />
         er vit Hrungnir deildum,<br />
         sá inn stórúðgi jötunn,<br />
@@ -290,7 +290,7 @@ const songofharbard = [
         ok fyrir hníga.<br />
         Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «О том говоришь ты,<br />
         как с Хрунгниром, турсом<br />
         каменноглавым,<br />
@@ -304,7 +304,7 @@ const songofharbard = [
         number: '16.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Var ek með Fjölvari<br />
         fimm vetr alla<br />
         í ey þeiri,<br />
@@ -314,7 +314,7 @@ const songofharbard = [
         margs at freista,<br />
         mans at kosta.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Сидел я у Фьельвара<br />
         целых пять зим,<br />
         на острове том,<br />
@@ -328,9 +328,9 @@ const songofharbard = [
         id: 18,
         number: '17.',
         class:"flex justify-center m-2",
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Hversu snúnuðu yðr konur yðrar?»</span>,
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Ну и как у вас шло с ними дело?»</span>
     },
     {
@@ -338,7 +338,7 @@ const songofharbard = [
         number: '18.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Sparkar áttu vér konur,<br />
         ef oss at spökum yrði;<br />
         horskar áttu vér konur,<br />
@@ -353,7 +353,7 @@ const songofharbard = [
         ok hafða ek geð þeira allt ok gaman.<br />
         Hvat vanntu þá meðan, Þórr?»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Милыми были,<br />
         когда покорялись,<br />
         разумными были,<br />
@@ -373,7 +373,7 @@ const songofharbard = [
         number: '19.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Ek drap Þjaza,<br />
         inn þrúðmóðga jötun,<br />
         upp ek varp augum<br />
@@ -384,7 +384,7 @@ const songofharbard = [
         þau er allir menn síðan of séa.<br />
         Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Я Тьяци убил,<br />
         турса могучего,<br />
         бросил глаза я<br />
@@ -400,7 +400,7 @@ const songofharbard = [
         number: '20.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Miklar manvélar<br />
         ek hafða við myrkriður,<br />
         þá er ek vélta þær frá verum;<br />
@@ -409,7 +409,7 @@ const songofharbard = [
         gaf hann mér gambantein,<br />
         en ek vélta hann ór viti.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Соблазнял я искусно<br />
         наездниц ночных,<br />
         отнимал у мужей их;<br />
@@ -423,11 +423,11 @@ const songofharbard = [
         number: '21.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Illum huga<br />
         launaðir þú þá góðar gjafar.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Злом отплатил ты<br />
         за добрый подарок».</span>
     },
@@ -436,13 +436,13 @@ const songofharbard = [
         number: '22.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Þat hefr eik,<br />
         er af annarri skefr,<br />
         of sik er hverr í slíku.<br />
         Hvat vanntu þá meðan Þórr?»</span>,
         
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Срежь ветви дубка —<br />
         другой разрастется;<br />
         всяк занят собой.<br />
@@ -453,7 +453,7 @@ const songofharbard = [
         number: '23.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Ek var austr<br />
         ok jötna barðak<br />
         brúðir bölvísar,<br />
@@ -464,7 +464,7 @@ const songofharbard = [
         undir Miðgarði.<br />
         Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «На востоке я был,<br />
         там истреблял я<br />
         злобных жен турсов,<br />
@@ -480,7 +480,7 @@ const songofharbard = [
         number: '24.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Var ek á Vallandi<br />
         ok vígum fylgdak,<br />
         atta ek jöfrum,<br />
@@ -489,7 +489,7 @@ const songofharbard = [
         þá er í val falla,<br />
         en Þórr á þrælakyn.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Я в Валланде был,<br />
         в битвах участвовал,<br />
         князей подстрекал,<br />
@@ -503,12 +503,12 @@ const songofharbard = [
         number: '25.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Ójafnt skipta<br />
         er þú myndir með ásum liði,<br />
         ef þú ættir vilgi mikils vald.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Неравно бы ты<br />
         людей разделил,<br />
         если властью владел бы».</span>
@@ -518,7 +518,7 @@ const songofharbard = [
         number: '26.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Þórr á afl ærit,<br />
         en ekki hjarta;<br />
         af hræðslu ok hugbleyði<br />
@@ -529,7 +529,7 @@ const songofharbard = [
         hnjósa né físa,<br />
         svá at Fjalarr heyrði.»</span>,
         
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «У Тора сил вдоволь,<br />
         да смелости мало;<br />
         со страху ты раз<br />
@@ -544,12 +544,12 @@ const songofharbard = [
         number: '27.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Hárbarðr inn ragi,<br />
         ek mynda þik í hel drepa,<br />
         ef ek mætta seilask um sund.»</span>,
 
-        contentRU: <span className="flex w-40">Top сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Top сказал:<br />
         «Харбард срамной!<br />
         Я убил бы тебя,<br />
         да пролив мне помеха».</span>
@@ -559,12 +559,12 @@ const songofharbard = [
         number: '28.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Hvat skyldir um sund seilask,<br />
         er sakir ro alls engar?<br />
         Hvat vanntu þá, Þórr?»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Что спешишь за пролив, —<br />
         я не в распре с тобой.<br />
         А что ты делал, Тор?»</span>
@@ -574,7 +574,7 @@ const songofharbard = [
         number: '29.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Ek var austr<br />
         ok ána varðak,<br />
         þá er mik sóttu<br />
@@ -585,7 +585,7 @@ const songofharbard = [
         friðar at biðja.<br />
         Hvat vanntu þá meðan, Hárbarðr?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «На востоке я был,<br />
         поток охранял,<br />
         со мною схватились<br />
@@ -601,7 +601,7 @@ const songofharbard = [
         number: '30.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Ek var austr<br />
         ok við einhverja dæmðak,<br />
         lék ek við ina línhvítu<br />
@@ -609,7 +609,7 @@ const songofharbard = [
         gladdak ina gullbjörtu,<br />
         gamni mær unði.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «На востоке я был,<br />
         беседовал с девой,<br />
         с белокурой я тешился,<br />
@@ -622,10 +622,10 @@ const songofharbard = [
         number: '31.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Góð átt þú þér mankynni þar þá.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «То встречи изрядные».</span>
     },
     {
@@ -633,12 +633,12 @@ const songofharbard = [
         number: '32.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Liðs þíns<br />
         væra ek þá þurfi, Þórr,<br />
         at ek helda þeiri inni línhvítu mey.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Ты мне бы помог<br />
         сохранить эту деву».</span>
     },
@@ -647,11 +647,11 @@ const songofharbard = [
         number: '33.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Ek munda þér þá þat veita,<br />
         ef ek viðr of kæmumk.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Если ведал бы чем,<br />
         помог бы охотно».</span>
     },
@@ -660,11 +660,11 @@ const songofharbard = [
         number: '34.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Ek mynda þér þá trúa,<br />
         nema þú mik í tryggð véltir.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Поверил бы я,<br />
         коль не ждал бы обмана».</span>
     },
@@ -673,11 +673,11 @@ const songofharbard = [
         number: '35.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Emk-at ek sá hælbítr<br />
         sem húðskór forn á vár.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Не кусаю я пяток,<br />
         как старая обувь».</span>
     },
@@ -686,10 +686,10 @@ const songofharbard = [
         number: '36.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Hvat vanntu þá meðan, Þórr?»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «А что ты делал, Тор?»</span>
     },
     {
@@ -697,13 +697,13 @@ const songofharbard = [
         number: '37.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Brúðir berserkja<br />
         barðak í Hléseyju;<br />
         þær höfðu verst unnit,<br />
         vélta þjóð alla.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Я жен берсерков<br />
         на Хлесей разил;<br />
         они извели<br />
@@ -714,11 +714,11 @@ const songofharbard = [
         number: '38.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Klæki vanntu þá, Þórr,<br />
         er þú á konum barðir.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Вот дело позорное —<br />
         жен истреблять».</span>
     },
@@ -727,7 +727,7 @@ const songofharbard = [
         number: '39.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Vargynjur þat váru,<br />
         en varla konur,<br />
         skelldu skip mitt,<br />
@@ -736,7 +736,7 @@ const songofharbard = [
         en eltu Þjalfa.<br />
         Hvat vanntu meðan, Hárbarðr?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «То были волчицы,<br />
         а вовсе не жены:<br />
         разбили мой струг,<br />
@@ -750,13 +750,13 @@ const songofharbard = [
         number: '40.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Ek vark í hernum,<br />
         er hingat gerðisk<br />
         gnæfa gunnfana,<br />
         geir at rjóða.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Был я в дружине,<br />
         спешившей сюда<br />
         стяг битвы поднять<br />
@@ -767,11 +767,11 @@ const songofharbard = [
         number: '41.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Þess viltu nú geta,<br />
         er þú fórt oss óljúfan at bjóða.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Ты о том говоришь,<br />
         чем хотел досадить нам!»</span>
     },
@@ -780,13 +780,13 @@ const songofharbard = [
         number: '42.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Bæta skal þér þat þá<br />
         munda baugi,<br />
         sem jafnendr unnu,<br />
         þeir er okkr vilja sætta.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Кольцом я готов<br />
         тебе отплатить,<br />
         если нам помириться<br />
@@ -797,13 +797,13 @@ const songofharbard = [
         number: '43.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Hvar namtu þessi<br />
         in hnæfiligu orð,<br />
         er ek heyrða aldregi<br />
         in hnæfiligri?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Ты где научился<br />
         речам глумливым?<br />
         Глумливее слов<br />
@@ -814,12 +814,12 @@ const songofharbard = [
         number: '44.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Nam ek at mönnum<br />
         þeim inum aldrænum,<br />
         er búa í heimis skógum.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Я их перенял<br />
         у древних людей<br />
         из домашних курганов».</span>
@@ -829,11 +829,11 @@ const songofharbard = [
         number: '45.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Þó gefr þú gott nafn dysjum,<br />
         er þú kallar þær heimis skóga.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Ты ладно придумал<br />
         могильные кучи<br />
         курганами звать».</span>
@@ -843,10 +843,10 @@ const songofharbard = [
         number: '46.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Svá dæmi ek of slíkt far.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Так придумать я вправе».</span>
     },
     {
@@ -854,7 +854,7 @@ const songofharbard = [
         number: '47.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Orðkringi þín<br />
         mun þér illa koma,<br />
         ef ek ræð á vág at vaða;<br />
@@ -862,7 +862,7 @@ const songofharbard = [
         hygg ek þik æpa munu,<br />
         ef þú hlýtr af hamri högg.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Отплачу я тебе<br />
         за обидные речи,<br />
         пролив переплыв:<br />
@@ -875,13 +875,13 @@ const songofharbard = [
         number: '48.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Sif á hó heima,<br />
         hans muntu fund vilja,<br />
         þann muntu þrek drýgja,<br />
         þat er þér skyldara.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «С любовником Сив<br />
         повстречайся в доме, —<br />
         важнее тебе<br />
@@ -892,13 +892,13 @@ const songofharbard = [
         number: '49.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Mælir þú at munns ráði,<br />
         svá at mér skyldi verst þykkja,<br />
         halr inn hugblauði,<br />
         hygg ek, at þú ljúgir.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Изрыгаешь ты все,<br />
         что в рот тебе лезет,<br />
         чтоб мне досадить,<br />
@@ -910,13 +910,13 @@ const songofharbard = [
         number: '50.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Satt hygg ek mik segja;<br />
         seinn ertu at för þinni,<br />
         langt myndir þú nú kominn, Þórr,<br />
         ef þú litum færir.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Правду я молвил,<br />
         в пути ты мешкаешь,<br />
         был бы далеко,<br />
@@ -927,11 +927,11 @@ const songofharbard = [
         number: '51.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Hárbarðr inn ragi,<br />
         heldr hefr þú nú mik dvalðan.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Харбард срамной,<br />
         задержал ты меня!»</span>
     },
@@ -939,12 +939,12 @@ const songofharbard = [
         id: 53,
         number: '52.',
         class:"flex justify-center m-2",
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Ása-þórs hugða ek<br />
         aldregi mundu<br />
         glepja féhirði farar.»</span>,
         
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Я не думал, что станет<br />
         Асатору помехой<br />
         в пути перевозчик».</span>
@@ -953,12 +953,12 @@ const songofharbard = [
         id: 54,
         number: '53.',
         class:"flex justify-center m-2",
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Ráð mun ek þér nú ráða;<br />
         ró þú hingat bátinum,<br />
         hættum hætingi,<br />
         hittu föður Magna.»</span>,
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Слушай совет мой:<br />
         греби-ка сюда!<br />
         Брань прекратим,<br />
@@ -969,11 +969,11 @@ const songofharbard = [
         number: '54.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Farðu firr sundi,<br />
         þér skal fars synja.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Переправы не жди,<br />
         уходи от пролива!»</span>
     },
@@ -982,11 +982,11 @@ const songofharbard = [
         number: '55.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Vísa þú mér nú leiðina,<br />
         alls þú vill mik eigi um váginn ferja.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Как в обход мне идти,<br />
         коль везти ты не хочешь?»</span>
     },
@@ -995,7 +995,7 @@ const songofharbard = [
         number: '56.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         Lítit er at synja,<br />
         langt er at fara;<br />
         stund er til stokksins,<br />
@@ -1007,7 +1007,7 @@ const songofharbard = [
         ok mun hon kenna hánum áttunga brautir<br />
         til Óðins landa.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Быстр был отказ мой,<br />
         твой путь будет долог:<br />
         до бревна ты дойдешь<br />
@@ -1025,10 +1025,10 @@ const songofharbard = [
         number: '57.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Mun ek taka þangat í dag?»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Доберусь ли сегодня?»</span>
     },
     {
@@ -1036,12 +1036,12 @@ const songofharbard = [
         number: '58.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Taka við víl ok erfiði,<br />
         at upprennandi sólu,<br />
         er ek get þána.»</span>,
 
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «На рассвете с трудом».</span>
     },
     {
@@ -1049,13 +1049,13 @@ const songofharbard = [
         number: '59.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þórr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Þórr kvað:<br />
         «Skammt mun nú mál okkat,<br />
         alls þú mér skætingu einni svarar;<br />
         launa mun ek þér farsynjun,<br />
         ef vit finnumk í sinn annat.»</span>,
 
-        contentRU: <span className="flex w-40">Тор сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тор сказал:<br />
         «Кратко скажу я<br />
         в ответ на глумленья:<br />
         тебе за отказ<br />
@@ -1066,11 +1066,11 @@ const songofharbard = [
         number: '60.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hárbarðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hárbarðr kvað:<br />
         «Far þú nú,<br />
         þars þik hafi allan gramir.»</span>,
         
-        contentRU: <span className="flex w-40">Харбард сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Харбард сказал:<br />
         «Да возьмут тебя тролли!»</span>
     },
 ];

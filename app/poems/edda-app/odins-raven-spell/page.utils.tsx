@@ -5,8 +5,8 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     A
                 </span>
                 lföðr orkar,
@@ -28,7 +28,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Труд Всеотца,
                 <br />
                 альвов явленья,
@@ -53,7 +53,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ætlun Æsir
                 <br />
                 illa gátu,
@@ -73,7 +73,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Асы познали
                 <br />
                 ужас судьбы,
@@ -97,7 +97,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hverfr því Hugr,
                 <br />
                 hinna leitar,
@@ -117,7 +117,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хуг тогда исчезнет,
                 <br />
                 мужести крах будет,
@@ -142,7 +142,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dugir með dvergum
                 <br />
                 dvína, heimar
@@ -162,7 +162,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Будут в исходе
                 <br />
                 карликов силы,
@@ -187,7 +187,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Stendr æva
                 <br />
                 strind né röðull,
@@ -207,7 +207,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Крепкого места
                 <br />
                 нет солнцу с луною,
@@ -232,7 +232,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dvelr í dölum
                 <br />
                 dís forvitin,
@@ -252,7 +252,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В долах обитает
                 <br />
                 пытливая диса,
@@ -277,7 +277,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eirði illa
                 <br />
                 ofankomu
@@ -297,7 +297,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тяжко было
                 <br />
                 паденье,
@@ -322,7 +322,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sjá sigtívar
                 <br />
                 syrgja Naumu,
@@ -342,7 +342,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Боги победные видят
                 <br />
                 стенания Нанны,
@@ -367,7 +367,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Valdi Viðrir
                 <br />
                 vörð Bifrastar
@@ -387,7 +387,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Выбрал Видрир
                 <br />
                 Бивреста стража,
@@ -412,7 +412,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Galdr gólu,
                 <br />
                 göndum riðu
@@ -432,7 +432,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Заклятия пели,
                 <br />
                 волками неслись,
@@ -457,7 +457,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Frá enn vitri
                 <br />
                 veiga selju
@@ -477,7 +477,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мудрый сказал
                 <br />
                 меду подать
@@ -501,7 +501,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Né mun mælti
                 <br />
                 né mál knátti
@@ -521,7 +521,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Память поведала
                 <br />
                 Гевьон тогда,
@@ -546,7 +546,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eins kemr austan
                 <br />
                 úr Elivágum
@@ -566,7 +566,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шел с восхода один,
                 <br />
                 от Эливагара,
@@ -591,7 +591,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dofna þá dáðir,
                 <br />
                 detta hendr,
@@ -611,7 +611,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Удар поразил,
                 <br />
                 пало оружье,
@@ -636,7 +636,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Jamt þótti Jórunn
                 <br />
                 jólnum komin,
@@ -656,7 +656,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так боги узнали
                 <br />
                 видения Йорунн,
@@ -681,7 +681,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fór frumkvöðull
                 <br />
                 fregnar brauta
@@ -701,7 +701,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Первый в пути
                 <br />
                 слышал далеко,
@@ -726,7 +726,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vingólf tóku
                 <br />
                 Viðars þegnar,
@@ -746,7 +746,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Достигнув Вингольва,
                 <br />
                 Видара мужи,
@@ -771,7 +771,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heilan Hangatý
                 <br />
                 heppnastan ása,
@@ -791,7 +791,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хангатюру здоровье,
                 <br />
                 счастливому асу,
@@ -816,7 +816,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bekkjarsett
                 <br />
                 at Bölverks ráði
@@ -836,7 +836,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сидя на скамьях
                 <br />
                 Бельверка после совета
@@ -860,7 +860,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Margs of frágu
                 <br />
                 máltíð yfir
@@ -880,7 +880,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Долго спрошали
                 <br />
                 на этом пиру
@@ -905,7 +905,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Illa létu
                 <br />
                 orðið hafa
@@ -925,7 +925,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Считали, что тщетна
                 <br />
                 была поездка,
@@ -950,7 +950,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ansar Ómi,
                 <br />
                 allir hlýddu:
@@ -970,7 +970,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Оми ответил,
                 <br />
                 выслушав всех:
@@ -995,7 +995,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rann með röstum
                 <br />
                 Rindar móðr
@@ -1015,7 +1015,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бурей бежит
                 <br />
                 по полю Ринд
@@ -1040,7 +1040,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dýrum settan
                 <br />
                 Dellings mögr
@@ -1060,7 +1060,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Оседлан олень,
                 <br />
                 Деллинга сын,
@@ -1085,7 +1085,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Jörmungrundar
                 <br />
                 í jódyr nyrðra
@@ -1105,7 +1105,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Огромные земли
                 <br />
                 на север границы,
@@ -1129,7 +1129,7 @@ const odinsravenspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Risu raknar,
                 <br />
                 rann álfröðull,
@@ -1149,7 +1149,7 @@ const odinsravenspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Возникли владыки,
                 <br />
                 луч альвов катился,

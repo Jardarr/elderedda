@@ -5,8 +5,8 @@ const alvissspeeches = [
 		number: "1.",
 
 		contentON: (
-			<span className="w-40">
-				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+			<span className="w-40 sm:w-60">
+				<span className="font-Eileen text-3xl/4">
                     A
                 </span>
 				lvíss kvað:
@@ -26,7 +26,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Скамьи готовят,
@@ -48,7 +48,7 @@ const alvissspeeches = [
 		number: "2.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Hvat er þat fira?
@@ -66,7 +66,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Что за пришелец?
@@ -87,7 +87,7 @@ const alvissspeeches = [
 		number: "3.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Alvíss ek heiti,
@@ -105,7 +105,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Альвис зовусь,
@@ -128,7 +128,7 @@ const alvissspeeches = [
 		number: "4.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Ek mun bregða
@@ -145,7 +145,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Не соблюдешь ты
@@ -166,7 +166,7 @@ const alvissspeeches = [
 		number: "5.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Hvat er þat rekka,
@@ -184,7 +184,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Кто этот воин,
@@ -207,7 +207,7 @@ const alvissspeeches = [
 		number: "6.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Vingþórr ek heiti,
@@ -225,7 +225,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Винг-Тор зовусь я,
@@ -247,7 +247,7 @@ const alvissspeeches = [
 		number: "7.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Sáttir þínar
@@ -265,7 +265,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Хочу обещанье
@@ -288,7 +288,7 @@ const alvissspeeches = [
 		number: "8. ",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Meyjar ástum
@@ -306,7 +306,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Девы любовь
@@ -329,7 +329,7 @@ const alvissspeeches = [
 		number: "9.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Segðu mér þat, Alvíss,
 				<br />
 				— öll of rök fira
@@ -345,7 +345,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис, скажи мне, —<br />
 				про все, что есть в мире,
 				<br />
@@ -363,7 +363,7 @@ const alvissspeeches = [
 		number: "10.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Jörð heitir með mönnum,
@@ -381,7 +381,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Землей — у людей
@@ -403,7 +403,7 @@ const alvissspeeches = [
 		number: "11.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -421,7 +421,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -441,7 +441,7 @@ const alvissspeeches = [
 		number: "12.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Himinn heitir með mönnum,
@@ -459,7 +459,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«У людей это — Небо,
@@ -482,7 +482,7 @@ const alvissspeeches = [
 		number: "13.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Avlíss,
@@ -500,7 +500,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -520,7 +520,7 @@ const alvissspeeches = [
 		number: "14.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Máni heitir með mönnum,
@@ -538,7 +538,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Месяц он у людей,
@@ -560,7 +560,7 @@ const alvissspeeches = [
 		number: "15.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -578,7 +578,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -598,7 +598,7 @@ const alvissspeeches = [
 		number: "16.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Sól heitir með mönnum,
@@ -616,7 +616,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Солнцем люди зовут,
@@ -638,7 +638,7 @@ const alvissspeeches = [
 		number: "17.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -656,7 +656,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -676,7 +676,7 @@ const alvissspeeches = [
 		number: "18.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Ský heita með mönnum,
@@ -694,7 +694,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Тучей — люди, а боги —<br />
@@ -715,7 +715,7 @@ const alvissspeeches = [
 		number: "19.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -733,7 +733,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -753,7 +753,7 @@ const alvissspeeches = [
 		number: "20.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Vindr heitir með mönnum,
@@ -771,7 +771,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Люди Ветром зовут,
@@ -793,7 +793,7 @@ const alvissspeeches = [
 		number: "21.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -811,7 +811,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -831,7 +831,7 @@ const alvissspeeches = [
 		number: "22.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Logn heitir með mönnum,
@@ -849,7 +849,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Люди — Затишьем,
@@ -872,7 +872,7 @@ const alvissspeeches = [
 		number: "23.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -890,7 +890,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -910,7 +910,7 @@ const alvissspeeches = [
 		number: "24.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Sær heitir með mönnum,
@@ -928,7 +928,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Люди Морем зовут,
@@ -950,7 +950,7 @@ const alvissspeeches = [
 		number: "25.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -968,7 +968,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -988,7 +988,7 @@ const alvissspeeches = [
 		number: "26.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Eldr heitir með mönnum,
@@ -1006,7 +1006,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Огнем — у людей,
@@ -1028,7 +1028,7 @@ const alvissspeeches = [
 		number: "27.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -1046,7 +1046,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -1066,7 +1066,7 @@ const alvissspeeches = [
 		number: "28.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Viðr heitir með mönnum,
@@ -1084,7 +1084,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Он Лес у людей,
@@ -1106,7 +1106,7 @@ const alvissspeeches = [
 		number: "29.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -1124,7 +1124,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -1144,7 +1144,7 @@ const alvissspeeches = [
 		number: "30.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Nótt heitir með mönnum,
@@ -1162,7 +1162,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Ночь — у людей,
@@ -1185,7 +1185,7 @@ const alvissspeeches = [
 		number: "31.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -1203,7 +1203,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -1223,7 +1223,7 @@ const alvissspeeches = [
 		number: "32.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Bygg heitir með mönnum,
@@ -1241,7 +1241,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Ячмень — у людей,
@@ -1263,7 +1263,7 @@ const alvissspeeches = [
 		number: "33.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Segðu mér þat, Alvíss,
@@ -1281,7 +1281,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Альвис, скажи мне, —<br />
@@ -1301,7 +1301,7 @@ const alvissspeeches = [
 		number: "34.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Alvíss kvað:
 				<br />
 				«Öl heitir með mönnum,
@@ -1319,7 +1319,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Альвис сказал:
 				<br />
 				«Пивом люди зовут,
@@ -1342,7 +1342,7 @@ const alvissspeeches = [
 		number: "35.",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Í einu brjósti
@@ -1362,7 +1362,7 @@ const alvissspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Чья еще грудь

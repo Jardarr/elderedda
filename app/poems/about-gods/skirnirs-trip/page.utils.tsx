@@ -4,7 +4,7 @@ const skirnirstrip = [
         class:"m-7",
 
         contentON: <span><p>
-        <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+        <span className="font-Eileen text-3xl/4">
             F
         </span>
         reyr, sonr Njarðar, hafði einn dag setzt í Hliðskjálf, ok sá um
@@ -28,14 +28,14 @@ const skirnirstrip = [
         number: '1.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Rístu nú, Skírnir,<br />
+        contentON: <span className="flex w-40 sm:w-60">«Rístu nú, Skírnir,<br />
         ok gakk skjótt at beiða<br />
         okkarn mála mög<br />
         ok þess at fregna,<br />
         hveim inn fróði sé<br />
         ofreiði afi.»</span>,
 
-        contentRU: <span className="flex w-40">«Скирнир, вставай,<br />
+        contentRU: <span className="flex w-40 sm:w-60">«Скирнир, вставай,<br />
         ты должен сейчас<br />
         у нашего сына<br />
         все разузнать —<br />
@@ -47,7 +47,7 @@ const skirnirstrip = [
         number: '2.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Illra orða<br />
         er mér ón at ykkrum syni,<br />
         ef ek geng at mæla við mög<br />
@@ -55,7 +55,7 @@ const skirnirstrip = [
         hveim inn fróði sé<br />
         ofreiði afi.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Словом недобрым<br />
         Фрейр мне ответит,<br />
         коль стану пытаться<br />
@@ -68,14 +68,14 @@ const skirnirstrip = [
         number: '3.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Segðu mér þat, Freyr,<br />
+        contentON: <span className="flex w-40 sm:w-60">«Segðu mér þat, Freyr,<br />
         folkvaldi goða,<br />
         ok ek vilja vita:<br />
         Hví þú einn sitr<br />
         endlanga sali,<br />
         minn dróttinn, um daga?»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Фрейр, ответь мне,<br />
         владыка богов,<br />
         поведай, прошу я:<br />
@@ -88,7 +88,7 @@ const skirnirstrip = [
         number: '4.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Freyr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Freyr kvað:<br />
         «Hví um segjak þér,<br />
         seggr inn ungi,<br />
         mikinn móðtrega?<br />
@@ -96,7 +96,7 @@ const skirnirstrip = [
         lýsir um alla daga<br />
         ok þeygi at mínum munum.»</span>,
 
-        contentRU: <span className="flex w-40">Фрейр сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Фрейр сказал:<br />
         «Как я поведаю,<br />
         воин юный,<br />
         о тягостном горе?<br />
@@ -109,7 +109,7 @@ const skirnirstrip = [
         number: '5.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Muni þína<br />
         hykk-a ek svá mikla vera,<br />
         at þú mér, seggr, né segir,<br />
@@ -117,7 +117,7 @@ const skirnirstrip = [
         várum í árdaga,<br />
         vel mættim tveir trúask.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Так ли любовь<br />
         твоя велика,<br />
         чтоб о ней не поведать?<br />
@@ -130,7 +130,7 @@ const skirnirstrip = [
         number: '6.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Freyr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Freyr kvað:<br />
         «Í Gymis görðum<br />
         ek ganga sá<br />
         mér tíða mey;<br />
@@ -138,7 +138,7 @@ const skirnirstrip = [
         en af þaðan<br />
         allt loft ok lögr.»</span>,
 
-        contentRU: <span className="flex w-40">Фрейр сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Фрейр сказал:<br />
         «Близ дома Гюмира<br />
         мне довелось<br />
         желанную видеть;<br />
@@ -151,14 +151,14 @@ const skirnirstrip = [
         number: '7.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Mær er mér tíðari<br />
+        contentON: <span className="flex w-40 sm:w-60">«Mær er mér tíðari<br />
         en manna hveim<br />
         ungum í árdaga;<br />
         ása ok alfa<br />
         þat vill engi maðr<br />
         at vit samt séim.»</span>,
 
-        contentRU: <span className="flex w-40">Со страстью моей<br />
+        contentRU: <span className="flex w-40 sm:w-60">Со страстью моей<br />
         в мире ничья<br />
         страсть не сравнится,<br />
         но согласья не жду<br />
@@ -170,7 +170,7 @@ const skirnirstrip = [
         number: '8.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Mar gefðu mér þá<br />
         þann er mik um myrkvan beri<br />
         vísan vafrloga,<br />
@@ -178,7 +178,7 @@ const skirnirstrip = [
         er sjalft vegisk<br />
         við jötna ætt.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Дай мне коня,<br />
         пусть со мною проскачет<br />
         сквозь полымя мрачное,<br />
@@ -191,7 +191,7 @@ const skirnirstrip = [
         number: '9.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Freyr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Freyr kvað:<br />
         «Mar ek þér þann gef,<br />
         er þik um myrkvan berr<br />
         vísan vafrloga,<br />
@@ -199,7 +199,7 @@ const skirnirstrip = [
         er sjalft mun vegask<br />
         ef sá er horskr, er hefr.»</span>,
 
-        contentRU: <span className="flex w-40">Фрейр сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Фрейр сказал:<br />
         «Вот конь, возьми,<br />
         пусть с тобою проскачет<br />
         сквозь полымя мрачное,<br />
@@ -212,7 +212,7 @@ const skirnirstrip = [
         number: '10.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir mælti við hestinn:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir mælti við hestinn:<br />
         «Myrkt er úti,<br />
         mál kveð ek okkr fara<br />
         úrig fjöll yfir,<br />
@@ -221,7 +221,7 @@ const skirnirstrip = [
         eða okkr báða tekr<br />
         sá inn ámáttki jötunn.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал коню:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал коню:<br />
         «Сумрак настал,<br />
         нам ехать пора<br />
         по влажным нагорьям<br />
@@ -251,14 +251,14 @@ const skirnirstrip = [
         number: '11.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Segðu þat, hirðir,<br />
+        contentON: <span className="flex w-40 sm:w-60">«Segðu þat, hirðir,<br />
         er þú á haugi sitr<br />
         ok varðar alla vega:<br />
         Hvé ek at andspilli<br />
         komumk ins unga mans<br />
         fyr greyjum Gymis?»</span>,
 
-        contentRU: <span className="flex w-40">«Скажи мне, пастух, —<br />
+        contentRU: <span className="flex w-40 sm:w-60">«Скажи мне, пастух, —<br />
         ты сидишь на холме,<br />
         стережешь все дороги, —<br />
         как бы мне слово<br />
@@ -270,7 +270,7 @@ const skirnirstrip = [
         number: '12.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hirðir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Hirðir kvað:<br />
         «Hvárt ertu feigr,<br />
         eða ertu framgenginn?<br />
         *********<br />
@@ -278,7 +278,7 @@ const skirnirstrip = [
         þú skalt æ vera<br />
         góðrar meyjar Gymis.»</span>,
 
-        contentRU: <span className="flex w-40">Пастух сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Пастух сказал:<br />
         «К смерти ты близок<br />
         иль мертвым ты стал?<br />
         *********<br />
@@ -291,7 +291,7 @@ const skirnirstrip = [
         number: '13.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Kostir ro betri<br />
         heldr en at klökkva sé,<br />
         hveim er fúss er fara;<br />
@@ -299,7 +299,7 @@ const skirnirstrip = [
         mér var aldr of skapaðr<br />
         of allt líf of lagit.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Что толку скорбеть,<br />
         если сюда<br />
         путь я направил?<br />
@@ -312,7 +312,7 @@ const skirnirstrip = [
         number: '14.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Hvat er þat hlym hlymja,<br />
         er ek heyri nú til<br />
         ossum rönnum í?<br />
@@ -320,7 +320,7 @@ const skirnirstrip = [
         en allir fyrir<br />
         skjalfa garðar Gymis.»</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Что там за шум<br />
         и грохот я слышу<br />
         в нашем жилище?<br />
@@ -333,13 +333,13 @@ const skirnirstrip = [
         number: '15.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Ambátt kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Ambátt kvað:<br />
         «Maðr er hér úti,<br />
         stiginn af mars baki,<br />
         jó lætr til jarðar taka.»<br />
         *********</span>,
 
-        contentRU: <span className="flex w-40">Служанка сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Служанка сказала:<br />
         «То воин приехал,<br />
         сошел он с коня<br />
         и пастись пустил его».</span>
@@ -349,7 +349,7 @@ const skirnirstrip = [
         number: '16.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Inn bið þú hann ganga<br />
         í okkarn sal<br />
         ok drekka inn mæra mjöð;<br />
@@ -357,7 +357,7 @@ const skirnirstrip = [
         at hér úti sé<br />
         minn bróðurbani.</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Гостя проси<br />
         в палату войти<br />
         и меда отведать!<br />
@@ -370,14 +370,14 @@ const skirnirstrip = [
         number: '17.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hvat er þat alfa<br />
+        contentON: <span className="flex w-40 sm:w-60">Hvat er þat alfa<br />
         né ása sona<br />
         né víssa vana?<br />
         Hví þú einn of komt<br />
         eikinn fúr yfir<br />
         ór salkynni at séa?»</span>,
 
-        contentRU: <span className="flex w-40">Ведь ты не из асов<br />
+        contentRU: <span className="flex w-40 sm:w-60">Ведь ты не из асов<br />
         и не из альвов,<br />
         не ванов ты сын?<br />
         Зачем ты промчался<br />
@@ -389,7 +389,7 @@ const skirnirstrip = [
         number: '18.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Emk-at ek alfa<br />
         né ása sona<br />
         né víssa vana;<br />
@@ -397,7 +397,7 @@ const skirnirstrip = [
         eikinn fúr yfir<br />
         yður salkynni at séa.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Я не из асов<br />
         и не из альвов,<br />
         не ванов я сын,<br />
@@ -410,14 +410,14 @@ const skirnirstrip = [
         number: '19.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Epli ellifu<br />
+        contentON: <span className="flex w-40 sm:w-60">«Epli ellifu<br />
         hér hef ek algullin,<br />
         þau mun ek þér, Gerðr, gefa,<br />
         frið at kaupa,<br />
         at þú þér Frey kveðir<br />
         óleiðastan lifa.»</span>,
 
-        contentRU: <span className="flex w-40">Одиннадцать яблок<br />
+        contentRU: <span className="flex w-40 sm:w-60">Одиннадцать яблок<br />
         со мной золотых,<br />
         тебе я отдам их,<br />
         если в обмен<br />
@@ -429,7 +429,7 @@ const skirnirstrip = [
         number: '20.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Epli ellifu<br />
         ek þigg aldregi<br />
         at mannskis munum,<br />
@@ -437,7 +437,7 @@ const skirnirstrip = [
         meðan okkart fjör lifir,<br />
         byggjum bæði saman.»</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Одиннадцать яблок<br />
         в обмен на любовь<br />
         никогда не возьму я:<br />
@@ -450,7 +450,7 @@ const skirnirstrip = [
         number: '21.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Baug ek þér þá gef,<br />
         þann er brenndr var<br />
         með ungum Óðins syni;<br />
@@ -458,7 +458,7 @@ const skirnirstrip = [
         er af drjúpa<br />
         ina níundu hverja nótt.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Кольцо тебе дам,<br />
         что на костре<br />
         Бальдра сгорело!<br />
@@ -471,7 +471,7 @@ const skirnirstrip = [
         number: '22.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Baug ek þikk-a-k,<br />
         þótt brenndr séi<br />
         með ungum Óðins syni;<br />
@@ -479,7 +479,7 @@ const skirnirstrip = [
         í görðum Gymis,<br />
         at deila fé föður.»</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Кольца не возьму,<br />
         что на костре<br />
         Бальдра сгорело!<br />
@@ -492,7 +492,7 @@ const skirnirstrip = [
         number: '23.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Sér þú þenna mæki, mær,<br />
         mjóvan, málfáan,<br />
         er ek hef í hendi hér?<br />
@@ -500,7 +500,7 @@ const skirnirstrip = [
         ek mun þér hálsi af,<br />
         nema þú mér sætt segir.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Видишь ты меч<br />
         в ладони моей,<br />
         изукрашенный знаками?<br />
@@ -513,7 +513,7 @@ const skirnirstrip = [
         number: '24.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Ánauð þola<br />
         ek vil aldregi<br />
         at mannskis munum;<br />
@@ -522,7 +522,7 @@ const skirnirstrip = [
         vígs ótrauðir,<br />
         at ykkr vega tíði.»</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Угроз не стерплю,<br />
         согласьем на них<br />
         никогда не отвечу;<br />
@@ -536,7 +536,7 @@ const skirnirstrip = [
         number: '25.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Sér þú þenna mæki, mær,<br />
         mjóvan, málfáan,<br />
         er ek hef í hendi hér?<br />
@@ -544,7 +544,7 @@ const skirnirstrip = [
         hnígr sá inn aldni jötunn,<br />
         verðr þinn feigr faðir.</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Видишь ты меч<br />
         в ладони моей,<br />
         изукрашенный знаками?<br />
@@ -557,14 +557,14 @@ const skirnirstrip = [
         number: '26.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Tamsvendi ek þik drep,<br />
+        contentON: <span className="flex w-40 sm:w-60">Tamsvendi ek þik drep,<br />
         en ek þik temja mun,<br />
         mær, at mínum munum;<br />
         þar skaltu ganga,<br />
         er þik gumna synir<br />
         síðan æva séi.</span>,
 
-        contentRU: <span className="flex w-40">Жезлом укрощенья<br />
+        contentRU: <span className="flex w-40 sm:w-60">Жезлом укрощенья<br />
         ударю тебя,<br />
         покоришься мне, дева;<br />
         туда ты пойдешь,<br />
@@ -576,7 +576,7 @@ const skirnirstrip = [
         number: '27.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Ara þúfu á<br />
+        contentON: <span className="flex w-40 sm:w-60">Ara þúfu á<br />
         skaltu ár sitja<br />
         horfa heimi ór,<br />
         snugga heljar til;<br />
@@ -584,7 +584,7 @@ const skirnirstrip = [
         en manna hveim<br />
         innfráni ormr með firum.</span>,
 
-        contentRU: <span className="flex w-40">На орлиной скале<br />
+        contentRU: <span className="flex w-40 sm:w-60">На орлиной скале<br />
         ты будешь сидеть,<br />
         не глядя на мир,<br />
         Хель озирая;<br />
@@ -597,7 +597,7 @@ const skirnirstrip = [
         number: '28.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">At undrsjónum þú verðir,<br />
+        contentON: <span className="flex w-40 sm:w-60">At undrsjónum þú verðir,<br />
         er þú út kemr;<br />
         á þik Hrímnir hari,<br />
         á þik hotvetna stari;<br />
@@ -605,7 +605,7 @@ const skirnirstrip = [
         en vörðr með goðum,<br />
         gapi þú grindum frá.</span>,
 
-        contentRU: <span className="flex w-40">Чудищем станешь,<br />
+        contentRU: <span className="flex w-40 sm:w-60">Чудищем станешь,<br />
         для всех, кто увидит!<br />
         Пусть Хримнир глазеет,<br />
         всяк пусть глазеет!<br />
@@ -618,7 +618,7 @@ const skirnirstrip = [
         number: '29.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Tópi ok ópi,<br />
+        contentON: <span className="flex w-40 sm:w-60">Tópi ok ópi,<br />
         tjösull ok óþoli,<br />
         vaxi þér tár með trega;<br />
         sezk þú niðr,<br />
@@ -626,7 +626,7 @@ const skirnirstrip = [
         sváran súsbreka<br />
         ok tvennan trega:</span>,
 
-        contentRU: <span className="flex w-40">Безумье и муки,<br />
+        contentRU: <span className="flex w-40 sm:w-60">Безумье и муки,<br />
         бред и тревога,<br />
         отчаянье, боль<br />
         пусть возрастают!<br />
@@ -640,7 +640,7 @@ const skirnirstrip = [
         number: '30.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Tramar gneypa<br />
+        contentON: <span className="flex w-40 sm:w-60">Tramar gneypa<br />
         þik skulu gerstan dag<br />
         jötna görðum í;<br />
         til hrímþursa hallar<br />
@@ -651,7 +651,7 @@ const skirnirstrip = [
         skaltu í gögn hafa<br />
         ok leiða með tárum trega.</span>,
 
-        contentRU: <span className="flex w-40">Тролли вседневно<br />
+        contentRU: <span className="flex w-40 sm:w-60">Тролли вседневно<br />
         тебя будут мучить<br />
         в жилье исполинов;<br />
         в дом турсов инея<br />
@@ -667,7 +667,7 @@ const skirnirstrip = [
         number: '31.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Með þursi þríhöfðuðum<br />
+        contentON: <span className="flex w-40 sm:w-60">Með þursi þríhöfðuðum<br />
         þú skalt æ nara,<br />
         eða verlaus vera;<br />
         þitt geð grípi,<br />
@@ -676,7 +676,7 @@ const skirnirstrip = [
         sá er var þrunginn<br />
         í önn ofanverða.</span>,
 
-        contentRU: <span className="flex w-40">Трехглавого станешь<br />
+        contentRU: <span className="flex w-40 sm:w-60">Трехглавого станешь<br />
         турса женой<br />
         или замуж не выйдешь!<br />
         От похоти сохни,<br />
@@ -690,12 +690,12 @@ const skirnirstrip = [
         number: '32.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Til holts ek gekk<br />
+        contentON: <span className="flex w-40 sm:w-60">Til holts ek gekk<br />
         ok til hrás viðar,<br />
         gambantein at geta,<br />
         gambantein ek gat.</span>,
 
-        contentRU: <span className="flex w-40">Я в рощу пошел,<br />
+        contentRU: <span className="flex w-40 sm:w-60">Я в рощу пошел,<br />
         в сырую дубраву<br />
         за прутом волшебным;<br />
         взял прут волшебный.</span>
@@ -705,14 +705,14 @@ const skirnirstrip = [
         number: '33.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Reiðr er þér Óðinn,<br />
+        contentON: <span className="flex w-40 sm:w-60">Reiðr er þér Óðinn,<br />
         reiðr er þér Ásabragr,<br />
         þik skal Freyr fíask,<br />
         in firinilla mær,<br />
         en þú fengit hefr<br />
         gambanreiði goða.</span>,
 
-        contentRU: <span className="flex w-40">Ты разгневала Одина,<br />
+        contentRU: <span className="flex w-40 sm:w-60">Ты разгневала Одина,<br />
         асов главу,<br />
         Фрейр тебе враг:<br />
         преступная дева,<br />
@@ -724,7 +724,7 @@ const skirnirstrip = [
         number: '34.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Heyri jötnar,<br />
+        contentON: <span className="flex w-40 sm:w-60">Heyri jötnar,<br />
         heyri hrímþursar,<br />
         synir Suttungs,<br />
         sjalfir ásliðar,<br />
@@ -733,7 +733,7 @@ const skirnirstrip = [
         manna glaum mani,<br />
         manna nyt mani.</span>,
 
-        contentRU: <span className="flex w-40">Слушайте, етуны,<br />
+        contentRU: <span className="flex w-40 sm:w-60">Слушайте, етуны,<br />
         слушайте, турсы,<br />
         Суттунга семя,<br />
         и сами асы!<br />
@@ -747,7 +747,7 @@ const skirnirstrip = [
         number: '35.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Hrímgrímnir heitir þurs,<br />
+        contentON: <span className="flex w-40 sm:w-60">Hrímgrímnir heitir þurs,<br />
         er þik hafa skal<br />
         fyr nágrindr neðan;<br />
         þar þér vílmegir<br />
@@ -758,7 +758,7 @@ const skirnirstrip = [
         mær, af þínum munum,<br />
         mær, at mínum munum.</span>,
 
-        contentRU: <span className="flex w-40">Хримгримнир турс<br />
+        contentRU: <span className="flex w-40 sm:w-60">Хримгримнир турс<br />
         за решетку смерти<br />
         посадит тебя;<br />
         тролли напоят<br />
@@ -774,14 +774,14 @@ const skirnirstrip = [
         number: '36.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Þurs ríst ek þér<br />
+        contentON: <span className="flex w-40 sm:w-60">Þurs ríst ek þér<br />
         ok þría stafi,<br />
         ergi ok æði ok óþola;<br />
         svá ek þat af ríst,<br />
         sem ek þat á reist,<br />
         ef gerask þarfar þess.»</span>,
 
-        contentRU: <span className="flex w-40">Руны я режу —<br />
+        contentRU: <span className="flex w-40 sm:w-60">Руны я режу —<br />
         «турс» и еще три:<br />
         похоть, безумье<br />
         и беспокойство;<br />
@@ -794,7 +794,7 @@ const skirnirstrip = [
         number: '37.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Heill ver þú nú heldr, sveinn,<br />
         ok tak við hrímkálki<br />
         fullum forns mjaðar;<br />
@@ -802,7 +802,7 @@ const skirnirstrip = [
         at myndak aldregi<br />
         unna vaningja vel.»</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Нет, лучше прими<br />
         привет мой и кубок<br />
         старого меда!<br />
@@ -815,7 +815,7 @@ const skirnirstrip = [
         number: '38.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Öendi mín<br />
         vil ek öll vita,<br />
         áðr ek ríða heim heðan,<br />
@@ -823,7 +823,7 @@ const skirnirstrip = [
         munt inum þroska<br />
         nenna Njarðar syni.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Хочу я прямой<br />
         ответ получить<br />
         до отъезда отсюда:<br />
@@ -836,7 +836,7 @@ const skirnirstrip = [
         number: '39.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Gerðr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Gerðr kvað:<br />
         «Barri heitir,<br />
         er vit bæði vitum,<br />
         lundr lognfara;<br />
@@ -844,7 +844,7 @@ const skirnirstrip = [
         þar mun Njarðar syni<br />
         Gerðr unna gamans.»</span>,
 
-        contentRU: <span className="flex w-40">Герд сказала:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Герд сказала:<br />
         «Барри зовется<br />
         тихая роща,<br />
         знакомая нам;<br />
@@ -871,14 +871,14 @@ const skirnirstrip = [
         number: '40.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">«Segðu mér þat, Skírnir,<br />
+        contentON: <span className="flex w-40 sm:w-60">«Segðu mér þat, Skírnir,<br />
         áðr þú verpir söðli af mar<br />
         ok þú stígir feti framar:<br />
         Hvat þú árnaðir<br />
         í Jötunheima<br />
         þíns eða míns munar?»</span>,
 
-        contentRU: <span className="flex w-40">«Скирнир, скажи мне,<br />
+        contentRU: <span className="flex w-40 sm:w-60">«Скирнир, скажи мне,<br />
         прежде чем сбросишь<br />
         с коня ты седло:<br />
         добился ли ты<br />
@@ -890,7 +890,7 @@ const skirnirstrip = [
         number: '41.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Skírnir kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Skírnir kvað:<br />
         «Barri heitir,<br />
         er vit báðir vitum,<br />
         lundr lognfara;<br />
@@ -898,7 +898,7 @@ const skirnirstrip = [
         þar mun Njarðar syni<br />
         Gerðr unna gamans.»</span>,
 
-        contentRU: <span className="flex w-40">Скирнир сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Скирнир сказал:<br />
         «Барри зовется<br />
         тихая роща,<br />
         знакомая нам;<br />
@@ -911,7 +911,7 @@ const skirnirstrip = [
         number: '42.',
         class:"flex justify-center m-2",
 
-        contentON: <span className="flex w-40">Freyr kvað:<br />
+        contentON: <span className="flex w-40 sm:w-60">Freyr kvað:<br />
         «Löng er nótt,<br />
         langar ro tvær,<br />
         hvé of þreyjak þrjár?<br />
@@ -919,7 +919,7 @@ const skirnirstrip = [
         minni þótti<br />
         en sjá half hýnótt.»</span>,
 
-        contentRU: <span className="flex w-40">Фрейр сказал:<br />
+        contentRU: <span className="flex w-40 sm:w-60">Фрейр сказал:<br />
         «Ночь длинна,<br />
         две ночи длиннее,<br />
         как вытерплю три!<br />

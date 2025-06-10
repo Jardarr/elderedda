@@ -5,8 +5,8 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     S
                 </span>
                 onr kvað:
@@ -26,7 +26,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сын сказал:
                 <br />
                 Пробуждайся, о Гроа,
@@ -49,7 +49,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gróa kvað:
                 <br />
                 «Hvat er nú annt
@@ -67,7 +67,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гроа сказала:
                 <br />
                 Что ныне тревожит,
@@ -90,7 +90,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sonr kvað:
                 <br />
                 «Ljótu leikborði
@@ -108,7 +108,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сын сказал:
                 <br />
                 Игру непростую, опасное дело
@@ -131,7 +131,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gróa kvað:
                 <br />
                 «Löng er för,
@@ -149,7 +149,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гроа сказала:
                 <br />
                 Долгое странствие,
@@ -172,7 +172,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sonr kvað:
                 <br />
                 «Galdra þú mér gal,
@@ -190,7 +190,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сын сказал:
                 <br />
                 Заклятия спой
@@ -213,7 +213,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gróa kvað:
                 <br />
                 «Þann gel ek þér fyrstan,
@@ -230,7 +230,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гроа сказала:
                 <br />
                 Так пою тебе первым,
@@ -253,7 +253,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér annan,
                 <br />
                 ef þú árna skalt
@@ -269,7 +269,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою я вторым,
                 <br />
                 если принудят
@@ -290,7 +290,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn þriðja,
                 <br />
                 ef þér þjóðáar
@@ -306,7 +306,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою тебе третьим,
                 <br />
                 коли река
@@ -327,7 +327,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn fjórða,
                 <br />
                 ef þik fjándr standa
@@ -343,7 +343,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою я четвертым,
                 <br />
                 коль виселиц путь тебе
@@ -364,7 +364,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn fimmta,
                 <br />
                 ef þér fjöturr verðr
@@ -382,7 +382,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою тебе пятым,
                 <br />
                 коль оковы наложат
@@ -404,7 +404,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn sétta,
                 <br />
                 ef þú á sjó kemr
@@ -420,7 +420,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою я шестым,
                 <br />
                 коль в море выходишь,
@@ -441,7 +441,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn sjaunda,
                 <br />
                 ef þik sækja kemr
@@ -457,7 +457,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою я седьмым,
                 <br />
                 коль приходит мороз
@@ -478,7 +478,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn átta,
                 <br />
                 ef þik úti nemr
@@ -494,7 +494,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою я восьмым,
                 <br />
                 коль вовне застигнет
@@ -515,7 +515,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þann gel ek þér inn níunda,
                 <br />
                 ef þú við inn naddgöfga
@@ -531,7 +531,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так пою я девятым,
                 <br />
                 коль с достойным меняешься
@@ -551,7 +551,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Far þú nú æva,
                 <br />
                 þar er forað þykkir,
@@ -567,7 +567,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иди теперь навсегда;
                 <br />
                 там, где мнится опасность,
@@ -588,7 +588,7 @@ const groasspell = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Móður orð
                 <br />
                 ber þú, mögr, heðan
@@ -604,7 +604,7 @@ const groasspell = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Материнское слово
                 <br />
                 неси ты, сын, впредь,

@@ -5,8 +5,8 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     A
                 </span>
                 r kváðu Humla
@@ -28,7 +28,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хумли, как слышно,
                 <br />
                 гуннами правил,
@@ -52,7 +52,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlöðr var þar borinn
                 <br />
                 í Húnalandi
@@ -71,7 +71,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хлед родился
                 <br />
                 в гуннской земле,
@@ -95,7 +95,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlöðr reið austan,
                 <br />
                 Heiðreks arfi;
@@ -115,7 +115,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хлед с востока,
                 <br />
                 наследник Хейдрека,
@@ -139,7 +139,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Segg fann hann úti
                 <br />
                 fyr sal hávum
@@ -159,7 +159,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Человека он встретил
                 <br />
                 перед чертогом,
@@ -200,7 +200,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hér er Hlöðr kominn,
                 <br />
                 Heiðreks arfþegi,
@@ -220,7 +220,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Хлед появился,
                 <br />
                 наследник Хейдрека,
@@ -245,7 +245,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rymr varð í ranni,
                 <br />
                 risu með góðum;
@@ -261,7 +261,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Зашумели в палате,
                 <br />
                 встали сидевшие, —<br />
@@ -296,7 +296,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá mælti Angantýr:
                 <br />
                 «Heill kom þú, Hlöðr,
@@ -322,7 +322,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Я хочу половину
                 <br />
                 наследия Хейдрека;
@@ -346,7 +346,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað Hlöðr:
                 <br />
                 «Til annars vér
@@ -364,7 +364,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 и лес знаменитый,
                 <br />
                 что Мюрквид зовется,
@@ -392,7 +392,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hafa vil ek halft allt,
                 <br />
                 þat er Heiðrekr átti,
@@ -412,7 +412,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Сначала расколется
@@ -443,7 +443,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrís þat it mæra,
                 <br />
                 er Myrkvið heita,
@@ -467,7 +467,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Родич, тебе я<br />
                 кубки вручу,
                 <br />
@@ -491,7 +491,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Bresta mun fyrr, bróðir,
@@ -517,7 +517,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дам я дары
                 <br />
                 каждому мужу, —<br />
@@ -540,7 +540,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ek mun bjóða þér
                 <br />
                 bjartar vigrar,
@@ -560,7 +560,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Серебром я тебя
                 <br />
                 покрою, сидящего,
@@ -600,7 +600,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Manni gef ek hverjum
                 <br />
                 margt at þiggja
@@ -620,7 +620,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Щедро сулишь ты
                 <br />
                 рабыни отродью,
@@ -661,7 +661,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mun ek um þik sitjanda
                 <br />
                 silfri mæla,
@@ -680,7 +680,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Мы проведем
                 <br />
                 эту зиму в довольстве,
@@ -719,7 +719,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Þetta er þiggjanda
                 <br />
                 þýjar barni,
@@ -739,7 +739,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Славную, Хлед,
                 <br />
                 соберем мы дружину,
@@ -798,7 +798,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sitja skulu vér í vetr
                 <br />
                 ok sælliga lifa,
@@ -818,7 +818,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Конечно, поеду
                 <br />
                 и щит понесу,
@@ -851,7 +851,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vel skulum þér, Hlöðr,
                 <br />
                 herlið búa
@@ -871,7 +871,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «С юга я прибыл
                 <br />
                 с такими вестями:
@@ -915,7 +915,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Skal ek víst ríða
                 <br />
                 ok rönd bera,
@@ -929,7 +929,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Знаю, что в битве
                 <br />
                 Хейдрека дочь,
@@ -977,7 +977,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sunnan em ek kominn
                 <br />
                 at segja spjöll þessi:
@@ -993,7 +993,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Легче ей было
                 <br />
                 битву начать,
@@ -1025,7 +1025,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mey veit ek Heiðreks,
                 <br />
                 [fyr mækis eggjum],
@@ -1045,7 +1045,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Много нас было
                 <br />
                 за чашею меда,
@@ -1062,7 +1062,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Léttari gerðisk hon at böð
                 <br />
                 en við biðil ræða
@@ -1074,7 +1074,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нету в дружине
                 <br />
                 моей никого,
@@ -1110,7 +1110,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Óbróðurliga vartu leikin,
                 <br />
                 in ágæta systir!»
@@ -1127,7 +1127,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гицур Старый сказал:
                 <br />
                 «Не стану просить
@@ -1170,7 +1170,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sé ek eigi mann
                 <br />
                 í mínu liði,
@@ -1190,7 +1190,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Куда мне позвать
                 <br />
                 гуннов для схватки?»
@@ -1203,7 +1203,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gizurr gamli sagði:
                 <br />
                 «Ek mun þik einkis
@@ -1225,7 +1225,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «К Дюльгье зови их,
                 <br />
                 на Дунхейд зови,
@@ -1266,7 +1266,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvar skal ek Húnum
                 <br />
                 hervíg kenna?»
@@ -1274,7 +1274,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Войску разгром
                 <br />
                 и гибель вождю!
@@ -1291,7 +1291,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Kenndu at Dylgju
@@ -1313,7 +1313,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Зову я вас к Дюльгье,
                 <br />
                 на битву сзываю
@@ -1350,7 +1350,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Felmtr er yðru fylki,
                 <br />
                 feigr er yðvarr vísi,
@@ -1362,7 +1362,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Услышав слова Гицура, Хлед сказал:
                 <br />
                 «Схватите скорее
@@ -1377,7 +1377,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Býð ek yðr at Dylgju
                 <br />
                 ok á Dúnheiði
@@ -1397,7 +1397,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 А конунг Хумли сказал:
                 <br />
                 «Посланца не троньте, —<br />
@@ -1430,7 +1430,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Taki þér Gizur
                 <br />
                 Grýtingaliða,
@@ -1453,7 +1453,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шесть боевых
                 <br />
                 у гуннов полков,
@@ -1504,7 +1504,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sex ein eru
                 <br />
                 seggja fylki,
@@ -1524,7 +1524,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Сокровищ тебе
                 <br />
                 немало сулил я,
@@ -1573,7 +1573,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Bauð ek þér, bróðir,
                 <br />
                 basmir óskerðar,
@@ -1593,7 +1593,7 @@ const hlodskvida = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Проклятье на нас:
                 <br />
                 тебя я убил!
@@ -1622,7 +1622,7 @@ const hlodskvida = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bölvat er okkr, bróðir,
                 <br />
                 bani em ek þinn orðinn;
@@ -1633,7 +1633,7 @@ const hlodskvida = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
 ];
 

@@ -1,6 +1,4 @@
-import Dictionary from "@/app/components/Dictionary";
 import SearchInDict from "@/app/components/SearchInDict";
-import SearchPage from "@/app/components/SearchInDict";
 import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
@@ -62,12 +60,11 @@ export default function Home() {
             <div className="flex flex-col items-center w-[600px] rounded-md min-h-screen mt-20">
                 <div className="flex flex-col w-full p-8 sea-color text-center">
                     <h1 className="text-2xl font-bold">Cleasby & Vigfusson Old Norse dictionary</h1>
-                    <p style={{ fontFamily: "Good-vibes, sans-serif" }} className="text-neutral-900 dark:text-neutral-200 text-xl mt-4">
+                    <p className="font-GoodVibes text-neutral-900 dark:text-neutral-200 text-xl mt-4">
                         Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона,
                         первоначально опубликованного в 1874 году.
                     </p>
                 </div>
-                {/* <Dictionary /> */}
                 <SearchInDict />
             </div>
         </main>

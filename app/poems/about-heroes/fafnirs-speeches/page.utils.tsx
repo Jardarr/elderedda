@@ -6,7 +6,7 @@ const fafnirsspeeches = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     igurðr ok Reginn fóru upp á Gnitaheiði ok hittu þar slóð Fáfnis, þá er hann skreið til vatns. Þar gerði Sigurðr gröf mikla á veginum, ok gekk Sigurðr þar í. En
@@ -32,7 +32,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sveinn ok sveinn,
                 <br />
                 hverjum ertu svein of borinn?
@@ -48,7 +48,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Юнец, юнец!
                 <br />
                 Кем ты рожден?
@@ -89,7 +89,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Göfugt dýr ek heiti,
                 <br />
                 en ek gengit hefk
@@ -104,7 +104,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Я зверь благородный,
                 <br />
                 был я всю жизнь
@@ -125,7 +125,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Veiztu, ef föður né átt-at
@@ -137,7 +137,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Коль нету отца,
@@ -154,7 +154,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Ætterni mitt
@@ -172,7 +172,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Род мой тебе
@@ -194,7 +194,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Hverr þik hvatti?
@@ -212,7 +212,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Кто тебя подстрекнул,
@@ -235,7 +235,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hugr mik hvatti,
@@ -253,7 +253,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Смелость вела,
@@ -276,7 +276,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Veit ek, ef þú vaxa næðir
@@ -293,7 +293,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Знаю: если б возрос
@@ -314,7 +314,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Því bregðr þú mér, Fáfnir,
@@ -332,7 +332,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «К чему твой попрек,
@@ -354,7 +354,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Heiftyrði ein
@@ -372,7 +372,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Слышишь ты всюду
@@ -395,7 +395,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Féi ráða
@@ -413,7 +413,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Богатством владеть
@@ -435,7 +435,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Norna dóm
@@ -453,7 +453,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Норн приговор
@@ -475,7 +475,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Segðu mér, Fáfnir,
@@ -493,7 +493,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Фафнир, скажи мне,
@@ -515,7 +515,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Sundrbornar mjök
@@ -533,7 +533,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Различны рожденьем
@@ -555,7 +555,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Segðu mér þat, Fáfnir,
@@ -573,7 +573,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Фафнир, скажи мне,
@@ -596,7 +596,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Óskópnir hann heitir,
@@ -614,7 +614,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Оскопнир — остров,
@@ -637,7 +637,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ægishjalm
                 <br />
                 bar ek of alda sonum,
@@ -653,7 +653,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шлем-страшило
                 <br />
                 носил я всегда,
@@ -673,7 +673,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Ægishjalmr
@@ -691,7 +691,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Шлем-страшило
@@ -714,7 +714,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Eitri ek fnæsta,
@@ -728,7 +728,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Яд изрыгал я,
@@ -745,7 +745,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Inn fráni ormr,
@@ -763,7 +763,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Змей могучий,
@@ -786,7 +786,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Ræð ek þér nú, Sigurðr,
@@ -804,7 +804,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Дам тебе, Сигурд,
@@ -827,7 +827,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Ráð er þér ráðit,
@@ -845,7 +845,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «С тобой покончено,
@@ -867,7 +867,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fáfnir kvað:
                 <br />
                 «Reginn mik réð,
@@ -885,7 +885,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фафнир сказал:
                 <br />
                 «Предан я Регином,
@@ -923,7 +923,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Heill þú nú, Sigurðr,
                 <br />
                 nú hefir þú sigr vegit
@@ -939,7 +939,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Привет тебе, Сигурд,
                 <br />
                 в бою победил ты,
@@ -960,7 +960,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Þat er óvíst at vita,
@@ -980,7 +980,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Как указать,
@@ -1005,7 +1005,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reginn kvað:
                 <br />
                 «Glaðr ertu nú, Sigurðr,
@@ -1023,7 +1023,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Регин сказал:
                 <br />
                 «Рад ты, Сигурд,
@@ -1045,7 +1045,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Þú því rétt,
@@ -1063,7 +1063,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Виновен ты в том,
@@ -1101,7 +1101,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sittu nú, Sigurðr,
                 <br />
                 en ek mun sofa ganga,
@@ -1117,7 +1117,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Регин сказал:
                 <br />
                 «Спать я пойду,
@@ -1139,7 +1139,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Fjarri þú gekkt,
@@ -1157,7 +1157,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Был ты далеко,
@@ -1178,7 +1178,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reginn kvað:
                 <br />
                 «Lengi liggja
@@ -1195,7 +1195,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Регин сказал:
                 <br />
                 «Ты дал бы лежать
@@ -1217,7 +1217,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hugr er betri
@@ -1235,7 +1235,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Смелость лучше
@@ -1257,7 +1257,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvötum er betra
                 <br />
                 en sé óhvötum
@@ -1273,7 +1273,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Смелому лучше,
                 <br />
                 чем трусу, придется
@@ -1318,7 +1318,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Þar sitr Sigurðr
                 <br />
                 sveita stokkinn,
@@ -1338,7 +1338,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Вот конунг Сигурд,
                 <br />
                 обрызганный кровью,
@@ -1363,7 +1363,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Önnur kvað:
                 <br />
                 «Þar liggr Reginn,
@@ -1385,7 +1385,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вторая сказала:
                 <br />
                 «Вот Регин лежит,
@@ -1412,7 +1412,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 In þriðja kvað:
                 <br />
                 «Höfði skemmra
@@ -1430,7 +1430,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Третья сказала:
                 <br />
                 «Тула седого
@@ -1452,7 +1452,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 In fjórða kvað:
                 <br />
                 Horskr þætti mér,
@@ -1474,7 +1474,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Четвертая сказала:
                 <br />
                 «Умным сочла бы,
@@ -1501,7 +1501,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 In fimmta kvað:
                 <br />
                 «Er-at svá horskr
@@ -1523,7 +1523,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пятая сказала:
                 <br />
                 «Не будет мудрым
@@ -1550,7 +1550,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 In sétta kvað:
                 <br />
                 «Mjök er ósviðr,
@@ -1568,7 +1568,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шестая сказала:
                 <br />
                 «Глупо поступит,
@@ -1591,7 +1591,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 In sjaunda kvað:
                 <br />
                 «Höfði skemmra láti hann
@@ -1609,7 +1609,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Седьмая сказала:
                 <br />
                 «Пусть великану
@@ -1632,7 +1632,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Verða-t svá rík sköp,
@@ -1650,7 +1650,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «У судьбы не возьмет
@@ -1689,7 +1689,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Bitt þú, Sigurðr,
                 <br />
                 bauga rauða;
@@ -1709,7 +1709,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Связывай кольца
                 <br />
                 красные, Сигурд,
@@ -1732,7 +1732,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Liggja til Gjúka
                 <br />
                 grænar brautir,
@@ -1752,7 +1752,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 К Гьюки ведут
                 <br />
                 зеленые тропы,
@@ -1777,7 +1777,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Salr er á háu
                 <br />
                 Hindarfjalli,
@@ -1797,7 +1797,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Высокий чертог
                 <br />
                 на вершине Хиндарфьялль,
@@ -1822,7 +1822,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Veit ek á fjalli
                 <br />
                 folkvitr sofa
@@ -1842,7 +1842,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Знаю — валькирия
                 <br />
                 спит на вершине,
@@ -1866,7 +1866,7 @@ const fafnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Knáttu, mögr, séa
                 <br />
                 mey und hjalmi,
@@ -1886,7 +1886,7 @@ const fafnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сможешь увидеть
                 <br />
                 деву под шлемом;

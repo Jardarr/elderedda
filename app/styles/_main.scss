@@ -1,5 +1,9 @@
 :root {
+	//Global font-color
 	--sea-color: #203e51;
+	//Fonts
+	--elementary: "Elementary", sans-serif;
+	--feofan: "Feofan", sans-serif;
 }
 
 @font-face {
@@ -56,6 +60,14 @@
 	src: url("/fonts/rosa-marena.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
+}
+
+h1 {
+	font-family: var(--elementary);
+}
+
+h2 {
+	font-family: var(--feofan);
 }
 
 .sea-color {

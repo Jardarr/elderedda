@@ -6,7 +6,7 @@ const aboutthedeathofsinfjotli = [
         contentON: (
             <>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     igmundr Völsungsson var konungr á Frakklandi. Sinfjötli var elztr hans sona, annarr Helgi, þriði Hámundr. Borghildr, kona Sigmundar, átti bróður, er hét . . . .

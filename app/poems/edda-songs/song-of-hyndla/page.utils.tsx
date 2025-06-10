@@ -5,8 +5,8 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     F
                 </span>
                 reyja kvað:
@@ -30,7 +30,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фрейя сказала:
                 <br />
                 «Проснись, дева дев!
@@ -56,7 +56,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Biðjum Herjaföðr
                 <br />
                 í hugum sitja,
@@ -76,7 +76,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ратей Отца
                 <br />
                 попросим о милости!
@@ -101,7 +101,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gefr hann sigr sumum,
                 <br />
                 en sumum aura,
@@ -121,7 +121,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Победу одним,
                 <br />
                 другим же богатство,
@@ -146,7 +146,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þórr mun hon blóta,
                 <br />
                 þess mun hon biðja,
@@ -162,7 +162,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жертвы для Тора
                 <br />
                 я приготовлю,
@@ -183,7 +183,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú taktu ulf þinn
                 <br />
                 einn af stalli,
@@ -206,7 +206,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Волка скорее
                 <br />
                 Из стойла выведи,
@@ -234,7 +234,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Flá ertu, Freyja,
                 <br />
                 er þú freistar mín,
@@ -254,7 +254,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ты, хитрая Фрейя,
                 <br />
                 меня испытуешь:
@@ -279,7 +279,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Freyja kvað:
                 <br />
                 «Dulin ertu, Hyndla,
@@ -305,7 +305,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фрейя сказала:
                 <br />
                 «Ошиблась ты, Хюндла,
@@ -336,7 +336,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Senn vit ór söðlum
                 <br />
                 sitja vit skulum
@@ -352,7 +352,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С седел сойдем!
                 <br />
                 Сядем с тобой,
@@ -373,7 +373,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þeir hafa veðjat
                 <br />
                 Vala malmi
@@ -393,7 +393,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр спорит
                 <br />
                 с юношей Оттаром, —<br />
@@ -417,7 +417,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hörg hann mér gerði
                 <br />
                 hlaðinn steinum,
@@ -435,7 +435,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Алтарь для меня
                 <br />
                 из камня сложил он,
@@ -460,7 +460,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú láttu forna
                 <br />
                 niðja talða
@@ -488,7 +488,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 О родичах древних
                 <br />
                 ты расскажи мне
@@ -520,7 +520,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hyndla kvað:
                 <br />
                 «Þú ert, Óttarr,
@@ -542,7 +542,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хюндла сказала:
                 <br />
                 «Ты, юный Оттар,
@@ -569,7 +569,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Móður átti faðir þinn
                 <br />
                 menjum göfga,
@@ -589,7 +589,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мать у отца
                 <br />
                 была твоего
@@ -614,7 +614,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Auði var áðr
                 <br />
                 öflgastr manna,
@@ -634,7 +634,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Был некогда Али
                 <br />
                 самым могучим,
@@ -659,7 +659,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eflðisk hann við Eymund
                 <br />
                 æðstan manna,
@@ -679,7 +679,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В родство он вступил
                 <br />
                 с Эймундом смелым,
@@ -704,7 +704,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þaðan eru Skjöldungar,
                 <br />
                 þaðan Skilfingar,
@@ -728,7 +728,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Отсюда род Скьельдунгов,
                 <br />
                 отсюда и Скильвинги,
@@ -756,7 +756,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Var Hildigunnr
                 <br />
                 hennar móðir,
@@ -776,7 +776,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хильдигунн матерью
                 <br />
                 Фриун была,
@@ -801,7 +801,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dagr átti Þóru
                 <br />
                 drengja móður,
@@ -825,7 +825,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Даг в жены взял Тору,
                 <br />
                 героев родившую;
@@ -854,7 +854,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ketill hét vinr þeira,
                 <br />
                 Klypps arfþegi,
@@ -874,7 +874,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Друг их был Кетиль,
                 <br />
                 Клюпа наследник,
@@ -899,7 +899,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nanna var næst þar
                 <br />
                 Nökkva dóttir,
@@ -923,7 +923,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Еще назову я<br />
                 Нанну, дочь Неккви;
                 <br />
@@ -950,7 +950,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ísolfr ok Ásolfr
                 <br />
                 Ölmóðs synir
@@ -970,7 +970,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Исольв и Асольв,
                 <br />
                 Эльмода дети,
@@ -995,7 +995,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gunnarr balkr,
                 <br />
                 Grímr arðskafi,
@@ -1007,7 +1007,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар Стена
                 <br />
                 и Грим Закаленный,
@@ -1024,7 +1024,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervarðr, Hjörvarðr,
                 <br />
                 Hrani, Angantýr,
@@ -1044,7 +1044,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Буи и Брами,
                 <br />
                 Барри и Рейфнир,
@@ -1065,7 +1065,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Austr í Bolm
                 <br />
                 váru bornir
@@ -1089,7 +1089,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ани и Оми
                 <br />
                 потом родились,
@@ -1117,7 +1117,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kunnak báða
                 <br />
                 Brodd ok Hörvi;
@@ -1140,7 +1140,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я знала обоих —<br />
                 Бродда и Херви,
                 <br />
@@ -1166,7 +1166,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sá var vísir
                 <br />
                 frá Völsungi
@@ -1186,7 +1186,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От Вельсунга род свой
                 <br />
                 вождь этот вел,
@@ -1211,7 +1211,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gunnarr ok Högni,
                 <br />
                 Gjúka arfar,
@@ -1235,7 +1235,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар и Хегни,
                 <br />
                 наследники Гьюки,
@@ -1264,7 +1264,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Haraldr hilditönn
                 <br />
                 borinn Hræreki
@@ -1294,7 +1294,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Харальд Клык Битвы,
                 <br />
                 Хререка сын,
@@ -1326,7 +1326,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Freyja kvað:
                 <br />
                 «Ber þú minnisöl
@@ -1348,7 +1348,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В живых оставалось
                 <br />
                 одиннадцать асов,
@@ -1377,7 +1377,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hyndla kvað:
                 <br />
                 «Snúðu braut heðan,
@@ -1399,7 +1399,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бальдра отец
                 <br />
                 был наследником Бура,
@@ -1428,7 +1428,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rannt at Óði
                 <br />
                 ey þreyjandi,
@@ -1448,7 +1448,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -1464,7 +1464,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Freyja kvað:
                 <br />
                 «Ek slæ eldi
@@ -1477,7 +1477,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хаки был сыном
                 <br />
                 достойнейшим Хведны,
@@ -1497,7 +1497,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hyndla kvað:
                 <br />
                 Hyr sé ek brenna,
@@ -1519,7 +1519,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От Видольва род свой
                 <br />
                 все вельвы ведут,
@@ -1542,7 +1542,7 @@ const songofhyndla = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Freyja kvað:
                 <br />
                 «Orðheill þín
@@ -1564,7 +1564,7 @@ const songofhyndla = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -1579,10 +1579,10 @@ const songofhyndla = [
         number: "35.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В давние годы
                 <br />
                 родился однажды
@@ -1603,10 +1603,10 @@ const songofhyndla = [
         number: "36.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -1621,10 +1621,10 @@ const songofhyndla = [
         number: "37.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Родила его Гьяльп,
                 <br />
                 родила его Грейн,
@@ -1648,10 +1648,10 @@ const songofhyndla = [
         number: "38.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Взял силу земли он,
                 <br />
                 студеного моря
@@ -1667,10 +1667,10 @@ const songofhyndla = [
         number: "39.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -1685,10 +1685,10 @@ const songofhyndla = [
         number: "40.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От Ангрбоды Локи
                 <br />
                 Волка родил,
@@ -1712,10 +1712,10 @@ const songofhyndla = [
         number: "41.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Найдя на костре
                 <br />
                 полусгоревшее
@@ -1739,10 +1739,10 @@ const songofhyndla = [
         number: "42.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ветер вздымает
                 <br />
                 до неба валы,
@@ -1766,10 +1766,10 @@ const songofhyndla = [
         number: "43.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Родился один
                 <br />
                 самый могучий,
@@ -1793,10 +1793,10 @@ const songofhyndla = [
         number: "44.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но будет еще
                 <br />
                 сильнейший из всех,
@@ -1820,10 +1820,10 @@ const songofhyndla = [
         number: "45.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фрейя сказала:
                 <br />
                 «Памяти пива
@@ -1849,10 +1849,10 @@ const songofhyndla = [
         number: "46.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хюндла сказала:
                 <br />
                 «Прочь уходи!
@@ -1878,10 +1878,10 @@ const songofhyndla = [
         number: "47.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ты к Оду стремилась,
                 <br />
                 желаньем томясь,
@@ -1905,10 +1905,10 @@ const songofhyndla = [
         number: "48.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фрейя сказала:
                 <br />
                 «Огнем исполиншу
@@ -1926,10 +1926,10 @@ const songofhyndla = [
         number: "49.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хюндла сказала:
                 <br />
                 «Я вижу огонь,
@@ -1954,10 +1954,10 @@ const songofhyndla = [
         number: "50.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фрейя сказала:
                 <br />
                 «Не вызовет зла

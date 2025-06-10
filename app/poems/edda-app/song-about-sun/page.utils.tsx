@@ -5,8 +5,8 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     F
                 </span>
                 é ok fjörvi
@@ -24,7 +24,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Убивал и грабил
                 <br />
                 жестокий разбойник
@@ -45,7 +45,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Einn hann át
                 <br />
                 oft harðla,
@@ -61,7 +61,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жадный, ел он
                 <br />
                 всегда в одиночестве,
@@ -82,7 +82,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Drykks of þurfi
                 <br />
                 lézk inn dæsti maðr
@@ -98,7 +98,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Поесть и напиться
                 <br />
                 дать усталому
@@ -119,7 +119,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mat ok drykk
                 <br />
                 veitti hann þeim, er móðr var,
@@ -135,7 +135,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Еду и питье
                 <br />
                 он дал истощенному,
@@ -156,7 +156,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Upp hinn stóð,
                 <br />
                 illt hann hugði,
@@ -172,7 +172,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гость просыпается,
                 <br />
                 гибель замысливший,
@@ -193,7 +193,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Himna guð
                 <br />
                 bað hann hjálpa sér,
@@ -209,7 +209,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 К богу воззвавший
                 <br />
                 хозяин о помощи
@@ -230,7 +230,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgir englar
                 <br />
                 kómu ór himnum ofan
@@ -248,7 +248,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Святые ангелы
                 <br />
                 сошли с неба
@@ -269,7 +269,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Auð né heilsu
                 <br />
                 ræðr engi maðr,
@@ -285,7 +285,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не властны мужи
                 <br />
                 над богатством и силой,
@@ -306,7 +306,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ekki þeir hugðu
                 <br />
                 Unnarr ok Sævaldi,
@@ -324,7 +324,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Твердо верили
                 <br />
                 Уннарр и Сэвальди:
@@ -344,7 +344,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Munaðar ríki
                 <br />
                 hefir margan tregat,
@@ -360,7 +360,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Власть любви
                 <br />
                 измучила многих,
@@ -381,7 +381,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sáttir þeir váru
                 <br />
                 Sváfaðr ok Skartheðinn,
@@ -397,7 +397,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вместе были
                 <br />
                 Свафадр и Скартхединн,
@@ -418,7 +418,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvárskis þeir gáðu
                 <br />
                 fyr þá hvítu mey,
@@ -434,7 +434,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Белолицая дева
                 <br />
                 собой заслонила
@@ -455,7 +455,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Daprar þeim urðu
                 <br />
                 inar dimmu nætr,
@@ -471,7 +471,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мрак ночной
                 <br />
                 не приносит им отдыха,
@@ -492,7 +492,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fádæmi verða
                 <br />
                 í flestum stöðum
@@ -510,7 +510,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Злодейство замысливших
                 <br />
                 рано иль поздно
@@ -530,7 +530,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ofmetnað drýgja
                 <br />
                 skyldi engi maðr,
@@ -546,7 +546,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Быть надменным
                 <br />
                 не должен никто,
@@ -567,7 +567,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rík þau váru
                 <br />
                 Ráðný ok Véboði
@@ -583,7 +583,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мощными были
                 <br />
                 Радню и Вебоди,
@@ -604,7 +604,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á sik þau trúðu
                 <br />
                 ok þóttusk ein vera
@@ -620,7 +620,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Верили в силу
                 <br />
                 свою эти двое,
@@ -641,7 +641,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Munað þau drýgðu
                 <br />
                 á marga vegu
@@ -659,7 +659,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Чрезмерно они
                 <br />
                 предавались радости,
@@ -680,7 +680,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óvinum þínum
                 <br />
                 trúðu aldregi,
@@ -696,7 +696,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Никогда не верь
                 <br />
                 своим недругам,
@@ -717,7 +717,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá honum gafsk
                 <br />
                 Sörla inum góðráða,
@@ -732,7 +732,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так был обманут
                 <br />
                 Серли доверчивый.
@@ -753,7 +753,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grið hann þeim seldi
                 <br />
                 af góðum hug,
@@ -769,7 +769,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С мирными мыслями
                 <br />
                 он приютил их,
@@ -790,7 +790,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En þá eftir
                 <br />
                 á öðrum degi,
@@ -806,7 +806,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 После этого
                 <br />
                 ранним утром
@@ -827,7 +827,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lík hans þeir drógu
                 <br />
                 á leynigötu
@@ -843,7 +843,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вывезли мертвого
                 <br />
                 тайной тропою,
@@ -864,7 +864,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sál hans bað
                 <br />
                 inn sanni guð
@@ -880,7 +880,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бог милосердный
                 <br />
                 призвал его душу
@@ -901,7 +901,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dísir bið þú þér
                 <br />
                 dróttins mála
@@ -917,7 +917,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дис проси,
                 <br />
                 доверенных Господа,
@@ -938,7 +938,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reiðiverk,
                 <br />
                 þau er þú unnit hefr,
@@ -954,7 +954,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Если ты в гневе
                 <br />
                 другого обидел,
@@ -974,7 +974,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á guð skal heita
                 <br />
                 til góðra hluta,
@@ -990,7 +990,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Обращайся к Богу
                 <br />
                 с хорошими мыслями,
@@ -1011,7 +1011,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Æsta dugir
                 <br />
                 einkum vandliga
@@ -1027,7 +1027,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Спрашивать следует
                 <br />
                 в нужных словах
@@ -1048,7 +1048,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Síðla ek kom,
                 <br />
                 snemma kallaðr,
@@ -1064,7 +1064,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Поздно пришел я,
                 <br />
                 хоть позван был вовремя,
@@ -1084,7 +1084,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Syndir því valda,
                 <br />
                 at vér hryggvir förum
@@ -1100,7 +1100,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грех совершенный
                 <br />
                 нам смерть отягчает,
@@ -1121,7 +1121,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Úlfum glíkir
                 <br />
                 þykkja allir þeir,
@@ -1137,7 +1137,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Волкам подобны
                 <br />
                 нетвердые в думах,
@@ -1158,7 +1158,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vinsamlig ráð
                 <br />
                 ok viti bundin
@@ -1174,7 +1174,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Как верному другу
                 <br />
                 полные мудрости
@@ -1195,7 +1195,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Frá því er at segja,
                 <br />
                 hvé sæll ek var
@@ -1211,7 +1211,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Расскажу правдиво,
                 <br />
                 как счастлив я был
@@ -1232,7 +1232,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vil ok dul
                 <br />
                 tælir virða sonu,
@@ -1248,7 +1248,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жадность к злату
                 <br />
                 приводит к несчастью,
@@ -1269,7 +1269,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Glaðr at mörgu
                 <br />
                 þótta ek gumnum vera,
@@ -1285,7 +1285,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Наслаждался я многим,
                 <br />
                 был радостям предан,
@@ -1306,7 +1306,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lútr ek sat,
                 <br />
                 lengi ek hölluðumk,
@@ -1322,7 +1322,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сломлен недугом
                 <br />
                 долго страдал я,
@@ -1343,7 +1343,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heljar reip
                 <br />
                 kómu harðliga
@@ -1359,7 +1359,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Крепко крученые
                 <br />
                 путы Хель
@@ -1379,7 +1379,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Einn ek vissa,
                 <br />
                 hvé alla vega
@@ -1395,7 +1395,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Чувствовал я,
                 <br />
                 как отовсюду
@@ -1416,7 +1416,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá,
                 <br />
                 sanna dagstjörnu,
@@ -1432,7 +1432,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел —<br />
                 звезду дневную,
                 <br />
@@ -1452,7 +1452,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá
                 <br />
                 setta dreyrstöfum;
@@ -1468,7 +1468,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел
                 <br />
                 в рунах кровавых,
@@ -1489,7 +1489,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá,
                 <br />
                 svá þótti mér,
@@ -1505,7 +1505,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел;
                 <br />
                 и чудилось мне —<br />
@@ -1525,7 +1525,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá,
                 <br />
                 svá hon geislaði,
@@ -1541,7 +1541,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел
                 <br />
                 в сиянии ярком,
@@ -1561,7 +1561,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá
                 <br />
                 á sjónum skjálfandi,
@@ -1577,7 +1577,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел
                 <br />
                 дрожащим зраком,
@@ -1598,7 +1598,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá
                 <br />
                 sjaldan hryggvari;
@@ -1614,7 +1614,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел,
                 <br />
                 с миром прощаясь,
@@ -1634,7 +1634,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól ek sá
                 <br />
                 síðan aldregi
@@ -1650,7 +1650,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце я видел
                 <br />
                 в последний раз
@@ -1671,7 +1671,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vánarstjarna flaug
                 <br />
                 — þá var ek fæddr, —<br />
@@ -1688,7 +1688,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ясной звездой
                 <br />
                 отлетела надежда,
@@ -1709,7 +1709,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Öllum lengri
                 <br />
                 var sú in eina nótt,
@@ -1725,7 +1725,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Коченея лежал я<br />
                 на ложе убогом,
                 <br />
@@ -1745,7 +1745,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Virði þat ok viti
                 <br />
                 in virki guð,
@@ -1761,7 +1761,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пусть же узнает
                 <br />
                 Господь всемогущий,
@@ -1782,7 +1782,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinna verka
                 <br />
                 nýtr seggja hverr;
@@ -1800,7 +1800,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 По своим делам
                 <br />
                 получает каждый,
@@ -1821,7 +1821,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hörundar hungr
                 <br />
                 tælir hölða oft,
@@ -1837,7 +1837,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Плотские желания
                 <br />
                 свойственны всякому,
@@ -1858,7 +1858,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á norna stóli
                 <br />
                 sat ek níu daga,
@@ -1874,7 +1874,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У престола норн
                 <br />
                 я сидел девять дней,
@@ -1894,7 +1894,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Utan ok innan
                 <br />
                 þóttumk ek alla fara
@@ -1912,7 +1912,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Чудилось мне,
                 <br />
                 что на этой повозке
@@ -1932,7 +1932,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Frá því er at segja,
                 <br />
                 hvat ek fyrst of sá,
@@ -1948,7 +1948,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Слушай же,
                 <br />
                 что я увидел первым,
@@ -1969,7 +1969,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vestan sá ek
                 <br />
                 fljúga Vánar dreka,
@@ -1985,7 +1985,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 На западе бился
                 <br />
                 дракон надежды,
@@ -2006,7 +2006,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sólar hjört
                 <br />
                 leit ek sunnan fara,
@@ -2022,7 +2022,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 На юге я видел
                 <br />
                 оленя солнца,
@@ -2042,7 +2042,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Norðan sá ek
                 <br />
                 ríða niðja sonu,
@@ -2058,7 +2058,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С севера мчались
                 <br />
                 сыны Ниди,
@@ -2079,7 +2079,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindr þagði,
                 <br />
                 vötn stöðvaði,
@@ -2095,7 +2095,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ветер утих,
                 <br />
                 успокоились волны.
@@ -2116,7 +2116,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dreyra steina
                 <br />
                 þær inar dökku konur
@@ -2132,7 +2132,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Кровавые камни
                 <br />
                 жены вращали,
@@ -2153,7 +2153,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Margan mann
                 <br />
                 sá ek meiddan fara
@@ -2169,7 +2169,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 наказанных страшно:
@@ -2190,7 +2190,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Marga menn
                 <br />
                 sá ek moldar gengna,
@@ -2206,7 +2206,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел я многих
                 <br />
                 встающих из гроба —<br />
@@ -2225,7 +2225,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er mjök ala
@@ -2241,7 +2241,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел я многих
                 <br />
                 завистников злобных,
@@ -2262,7 +2262,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þar
                 <br />
                 marga ófegna,
@@ -2278,7 +2278,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел я многих
                 <br />
                 мужей нерадостных,
@@ -2299,7 +2299,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er mörgum hlutum
@@ -2315,7 +2315,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 обманом стяжавших
@@ -2336,7 +2336,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er margan höfðu
@@ -2352,7 +2352,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я —<br />
                 убийц и грабителей,
                 <br />
@@ -2372,7 +2372,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er minnst vildu
@@ -2388,7 +2388,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 не знавших желания
@@ -2409,7 +2409,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er af mikillæti
@@ -2425,7 +2425,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я<br />
                 чрезмерно заносчивых,
                 <br />
@@ -2445,7 +2445,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er margt höfðu
@@ -2461,7 +2461,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 речами лживыми
@@ -2482,7 +2482,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Allar ógnir
                 <br />
                 fær þú eigi vitat,
@@ -2500,7 +2500,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не должен знать ты
                 <br />
                 все эти муки,
@@ -2521,7 +2521,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er margt höfðu
@@ -2537,7 +2537,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 что праведно жили
@@ -2557,7 +2557,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er af miklum hug
@@ -2573,7 +2573,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я<br />
                 духом великих,
                 <br />
@@ -2593,7 +2593,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er mjök höfðu
@@ -2609,7 +2609,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 что в рьяном рвеньи
@@ -2629,7 +2629,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menn sá ek þá,
                 <br />
                 er móður höfðu
@@ -2645,7 +2645,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел мужей я,
                 <br />
                 что сами кормили
@@ -2666,7 +2666,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgar meyjar
                 <br />
                 höfðu hreinliga
@@ -2682,7 +2682,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От грехов отмывали
                 <br />
                 девы святые
@@ -2703,7 +2703,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hávar reiðir
                 <br />
                 sá ek með himnum fara,
@@ -2719,7 +2719,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел я — мчались
                 <br />
                 ввысь колесницы
@@ -2740,7 +2740,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Inn máttki faðir!
                 <br />
                 Inn mæzti sonr!
@@ -2756,7 +2756,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Отец всемогущий,
                 <br />
                 кроткий сын,
@@ -2776,7 +2776,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hringvör ok Listvör
                 <br />
                 sitja í Herðis dyrum
@@ -2792,7 +2792,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бьюгвор и Листвор
                 <br />
                 у врат Хердира
@@ -2813,7 +2813,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óðins kván
                 <br />
                 rær á jarðar skipi,
@@ -2829,7 +2829,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жаждет утех
                 <br />
                 жена Одина,
@@ -2850,7 +2850,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Arfi, faðir
                 <br />
                 einn þér ráðit hefi
@@ -2866,7 +2866,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один управлял я<br />
                 отцовским наследством,
                 <br />
@@ -2886,7 +2886,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hér eru rúnar,
                 <br />
                 sem ristit hafa
@@ -2902,7 +2902,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Резали руны здесь
                 <br />
                 дочери Ньерда,
@@ -2922,7 +2922,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bölvi hverju
                 <br />
                 þeir bellt hafa
@@ -2938,7 +2938,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Всякое зло
                 <br />
                 совершали без жалости
@@ -2959,7 +2959,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kvæði þetta,
                 <br />
                 er þér kennt hefik,
@@ -2975,7 +2975,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Эту песнь,
                 <br />
                 что тебе я сложил,
@@ -2996,7 +2996,7 @@ const songaboutsun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hér vit skiljumk,
                 <br />
                 ok hittask munum
@@ -3012,7 +3012,7 @@ const songaboutsun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пора нам расстаться,
                 <br />
                 но встретимся снова

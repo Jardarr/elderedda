@@ -6,7 +6,7 @@ const thirdsongofgudrun = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         H
                     </span>
                     erkja hét ambótt Atla. Hon hafði verit frilla hans. Hon sagði Atla, at hon hefði sét Þjóðrek ok Guðrúnu bæði saman. Atli var þá allókátr. Þá kvað Guðrún:
@@ -30,7 +30,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þér, Atli,
                 <br />
                 æ, Buðla sonr?
@@ -50,7 +50,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун сказала:
                 <br />
                 «Что с тобой, Атли,
@@ -77,7 +77,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað:
                 <br />
                 «Tregr mik þat, Guðrún
@@ -99,7 +99,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли сказал:
                 <br />
                 «Недоброе, Гудрун,
@@ -125,7 +125,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðrún kvað:
                 <br />
                 «Þér mun ek alls þess
@@ -147,7 +147,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун сказала:
                 <br />
                 «В том я поклясться
@@ -174,7 +174,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nema ek halsaða
                 <br />
                 herja stilli,
@@ -194,7 +194,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не обнимала
                 <br />
                 его никогда я,
@@ -219,7 +219,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hér kom Þjóðrekr
                 <br />
                 með þría tegu,
@@ -239,7 +239,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тьодрек привел
                 <br />
                 тридцать воителей,
@@ -264,7 +264,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sentu at Saxa,
                 <br />
                 Sunnmanna gram,
@@ -276,7 +276,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 За Сакси пошли,
                 <br />
                 за князем южан:
@@ -293,7 +293,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sjau hundruð manna
                 <br />
                 í sal gengu,
@@ -304,7 +304,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Семь сотен людей
                 <br />
                 в палату вступили,
@@ -320,7 +320,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðrún kvað:
                 <br />
                 «Kemr-a nú Gunnarr,
@@ -342,7 +342,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун сказала:
                 <br />
                 «Гуннара с Хегни
@@ -367,7 +367,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brá hon til botns
                 <br />
                 björtum lófa
@@ -387,7 +387,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ладонь в кипяток
                 <br />
                 до дна погрузила,
@@ -412,7 +412,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hló þá Atla
                 <br />
                 hugr í brjósti,
@@ -432,7 +432,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У Атли в груди
                 <br />
                 душа взыграла,
@@ -460,7 +460,7 @@ const thirdsongofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sá-at maðr armligt,
                 <br />
                 hverr er þat sá-at,
@@ -480,7 +480,7 @@ const thirdsongofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жалок для взора
                 <br />
                 вид был у Херкьи,

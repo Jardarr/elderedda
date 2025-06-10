@@ -6,7 +6,7 @@ const secondsongofhelgatheslayerofhunding = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     igmundr konungr Völsungsson átti Borghildi af Brálundi. Þau hétu son sinn Helga ok eftir Helga Hjörvarðssyni. Helga fóstraði Hagall. Hundingr hét ríkr konungr.
@@ -39,7 +39,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Segðu Hemingi
                 <br />
                 at Helgi man,
@@ -59,7 +59,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Хемингу молви,
                 <br />
                 что Хельги помнит,
@@ -106,7 +106,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvöss eru augu
                 <br />
                 í Hagals þýju;
@@ -122,7 +122,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Сверкают глаза
                 <br />
                 у рабыни Хагаля, —<br />
@@ -142,7 +142,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú hefir hörð dæmi
                 <br />
                 hildingr þegit,
@@ -162,7 +162,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тяжелая доля
                 <br />
                 досталась герою;
@@ -203,7 +203,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Þat er lítil vá,
                 <br />
                 þótt lúðr þrumi
@@ -235,7 +235,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Дива тут нет,
                 <br />
                 что грохочет основа, —<br />
@@ -294,7 +294,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverir láta fljóta
                 <br />
                 fley við bakka?
@@ -314,7 +314,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто там направил
                 <br />
                 ладью к побережью?
@@ -339,7 +339,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Hagall lætr fljóta
@@ -361,7 +361,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Хамаль направил
@@ -388,7 +388,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrún kvað:
                 <br />
                 «Hvar hefir þú, hilmir,
@@ -410,7 +410,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун сказала:
                 <br />
                 «Где ты сражался,
@@ -437,7 +437,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Þat vann næst nýs
@@ -459,7 +459,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Вот что исполнил
@@ -485,7 +485,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú er sagt, mær,
                 <br />
                 hvaðan sakar gerðusk,
@@ -497,7 +497,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 вот и сказал я,
                 <br />
                 какая причина,
@@ -513,7 +513,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrún kvað:
                 <br />
                 «Víg lýsir þú,
@@ -534,7 +534,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун сказала:
                 <br />
                 «О победе ты молвишь;
@@ -561,7 +561,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Hvat vissir þú,
@@ -583,7 +583,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Точно ли знаешь,
@@ -609,7 +609,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrún kvað:
                 <br />
                 «Vark-a ek fjarri,
@@ -631,7 +631,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун сказала:
                 <br />
                 «Утром вчера
@@ -658,7 +658,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Leit ek þik um sinn
                 <br />
                 fyrr á langskipum,
@@ -682,7 +682,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тебя я не раз
                 <br />
                 видала и раньше,
@@ -740,7 +740,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sótti Sigrún
                 <br />
                 sikling glaðan,
@@ -760,7 +760,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун пришла
                 <br />
                 к счастливому князю,
@@ -785,7 +785,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fyrr lézk hon unna
                 <br />
                 af öllum hug
@@ -797,7 +797,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сказала ему,
                 <br />
                 что Сигмунда сына
@@ -814,7 +814,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrún kvað:
                 <br />
                 «Var ek Höðbroddi
@@ -836,7 +836,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун сказала:
                 <br />
                 «Хедбродду я<br />
@@ -861,7 +861,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nam-a Högna mær
                 <br />
                 of hug mæla,
@@ -873,7 +873,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не стала дочь Хегни
                 <br />
                 кривить душою,
@@ -890,7 +890,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Hirð eigi þú
@@ -912,7 +912,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Стоит ли гнева
@@ -966,7 +966,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hver er skjöldungr,
                 <br />
                 sá er skipum stýrir,
@@ -986,7 +986,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто этот конунг,
                 <br />
                 ладьи ведущий?
@@ -1011,7 +1011,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinfjötli kvað:
                 <br />
                 «Hér má Höðbroddr
@@ -1033,7 +1033,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Синфьетли сказал:
                 <br />
                 «Хедбродд может
@@ -1060,7 +1060,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðmundr kvað:
                 <br />
                 «Því fyrr skulu
@@ -1082,7 +1082,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудмунд сказал:
                 <br />
                 «Будем сначала
@@ -1109,7 +1109,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinfjötli kvað:
                 <br />
                 «Fyrr mundu, Guðmundr,
@@ -1131,7 +1131,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Синфьетли сказал:
                 <br />
                 «Гудмунд, сперва
@@ -1157,7 +1157,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Þér er, Sinfjötli,
@@ -1179,7 +1179,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Не лучше ли было б<br />
@@ -1205,7 +1205,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þykkja-t mér góðir
                 <br />
                 Granmars synir,
@@ -1229,7 +1229,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Плохи, сдается мне,
                 <br />
                 Гранмара дети,
@@ -1277,7 +1277,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Mun-a þér, Sigrún
                 <br />
                 frá Sefafjöllum
@@ -1296,7 +1296,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Не будет у Сигрун,
                 <br />
                 девы из Севафьелль,
@@ -1336,7 +1336,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Er-at þér at öllu,
                 <br />
                 alvitr, gefit,
@@ -1356,7 +1356,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Тебе не во всем,
                 <br />
                 валькирия, счастье,
@@ -1379,7 +1379,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En at Styrkleifum
                 <br />
                 Starkaðr konungr,
@@ -1399,7 +1399,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 А конунг Старкад
                 <br />
                 пал на Стюрклейвар,
@@ -1423,7 +1423,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Liggja at jörðu
                 <br />
                 allra flestir
@@ -1443,7 +1443,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Многих родичей
                 <br />
                 смерть настигла,
@@ -1468,7 +1468,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá grét Sigrún. Hann kvað:
                 <br />
                 «Huggastu, Sigrún!
@@ -1488,7 +1488,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда Сигрун заплакала. Он сказал:
                 <br />
                 «Сигрун, утешься,
@@ -1536,7 +1536,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Trauðr em ek, systir,
                 <br />
                 trega þér at segja,
@@ -1559,7 +1559,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Сестра, не хотел бы
                 <br />
                 о горе поведать
@@ -1587,7 +1587,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrún kvað
                 <br />
                 «Þik skyli allir
@@ -1609,7 +1609,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун сказала:
                 <br />
                 «Пускай тебя
@@ -1635,7 +1635,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skríði-at þat skip,
                 <br />
                 er und þér skríði,
@@ -1655,7 +1655,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пусть не плывет
                 <br />
                 отныне корабль твой,
@@ -1680,7 +1680,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bíti-a þér þat sverð,
                 <br />
                 er þú bregðir,
@@ -1708,7 +1708,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пусть не разит
                 <br />
                 меч твой в битве,
@@ -1741,7 +1741,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dagur kvað:
                 <br />
                 «Ær ertu, systir,
@@ -1763,7 +1763,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Даг сказал:
                 <br />
                 «Сестра, ты безумна,
@@ -1790,7 +1790,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þér býðr bróðir
                 <br />
                 bauga rauða,
@@ -1810,7 +1810,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Золото брат
                 <br />
                 тебе предлагает,
@@ -1834,7 +1834,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigrún kvað:
                 <br />
                 «Sitk-a ek svá sæl
@@ -1860,7 +1860,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун сказала:
                 <br />
                 «Как ни богато
@@ -1890,7 +1890,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá hafði Helgi
                 <br />
                 hrædda görva
@@ -1910,7 +1910,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так убегали
                 <br />
                 в страхе безмерном
@@ -1935,7 +1935,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá bar Helgi
                 <br />
                 af hildingum
@@ -1959,7 +1959,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так возвышался
                 <br />
                 Хельги меж конунгов,
@@ -2003,7 +2003,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Þú skalt, Hundingr,
                 <br />
                 hverjum manni
@@ -2023,7 +2023,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Хундинг, сначала
                 <br />
                 всем ноги омоешь,
@@ -2063,7 +2063,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvárt eru þat svik ein,
                 <br />
                 er ek sjá þykkjumk,
@@ -2082,7 +2082,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Чудится мне,
                 <br />
                 или настал
@@ -2107,7 +2107,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Er-a þat svik ein,
@@ -2129,7 +2129,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Нет, не почудилось
@@ -2172,7 +2172,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Út gakk þú, Sigrún
                 <br />
                 frá Sefafjöllum,
@@ -2196,7 +2196,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Сигрун, скорее
                 <br />
                 из Севафьелль выйди,
@@ -2240,7 +2240,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Nú em ek svá fegin
                 <br />
                 fundi okkrum
@@ -2260,7 +2260,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Так радуюсь я<br />
                 встрече с тобою,
                 <br />
@@ -2284,7 +2284,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fyrr vil ek kyssa
                 <br />
                 konung ólifðan
@@ -2312,7 +2312,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сперва поцелую
                 <br />
                 конунга мертвого,
@@ -2345,7 +2345,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Ein veldr þú, Sigrún
@@ -2375,7 +2375,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Ты в том повинна,
@@ -2410,7 +2410,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vel skulum drekka
                 <br />
                 dýrar veigar,
@@ -2438,7 +2438,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Будем мы пить
                 <br />
                 драгоценный напиток,
@@ -2487,7 +2487,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hér hefi ek þér, Helgi,
                 <br />
                 hvílu görva
@@ -2507,7 +2507,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Здесь тебе, Хельги,
                 <br />
                 ложе готово, —<br />
@@ -2530,7 +2530,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Nú kveð ek enskis
@@ -2556,7 +2556,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Ныне нет ничего,
@@ -2587,7 +2587,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mál er mér at ríða
                 <br />
                 roðnar brautir,
@@ -2607,7 +2607,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ехать пора мне
                 <br />
                 по алой дороге,
@@ -2654,7 +2654,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Kominn væri nú,
                 <br />
                 ef koma hygði,
@@ -2678,7 +2678,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Если б приехать
                 <br />
                 сюда собирался
@@ -2707,7 +2707,7 @@ const secondsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ambótt kvað:
                 <br />
                 «Verðu eigi svá ær,
@@ -2729,7 +2729,7 @@ const secondsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Служанка сказала:
                 <br />
                 «Не будь безумной,

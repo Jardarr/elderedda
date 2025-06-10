@@ -5,8 +5,8 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     H
                 </span>
                 ljóðs bið ek allar
@@ -28,7 +28,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Внимайте мне все
                 <br />
                 священные роды,
@@ -37,7 +37,7 @@ const volvasprophecy = [
                 <br />
                 Хеймдалля дети!
                 <br />
-                О́дин, ты хочешь,
+                Один, ты хочешь,
                 <br />
                 чтоб я рассказала
                 <br />
@@ -52,7 +52,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ek man jötna
                 <br />
                 ár um borna,
@@ -72,7 +72,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Великанов я помню,
                 <br />
                 рожденных до века,
@@ -97,7 +97,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ár var alda
                 <br />
                 þar er Ýmir bygði,
@@ -117,7 +117,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В начале времен,
                 <br />
                 когда жил Имир,
@@ -142,7 +142,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Áðr Burs synir
                 <br />
                 bjóðum um yptu,
@@ -162,7 +162,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пока сыны Бора,
                 <br />
                 Мидгард создавшие
@@ -187,7 +187,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól varp sunnan,
                 <br />
                 sinni mána,
@@ -211,7 +211,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце, друг месяца,
                 <br />
                 правую руку
@@ -240,7 +240,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá géngu regin öll
                 <br />
                 á rökstóla,
@@ -264,7 +264,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда сели боги
                 <br />
                 на троны могущества
@@ -291,7 +291,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hittusk æsir
                 <br />
                 á Iðavelli,
@@ -315,7 +315,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Встретились асы
                 <br />
                 на Идавелль-поле,
@@ -340,7 +340,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Tefldu í túni,
                 <br />
                 teitir váru,
@@ -360,7 +360,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 На лугу, веселясь,
                 <br />
                 в тавлеи играли,
@@ -384,7 +384,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá géngu regin öll
                 <br />
                 á rökstóla,
@@ -404,7 +404,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда сели боги
                 <br />
                 на троны могущества
@@ -428,7 +428,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar var Mótsognir
                 <br />
                 mæztr um orðinn
@@ -448,7 +448,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мотсогнир старшим
                 <br />
                 из племени карликов
@@ -473,7 +473,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nýi ok Niði,
                 <br />
                 Norðri ok Suðri,
@@ -497,7 +497,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нии и Ниди,
                 <br />
                 Нордри и Судри,
@@ -522,7 +522,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Veigr ok Gandálfr,
                 <br />
                 Vindálfr, Þráinn,
@@ -542,7 +542,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гандальв и Вейг,
                 <br />
                 Виндальв, Траин,
@@ -564,7 +564,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fili, Kili,
                 <br />
                 Fundinn, Nali,
@@ -588,7 +588,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фили и Кили,
                 <br />
                 Фундин, Нали,
@@ -613,7 +613,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mál er dverga
                 <br />
                 í Dvalins liði
@@ -633,7 +633,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Еще надо карликов
                 <br />
                 Двалина войска
@@ -658,7 +658,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar var Draupnir
                 <br />
                 ok Dólgþrasir,
@@ -678,7 +678,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Это был Драупнир
                 <br />
                 и Дольгтрасир с ним,
@@ -703,7 +703,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjalarr ok Frosti,
                 <br />
                 Finnr ok Ginnarr,
@@ -723,7 +723,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Альв и Ингви,
                 <br />
                 Эйкинскьяльди,
@@ -748,7 +748,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Unz þrír kvámu
                 <br />
                 or því liði
@@ -768,7 +768,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 И трое пришло
                 <br />
                 из этого рода
@@ -793,7 +793,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Önd þau né áttu,
                 <br />
                 óð þau né höfðu,
@@ -813,7 +813,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Они не дышали,
                 <br />
                 в них не было духа,
@@ -837,7 +837,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ask veit ek standa,
                 <br />
                 heitir Yggdrasill,
@@ -857,7 +857,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ясень я знаю
                 <br />
                 по имени Иггдрасиль,
@@ -882,7 +882,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þaðan koma meyjar
                 <br />
                 margs vitandi
@@ -910,7 +910,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мудрые девы
                 <br />
                 оттуда возникли,
@@ -941,7 +941,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ein sat hon úti,
                 <br />
                 þá er inn aldui kom
@@ -953,7 +953,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Помнит войну она
                 <br />
                 первую в мире:
@@ -982,7 +982,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvers fregnit mik?
                 <br />
                 hví freistið mín?
@@ -1006,7 +1006,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хейд ее называли,
                 <br />
                 в домах встречая, —<br />
@@ -1029,7 +1029,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Valdi henni Herföðr
                 <br />
                 hringa ok men,
@@ -1045,7 +1045,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда сели боги
                 <br />
                 на троны могущества
@@ -1070,7 +1070,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sá hon valkyrjur
                 <br />
                 vítt um komnar,
@@ -1098,7 +1098,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В войско метнул
                 <br />
                 Один копье,
@@ -1123,7 +1123,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heiði hana hétu,
                 <br />
                 hvars til húsa kom,
@@ -1143,7 +1143,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда сели боги
                 <br />
                 на троны могущества
@@ -1168,7 +1168,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat man hon fólkvíg
                 <br />
                 fyrst í heimi,
@@ -1192,7 +1192,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Разгневанный Тор
                 <br />
                 один начал битву —<br />
@@ -1215,7 +1215,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá géngu regin öll
                 <br />
                 á rökstóla,
@@ -1235,7 +1235,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Знает она,
                 <br />
                 что Хеймдалля слух
@@ -1259,7 +1259,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brotinn var borðveggr
                 <br />
                 borgar ása,
@@ -1279,7 +1279,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Она колдовала
                 <br />
                 тайно однажды,
@@ -1315,7 +1315,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá géngu regin öll
                 <br />
                 á rökstóla,
@@ -1335,7 +1335,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один ей дал
                 <br />
                 ожерелья и кольца,
@@ -1355,7 +1355,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þórr einn þar var
                 <br />
                 þrunginn móði,
@@ -1375,7 +1375,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Валькирий видала
                 <br />
                 из дальних земель,
@@ -1408,7 +1408,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Veit hon Heimdallar
                 <br />
                 hljóð um fólgit
@@ -1428,7 +1428,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видала, как Бальдр,
                 <br />
                 бог окровавленный,
@@ -1453,7 +1453,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Austr sat hin aldna
                 <br />
                 í Járnviði
@@ -1472,7 +1472,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стал тот побег,
                 <br />
                 тонкий и стройный,
@@ -1496,7 +1496,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fyllisk fjörvi
                 <br />
                 feigra manna,
@@ -1516,7 +1516,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ладоней не мыл он,
                 <br />
                 волос не чесал,
@@ -1540,7 +1540,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat þar á haugi
                 <br />
                 ok sló hörpu
@@ -1560,7 +1560,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сплел тогда Вали
                 <br />
                 страшные узы,
@@ -1577,7 +1577,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gól um ásuni
                 <br />
                 Gullinkambi,
@@ -1597,7 +1597,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пленника видела
                 <br />
                 под Хвералундом,
@@ -1621,7 +1621,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ek sá Baldri,
                 <br />
                 blóðgum tívor,
@@ -1641,7 +1641,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Льется с востока
                 <br />
                 поток холодный,
@@ -1657,7 +1657,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Varð af þeim meiði,
                 <br />
                 er mér sýndisk,
@@ -1677,7 +1677,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стоял на севере
                 <br />
                 в Нидавеллир
@@ -1702,7 +1702,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þó hann æva hendr,
                 <br />
                 né höfuð kembði,
@@ -1722,7 +1722,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видела дом,
                 <br />
                 далекий от солнца,
@@ -1747,7 +1747,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hapt sá hon liggja
                 <br />
                 undir hvera lundi,
@@ -1767,7 +1767,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Там она видела —<br />
                 шли чрез потоки
                 <br />
@@ -1794,7 +1794,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 ÞáknáVala
                 <br />
                 vígbönd snúa,
@@ -1814,7 +1814,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сидела старуха
                 <br />
                 в Железном Лесу
@@ -1839,7 +1839,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Geyr Garmr nijök
                 <br />
                 fyr Gnúpahelli,
@@ -1851,7 +1851,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Будет он грызть
                 <br />
                 трупы людей,
@@ -1875,7 +1875,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 A fellr austan
                 <br />
                 um eitrdala
@@ -1887,7 +1887,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сидел на холме,
                 <br />
                 на арфе играл
@@ -1912,7 +1912,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Stóð fyr norðan
                 <br />
                 á Niðafjöllum
@@ -1932,7 +1932,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Запел над асами
                 <br />
                 Гуллинкамби,
@@ -1956,7 +1956,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sal sá hon standa
                 <br />
                 sólu fjarri
@@ -1976,7 +1976,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гарм лает громко
                 <br />
                 у Гнипахеллира,
@@ -2000,7 +2000,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sá hon þar vaða
                 <br />
                 þunga strauma
@@ -2024,7 +2024,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Братья начнут
                 <br />
                 биться друг с другом,
@@ -2057,7 +2057,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brœðr munu berjask
                 <br />
                 ok at bönum verðask,
@@ -2089,7 +2089,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Игру завели
                 <br />
                 Мимира дети,
@@ -2114,7 +2114,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Leika Míms synir,
                 <br />
                 en mjötuðr kyndisk,
@@ -2134,7 +2134,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Трепещет Иггдрасиль,
                 <br />
                 ясень высокий,
@@ -2151,7 +2151,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skelfr Yggdrasils
                 <br />
                 askr standandi,
@@ -2171,7 +2171,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Что же с асами?
                 <br />
                 Что же с альвами?
@@ -2195,7 +2195,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Geyr Garmr mjók
                 <br />
                 fyr Gnúpahelli,
@@ -2207,7 +2207,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гарм лает громко
                 <br />
                 у Гнипахеллира,
@@ -2231,7 +2231,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrymr ekr austan
                 <br />
                 hefisk lind fyrir;
@@ -2251,7 +2251,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хрюм едет с востока,
                 <br />
                 щитом заслонясь;
@@ -2276,7 +2276,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kjóll ferr austan,
                 <br />
                 koma munu Muspells
@@ -2296,7 +2296,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С востока в ладье
                 <br />
                 Муспелля люди
@@ -2321,7 +2321,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Surtr ferr sunnsm
                 <br />
                 með sviga læfi,
@@ -2341,7 +2341,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сурт едет с юга
                 <br />
                 с губящим ветви,
@@ -2366,7 +2366,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvat er með ásiun?
                 <br />
                 hvat er með álfum?
@@ -2386,7 +2386,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Настало для Хлин
                 <br />
                 новое горе,
@@ -2410,7 +2410,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kemr Hlínar
                 <br />
                 harmr annarr fram,
@@ -2430,7 +2430,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гарм лает громко
                 <br />
                 у Гнипахеллира,
@@ -2454,7 +2454,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kemr inn mikli
                 <br />
                 mögr Sigfóður
@@ -2474,7 +2474,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сын тут приходит
                 <br />
                 Отца Побед,
@@ -2498,7 +2498,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kemr inn mœri
                 <br />
                 mögr Hlóðynjar;
@@ -2526,7 +2526,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тут славный приходит
                 <br />
                 Хлодюн потомок,
@@ -2557,7 +2557,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sól tekr sortna,
                 <br />
                 sígr fold í mar,
@@ -2577,7 +2577,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Солнце померкло,
                 <br />
                 земля тонет в море,
@@ -2602,7 +2602,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sér hon uppkoma
                 <br />
                 öðru sinni
@@ -2622,7 +2622,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гарм лает громко
                 <br />
                 у Гнипахеллира,
@@ -2646,7 +2646,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Finnask æsir
                 <br />
                 á Iðavelli
@@ -2666,7 +2666,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видит она:
                 <br />
                 вздымается снова
@@ -2691,7 +2691,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar munu eptir
                 <br />
                 undrsamligar
@@ -2711,7 +2711,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Встречаются асы
                 <br />
                 на Идавелль-поле,
@@ -2736,7 +2736,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Munu ósánir
                 <br />
                 akrar vaxa,
@@ -2756,7 +2756,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Снова найтись
                 <br />
                 должны на лугу
@@ -2777,7 +2777,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kná Hœnir
                 <br />
                 hlautvið kjósa,
@@ -2793,7 +2793,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Заколосятся
                 <br />
                 хлеба без посева,
@@ -2817,7 +2817,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sal sér hon standa
                 <br />
                 sólu fegra,
@@ -2837,7 +2837,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хенир берет
                 <br />
                 прут жеребьевый,
@@ -2857,7 +2857,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kemr hiun ríki
                 <br />
                 at regindómi,
@@ -2877,7 +2877,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Чертог она видит
                 <br />
                 солнца чудесней,
@@ -2902,7 +2902,7 @@ const volvasprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar kemr inn dimmi
                 <br />
                 dreki fljúgandi,
@@ -2921,7 +2921,7 @@ const volvasprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нисходит тогда
                 <br />
                 мира владыка,
@@ -2937,10 +2937,10 @@ const volvasprophecy = [
         number: "66.",
         class: "flex justify-center m-2",
 
-        contentON: <span className="flex w-40"></span>,
+        contentON: <span className="flex w-40 sm:w-60"></span>,
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вот прилетает
                 <br />
                 черный дракон,

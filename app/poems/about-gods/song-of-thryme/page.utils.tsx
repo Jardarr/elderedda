@@ -5,8 +5,8 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="w-40">
-				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+			<span className="w-40 sm:w-60">
+				<span className="font-Eileen text-3xl/4">
                     V
                 </span>
 				reiðr var þá Vingþórr
@@ -28,7 +28,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Винг-Тор от сна
 				<br />
 				разъяренный встал;
@@ -53,7 +53,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ok hann þat orða
 				<br />
 				alls fyrst of kvað:
@@ -73,7 +73,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				И речь он такую
 				<br />
 				повел сначала:
@@ -98,7 +98,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gengu þeir fagra
 				<br />
 				Freyju túna,
@@ -118,7 +118,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пошли они к дому
 				<br />
 				Фрейи прекрасному,
@@ -143,7 +143,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Freyja kvað:
 				<br />
 				«Þó munda ek gefa þér
@@ -157,7 +157,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фрейя сказала:
 				<br />
 				«Отдала бы его,
@@ -176,7 +176,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fló þá Loki,
 				<br />
 				— fjaðrhamr dunði, —<br />
@@ -191,7 +191,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Полетел тогда Локи —<br />
 				шумели перья, —<br />
 				умчался он прочь
@@ -210,7 +210,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þrymr sat á haugi,
 				<br />
 				þursa dróttinn,
@@ -226,7 +226,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Трюм на кургане
 				<br />
 				сидел, князь турсов,
@@ -247,7 +247,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þrymr kvað:
 				<br />
 				«Hvat er með ásum?
@@ -271,7 +271,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Трюм сказал:
 				<br />
 				«Что там у асов?
@@ -300,7 +300,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þrymr kvað:
 				<br />
 				«Ek hef Hlórriða.
@@ -322,7 +322,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Трюм сказал:
 				<br />
 				«Да, я запрятал
@@ -348,7 +348,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fló þá Loki,
 				<br />
 				— fjaðrhamr dunði, —<br />
@@ -371,7 +371,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Полетел тогда Локи, —<br />
 				шумели перья, —<br />
 				умчался из края,
@@ -398,7 +398,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Hefr þú erendi
 				<br />
 				sem erfiði?
@@ -418,7 +418,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Успешны ли были
 				<br />
 				молота поиски?
@@ -443,7 +443,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Hef ek erfiði
@@ -465,7 +465,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Успешными были
@@ -491,7 +491,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ganga þeir fagra
 				<br />
 				Freyju at hitta,
@@ -510,7 +510,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Отправились оба
 				<br />
 				к Фрейе прекрасной,
@@ -535,7 +535,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Reið varð þá Freyja
 				<br />
 				ok fnasaði,
@@ -558,7 +558,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Разгневалась Фрейя,
 				<br />
 				зафыркала так,
@@ -586,7 +586,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Senn váru æsir
 				<br />
 				allir á þingi
@@ -606,7 +606,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тотчас собрались
 				<br />
 				все асы на тинг
@@ -631,7 +631,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvað þat Heimdallr,
 				<br />
 				hvítastr ása,
@@ -651,7 +651,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хеймдалль сказал,
 				<br />
 				светлейший из асов, —<br />
@@ -675,7 +675,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Látum und hánum
 				<br />
 				hrynja lukla
@@ -695,7 +695,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Связка ключей
 				<br />
 				бренчать будет сзади,
@@ -720,7 +720,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvað þat Þór,
 				<br />
 				þrúðugr áss:
@@ -736,7 +736,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор отвечал,
 				<br />
 				отважнейший ас:
@@ -756,7 +756,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvað þat Loki
 				<br />
 				Laufeyjar sonr:
@@ -776,7 +776,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал,
 				<br />
 				рожденный Лаувейей:
@@ -801,7 +801,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bundu þeir Þór þá
 				<br />
 				brúðar líni
@@ -829,7 +829,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тору надели
 				<br />
 				брачный убор,
@@ -862,7 +862,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvað Loki
 				<br />
 				Laufeyjar sonr:
@@ -877,7 +877,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал,
 				<br />
 				рожденный Лаувейей:
@@ -896,7 +896,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Senn váru hafrar
 				<br />
 				heim of reknir,
@@ -915,7 +915,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пригнали козлов
 				<br />
 				к дому поспешно
@@ -940,7 +940,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvað þat Þrymr,
 				<br />
 				þursa dróttinn:
@@ -960,7 +960,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сказал тогда Трюм,
 				<br />
 				етунов конунг:
@@ -985,7 +985,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ganga hér at garði
 				<br />
 				gullhyrnðar kýr,
@@ -1005,7 +1005,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Коровы тут ходят
 				<br />
 				золоторогие,
@@ -1030,7 +1030,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Var þar at kveldi
 				<br />
 				of komit snemma
@@ -1054,7 +1054,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Путники вечером
 				<br />
 				рано приехали;
@@ -1083,7 +1083,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvat þat Þrymr,
 				<br />
 				þursa dróttinn:
@@ -1103,7 +1103,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сказал тогда Трюм,
 				<br />
 				етунов конунг:
@@ -1128,7 +1128,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sat in alsnotra
 				<br />
 				ambótt fyrir,
@@ -1147,7 +1147,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Рядом сидела
 				<br />
 				служанка разумная,
@@ -1171,7 +1171,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Laut und línu,
 				<br />
 				lysti at kyssa,
@@ -1191,7 +1191,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Откинул покров,
 				<br />
 				поцелуй дать хотел,
@@ -1216,7 +1216,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sat in alsnotra
 				<br />
 				ambótt fyrir,
@@ -1235,7 +1235,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Рядом сидела
 				<br />
 				служанка разумная,
@@ -1259,7 +1259,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Inn kom in arma
 				<br />
 				jötna systir,
@@ -1283,7 +1283,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вошла тут проклятая
 				<br />
 				турсов сестра,
@@ -1311,7 +1311,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kvað þat Þrymr,
 				<br />
 				þursa dróttinn:
@@ -1331,7 +1331,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сказал тогда Трюм,
 				<br />
 				етунов конунг:
@@ -1356,7 +1356,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hló Hlórriða
 				<br />
 				hugr í brjósti,
@@ -1376,7 +1376,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				У Хлорриди дух
 				<br />
 				рассмеялся в груди,
@@ -1401,7 +1401,7 @@ const songofthryme = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Drap hann ina öldnu
 				<br />
 				jötna systur,
@@ -1425,7 +1425,7 @@ const songofthryme = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Убил он старуху,
 				<br />
 				турсов сестру,

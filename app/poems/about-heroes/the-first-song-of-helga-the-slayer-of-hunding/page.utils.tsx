@@ -6,7 +6,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         H
                     </span>
                     ér hefr upp kvæði frá Helga Hundingsbana ok þeira Höðbrodds.
@@ -27,7 +27,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ár var alda,
                 <br />
                 þat er arar gullu,
@@ -46,7 +46,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В давние дни
                 <br />
                 орлы клекотали,
@@ -71,7 +71,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nótt varð í bæ,
                 <br />
                 nornir kómu,
@@ -91,7 +91,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ночь была в доме,
                 <br />
                 норны явились
@@ -116,7 +116,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sneru þær af afli
                 <br />
                 örlögþáttu,
@@ -136,7 +136,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так нить судьбы
                 <br />
                 пряли усердно,
@@ -159,7 +159,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þær austr ok vestr
                 <br />
                 enda fálu,
@@ -179,7 +179,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 На восток и на запад
                 <br />
                 концы протянули,
@@ -204,7 +204,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eitt var at angri
                 <br />
                 Ylfinga nið
@@ -224,7 +224,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Горе одно
                 <br />
                 у славного Ильвинга
@@ -249,7 +249,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Stendr í brynju
                 <br />
                 burr Sigmundar
@@ -269,7 +269,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигмунда сын
                 <br />
                 в кольчуге стоит:
@@ -293,7 +293,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Drótt þótti sá
                 <br />
                 döglingr vera,
@@ -313,7 +313,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дружина судила —<br />
                 витязем станет,
                 <br />
@@ -337,7 +337,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gaf hann Helga nafn
                 <br />
                 ok Hringstaði,
@@ -357,7 +357,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Имя дал Хельги
                 <br />
                 и земли: Хрингстадир,
@@ -381,7 +381,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá nam at vaxa
                 <br />
                 fyr vina brjósti
@@ -401,7 +401,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Начал расти
                 <br />
                 на радость друзьям
@@ -426,7 +426,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skammt lét vísi
                 <br />
                 vígs at bíða;
@@ -446,7 +446,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вождь недолго
                 <br />
                 с войною медлил,
@@ -471,7 +471,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kvöddu síðan
                 <br />
                 Sigmundar bur
@@ -491,7 +491,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Виры тогда
                 <br />
                 требовать стали
@@ -515,7 +515,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lét-at buðlungr
                 <br />
                 bótir uppi
@@ -535,7 +535,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не дал конунг
                 <br />
                 выкупа родичам,
@@ -559,7 +559,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fara hildingar
                 <br />
                 hjörstefnu til,
@@ -579,7 +579,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Спешат бойцы
                 <br />
                 на сходку мечей,
@@ -603,7 +603,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Settisk vísi,
                 <br />
                 þá er vegit hafði
@@ -623,7 +623,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Князь отдыхал
                 <br />
                 под Камнем Орлиным
@@ -648,7 +648,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá brá ljóma
                 <br />
                 af Logafjöllum,
@@ -674,7 +674,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вдруг лучи
                 <br />
                 блеснули у Логафьелль,
@@ -703,7 +703,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Frá árliga
                 <br />
                 ór úlfíði
@@ -723,7 +723,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Рано в лесу,
                 <br />
                 волчьем жилище,
@@ -747,7 +747,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En af hesti
                 <br />
                 Högna dóttir,
@@ -766,7 +766,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С коня наклонясь,
                 <br />
                 Сигрун валькирия
@@ -790,7 +790,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hefir minn faðir
                 <br />
                 meyju sinni
@@ -810,7 +810,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дочь отдать
                 <br />
                 обещал отец мой
@@ -834,7 +834,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þó kemr fylkir
                 <br />
                 fára nátta,
@@ -850,7 +850,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Близится время —<br />
                 конунг придет,
                 <br />
@@ -870,7 +870,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Uggi eigi þú
@@ -884,7 +884,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Убийцу Исунга,
                 <br />
                 дева, не бойся!
@@ -901,7 +901,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sendi áru
                 <br />
                 allvaldr þaðan
@@ -921,7 +921,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гонцов послал
                 <br />
                 оттуда властитель
@@ -945,7 +945,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Biðið skjótliga
                 <br />
                 til skipa ganga
@@ -965,7 +965,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Велите скорей
@@ -991,7 +991,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ok þar af ströndum
                 <br />
                 ór Stafnsnesi
@@ -1011,7 +1011,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От тех берегов,
                 <br />
                 от мыса Ставнснес,
@@ -1036,7 +1036,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En ungr konungr
                 <br />
                 öðrum sagði,
@@ -1056,7 +1056,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ответил ему
                 <br />
                 юноша конунг,
@@ -1079,7 +1079,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Tolf hundruð
                 <br />
                 tryggra manna;
@@ -1095,7 +1095,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Двенадцать сотен
                 <br />
                 верных мужей,
@@ -1114,7 +1114,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá brá stýrir
                 <br />
                 stafntjöldum af,
@@ -1137,7 +1137,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сорвал
                 <br />
                 шатер на носу
@@ -1163,7 +1163,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Varð ára ymr
                 <br />
                 ok járna glymr,
@@ -1183,7 +1183,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шумели весла,
                 <br />
                 железо звенело,
@@ -1207,7 +1207,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá var at heyra,
                 <br />
                 er saman kómu
@@ -1223,7 +1223,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грохот вставал,
                 <br />
                 когда налетали
@@ -1244,7 +1244,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Draga bað Helgi
                 <br />
                 há segl ofar,
@@ -1264,7 +1264,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Выше велел
                 <br />
                 воинам Хельги
@@ -1289,7 +1289,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En þeim sjalfum
                 <br />
                 Sigrún ofan
@@ -1309,7 +1309,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигрун дружину
                 <br />
                 оберегала,
@@ -1334,7 +1334,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat þar um aftan
                 <br />
                 í Unavágum,
@@ -1354,7 +1354,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вечер настал,
                 <br />
                 в залив Унавагар
@@ -1379,7 +1379,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Frá góðborinn
                 <br />
                 Goðmundr at því:
@@ -1395,7 +1395,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда спросил
                 <br />
                 благородный Гудмунд:
@@ -1415,7 +1415,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinfjötli kvað
                 <br />
                 — slöng upp við rá
@@ -1435,7 +1435,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Синфьетли крикнул,
                 <br />
                 вздернув на мачту
@@ -1460,7 +1460,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Segðu þat í aftan,
                 <br />
                 er svínum gefr
@@ -1480,7 +1480,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Вечером скажешь,
                 <br />
                 скликая свиней
@@ -1504,7 +1504,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar mun Höðbroddr
                 <br />
                 Helga finna
@@ -1524,7 +1524,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Там Хедбродд найдет
                 <br />
                 конунга Хельги,
@@ -1549,7 +1549,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðmundr kvað:
                 <br />
                 «Fátt mantu, fylkir,
@@ -1579,7 +1579,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудмунд сказал:
                 <br />
                 «Князь, позабыл ты
@@ -1612,7 +1612,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinfjötli kvað:
                 <br />
                 «Þú vart völva
@@ -1634,7 +1634,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Синфьетли сказал:
                 <br />
                 «Колдуньей ты был
@@ -1661,7 +1661,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þú vart, in skæða,
                 <br />
                 skass, valkyrja,
@@ -1681,7 +1681,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ведьмой ты была,
                 <br />
                 злобной валькирией,
@@ -1706,7 +1706,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Níu áttu vit
                 <br />
                 á nesi Ságu
@@ -1718,7 +1718,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Девять волков
                 <br />
                 на мысе Саго
@@ -1734,7 +1734,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðmundr kvað:
                 <br />
                 «Faðir var-at-tu
@@ -1755,7 +1755,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудмунд сказал:
                 <br />
                 «Не был отцом ты
@@ -1782,7 +1782,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Stjúpr vartu Siggeirs,
                 <br />
                 látt und stöðum heima,
@@ -1806,7 +1806,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Валялся в лесу ты,
                 <br />
                 пасынок Сиггейра,
@@ -1835,7 +1835,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinfjötli kvað:
                 <br />
                 «Þú vart brúðr Grana
@@ -1857,7 +1857,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Синфьетли сказал:
                 <br />
                 «Был ты на Бравеллир
@@ -1884,7 +1884,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðmundr kvað:
                 <br />
                 «Sveinn þóttir þú
@@ -1906,7 +1906,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Был ты в те дни
                 <br />
                 юнцом бесчестным,
@@ -1931,7 +1931,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sinfjötli kvað:
                 <br />
                 «Fyrr vilda ek
@@ -1953,7 +1953,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудмунд сказал:
                 <br />
                 «Дай мне раньше
@@ -1980,7 +1980,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Helgi kvað:
                 <br />
                 «Væri ykkr, Sinfjötli,
@@ -2002,7 +2002,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хельги сказал:
                 <br />
                 «Не лучше ли было б<br />
@@ -2028,7 +2028,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þykkja-t mér góðir
                 <br />
                 Granmars synir,
@@ -2048,7 +2048,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Плохи, сдается мне,
                 <br />
                 Гранмара дети,
@@ -2072,7 +2072,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þeir af ríki
                 <br />
                 renna létu
@@ -2092,7 +2092,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Погнали коней,
                 <br />
                 помчались до Сольхейма,
@@ -2117,7 +2117,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mættu þeir tyggja
                 <br />
                 í túnhliði,
@@ -2140,7 +2140,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У самых ворот
                 <br />
                 встретили воинов,
@@ -2168,7 +2168,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðmundr kvað:
                 <br />
                 «Snúask hér at sandi
@@ -2190,7 +2190,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудмунд сказал:
                 <br />
                 «К берегу правят
@@ -2215,7 +2215,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ganga fimmtán
                 <br />
                 folk upp á land,
@@ -2243,7 +2243,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пятнадцать дружин
                 <br />
                 сходят на берег,
@@ -2276,7 +2276,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Höðbroddr kvað:
                 <br />
                 «Renni rökn bitluð
@@ -2302,7 +2302,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хедбродд сказал:
                 <br />
                 «Пусть кони мчатся
@@ -2333,7 +2333,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bjóðið ér Högna
                 <br />
                 ok Hrings sonum,
@@ -2353,7 +2353,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хегни зовите
                 <br />
                 и Хринга сынов,
@@ -2377,7 +2377,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svipr einn var þat,
                 <br />
                 er saman kómu
@@ -2405,7 +2405,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вместе сошлись,
                 <br />
                 яростно сшиблись
@@ -2438,7 +2438,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kómu þar ór himni
                 <br />
                 hjalmvítr ofan,
@@ -2457,7 +2457,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ринулись с неба
                 <br />
                 валькирии в шлемах
@@ -2481,7 +2481,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Heill skaltu, vísi,
                 <br />
                 virða njóta,
@@ -2501,7 +2501,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Будешь ты править
                 <br />
                 долго и счастливо,
@@ -2525,7 +2525,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ok þér, buðlungr,
                 <br />
                 samir bæði vel
@@ -2549,7 +2549,7 @@ const thefirstsongofhelgatheslayerofhunding = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Отныне, властитель,
                 <br />
                 твои по праву

@@ -1,6 +1,9 @@
 :root {
   --sea-color: #203e51;
+  --elementary: "Elementary", sans-serif;
+  --feofan: "Feofan", sans-serif;
 }
+
 @font-face {
   font-family: "Goth";
   src: url("/fonts/Gotham-Medium.woff2") format("woff2");
@@ -49,6 +52,14 @@
   font-weight: normal;
   font-style: normal;
 }
+h1 {
+  font-family: var(--elementary);
+}
+
+h2 {
+  font-family: var(--feofan);
+}
+
 .sea-color {
   color: var(--sea-color);
 }/*# sourceMappingURL=index.css.map */

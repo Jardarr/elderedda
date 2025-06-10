@@ -6,12 +6,12 @@ const oddrunscrying = [
         contentON: (
             <span>
                 <p className="mb-2 text-center">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         F
                     </span>
                     rá Borgnýu ok Oddrúnu.
                 </p>
-                <p className="mb-2 text-center" style={{ fontFamily: "Feofan, sans-serif" }}>О Боргню и Оддрун</p>
+                <p className="font-Feofan mb-2 text-center">О Боргню и Оддрун</p>
                 <p className="mb-2">
                     Heiðrekr hét konungr. Dóttir hans hét Borgný. Vilmundr hét sá, er var friðill hennar. Hon mátti eigi fæða börn, áðr til kom Oddrún Atlasystir. Hon hafði verit
                     unnusta Gunnars Gjúkasonar. Um þessa sögu er hér kveðit:
@@ -34,7 +34,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heyrða ek segja
                 <br />
                 í sögum fornum,
@@ -54,7 +54,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Слышал рассказ я<br />
                 в древних сагах,
                 <br />
@@ -78,7 +78,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat frá Oddrún
                 <br />
                 Atla systir,
@@ -98,7 +98,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Услышала Оддрун,
                 <br />
                 Атли сестра,
@@ -123,7 +123,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lét hon mar fara
                 <br />
                 moldveg sléttan,
@@ -147,7 +147,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пустила коня
                 <br />
                 по ровным путям,
@@ -176,7 +176,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er frægst
                 <br />
                 hér á foldu,
@@ -199,7 +199,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что на земле здесь
                 <br />
                 достойно вниманья?
@@ -227,7 +227,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Oddrún kvað:
                 <br />
                 «Hverr hefir vísir
@@ -241,7 +241,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Оддрун сказала:
                 <br />
                 «Кто же в позоре
@@ -260,7 +260,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ambótt kvað:
                 <br />
                 «Vilmundr heitir
@@ -278,7 +278,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Служанка сказала:
                 <br />
                 «Вильмунд зовется
@@ -300,7 +300,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þær hykk mæltu
                 <br />
                 þvígit fleira,
@@ -320,7 +320,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Больше ни слова
                 <br />
                 они не сказали:
@@ -345,7 +345,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Knátti mær ok mögr
                 <br />
                 moldveg sporna,
@@ -365,7 +365,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Двойня родилась —<br />
                 мальчик и девочка,
                 <br />
@@ -389,7 +389,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Svá hjalpi þér
                 <br />
                 hollar véttir,
@@ -405,7 +405,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Пусть тебе Фригг
                 <br />
                 и Фрейя помогут
@@ -426,7 +426,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Oddrún kvað:
                 <br />
                 «Hnék-at ek af því
@@ -452,7 +452,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Оддрун сказала:
                 <br />
                 «Не потому я<br />
@@ -482,7 +482,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Borgný kvað:
                 <br />
                 Ær ertu, Oddrún,
@@ -504,7 +504,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Боргню сказала:
                 <br />
                 «Безумна ты, Оддрун,
@@ -530,7 +530,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Oddrún kvað:
                 <br />
                 «Man ek, hvat þú
@@ -552,7 +552,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Оддрун сказала:
                 <br />
                 «Я помню слова,
@@ -582,7 +582,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá nam at setjask
                 <br />
                 sorgmóð kona
@@ -594,7 +594,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Села тогда
                 <br />
                 жена и скорбно
@@ -611,7 +611,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Var ek upp alin
                 <br />
                 í jöfra sal,
@@ -630,7 +630,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Оддрун сказала:
                 <br />
                 «Вскормили меня
@@ -655,7 +655,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat nam at mæla
                 <br />
                 mál ið efsta
@@ -675,7 +675,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Последнее слово
                 <br />
                 конунг промолвил,
@@ -700,7 +700,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En hann Brynhildi
                 <br />
                 bað hjalm geta,
@@ -720,7 +720,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд он шлем
                 <br />
                 взять повелел,
@@ -746,7 +746,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brynhildr í búri
                 <br />
                 borða rakði,
@@ -766,7 +766,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд в покоях
                 <br />
                 ткала покровы,
@@ -791,7 +791,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá var víg vegit
                 <br />
                 völsku sverði
@@ -811,7 +811,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вальским клинком
                 <br />
                 воин ударил,
@@ -836,7 +836,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þess lét hon harðar
                 <br />
                 hefndir verða,
@@ -856,7 +856,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 За это она
                 <br />
                 отомстила жестоко,
@@ -881,7 +881,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En ek Gunnari
                 <br />
                 gatk at unna,
@@ -893,7 +893,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар был дорог
                 <br />
                 мне, как Брюнхильд
@@ -910,7 +910,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Buðu þeir árla
                 <br />
                 bauga rauða
@@ -930,7 +930,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Много колец
                 <br />
                 красного золота
@@ -955,7 +955,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En Atli kvaðsk
                 <br />
                 eigi vilja
@@ -975,7 +975,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но Атли сказал,
                 <br />
                 что от Гьюки сынов
@@ -1000,7 +1000,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mæltu margir
                 <br />
                 mínir niðjar,
@@ -1020,7 +1020,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Многие родичи
                 <br />
                 речи вели
@@ -1044,7 +1044,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En slíks skyli
                 <br />
                 synja aldri
@@ -1056,7 +1056,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но отрекаться
                 <br />
                 нельзя от любви,
@@ -1073,7 +1073,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sendi Atli
                 <br />
                 áru sína
@@ -1093,7 +1093,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли своих
                 <br />
                 послал соглядатаев
@@ -1116,7 +1116,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Buðum vit þegnum
                 <br />
                 bauga rauða,
@@ -1136,7 +1136,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Красные им
                 <br />
                 посулили мы кольца,
@@ -1160,7 +1160,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En þeir Guðrúnu
                 <br />
                 görla leyndu því,
@@ -1172,7 +1172,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но Гудрун от них
                 <br />
                 ничего не узнала,
@@ -1189,7 +1189,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlymr var at heyra
                 <br />
                 hófgullinna,
@@ -1209,7 +1209,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Цокот раздался
                 <br />
                 копыт золотых,
@@ -1233,7 +1233,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Var ek enn farin
                 <br />
                 einu sinni
@@ -1257,7 +1257,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Случилось тогда
                 <br />
                 быть мне у Гейрмунда,
@@ -1285,7 +1285,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nam ek at heyra
                 <br />
                 ór Hléseyju,
@@ -1305,7 +1305,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ко мне донеслись
                 <br />
                 с острова Хлесей
@@ -1330,7 +1330,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Létum fljóta
                 <br />
                 far sund yfir,
@@ -1342,7 +1342,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ладья поплыла
                 <br />
                 через пролив,
@@ -1359,7 +1359,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kom in arma
                 <br />
                 út skævandi
@@ -1379,7 +1379,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но тут приползла
                 <br />
                 коварная мать
@@ -1401,7 +1401,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Oft undrumk þat,
                 <br />
                 hví ek eftir mák,
@@ -1421,7 +1421,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нередко дивлюсь,
                 <br />
                 как ныне могу я,
@@ -1446,7 +1446,7 @@ const oddrunscrying = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sattu ok hlýddir,
                 <br />
                 meðan ek sagðak þér
@@ -1466,7 +1466,7 @@ const oddrunscrying = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Слушала ты
                 <br />
                 скорбные речи

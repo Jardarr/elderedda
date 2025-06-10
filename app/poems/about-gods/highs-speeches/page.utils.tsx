@@ -5,8 +5,8 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="w-40">
-				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+			<span className="w-40 sm:w-60">
+				<span className="font-Eileen text-3xl/4">
                     G
                 </span>
 				áttir allar,
@@ -26,7 +26,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Прежде чем в дом
 				<br />
 				войдешь, все входы
@@ -48,7 +48,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gefendr heilir!
 				<br />
 				Gestr er inn kominn,
@@ -64,7 +64,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Дающим привет!
 				<br />
 				Гость появился!
@@ -84,7 +84,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Elds er þörf,
 				<br />
 				þeims inn er kominn
@@ -100,7 +100,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Дорог огонь
 				<br />
 				тому, кто с дороги,
@@ -120,7 +120,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vatns er þörf,
 				<br />
 				þeim er til verðar kemr,
@@ -136,7 +136,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гостю вода
 				<br />
 				нужна и ручник,
@@ -156,7 +156,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vits er þörf,
 				<br />
 				þeim er víða ratar;
@@ -172,7 +172,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ум надобен тем,
 				<br />
 				кто далеко забрел, —<br />
@@ -192,7 +192,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				At hyggjandi sinni
 				<br />
 				skyli-t maðr hræsinn vera,
@@ -214,7 +214,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Умом пред людьми
 				<br />
 				похваляться не надо —<br />
@@ -239,7 +239,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Inn vari gestr,
 				<br />
 				er til verðar kemr,
@@ -255,7 +255,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гость осторожный,
 				<br />
 				дом посетивший,
@@ -275,7 +275,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hinn er sæll,
 				<br />
 				er sér of getr
@@ -291,7 +291,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Счастливы те,
 				<br />
 				кто заслужил
@@ -311,7 +311,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sá er sæll,
 				<br />
 				er sjalfr of á<br />
@@ -326,7 +326,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Счастливы те,
 				<br />
 				кто в жизни славны
@@ -346,7 +346,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Byrði betri
 				<br />
 				berr-at maðr brautu at
@@ -362,7 +362,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Нету в пути
 				<br />
 				драгоценней ноши,
@@ -382,7 +382,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Byrði betri
 				<br />
 				berr-at maðr brautu at
@@ -398,7 +398,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Нету в пути
 				<br />
 				драгоценней ноши,
@@ -419,7 +419,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Er-a svá gótt
 				<br />
 				sem gótt kveða
@@ -435,7 +435,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Меньше от пива
 				<br />
 				пользы бывает,
@@ -456,7 +456,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óminnishegri heitir
 				<br />
 				sá er yfir ölðrum þrumir,
@@ -471,7 +471,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Цапля забвенья
 				<br />
 				вьется над миром,
@@ -491,7 +491,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ölr ek varð,
 				<br />
 				varð ofrölvi
@@ -507,7 +507,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пьяным я был,
 				<br />
 				слишком напился
@@ -527,7 +527,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þagalt ok hugalt
 				<br />
 				skyli þjóðans barn
@@ -543,7 +543,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Осторожным быть должен
 				<br />
 				конунга отпрыск
@@ -564,7 +564,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósnjallr maðr
 				<br />
 				hyggsk munu ey lifa,
@@ -580,7 +580,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Глупый надеется
 				<br />
 				смерти не встретить,
@@ -600,7 +600,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Kópir afglapi
 				<br />
 				er til kynnis kemr,
@@ -616,7 +616,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Глазеет глупец,
 				<br />
 				приехавший в гости,
@@ -636,7 +636,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sá einn veit
 				<br />
 				er víða ratar
@@ -652,7 +652,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знает лишь тот,
 				<br />
 				кто много земель
@@ -670,7 +670,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Haldi-t maðr á keri,
 				<br />
 				drekki þó at hófi mjöð,
@@ -686,7 +686,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пей на пиру,
 				<br />
 				но меру блюди
@@ -707,7 +707,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gráðugr halr,
 				<br />
 				nema geðs viti,
@@ -723,7 +723,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Без толку жадный
 				<br />
 				старается жрать
@@ -744,7 +744,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hjarðir þat vitu,
 				<br />
 				nær þær heim skulu,
@@ -760,7 +760,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знают стада,
 				<br />
 				что срок наступил
@@ -781,7 +781,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vesall maðr
 				<br />
 				ok illa skapi
@@ -797,7 +797,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Кто нравом тяжел,
 				<br />
 				тот всех осуждает,
@@ -818,7 +818,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósviðr maðr
 				<br />
 				vakir um allar nætr
@@ -834,7 +834,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Глупый не спит
 				<br />
 				всю ночь напролет
@@ -854,7 +854,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósnotr maðr
 				<br />
 				hyggr sér alla vera
@@ -870,7 +870,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Муж неразумный
 				<br />
 				увидит приязнь
@@ -891,7 +891,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósnotr maðr
 				<br />
 				hyggr sér alla vera
@@ -907,7 +907,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Муж неразумный
 				<br />
 				увидит приязнь
@@ -928,7 +928,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósnotr maðr
 				<br />
 				þykkisk allt vita,
@@ -944,7 +944,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Муж неразумный
 				<br />
 				все знает на свете,
@@ -964,7 +964,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósnotr maðr,
 				<br />
 				er með aldir kemr,
@@ -986,7 +986,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Муж неразумный
 				<br />
 				на сборище людном
@@ -1013,7 +1013,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fróðr sá þykkisk,
 				<br />
 				er fregna kann
@@ -1029,7 +1029,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Мудрым слывет,
 				<br />
 				кто расспросит других
@@ -1050,7 +1050,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ærna mælir,
 				<br />
 				sá er æva þegir,
@@ -1066,7 +1066,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Кто молчать не умеет,
 				<br />
 				тот лишние речи
@@ -1087,7 +1087,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				At augabragði
 				<br />
 				skal-a maðr annan hafa,
@@ -1103,7 +1103,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Насмешливых взглядов
 				<br />
 				не надо бросать
@@ -1122,7 +1122,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fróðr þykkisk,
 				<br />
 				sá er flótta tekr,
@@ -1138,7 +1138,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Доволен глумливый,
 				<br />
 				коль, гостя обидев,
@@ -1159,7 +1159,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gumnar margir
 				<br />
 				erusk gagnhollir,
@@ -1175,7 +1175,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Люди друзьями
 				<br />
 				слывут, но порой
@@ -1196,7 +1196,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Árliga verðar
 				<br />
 				skyli maðr oft fáa,
@@ -1212,7 +1212,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Рано поешь,
 				<br />
 				а в гости сбираясь,
@@ -1232,7 +1232,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Afhvarf mikit
 				<br />
 				er til ills vinar,
@@ -1248,7 +1248,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Путь неблизок
 				<br />
 				к другу плохому,
@@ -1269,7 +1269,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ganga skal,
 				<br />
 				skal-a gestr vera
@@ -1285,7 +1285,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гость не должен
 				<br />
 				назойливым быть
@@ -1306,7 +1306,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bú er betra,
 				<br />
 				þótt lítit sé,
@@ -1322,7 +1322,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пусть невелик
 				<br />
 				твой дом, но твой он,
@@ -1342,7 +1342,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bú er betra,
 				<br />
 				þótt lítit sé,
@@ -1358,7 +1358,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пусть невелик
 				<br />
 				твой дом, но твой он,
@@ -1379,7 +1379,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vápnum sínum
 				<br />
 				skal-a maðr velli á<br />
@@ -1394,7 +1394,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Муж не должен
 				<br />
 				хотя бы на миг
@@ -1415,7 +1415,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fannk-a ek mildan mann
 				<br />
 				eða svá matar góðan,
@@ -1431,7 +1431,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Не знаю радушных
 				<br />
 				и щедрых, что стали б<br />
@@ -1451,7 +1451,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Féar síns,
 				<br />
 				er fengit hefr,
@@ -1467,7 +1467,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Добра не жалей,
 				<br />
 				что нажито было,
@@ -1487,7 +1487,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vápnum ok váðum
 				<br />
 				skulu vinir gleðjask;
@@ -1503,7 +1503,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Оружье друзьям
 				<br />
 				и одежду дари —<br />
@@ -1523,7 +1523,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vin sínum
 				<br />
 				skal maðr vinr vera
@@ -1539,7 +1539,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Надобно в дружбе
 				<br />
 				верным быть другу,
@@ -1559,7 +1559,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vin sínum
 				<br />
 				skal maðr vinr vera,
@@ -1575,7 +1575,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Надобно в дружбе
 				<br />
 				верным быть другу
@@ -1596,7 +1596,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Veiztu, ef þú vin átt,
 				<br />
 				þann er þú vel trúir,
@@ -1612,7 +1612,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Если дружбу ведешь
 				<br />
 				и в друге уверен
@@ -1632,7 +1632,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ef þú átt annan,
 				<br />
 				þanns þú illa trúir,
@@ -1648,7 +1648,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Но если другому
 				<br />
 				поверил оплошно,
@@ -1668,7 +1668,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Það er enn of þann
 				<br />
 				er þú illa trúir
@@ -1684,7 +1684,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Так же и с теми,
 				<br />
 				в ком усомнишься,
@@ -1703,7 +1703,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ungr var ek forðum,
 				<br />
 				fór ek einn saman,
@@ -1719,7 +1719,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Молод я был,
 				<br />
 				странствовал много
@@ -1739,7 +1739,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mildir, fræknir
 				<br />
 				menn bazt lifa,
@@ -1755,7 +1755,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Щедрые, смелые
 				<br />
 				счастливы в жизни,
@@ -1776,7 +1776,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Váðir mínar
 				<br />
 				gaf ek velli at
@@ -1792,7 +1792,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				В поле я отдал
 				<br />
 				одежду мою
@@ -1813,7 +1813,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hrörnar þöll,
 				<br />
 				sú er stendr þorpi á,
@@ -1829,7 +1829,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сосна, у дома
 				<br />
 				возросшая, сохнет,
@@ -1849,7 +1849,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Eldi heitari
 				<br />
 				brennr með illum vinum
@@ -1865,7 +1865,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Жарко приязнь
 				<br />
 				пылает пять дней
@@ -1884,7 +1884,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mikit eitt
 				<br />
 				skal-a manni gefa;
@@ -1900,7 +1900,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Подарок большой
 				<br />
 				не всюду пригоден,
@@ -1921,7 +1921,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Lítilla sanda
 				<br />
 				lítilla sæva
@@ -1937,7 +1937,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				У малых песчинок,
 				<br />
 				у малых волн
@@ -1957,7 +1957,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Meðalsnotr
 				<br />
 				skyli manna hverr;
@@ -1973,7 +1973,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Следует мужу
 				<br />
 				в меру быть умным,
@@ -1994,7 +1994,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Meðalsnotr
 				<br />
 				skyli manna hverr,
@@ -2010,7 +2010,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Следует мужу
 				<br />
 				в меру быть умным,
@@ -2031,7 +2031,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Meðalsnotr
 				<br />
 				skyli manna hverr,
@@ -2047,7 +2047,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Следует мужу
 				<br />
 				в меру быть умным,
@@ -2068,7 +2068,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Brandr af brandi
 				<br />
 				brenn, unz brunninn er,
@@ -2084,7 +2084,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Головня головне
 				<br />
 				передать готова
@@ -2104,7 +2104,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ár skal rísa,
 				<br />
 				sá er annars vill
@@ -2120,7 +2120,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Рано встает,
 				<br />
 				кто хочет отнять
@@ -2140,7 +2140,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ár skal rísa,
 				<br />
 				sá er á yrkjendr fáa,
@@ -2156,7 +2156,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Рано встает,
 				<br />
 				кто без подмоги
@@ -2175,7 +2175,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þurra skíða
 				<br />
 				ok þakinna næfra,
@@ -2191,7 +2191,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Мера бересты
 				<br />
 				и балок для кровли
@@ -2212,7 +2212,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þveginn ok mettr
 				<br />
 				ríði maðr þingi at,
@@ -2230,7 +2230,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сытым и чистым
 				<br />
 				на тинг собирайся,
@@ -2253,7 +2253,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Snapir ok gnapir,
 				<br />
 				er til sævar kemr,
@@ -2269,7 +2269,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вытянув шею,
 				<br />
 				орел озирает
@@ -2290,7 +2290,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fregna ok segja
 				<br />
 				skal fróðra hverr,
@@ -2306,7 +2306,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вопросит и ответит
 				<br />
 				умный всегда,
@@ -2325,7 +2325,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ríki sitt
 				<br />
 				skyli ráðsnotra
@@ -2341,7 +2341,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Силу свою
 				<br />
 				должен мудрец
@@ -2362,7 +2362,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				*********
 				<br />
 				orða þeira,
@@ -2374,7 +2374,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Бывает, ты слово
 				<br />
 				скажешь другому,
@@ -2388,7 +2388,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mikilsti snemma
 				<br />
 				kom ek í marga staði,
@@ -2404,7 +2404,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Случалось, я рано
 				<br />
 				в гости являлся
@@ -2424,7 +2424,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hér ok hvar
 				<br />
 				myndi mér heim of boðit,
@@ -2440,7 +2440,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Повсюду меня
 				<br />
 				приглашали бы в гости,
@@ -2460,7 +2460,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Eldr er beztr
 				<br />
 				með ýta sonum
@@ -2476,7 +2476,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Драгоценен огонь
 				<br />
 				для сынов человека
@@ -2497,7 +2497,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Er-at maðr alls vesall,
 				<br />
 				þótt hann sé illa heill;
@@ -2513,7 +2513,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хворый судьбой
 				<br />
 				не совсем обездолен:
@@ -2533,7 +2533,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Betra er lifðum
 				<br />
 				en sé ólifðum,
@@ -2549,7 +2549,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Лучше живым быть,
 				<br />
 				нежели мертвым;
@@ -2570,7 +2570,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Haltr ríðr hrossi,
 				<br />
 				hjörð rekr handar vanr,
@@ -2586,7 +2586,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ездить может хромой,
 				<br />
 				безрукий — пасти,
@@ -2606,7 +2606,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sonr er betri,
 				<br />
 				þótt sé síð of alinn
@@ -2622,7 +2622,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сын — это счастье,
 				<br />
 				хотя бы на свете
@@ -2643,7 +2643,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Tveir ro eins herjar,
 				<br />
 				tunga er höfuðs bani;
@@ -2655,7 +2655,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Двое — смерть одному;
 				<br />
 				голове враг — язык;
@@ -2672,7 +2672,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Nótt verðr feginn
 				<br />
 				sá er nesti trúir,
@@ -2690,7 +2690,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ночь тому не страшна,
 				<br />
 				кто сделал запасы;
@@ -2713,7 +2713,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Veit-a hinn,
 				<br />
 				er vettki veit,
@@ -2729,7 +2729,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Иной не постигнет,
 				<br />
 				что вреден подчас
@@ -2749,7 +2749,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Deyr fé,
 				<br />
 				deyja frændr,
@@ -2765,7 +2765,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гибнут стада,
 				<br />
 				родня умирает,
@@ -2786,7 +2786,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Deyr fé,
 				<br />
 				deyja frændr,
@@ -2802,7 +2802,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гибнут стада,
 				<br />
 				родня умирает,
@@ -2823,7 +2823,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fullar grindr
 				<br />
 				sá ek fyr Fitjungs sonum,
@@ -2839,7 +2839,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				У Фитьюнга были
 				<br />
 				сыны богачами
@@ -2859,7 +2859,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ósnotr maðr,
 				<br />
 				ef eignask getr
@@ -2875,7 +2875,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Если глупцу
 				<br />
 				достается в удел
@@ -2895,7 +2895,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat er þá reynt,
 				<br />
 				er þú að rúnum spyrr
@@ -2911,7 +2911,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вот что отвечу,
 				<br />
 				когда вопрошаешь
@@ -2932,7 +2932,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				At kveldi skal dag leyfa,
 				<br />
 				konu, er brennd er,
@@ -2948,7 +2948,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				День хвали вечером,
 				<br />
 				жен — на костре,
@@ -2969,7 +2969,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Í vindi skal við höggva,
 				<br />
 				veðri á sjó róa,
@@ -2989,7 +2989,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Лес руби на ветру,
 				<br />
 				жди погоды для гребли,
@@ -3014,7 +3014,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Við eld skal öl drekka,
 				<br />
 				en á ísi skríða,
@@ -3030,7 +3030,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пиво пей у огня,
 				<br />
 				по льду скользи,
@@ -3050,7 +3050,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Meyjar orðum
 				<br />
 				skyli manngi trúa
@@ -3066,7 +3066,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Не доверяй
 				<br />
 				ни девы речам,
@@ -3086,7 +3086,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Brestanda boga,
 				<br />
 				brennanda loga,
@@ -3106,7 +3106,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Непрочному луку,
 				<br />
 				жаркому пламени,
@@ -3131,7 +3131,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fljúganda fleini,
 				<br />
 				fallandi báru,
@@ -3151,7 +3151,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Летящей стреле,
 				<br />
 				отходящему валу,
@@ -3175,7 +3175,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sjúkum kalfi,
 				<br />
 				sjalfráða þræli,
@@ -3187,7 +3187,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Скотине больной,
 				<br />
 				рабу своевольному,
@@ -3204,7 +3204,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Akri ársánum
 				<br />
 				trúi engi maðr
@@ -3220,7 +3220,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Всходам ранним
 				<br />
 				не должно нам верить,
@@ -3241,7 +3241,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bróðurbana sínum
 				<br />
 				þótt á brautu mæti,
@@ -3261,7 +3261,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Брата убийце,
 				<br />
 				коль встречен он будет,
@@ -3283,7 +3283,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Svá er friðr kvenna,
 				<br />
 				þeira er flátt hyggja,
@@ -3307,7 +3307,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Женщин любить,
 				<br />
 				в обманах искусных, —<br />
@@ -3334,7 +3334,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bert ek nú mæli,
 				<br />
 				því at ek bæði veit,
@@ -3350,7 +3350,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Откровенно скажу
 				<br />
 				о мужах и о женах:
@@ -3370,7 +3370,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fagrt skal mæla
 				<br />
 				ok fé bjóða,
@@ -3386,7 +3386,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Красно говори
 				<br />
 				и подарки готовь,
@@ -3407,7 +3407,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ástar firna
 				<br />
 				skyli engi maðr
@@ -3423,7 +3423,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Никто за любовь
 				<br />
 				никогда осуждать
@@ -3444,7 +3444,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Eyvitar firna
 				<br />
 				er maðr annan skal,
@@ -3460,7 +3460,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Мужей не суди
 				<br />
 				за то, что может
@@ -3481,7 +3481,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hugr einn þat veit,
 				<br />
 				er býr hjarta nær,
@@ -3497,7 +3497,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Твоей лишь душе
 				<br />
 				ведомо то,
@@ -3518,7 +3518,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat ek þá reynda,
 				<br />
 				er ek í reyri sat,
@@ -3534,7 +3534,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Изведал я это:
 				<br />
 				милую ждал я,
@@ -3555,7 +3555,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Billings mey
 				<br />
 				ek fann beðjum á<br />
@@ -3570,7 +3570,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Солнечноясную
 				<br />
 				Биллинга дочь
@@ -3591,7 +3591,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Auk nær aftni
 				<br />
 				skaltu, Óðinn, koma,
@@ -3607,7 +3607,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Вечером, Один,
 				<br />
 				прийди, чтоб деву
@@ -3628,7 +3628,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Aftr ek hvarf
 				<br />
 				ok unna þóttumk
@@ -3644,7 +3644,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ее я оставил —<br />
 				казалось, от страсти
 				<br />
@@ -3664,7 +3664,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Svá kom ek næst,
 				<br />
 				at in nýta var
@@ -3680,7 +3680,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вновь я пришел,
 				<br />
 				увидел, что воины
@@ -3700,7 +3700,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Auk nær morgni,
 				<br />
 				er ek var enn of kominn,
@@ -3716,7 +3716,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				А перед утром, —<br />
 				все почивали, —<br />
 				явился я вновь;
@@ -3735,7 +3735,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mörg er góð mær,
 				<br />
 				ef görva kannar,
@@ -3757,7 +3757,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Девы нередко,
 				<br />
 				коль их разгадаешь,
@@ -3783,7 +3783,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Heima glaðr gumi
 				<br />
 				ok við gesti reifr,
@@ -3805,7 +3805,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Будь дома весел,
 				<br />
 				будь с гостем приветлив,
@@ -3829,7 +3829,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Inn aldna jötun ek sótta,
 				<br />
 				nú em ek aftr of kominn:
@@ -3844,7 +3844,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				От старого турса
 				<br />
 				вернулся назад я;
@@ -3864,7 +3864,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gunnlöð mér of gaf
 				<br />
 				gullnum stóli á<br />
@@ -3881,7 +3881,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гуннлед меня
 				<br />
 				угостила медом
@@ -3904,7 +3904,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Rata munn
 				<br />
 				létumk rúms of fá
@@ -3920,7 +3920,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Рати клыкам
 				<br />
 				в камень велел я<br />
@@ -3940,7 +3940,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vel keypts litar
 				<br />
 				hefi ek vel notit,
@@ -3955,7 +3955,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хитростью вдоволь
 				<br />
 				я насладился,
@@ -3976,7 +3976,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ifi er mér á,
 				<br />
 				at ek væra enn kominn
@@ -3992,7 +3992,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Не удалось бы
 				<br />
 				выбраться мне
@@ -4013,7 +4013,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ins hindra dags
 				<br />
 				gengu hrímþursar
@@ -4031,7 +4031,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Назавтра собрались
 				<br />
 				и двинулись хримтурсы
@@ -4053,7 +4053,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Baugeið Óðinn,
 				<br />
 				hygg ek, at unnit hafi;
@@ -4069,7 +4069,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Клятву Один
 				<br />
 				дал на кольце;
@@ -4090,7 +4090,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mál er at þylja
 				<br />
 				þular stóli á<br />
@@ -4115,7 +4115,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пора мне с престола
 				<br />
 				тула поведать
@@ -4146,7 +4146,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4163,7 +4163,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4186,7 +4186,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4203,7 +4203,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4225,7 +4225,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hon svá gerir,
 				<br />
 				at þú gáir eigi
@@ -4241,7 +4241,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Заставит она
 				<br />
 				тебя позабыть
@@ -4262,7 +4262,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4279,7 +4279,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4301,7 +4301,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4318,7 +4318,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои
 				<br />
 				Лоддфафнир, слушай,
@@ -4340,7 +4340,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4363,7 +4363,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4392,7 +4392,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ofarla bíta
 				<br />
 				ek sá einum hal
@@ -4408,7 +4408,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Я видел однажды,
 				<br />
 				как муж был погублен
@@ -4429,7 +4429,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4452,7 +4452,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4480,7 +4480,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4497,7 +4497,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4520,7 +4520,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4543,7 +4543,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4572,7 +4572,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4589,7 +4589,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4611,7 +4611,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Því at af illum manni
 				<br />
 				mundu aldregi
@@ -4627,7 +4627,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ибо дурной
 				<br />
 				тебе не отплатит
@@ -4648,7 +4648,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sifjum er þá blandat,
 				<br />
 				hver er segja ræðr
@@ -4664,7 +4664,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хорошему другу
 				<br />
 				что только хочешь
@@ -4687,7 +4687,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk, þér Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4706,7 +4706,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4730,7 +4730,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4753,7 +4753,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4781,7 +4781,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4798,7 +4798,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4821,7 +4821,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4838,7 +4838,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4861,7 +4861,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4881,7 +4881,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4906,7 +4906,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4929,7 +4929,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -4957,7 +4957,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -4980,7 +4980,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -5008,7 +5008,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -5025,7 +5025,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -5048,7 +5048,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Oft vitu ógörla,
 				<br />
 				þeir er sitja inni fyrir,
@@ -5064,7 +5064,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Не ведают часто
 				<br />
 				сидящие дома,
@@ -5085,7 +5085,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -5112,7 +5112,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -5144,7 +5144,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -5161,7 +5161,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -5183,7 +5183,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Rammt er þat tré,
 				<br />
 				er ríða skal
@@ -5199,7 +5199,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ворота сломаешь,
 				<br />
 				коль всех без разбора
@@ -5220,7 +5220,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ráðumk þér, Loddfáfnir,
 				<br />
 				en þú ráð nemir, —<br />
@@ -5252,7 +5252,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Советы мои,
 				<br />
 				Лоддфафнир, слушай,
@@ -5290,7 +5290,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Veit ek, at ek hekk
 				<br />
 				vindga meiði á<br />
@@ -5311,7 +5311,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю, висел я<br />
 				в ветвях на ветру
 				<br />
@@ -5336,7 +5336,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Við hleifi mik sældu
 				<br />
 				né við hornigi;
@@ -5352,7 +5352,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Никто не питал,
 				<br />
 				никто не поил меня,
@@ -5371,7 +5371,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fimbulljóð níu
 				<br />
 				nam ek af inum frægja syni
@@ -5387,7 +5387,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Девять песен узнал я<br />
 				от сына Бельторна,
 				<br />
@@ -5407,7 +5407,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá nam ek frævask
 				<br />
 				ok fróðr vera
@@ -5425,7 +5425,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Стал созревать я<br />
 				и знанья множить,
 				<br />
@@ -5447,7 +5447,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Rúnar munt þú finna
 				<br />
 				ok ráðna stafi,
@@ -5465,7 +5465,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Руны найдешь
 				<br />
 				и постигнешь знаки,
@@ -5487,7 +5487,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn með ásum,
 				<br />
 				en fyr alfum Dáinn,
@@ -5501,7 +5501,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один у асов,
 				<br />
 				а Даин у альвов,
@@ -5519,7 +5519,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Veistu, hvé rísta skal?
 				<br />
 				Veistu, hvé ráða skal?
@@ -5539,7 +5539,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Умеешь ли резать?
 				<br />
 				Умеешь разгадывать?
@@ -5564,7 +5564,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Betra er óbeðit
 				<br />
 				en sé ofblótit,
@@ -5586,7 +5586,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хоть совсем не молись,
 				<br />
 				но не жертвуй без меры,
@@ -5613,7 +5613,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ljóð ek þau kann,
 				<br />
 				er kann-at þjóðans kona
@@ -5631,7 +5631,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Заклинанья я знаю —<br />
 				не знает никто их,
 				<br />
@@ -5651,7 +5651,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek annat,
 				<br />
 				er þurfu ýta synir,
@@ -5661,7 +5661,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю второе, —<br />
 				оно врачеванью
 				<br />
@@ -5675,7 +5675,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Það kann ek þriðja:
 				<br />
 				ef mér verðr þörf mikil
@@ -5691,7 +5691,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю и третье, —<br />
 				оно защитит
 				<br />
@@ -5710,7 +5710,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it fjórða:
 				<br />
 				ef mér fyrðar bera
@@ -5728,7 +5728,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Четвертое знаю, —<br />
 				коль свяжут мне члены
 				<br />
@@ -5749,7 +5749,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it fimmta:
 				<br />
 				ef ek sé af fári skotinn
@@ -5765,7 +5765,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				И пятое знаю, —<br />
 				коль пустит стрелу
 				<br />
@@ -5785,7 +5785,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it sétta:
 				<br />
 				ef mik særir þegn
@@ -5801,7 +5801,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю шестое, —<br />
 				коль недруг корнями
 				<br />
@@ -5820,7 +5820,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it sjaunda:
 				<br />
 				ef ek sé hávan loga
@@ -5836,7 +5836,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю седьмое, —<br />
 				коль дом загорится
 				<br />
@@ -5856,7 +5856,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it átta,
 				<br />
 				er öllum er
@@ -5872,7 +5872,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю восьмое, —<br />
 				это бы всем
 				<br />
@@ -5892,7 +5892,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it níunda:
 				<br />
 				ef mik nauðr of stendr
@@ -5907,7 +5907,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю девятое, —<br />
 				если ладья
 				<br />
@@ -5927,7 +5927,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it tíunda:
 				<br />
 				ef ek sé túnriður
@@ -5945,7 +5945,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Знаю десятое, —<br />
 				если замечу,
 				<br />
@@ -5967,7 +5967,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it ellifta:
 				<br />
 				ef ek skal til orrostu
@@ -5987,7 +5987,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Одиннадцатым
 				<br />
 				друзей оберечь
@@ -6012,7 +6012,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it tolfta:
 				<br />
 				ef ek sé á tré uppi
@@ -6030,7 +6030,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Двенадцатым я,
 				<br />
 				увидев на дереве
@@ -6052,7 +6052,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it þrettánda:
 				<br />
 				ef ek skal þegn ungan
@@ -6068,7 +6068,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тринадцатым я<br />
 				водою младенца
 				<br />
@@ -6086,7 +6086,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it fjögurtánda:
 				<br />
 				ef ek skal fyrða liði
@@ -6102,7 +6102,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Четырнадцатым
 				<br />
 				число я открою
@@ -6122,7 +6122,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it fimmtánda
 				<br />
 				er gól Þjóðrerir
@@ -6138,7 +6138,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пятнадцатое
 				<br />
 				Тьодрерир пел
@@ -6158,7 +6158,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it sextánda:
 				<br />
 				ef ek vil ins svinna mans
@@ -6174,7 +6174,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Шестнадцатым я<br />
 				дух шевельну
 				<br />
@@ -6194,7 +6194,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it sjautjánda
 				<br />
 				at mik mun seint firrask
@@ -6216,7 +6216,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Семнадцатым я<br />
 				опутать смогу
 				<br />
@@ -6242,7 +6242,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat kann ek it átjánda,
 				<br />
 				er ek æva kennik
@@ -6263,7 +6263,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Восемнадцатое
 				<br />
 				ни девам, ни женам
@@ -6287,7 +6287,7 @@ const highsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Nú eru Háva mál
 				<br />
 				kveðin Háva höllu í,
@@ -6307,7 +6307,7 @@ const highsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вот речи Высокого
 				<br />
 				в доме Высокого,

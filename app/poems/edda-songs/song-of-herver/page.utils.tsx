@@ -5,8 +5,8 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     H
                 </span>
                 itt hefr mær ung
@@ -31,7 +31,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Встретила дева
                 <br />
                 в Мунарваге
@@ -59,7 +59,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Muna-at ek ganga
@@ -81,7 +81,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Я не пойду
@@ -108,7 +108,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hirðir kvað:
                 <br />
                 «Spyj-at-tu at því;
@@ -130,7 +130,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пастух сказал:
                 <br />
                 «Про это не спрашивай,
@@ -157,7 +157,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Men bjóðum þér
@@ -179,7 +179,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Ожерелье предложим
@@ -206,7 +206,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hirðir kvað:
                 <br />
                 «Heimskr þykki mér,
@@ -228,7 +228,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пастух сказал:
                 <br />
                 «Мне кажется, глуп,
@@ -255,7 +255,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Hirðum-at fælask
@@ -277,7 +277,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Испугать не надейся
@@ -304,7 +304,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Var þá féhirðir
                 <br />
                 fljótr til skógar
@@ -324,7 +324,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда пастух стада
                 <br />
                 бросился в лес,
@@ -365,7 +365,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Vaki þú, Angantýr,
                 <br />
                 vekr þik Hervör,
@@ -385,7 +385,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Проснись, Ангантюр,
                 <br />
                 тебя будит Хервер,
@@ -410,7 +410,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervarðr, Hjörvarðr,
                 <br />
                 Hrani, Angantýr!
@@ -430,7 +430,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервард и Хьервард,
                 <br />
                 Храни, Ангантюр,
@@ -455,7 +455,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mjök eruð orðnir
                 <br />
                 Arngríms synir,
@@ -474,7 +474,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Совсем рассыпались
                 <br />
                 сыны Арнгрима,
@@ -499,7 +499,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervarðr, Hjörvarðr,
                 <br />
                 Hrani, Angantýr!
@@ -523,7 +523,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервард, Хьервард,
                 <br />
                 Храни, Ангантюр,
@@ -552,7 +552,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá svarar Angantýr:
                 <br />
                 «Hervör dóttir,
@@ -574,7 +574,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тогда Ангантюр ответил:
                 <br />
                 «Хервер, дочь,
@@ -601,7 +601,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gróf-at mik faðir
                 <br />
                 né frændr aðrir;
@@ -617,7 +617,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ни отец схоронил меня,
                 <br />
                 ни другие родичи;
@@ -638,7 +638,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Segðu einn satt mér,
@@ -660,7 +660,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Говори мне лишь правду,
@@ -687,7 +687,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Hnigin er helgrind,
@@ -709,7 +709,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Решетка Хель спущена,
@@ -736,7 +736,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Brennið eigi svá
@@ -757,7 +757,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Таких не зажечь
@@ -784,7 +784,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Segi ek þér, Hervör,
@@ -805,7 +805,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Скажу тебе, Хервер,
@@ -832,7 +832,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Muntu son geta,
                 <br />
                 þann er síðan mun
@@ -852,7 +852,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сына родишь,
                 <br />
                 что будет затем
@@ -877,7 +877,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Ek vígi svá
@@ -903,7 +903,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Я так закляну
@@ -934,7 +934,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Kveðk-at þik, mær ung,
@@ -956,7 +956,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Не назову тебя, дева;
@@ -983,7 +983,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Maðr þóttumk ek
@@ -1005,7 +1005,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Считала себя я<br />
@@ -1031,7 +1031,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Liggr mér und herðum
@@ -1052,7 +1052,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «У меня под плечами
@@ -1079,7 +1079,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Ek mun hirða
@@ -1101,7 +1101,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Я сохраню
@@ -1128,7 +1128,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Heimsks ertu, Hervör,
@@ -1150,7 +1150,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Глупа ты, Хервер,
@@ -1177,7 +1177,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Vel gerðir þú,
@@ -1199,7 +1199,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Хорошо ты поступишь,
@@ -1226,7 +1226,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Veizt eigi þú,
@@ -1247,7 +1247,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Не знаешь ты,
@@ -1274,7 +1274,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Ek mun ganga
@@ -1296,7 +1296,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Я возвращусь
@@ -1323,7 +1323,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Angantýr kvað:
                 <br />
                 «Þú skalt eiga
@@ -1345,7 +1345,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ангантюр сказал:
                 <br />
                 «Ты будешь владеть
@@ -1372,7 +1372,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Far vel, dóttir,
                 <br />
                 fljótt gæfak þér
@@ -1392,7 +1392,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Прощай, моя дочь,
                 <br />
                 дал тебе бы немедля
@@ -1417,7 +1417,7 @@ const songofherver = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hervör kvað:
                 <br />
                 «Búið ér allir,
@@ -1438,7 +1438,7 @@ const songofherver = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хервер сказала:
                 <br />
                 «Пребудьте вы все,

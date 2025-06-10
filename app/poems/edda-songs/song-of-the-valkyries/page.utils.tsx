@@ -5,8 +5,8 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     V
                 </span>
                 ítt es orpit
@@ -32,7 +32,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Соткана ткань
                 <br />
                 большая, как туча,
@@ -61,7 +61,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sjá es orpinn vefr
                 <br />
                 ýta þörmum
@@ -85,7 +85,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сделаем ткань
                 <br />
                 из кишок человечьих;
@@ -113,7 +113,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gengr Hildr vefa
                 <br />
                 ok Hjörþrimul,
@@ -132,7 +132,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хьертримуль, Хильд.
                 <br />
                 Саннгрид и Свипуль,
@@ -157,7 +157,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindum, vindum
                 <br />
                 vef Darraðar,
@@ -177,7 +177,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мы ткем, мы ткем
                 <br />
                 стяг боевой;
@@ -202,7 +202,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindum, vindum
                 <br />
                 vef Darraðar
@@ -222,7 +222,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мы ткем, мы ткем
                 <br />
                 стяг боевой;
@@ -247,7 +247,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindum, vindum
                 <br />
                 vef Darraðar,
@@ -267,7 +267,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мы ткем, мы ткем
                 <br />
                 стяг боевой;
@@ -291,7 +291,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þeir munu lýðir
                 <br />
                 löndum ráða,
@@ -311,7 +311,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Будут землей
                 <br />
                 люди владеть,
@@ -336,7 +336,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ok munu Írar
                 <br />
                 angr of bíða,
@@ -356,7 +356,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ирам готов
                 <br />
                 горький удел,
@@ -381,7 +381,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú es ógurligt
                 <br />
                 umb at lítask,
@@ -401,7 +401,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Страшно теперь
                 <br />
                 оглянуться: смотри!
@@ -425,7 +425,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vel kváðum vér
                 <br />
                 of konung ungan
@@ -445,7 +445,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Спели мы славно
                 <br />
                 о конунге юном;
@@ -470,7 +470,7 @@ const songofthevalkyries = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ríðum hestum
                 <br />
                 hart út berum
@@ -481,7 +481,7 @@ const songofthevalkyries = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мечи обнажив,
                 <br />
                 на диких конях,

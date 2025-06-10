@@ -6,12 +6,12 @@ const incitementofgudrun = [
         contentON: (
             <span>
                 <p className="mb-2 text-center">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         F
                     </span>
                     rá Guðrúnu.
                 </p>
-                <p className="mb-2 text-center" style={{ fontFamily: "Feofan, sans-serif" }}>О Гудрун</p>
+                <p className="font-Feofan mb-2 text-center">О Гудрун</p>
                 <p className="mb-2">
                     Guðrún gekk þá til sævar, er hon hafði drepit Atla. Gekk hon út á sæinn ok vildi fara sér. Hon mátti eigi sökkva. Rak hana yfir fjörðinn á land Jónakrs konungs.
                     Hann fekk hennar. Þeira synir váru þeir Sörli ok Erpr ok Hamðir. Þar fæddist upp Svanhildr Sigurðardóttir. Hon var gift Jörmunrekk inum ríkja. Með honom var
@@ -41,7 +41,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá frá ek sennu
                 <br />
                 slíðrfengligsta,
@@ -61,7 +61,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я слышал укоры,
                 <br />
                 слова обидные,
@@ -86,7 +86,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hví sitið ér,
                 <br />
                 hví sofið lífi,
@@ -114,7 +114,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что вы сидите?
                 <br />
                 Что спите беспечно?
@@ -147,7 +147,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Urðu-a it glíkir
                 <br />
                 þeim Gunnari
@@ -171,7 +171,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нет, вы не схожи
                 <br />
                 с Гуннаром смелым,
@@ -199,7 +199,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Hamðir
                 <br />
                 inn hugumstóri:
@@ -223,7 +223,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хамдир сказал,
                 <br />
                 духом отважный:
@@ -252,7 +252,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Urðu þér beggja
                 <br />
                 bræðra hefndir
@@ -272,7 +272,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Была тебе месть
                 <br />
                 за братьев горестна,
@@ -296,7 +296,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Berið hnossir fram
                 <br />
                 Húnkonunga;
@@ -308,7 +308,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Выносите доспехи
                 <br />
                 конунгов гуннских!
@@ -325,7 +325,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlæjandi Guðrún
                 <br />
                 hvarf til skemmu,
@@ -344,7 +344,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун, смеясь,
                 <br />
                 в кладовую пошла,
@@ -368,7 +368,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Hamðir
                 <br />
                 inn hugumstóri:
@@ -392,7 +392,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хамдир сказал,
                 <br />
                 духом отважный:
@@ -420,7 +420,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðrún grátandi,
                 <br />
                 Gjúka dóttir,
@@ -439,7 +439,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун, дочь Гьюки,
                 <br />
                 пошла, рыдая,
@@ -464,7 +464,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Þrjá vissa ek elda,
                 <br />
                 þrjá vissa ek arna,
@@ -484,7 +484,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Три я знала огня,
                 <br />
                 три очага,
@@ -508,7 +508,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svárra sára
                 <br />
                 sák-at ek né kunna,
@@ -526,7 +526,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Горшего я<br />
                 горя не видела,
                 <br />
@@ -546,7 +546,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Húna hvassa
                 <br />
                 hét ek mér at rúnum;
@@ -562,7 +562,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мальчиков смелых
                 <br />
                 к себе призвала я;
@@ -583,7 +583,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk ek til strandar,
                 <br />
                 gröm vark nornum,
@@ -603,7 +603,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пошла я на берег,
                 <br />
                 на норн озлобясь,
@@ -627,7 +627,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk ek á beð,
                 <br />
                 hugðak mér fyr betra,
@@ -647,7 +647,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Взошла я на ложе —<br />
                 на счастье надеясь! —<br />
                 князя могучего,
@@ -670,7 +670,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En um Svanhildi
                 <br />
                 sátu þýjar,
@@ -690,7 +690,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Около Сванхильд
                 <br />
                 сидели рабыни,
@@ -715,7 +715,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gædda ek gulli
                 <br />
                 ok guðvefjum,
@@ -739,7 +739,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Одевала ее
                 <br />
                 в драгоценные ткани,
@@ -766,7 +766,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En sá sárastr,
                 <br />
                 er þeir Sigurð minn,
@@ -794,7 +794,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 И горе не меньшее —<br />
                 муж мой Сигурд,
                 <br />
@@ -824,7 +824,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölð man ek bölva,
                 <br />
                 *********
@@ -848,7 +848,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Много я помню
                 <br />
                 зла и печалей.
@@ -877,7 +877,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Minnsktu, Sigurðr,
                 <br />
                 hvat vit mæltum,
@@ -897,7 +897,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Помнишь ли, Сигурд,
                 <br />
                 что сказано было,
@@ -921,7 +921,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlaðið ér, jarlar,
                 <br />
                 eikiköstinn,
@@ -941,7 +941,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ярлы, сложите
                 <br />
                 самый высокий
@@ -965,7 +965,7 @@ const incitementofgudrun = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Jörlum öllum
                 <br />
                 óðal batni,
@@ -981,7 +981,7 @@ const incitementofgudrun = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пусть у всех ярлов
                 <br />
                 несчастье пройдет,
