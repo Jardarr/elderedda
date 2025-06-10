@@ -56,6 +56,7 @@ const config = {
       },
       backgroundImage: {
         "hero-bg": "url('/hero-bg.jpg')",
+        "hero-bg-b": "url('/hero-bg-b.jpg')",
         "not-found": "url('/not-found.jpg')",
       },
       borderRadius: {
