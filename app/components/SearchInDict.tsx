@@ -98,7 +98,7 @@ export default function SearchInDict() {
                     <ul className="space-y-4">
                         {displayedResults.map((item: Dictionary) => (
                             <li key={item.word} className="border p-4 rounded-md">
-                                <h2 className="text-lg font-semibold">{item.word}</h2>
+                                <h3 className="text-lg font-semibold">{item.word}</h3>
                                 {item.definitions.map((def, index) => (
                                     <p key={index} dangerouslySetInnerHTML={{ __html: def }} />
                                 ))}
