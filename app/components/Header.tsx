@@ -4,13 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import ThemeSwitcher from "./ThemeSwitcher";
 import BurgerMenu from "./BurgerMenu";
-
-const HeaderLinks = [
-    { href: "/poems/about-gods", text: "Goðakvæði", aria: "Песни о Богах" },
-    { href: "/poems/about-heroes", text: "Hetjukvæði", aria: "Песни о Героях" },
-    { href: "/poems/edda-songs", text: "Eddukvæði", aria: "Эддические песни" },
-    { href: "/poems/edda-app", text: "Viðbætir", aria: "Приложения" },
-];
+import HeaderLinks from "../utils/HeaderLinks";
 export default function Header() {
     return (
         <header className="flex w-full justify-between bg-white/20 dark:bg-black/30 backdrop-blur-lg shadow-lg absolute top-0 right-0 left-0 z-50 px-4 md:px-24">
