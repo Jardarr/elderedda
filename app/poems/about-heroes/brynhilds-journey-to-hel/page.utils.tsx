@@ -6,7 +6,7 @@ const brynhildsjourneytohel = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         E
                     </span>
                     ftir dauða Brynhildar váru gör bál tvau, annat Sigurði, ok brann þat fyrr, enn Brynhildr var á öðru brennd, ok var hon í reið þeiri, er guðvefjum var tjölduð.
@@ -30,7 +30,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Skaltu í gögnum
                 <br />
                 ganga eigi
@@ -50,7 +50,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Ты не дерзнешь
                 <br />
                 через двор мой ехать,
@@ -75,7 +75,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvat skaltu vitja
                 <br />
                 af Vallandi,
@@ -95,7 +95,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Зачем из Валланда
                 <br />
                 ты явилась?
@@ -118,7 +118,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brynhildr kvað:
                 <br />
                 «Bregðu eigi mér,
@@ -140,7 +140,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд сказала:
                 <br />
                 «Меня не кори,
@@ -166,7 +166,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gýgrin kvað:
                 <br />
                 «Þú vart, Brynhildr
@@ -188,7 +188,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Великанша сказала:
                 <br />
                 «Брюнхильд, дочь Будли,
@@ -215,7 +215,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brynhildr kvað:
                 <br />
                 «Ek mun segja þér
@@ -237,7 +237,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд сказала:
                 <br />
                 «Мудро тебе
@@ -263,7 +263,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hétu mik allir
                 <br />
                 í Hlymdölum
@@ -275,7 +275,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг смелый
                 <br />
                 наши одежды,
@@ -299,7 +299,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Annar hét Agnarr,
                 <br />
                 Auðu bróðir,
@@ -311,7 +311,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Там в Хлюмдалире
                 <br />
                 Хильд шлемоносной
@@ -328,7 +328,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lét hami vára
                 <br />
                 hugfullr konungr
@@ -348,7 +348,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В готском краю
                 <br />
                 я тогда отправила
@@ -373,7 +373,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá lét ek gamlan
                 <br />
                 á Goðþjóðu
@@ -393,7 +393,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Воздвиг для меня
                 <br />
                 из щитов ограду
@@ -418,7 +418,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lauk hann mik skjöldum
                 <br />
                 í Skatalundi
@@ -438,7 +438,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вокруг ограды
                 <br />
                 велел он еще
@@ -463,7 +463,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lét hann um sal minn
                 <br />
                 sunnanverðan
@@ -483,7 +483,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Приехал герой
                 <br />
                 на Грани своем
@@ -508,7 +508,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reið góðr Grana
                 <br />
                 gullmiðlandi,
@@ -527,7 +527,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ложились мы с ним
                 <br />
                 на ложе одно,
@@ -551,7 +551,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sváfu við ok unðum
                 <br />
                 í sæing einni,
@@ -571,7 +571,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун, дочь Гьюки,
                 <br />
                 меня упрекала
@@ -593,7 +593,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Því brá mér Guðrún
                 <br />
                 Gjúka dóttir,
@@ -612,7 +612,7 @@ const brynhildsjourneytohel = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Долго придется
                 <br />
                 в горькой печали
@@ -636,7 +636,7 @@ const brynhildsjourneytohel = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Munu við ofstríð
                 <br />
                 alls til lengi
@@ -655,7 +655,7 @@ const brynhildsjourneytohel = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
 ];
 

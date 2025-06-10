@@ -63,26 +63,27 @@ export default function EddaSongs() {
         <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
             <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Eddukvæði</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Эддические песни</h2>
+                    <h1>Eddukvæði</h1>
+                    <h2 className="mt-2">Эддические песни</h2>
                 </div>
-                <div className="flex flex-col items-center w-full max-w-64 lg:max-w-full my-5">
+                <nav className="flex flex-col items-center w-full max-w-64 lg:max-w-full my-5">
                     {eddaSongs.length > 0 ? (
                         eddaSongs.map((item) => (
-                            item.text && item.link && item.title ? ( // Проверяем, что все поля определены
+                            item.text && item.link && item.title ? (
                                 <Link
                                     key={item.text}
                                     href={item.link}
                                     title={item.title}
+									aria-label={item.title}
                                 >
-                                    <p className="mt-2 text-xl hover:text-sky-500" style={{ fontFamily: "Kells, sans-serif" }}>{item.text}</p>
+                                    <p className="font-Kells mt-2 text-xl sm:text-3xl hover:text-sky-500">{item.text}</p>
                                 </Link>
-                            ) : null // Пропускаем элементы с недостающими полями
+                            ) : null
                         ))
                     ) : (
                         null
                     )}
-                </div>
+                </nav>
             </div>
         </main>
     );

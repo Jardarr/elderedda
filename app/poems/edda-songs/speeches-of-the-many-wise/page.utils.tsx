@@ -5,8 +5,8 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     U
                 </span>
                 tan garða
@@ -24,7 +24,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 На гору быстро к жилью исполина
                 <br />
                 Юноша дерзкий всходил.
@@ -44,7 +44,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvers þú leitar,
                 <br />
                 eða hvers þú á leitum ert,
@@ -60,7 +60,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Кто ты, незваный? Чего ты здесь ищешь?
@@ -79,7 +79,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kómumaðr kvað:
                 <br />
                 «Hvat er þat flagða,
@@ -97,7 +97,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Что за урод во дворе тут на страже,
@@ -119,7 +119,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Borgarvörðr kvað:
                 <br />
                 «Fjölsviðr ek heiti,
@@ -137,7 +137,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр зовусь я; умом я известен;
                 <br />
                 На угощенья не щедр.
@@ -153,7 +153,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kómumaðr kvað:
                 <br />
                 «Augna gamans
@@ -171,7 +171,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Тот, кто увидел хоромы прекрасные,
@@ -188,7 +188,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Segðu mér, hverjum
@@ -208,7 +208,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Мальчик, ответь мне: как звался отец твой?
@@ -230,7 +230,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Segðu mér þat, Fjölsviðr,
                 <br />
                 er ek fregna mun
@@ -246,7 +246,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр, ответь мне и правду поведай —<br />
                 Вот что мне надо узнать:
                 <br />
@@ -262,7 +262,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Menglöð of heitir,
@@ -280,7 +280,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Мэнглод зовется рожденная матерью
@@ -299,7 +299,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -317,7 +317,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай, —<br />
@@ -335,7 +335,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Þrymgjöll hon heitir,
@@ -353,7 +353,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Трумгйолль им имя; их строили трое
@@ -372,7 +372,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -390,7 +390,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -408,7 +408,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Gastrópnir heitir,
@@ -425,7 +425,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Гатстропнир имя ей; телом Лейрбримира
@@ -444,7 +444,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -462,7 +462,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -480,7 +480,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Gífr heitir annarr,
@@ -498,7 +498,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Мимамейдр ясень зовется; из смертных
@@ -517,7 +517,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -535,7 +535,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -553,7 +553,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Missvefni mikit
@@ -571,7 +571,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 В жаркое пламя плоды пусть положат,
@@ -589,7 +589,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -607,7 +607,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -625,7 +625,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Vegnbráðir tvær
@@ -643,7 +643,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Видофнир птица зовется блестящая,
@@ -662,7 +662,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -680,7 +680,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -697,7 +697,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Mímameiðr hann heitir,
@@ -715,7 +715,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Гэри и Гифр эти псы называются,
@@ -734,7 +734,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -752,7 +752,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -770,7 +770,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Út af hans aldni
@@ -788,7 +788,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Оба они чередуются отдыхом
@@ -806,7 +806,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -824,7 +824,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -842,7 +842,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Víðópnir hann heitir,
@@ -860,7 +860,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Можно из тела златого Видофнира
@@ -879,7 +879,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -897,7 +897,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -915,7 +915,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Lævateinn heitir hann,
@@ -933,7 +933,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Леватейн меч тот зовется; ковал его
@@ -952,7 +952,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -970,7 +970,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -987,7 +987,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Aftr mun koma,
@@ -1005,7 +1005,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Тот, кто достать этот меч попытается,
@@ -1023,7 +1023,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1041,7 +1041,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1059,7 +1059,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 Ljósan léa
@@ -1077,7 +1077,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Серп золотой принести ты Синмаре —<br />
@@ -1094,7 +1094,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1112,7 +1112,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1130,7 +1130,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Hyrr hann heitir,
@@ -1148,7 +1148,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Лир называют чертог этот светлый,
@@ -1167,7 +1167,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1185,7 +1185,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1203,7 +1203,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Uni ok Íri,
@@ -1221,7 +1221,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Уни и Ири, Вэгдразиль и Яри,
@@ -1240,7 +1240,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1257,7 +1257,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1275,7 +1275,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Lyfjaberg þat heitir,
@@ -1293,7 +1293,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Лифйаберг имя ее; исцеляет
@@ -1312,7 +1312,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1330,7 +1330,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1348,7 +1348,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Hlíf heitir,
@@ -1366,7 +1366,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Глиф имя первой, Глифтраса вторая,
@@ -1384,7 +1384,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1402,7 +1402,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1420,7 +1420,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Bjarga svinnar,
@@ -1438,7 +1438,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Всем эти девы поддержку даруют,
@@ -1457,7 +1457,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Segðu mér þat, Fjölsviðr,
@@ -1475,7 +1475,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Фйольсвидр, ответь мне и правду поведай —<br />
@@ -1493,7 +1493,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Vætr er þat manna,
@@ -1511,7 +1511,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр сказал:
                 <br />
                 Мужа меж смертными нет, что у Мэнглод
@@ -1529,7 +1529,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vindkaldr kvað:
                 <br />
                 «Hrittu á hurðir,
@@ -1547,7 +1547,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Двери раскрой, отопри ты ворота!
@@ -1566,7 +1566,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölsviðr kvað:
                 <br />
                 «Heyr þú, Menglöð,
@@ -1584,7 +1584,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фйольсвидр (пошел к Мэнглод и) сказал:
                 <br />
                 Мэнглод, послушай! Явился к нам витязь.
@@ -1602,7 +1602,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menglöð kvað:
                 <br />
                 «Horskir hrafnar
@@ -1620,7 +1620,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мэнглод сказала:
                 <br />
                 Пусть тебе вороны выклюют очи
@@ -1638,7 +1638,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvaðan þú fórt,
                 <br />
                 hvaðan þú för gerðir,
@@ -1654,7 +1654,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 (Мэнглод вышла к Свипдагру и сказала:)
                 <br />
                 Прибыл отколь ты? какою дорогою?
@@ -1672,7 +1672,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svipdagr kvað:
                 <br />
                 «Svipdagr ek heiti,
@@ -1690,7 +1690,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свипдагр сказал:
                 <br />
                 Свипдагрь зовусь я, и Сольбйарт отец мой;
@@ -1708,7 +1708,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Menglöð kvað:
                 <br />
                 «Vel þú nú kominn,
@@ -1726,7 +1726,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мэнглод сказала:
                 <br />
                 Витязь, привет тебе! В дом мой войди ты,
@@ -1745,7 +1745,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lengi ek sat
                 <br />
                 ljúfu bergi á,
@@ -1761,7 +1761,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Долго сидела я здесь на вершине,
                 <br />
                 Долго я здесь дожидалась тебя;
@@ -1778,7 +1778,7 @@ const speechesofthemanywise = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þrár hafðar
                 <br />
                 er ek hefi til þíns gamans,
@@ -1794,7 +1794,7 @@ const speechesofthemanywise = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я, по любви твоей здесь тосковала
                 <br />
                 Так же давно, как по мне ты грустил;

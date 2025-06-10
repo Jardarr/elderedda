@@ -16,8 +16,8 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="w-40">
-				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+			<span className="w-40 sm:w-60">
+				<span className="font-Eileen text-3xl/4">
                     A
                 </span>
 				r valtívar
@@ -39,7 +39,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Раз боги с охоты
 				<br />
 				вернулись с добычей,
@@ -63,7 +63,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sat bergbúi
 				<br />
 				barnteitr fyr
@@ -83,7 +83,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сидел житель гор,
 				<br />
 				как ребенок веселый,
@@ -108,7 +108,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Önn fekk jötni
 				<br />
 				orðbæginn halr,
@@ -127,7 +127,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Дал турсу задира
 				<br />
 				заботу немалую;
@@ -152,7 +152,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Né þat máttu
 				<br />
 				mærir tívar
@@ -172,7 +172,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Не ведали долго
 				<br />
 				боги великие,
@@ -195,7 +195,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Býr fyr austan
 				<br />
 				Élivága
@@ -215,7 +215,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Живет на восток
 				<br />
 				от реки Эливагар
@@ -239,7 +239,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Veiztu ef þiggjum
@@ -255,7 +255,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал: «Добудем ли мы
 				<br />
 				тот влаговаритель?»
@@ -275,7 +275,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fóru drjúgum
 				<br />
 				dag þann fram
@@ -295,7 +295,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				День целый быстро
 				<br />
 				из Асгарда ехали,
@@ -320,7 +320,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Mögr fann ömmu
 				<br />
 				mjök leiða sér,
@@ -340,7 +340,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ненавистную бабку
 				<br />
 				юноша встретил,
@@ -365,7 +365,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Áttniðr jötna,
 				<br />
 				ek viljak ykkr
@@ -385,7 +385,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Мать Тюра сказала:
 				<br />
 				«етуна родич!
@@ -412,7 +412,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				En váskapaðr
 				<br />
 				varð síðbúinn
@@ -432,7 +432,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Но поздно вернулся
 				<br />
 				распрей зачинщик,
@@ -457,7 +457,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Frilla kvað:
 				<br />
 				«Ver þú heill, Hymir,
@@ -483,7 +483,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Мать Тюра сказала:
 				<br />
 				«Будь, Хюмир, здоров
@@ -514,7 +514,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sé þú, hvar sitja
 				<br />
 				und salar gafli,
@@ -534,7 +534,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Видишь, сидят
 				<br />
 				у торцовой стены,
@@ -559,7 +559,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Stukku átta,
 				<br />
 				en einn af þeim
@@ -579,7 +579,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Восемь котлов
 				<br />
 				с перекладины рухнуло,
@@ -604,7 +604,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Sagði-t hánum
 				<br />
 				hugr vel þá,
@@ -624,7 +624,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Добра он не ждал,
 				<br />
 				в палате увидев
@@ -648,7 +648,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hvern létu þeir
 				<br />
 				höfði skemmra
@@ -668,7 +668,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Все три на голову
 				<br />
 				стали короче,
@@ -693,7 +693,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þótti hárum
 				<br />
 				Hrungnis spjalla
@@ -713,7 +713,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				показался седому
 				<br />
 				приятелю Хрунгнира
@@ -741,7 +741,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Véurr kvaðzk vilja
 				<br />
 				á vág róa,
@@ -764,7 +764,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Веор сказал,
 				<br />
 				что готов выйти в море,
@@ -792,7 +792,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þess vænti ek,
 				<br />
 				at þér myni-t
@@ -812,7 +812,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сдается мне так,
 				<br />
 				что в стаде быков
@@ -836,7 +836,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Braut af þjóri
 				<br />
 				þurs ráðbani
@@ -859,7 +859,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				у быка оторвал
 				<br />
 				турсов губитель
@@ -889,7 +889,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bað hlunngota
 				<br />
 				hafra dróttinn
@@ -909,7 +909,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хозяин козлов
 				<br />
 				обезьяны родича
@@ -933,7 +933,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Dró meir Hymir
 				<br />
 				móðugr hvali
@@ -953,7 +953,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вытащил храбрый
 				<br />
 				Хюмир китов, —<br />
@@ -977,7 +977,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Egndi á öngul,
 				<br />
 				sá er öldum bergr,
@@ -997,7 +997,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Насадил на крючок
 				<br />
 				защитник людей,
@@ -1022,7 +1022,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Dró djarfliga
 				<br />
 				dáðrakkr Þórr
@@ -1042,7 +1042,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор-победитель
 				<br />
 				к борту ладьи
@@ -1067,7 +1067,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hraungalkn hlumðu,
 				<br />
 				en hölkn þutu,
@@ -1083,7 +1083,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Взревели чудовища,
 				<br />
 				стали гудеть
@@ -1106,7 +1106,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óteitr jötunn,
 				<br />
 				er aftr reru,
@@ -1122,7 +1122,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Невесел был турс,
 				<br />
 				когда плыли назад;
@@ -1142,7 +1142,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hymir kvað:
 				<br />
 				«Mundu of vinna
@@ -1160,7 +1160,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хюмир сказал:
 				<br />
 				«Исполни работу
@@ -1183,7 +1183,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gekk Hlórriði,
 				<br />
 				greip á stafni
@@ -1205,7 +1205,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хлорриди струг
 				<br />
 				ухватил за нос,
@@ -1234,7 +1234,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ok enn jötunn
 				<br />
 				um afrendi,
@@ -1254,7 +1254,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				И все-таки турс,
 				<br />
 				упорный во всем,
@@ -1279,7 +1279,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				En Hlórriði,
 				<br />
 				er at höndum kom,
@@ -1299,7 +1299,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				И Хлорриди взял
 				<br />
 				кубок в ладони,
@@ -1324,7 +1324,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Unz þat in fríða
 				<br />
 				frilla kenndi
@@ -1344,7 +1344,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тору подруга
 				<br />
 				прекрасная турса
@@ -1369,7 +1369,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Harðr reis á kné
 				<br />
 				hafra dróttinn,
@@ -1389,7 +1389,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Встал, колени согнув,
 				<br />
 				хозяин козлов,
@@ -1414,7 +1414,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Mörg veit ek mæti
 				<br />
 				mér gengin frá,
@@ -1434,7 +1434,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«С немалым сокровищем
 				<br />
 				я распростился,
@@ -1457,7 +1457,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þat er til kostar,
 				<br />
 				ef koma mættið
@@ -1477,7 +1477,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Я ставлю условием,
 				<br />
 				чтоб вы унесли
@@ -1502,7 +1502,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Faðir Móða
 				<br />
 				fekk á þremi
@@ -1522,7 +1522,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Моди отец
 				<br />
 				взялся за край
@@ -1547,7 +1547,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fóru-t lengi,
 				<br />
 				áðr líta nam
@@ -1567,7 +1567,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Недалеко отъехали.
 				<br />
 				Одина сын
@@ -1592,7 +1592,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hóf hann sér af herðum
 				<br />
 				hver standanda,
@@ -1608,7 +1608,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Сбросив тогда
 				<br />
 				тяжкий котел, —<br />
@@ -1628,7 +1628,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fóru-t lengi,
 				<br />
 				áðr liggja nam
@@ -1648,7 +1648,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Недалеко отъехали,
 				<br />
 				вдруг полумертвый
@@ -1672,7 +1672,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				En ér heyrt hafið, —<br />
 				hverr kann of þat
 				<br />
@@ -1690,7 +1690,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Но, как вы слышали, —<br />
 				каждый, кто знает
 				<br />
@@ -1713,7 +1713,7 @@ const songofhymir = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þróttöflugr kom
 				<br />
 				á þing goða
@@ -1733,7 +1733,7 @@ const songofhymir = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				К асам на тинг
 				<br />
 				Тор возвратился,

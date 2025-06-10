@@ -71,16 +71,16 @@ export default function ShortProphecyOfVolva() {
                     &nbsp;/&nbsp;<span>Völuspá in skamma</span>
                 </span>
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Völuspá in skamma</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Краткое Прорицание вёльвы</h2>
+                    <h1>Völuspá in skamma</h1>
+                    <h2 className="mt-2">Краткое Прорицание вёльвы</h2>
                 </div>
                 {shortprophecyofvolva.map((poem, id) => {
                     return (
                         <div key={id} className={poem.class}>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6 flex" style={{ fontFamily: "Kells, sans-serif" }}>{poem.contentON}</div>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6" style={{ fontFamily: "Feofan, sans-serif" }}>{poem.contentRU}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Kells text-xl/6 sm:text-3xl/6 flex">{poem.contentON}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Feofan text-xl/6 sm:text-3xl/6">{poem.contentRU}</div>
                         </div>
                     );
                 })}

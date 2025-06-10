@@ -5,7 +5,7 @@ const grimnirsspeeches = [
         contentON: (
             <span>
                 <p className="mb-2 text-center">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         F
                     </span>
                     rá sonum Hrauðungs konungs.
@@ -73,7 +73,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heitr ertu, hripuðr,
                 <br />
                 ok heldr til mikill;
@@ -89,7 +89,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жжешь ты меня,
                 <br />
                 могучее пламя,
@@ -110,7 +110,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Átta nætr sat ek
                 <br />
                 milli elda hér,
@@ -130,7 +130,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Восемь ночей
                 <br />
                 я в муках провел
@@ -153,7 +153,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heill skaltu, Agnarr,
                 <br />
                 alls þik heilan biðr
@@ -169,7 +169,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Счастлив будь, Агнар, —<br />
                 тебе пожелал
                 <br />
@@ -189,7 +189,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Land er heilagt,
                 <br />
                 er ek liggja sé
@@ -205,7 +205,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Священную землю
                 <br />
                 вижу лежащей
@@ -226,7 +226,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ýdalir heita,
                 <br />
                 þar er Ullr hefir
@@ -242,7 +242,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Идалир — имя
                 <br />
                 месту, где Улль
@@ -263,7 +263,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bær er sá inn þriði,
                 <br />
                 er blíð regin
@@ -279,7 +279,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Третий есть двор,
                 <br />
                 серебром он украшен
@@ -299,7 +299,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sökkvabekkr heitir inn fjórði,
                 <br />
                 en þar svalar knegu
@@ -315,7 +315,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Четвертый — то
                 <br />
                 Секквабекк,
@@ -338,7 +338,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Glaðsheimr heitir inn fimmti,
                 <br />
                 þars in gullbjarta
@@ -354,7 +354,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гладсхейм — то пятый,
                 <br />
                 там золотом пышно
@@ -375,7 +375,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mjök er auðkennt,
                 <br />
                 þeim er til Óðins koma
@@ -391,7 +391,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Легко отгадать,
                 <br />
                 где Одина дом,
@@ -411,7 +411,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mjök er auðkennt,
                 <br />
                 þeir er til Óðins koma
@@ -427,7 +427,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Легко отгадать,
                 <br />
                 где Одина дом,
@@ -448,7 +448,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þrymheimr heitir inn sétti,
                 <br />
                 er Þjazi bjó,
@@ -464,7 +464,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Трюмхейм — шестой,
                 <br />
                 где некогда Тьяци
@@ -484,7 +484,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Breiðablik eru in sjaundu,
                 <br />
                 en þar Baldr hefir
@@ -500,7 +500,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Седьмой — это Брейдаблик,
                 <br />
                 Бальдр там себе
@@ -521,7 +521,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Himinbjörg eru in áttu,
                 <br />
                 en þar Heimdall
@@ -537,7 +537,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Восьмой — то Химинбьерг,
                 <br />
                 Хеймдалль, как слышно,
@@ -557,7 +557,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fólkvangr er inn níundi,
                 <br />
                 en þar Freyja ræðr
@@ -573,7 +573,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Фолькванг — девятый,
                 <br />
                 там Фрейя решает,
@@ -593,7 +593,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Glitnir er inn tíundi,
                 <br />
                 hann er gulli studdr
@@ -609,7 +609,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Глитнир столбами
                 <br />
                 из золота убран,
@@ -629,7 +629,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nóatún eru in elliftu,
                 <br />
                 en þar Njörðr hefir,
@@ -645,7 +645,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 И Ноатун тоже —<br />
                 Ньерд себе там
                 <br />
@@ -665,7 +665,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrísi vex
                 <br />
                 ok háu grasi
@@ -681,7 +681,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видара край
                 <br />
                 покрыли кусты
@@ -702,7 +702,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Andhrímnir
                 <br />
                 lætr í Eldhrímni
@@ -718,7 +718,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Андхримнир варит
                 <br />
                 Сехримнира-вепря
@@ -738,7 +738,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gera ok Freka
                 <br />
                 seðr gunntamiðr
@@ -754,7 +754,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гери и Фреки
                 <br />
                 кормит воинственный
@@ -775,7 +775,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Huginn ok Muninn
                 <br />
                 fljúga hverjan dag
@@ -791,7 +791,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хугин и Мунин
                 <br />
                 над миром все время
@@ -811,7 +811,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þýtr Þund,
                 <br />
                 unir Þjóðvitnis
@@ -827,7 +827,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тунд шумит,
                 <br />
                 Тьодвитнира рыба
@@ -848,7 +848,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Valgrind heitir,
                 <br />
                 er stendr velli á<br />
@@ -863,7 +863,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вальгринд — ворота,
                 <br />
                 стоящие в поле
@@ -884,7 +884,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fimm hundruð dura
                 <br />
                 ok umb fjórum tögum,
@@ -900,7 +900,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пять сотен дверей
                 <br />
                 и сорок еще
@@ -921,7 +921,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fimm hundruð golfa
                 <br />
                 ok umb fjórum tögum,
@@ -937,7 +937,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пять сотен палат
                 <br />
                 и сорок еще
@@ -958,7 +958,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heiðrún heitir geit,
                 <br />
                 er stendr höllu á<br />
@@ -973,7 +973,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хейдрун коза,
                 <br />
                 на Вальгалле стоя,
@@ -994,7 +994,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eikþyrnir heitir hjörtr,
                 <br />
                 er stendr höllu á<br />
@@ -1009,7 +1009,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Эйктюрнир олень,
                 <br />
                 на Вальгалле стоя,
@@ -1029,7 +1029,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Síð ok Víð,
                 <br />
                 Sækin ok Eikin,
@@ -1055,7 +1055,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сид и Вид,
                 <br />
                 Секин и Эйкин,
@@ -1086,7 +1086,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vína heitir ein,
                 <br />
                 önnur Vegsvinn,
@@ -1114,7 +1114,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вина — одна,
                 <br />
                 Вегсвин — другая,
@@ -1146,7 +1146,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Körmt ok Örmt
                 <br />
                 ok Kerlaugar tvær,
@@ -1168,7 +1168,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Кермт и Эрмт
                 <br />
                 и Керлауг обе
@@ -1195,7 +1195,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Glaðr ok Gyllir,
                 <br />
                 Glær ok Skeiðbrimir,
@@ -1217,7 +1217,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гюллир и Глад,
                 <br />
                 Глер и Скейдбримир,
@@ -1243,7 +1243,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þríar rætr
                 <br />
                 standa á þría vega
@@ -1259,7 +1259,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Три корня растут
                 <br />
                 на три стороны
@@ -1279,7 +1279,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ratatoskr heitir íkorni,
                 <br />
                 er renna skal
@@ -1295,7 +1295,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Рататоск белка
                 <br />
                 резво снует
@@ -1316,7 +1316,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hirtir eru ok fjórir,
                 <br />
                 þeirs af hæfingar
@@ -1330,7 +1330,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 И четыре оленя,
                 <br />
                 рога запрокинув,
@@ -1349,7 +1349,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ormar fleiri liggja
                 <br />
                 und aski Yggdrasils,
@@ -1371,7 +1371,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Глупцу не понять,
                 <br />
                 сколько ползает змей
@@ -1395,7 +1395,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Askr Yggdrasils
                 <br />
                 drýgir erfiði
@@ -1411,7 +1411,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не ведают люди,
                 <br />
                 какие невзгоды
@@ -1432,7 +1432,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrist ok Mist
                 <br />
                 vil ek, at mér horn beri,
@@ -1454,7 +1454,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Христ и Мист
                 <br />
                 пусть рог мне подносят,
@@ -1481,7 +1481,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Árvakr ok Alsviðr
                 <br />
                 þeir skulu upp heðan
@@ -1497,7 +1497,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Арвак и Альсвинн
                 <br />
                 солнце наверх
@@ -1518,7 +1518,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svalinn heitir,
                 <br />
                 hann stendr sólu fyrir,
@@ -1534,7 +1534,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Свалин зовется
                 <br />
                 щит, он скрывает
@@ -1554,7 +1554,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sköll heitir ulfr,
                 <br />
                 er fylgir inu skírleita goði
@@ -1570,7 +1570,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сколль имя Волка,
                 <br />
                 за солнцем бежит он
@@ -1591,7 +1591,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ór Ymis holdi
                 <br />
                 var jörð of sköpuð,
@@ -1607,7 +1607,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Имира плоть
                 <br />
                 стала землей,
@@ -1627,7 +1627,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En ór hans brám
                 <br />
                 gerðu blíð regin
@@ -1643,7 +1643,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Из ресниц его Мидгард
                 <br />
                 людям был создан
@@ -1664,7 +1664,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ullar hylli
                 <br />
                 hefr ok allra goða
@@ -1680,7 +1680,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Боги и Улль
                 <br />
                 тем благо даруют,
@@ -1701,7 +1701,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ívalda synir
                 <br />
                 gengu í árdaga
@@ -1717,7 +1717,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ивальда отпрыски
                 <br />
                 некогда стали
@@ -1738,7 +1738,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Askr Yggdrasils,
                 <br />
                 hann er æðstr viða,
@@ -1760,7 +1760,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дерево лучшее —<br />
                 ясень Иггдрасиль,
                 <br />
@@ -1785,7 +1785,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svipum hef ek nú yppt
                 <br />
                 fyr sigtíva sonum,
@@ -1803,7 +1803,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Лик свой открыл я<br />
                 асов сынам,
                 <br />
@@ -1825,7 +1825,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hétumk Grímr,
                 <br />
                 hétumk Gangleri,
@@ -1841,7 +1841,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Звался я Грим,
                 <br />
                 звался я Ганглери,
@@ -1862,7 +1862,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Saðr ok Svipall
                 <br />
                 ok Sanngetall,
@@ -1880,7 +1880,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Санн, и Свипуль,
                 <br />
                 и Саннгеталь тоже,
@@ -1903,7 +1903,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Síðhöttr, Síðskeggr,
                 <br />
                 Sigföðr, Hnikuðr,
@@ -1921,7 +1921,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сидхетт, Сидскегг,
                 <br />
                 Сигфедр, Хникуд,
@@ -1944,7 +1944,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grímni mik hétu
                 <br />
                 at Geirröðar,
@@ -1968,7 +1968,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гримнир мне имя
                 <br />
                 у Гейрреда было
@@ -1997,7 +1997,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sviðurr ok Sviðrir
                 <br />
                 er ek hét at Sökkmímis,
@@ -2013,7 +2013,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У Секкмимира я<br />
                 был Свидур и Свидрир,
                 <br />
@@ -2032,7 +2032,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ölr ertu, Geirröðr,
                 <br />
                 hefr þú ofdrukkit;
@@ -2048,7 +2048,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пьян ты, Гейрред!
                 <br />
                 Пил ты не в меру,
@@ -2069,7 +2069,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fjölð ek þér sagðak,
                 <br />
                 en þú fátt of mant;
@@ -2085,7 +2085,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Много я рассказал,
                 <br />
                 но мало ты помнишь;
@@ -2105,7 +2105,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eggmóðan val
                 <br />
                 nú mun Yggr hafa,
@@ -2121,7 +2121,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Игг получит
                 <br />
                 мечом пораженного,
@@ -2142,7 +2142,7 @@ const grimnirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óðinn ek nú heiti,
                 <br />
                 Yggr ek áðan hét,
@@ -2164,7 +2164,7 @@ const grimnirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один ныне зовусь,
                 <br />
                 Игг звался прежде,

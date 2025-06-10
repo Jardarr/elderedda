@@ -49,7 +49,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Segðu þat, Eldir,
 				<br />
 				svá at þú einugi
@@ -65,7 +65,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Эльдир, ответь,
 				<br />
 				прежде чем ты
@@ -86,7 +86,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Eldir kvað:
 				<br />
 				«Of vápn sín dæma
@@ -104,7 +104,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Эльдир сказал:
 				<br />
 				«Об оружье своем,
@@ -126,7 +126,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Inn skal ganga
@@ -143,7 +143,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«К Эгиру в дом —<br />
@@ -165,7 +165,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Eldir kvað:
 				<br />
 				«Veiztu, ef þú inn gengr
@@ -181,7 +181,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Эльдир сказал:
 				<br />
 				«Если в палаты
@@ -203,7 +203,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Veiztu þat, Eldir,
@@ -221,7 +221,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Знаешь ли, Эльдир,
@@ -265,7 +265,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þyrstr ek kom
@@ -283,7 +283,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Я, Лофт, издалека,
 				<br />
 				жаждой томимый,
@@ -304,7 +304,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Hví þegið ér svá,
 				<br />
 				þrungin goð,
@@ -320,7 +320,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Что ж вы молчите,
 				<br />
 				могучие боги,
@@ -341,7 +341,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bragi kvað:
 				<br />
 				«Sessa ok staði
@@ -359,7 +359,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Браги сказал:
 				<br />
 				«Не пустят тебя
@@ -382,7 +382,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Mantu þat, Óðinn,
@@ -400,7 +400,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Один, когда-то —<br />
@@ -421,7 +421,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Rístu þá, Viðarr,
@@ -439,7 +439,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Видар, ты встань,
@@ -483,7 +483,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Heilir æsir,
 				<br />
 				heilar ásynjur
@@ -498,7 +498,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Славьтесь, асы,
 				<br />
 				и асиньи, славьтесь,
@@ -519,7 +519,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bragi kvað:
 				<br />
 				«Mar ok mæki
@@ -537,7 +537,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Браги сказал:
 				<br />
 				«Меч и коня
@@ -560,7 +560,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Jós ok armbauga
@@ -580,7 +580,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Не дашь ты коня
@@ -604,7 +604,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Bragi kvað:
 				<br />
 				«Veit ek, ef fyr útan værak,
@@ -622,7 +622,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Браги сказал:
 				<br />
 				«Когда бы не здесь,
@@ -644,7 +644,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Snjallr ertu í sessi,
@@ -662,7 +662,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Сидя ты храбр —<br />
@@ -683,7 +683,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Iðunn kvað:
 				<br />
 				«Bið ek þik, Bragi,
@@ -701,7 +701,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Идун сказала:
 				<br />
 				«Браги, не надо
@@ -724,7 +724,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Iðunn,
@@ -742,7 +742,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Идун, молчи!
@@ -765,7 +765,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Iðunn kvað:
 				<br />
 				«Loka ek kveðk-a
@@ -783,7 +783,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Идун сказала:
 				<br />
 				«Локи я словом
@@ -805,7 +805,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Gefjun kvað:
 				<br />
 				«Hví it æsir tveir
@@ -823,7 +823,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Гевьон сказала:
 				<br />
 				«Зря вы, два аса,
@@ -845,7 +845,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Gefjun,
@@ -863,7 +863,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Гевьон, молчи!
@@ -886,7 +886,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Ærr ertu, Loki,
@@ -904,7 +904,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Безумен ты, Локи,
@@ -927,7 +927,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Óðinn,
@@ -945,7 +945,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Один, молчи!
@@ -968,7 +968,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Veiztu, ef ek gaf,
@@ -990,7 +990,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Коль не воинам храбрым,
@@ -1017,7 +1017,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«En þik síða kóðu
@@ -1035,7 +1035,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«А ты, я слышал,
@@ -1057,7 +1057,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Frigg kvað:
 				<br />
 				«Örlögum ykkrum
@@ -1075,7 +1075,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фригг сказала:
 				<br />
 				«К чему говорить
@@ -1098,7 +1098,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Frigg,
@@ -1116,7 +1116,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Фригг, молчи!
@@ -1139,7 +1139,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Frigg kvað:
 				<br />
 				«Veiztu, ef ek inni ættak
@@ -1156,7 +1156,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фригг сказала:
 				<br />
 				«Будь тут со мной
@@ -1179,7 +1179,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Enn vill þú, Frigg,
@@ -1197,7 +1197,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Хочешь ты, Фригг,
@@ -1219,7 +1219,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Freyja kvað:
 				<br />
 				«Ærr ertu, Loki,
@@ -1237,7 +1237,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фрейя сказала:
 				<br />
 				«Безумен ты, Локи,
@@ -1260,7 +1260,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Freyja,
@@ -1278,7 +1278,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Фрейя, молчи!
@@ -1300,7 +1300,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Freyja kvað:
 				<br />
 				«Flá er þér tunga,
@@ -1318,7 +1318,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фрейя сказала:
 				<br />
 				«Лжив твой язык;
@@ -1341,7 +1341,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Freyja,
@@ -1359,7 +1359,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Фрейя, молчи!
@@ -1380,7 +1380,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Njörðr kvað:
 				<br />
 				«Þat er válítit,
@@ -1398,7 +1398,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ньерд сказал:
 				<br />
 				«Беды нет великой,
@@ -1421,7 +1421,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Njörðr,
@@ -1439,7 +1439,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Ньерд, молчи!
@@ -1462,7 +1462,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Njörðr kvað:
 				<br />
 				«Sú erumk líkn,
@@ -1480,7 +1480,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Ньерд сказал:
 				<br />
 				«Пусть я далеко
@@ -1502,7 +1502,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Hættu nú, Njörðr,
@@ -1520,7 +1520,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ньерд, перестань!
@@ -1542,7 +1542,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Týr kvað:
 				<br />
 				«Freyr er beztr
@@ -1560,7 +1560,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тюр сказал:
 				<br />
 				«Фрейр самый лучший
@@ -1583,7 +1583,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Týr,
@@ -1601,7 +1601,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Тюр, молчи!
@@ -1624,7 +1624,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Týr kvað:
 				<br />
 				«Handar em ek vanr,
@@ -1642,7 +1642,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тюр сказал:
 				<br />
 				«Я лишился руки,
@@ -1665,7 +1665,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Týr,
@@ -1683,7 +1683,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Тюр, молчи!
@@ -1705,7 +1705,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Freyr kvað:
 				<br />
 				«Ulfr sé ek liggja
@@ -1723,7 +1723,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фрейр сказал:
 				<br />
 				«Волк должен лежать
@@ -1745,7 +1745,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Gulli keypta
@@ -1763,7 +1763,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты золото отдал
@@ -1786,7 +1786,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Byggvir kvað:
 				<br />
 				«Veiztu, ef ek eðli ættak
@@ -1804,7 +1804,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Бюггвир сказал:
 				<br />
 				«Был бы я равен
@@ -1827,7 +1827,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Hvat er þat it litla
@@ -1845,7 +1845,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Что там за мелочь
@@ -1868,7 +1868,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Byggvir kvað:
 				<br />
 				«Byggvir ek heiti,
@@ -1886,7 +1886,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Бюггвир сказал:
 				<br />
 				«Бюггвир зовусь,
@@ -1909,7 +1909,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Byggvir,
@@ -1927,7 +1927,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Бюггвир, молчи!
@@ -1950,7 +1950,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Heimdallr kvað:
 				<br />
 				«Ölr ertu, Loki,
@@ -1967,7 +1967,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Хеймдалль сказал:
 				<br />
 				«Ты, Локи, от пива
@@ -1990,7 +1990,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Heimdallr,
@@ -2008,7 +2008,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Хеймдалль, молчи!
@@ -2031,7 +2031,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Skaði kvað:
 				<br />
 				«Létt er þér, Loki;
@@ -2049,7 +2049,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Скади сказала:
 				<br />
 				«Локи, ты весел,
@@ -2072,7 +2072,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Veiztu, ef mik á hjörvi
@@ -2090,7 +2090,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Если к скале меня
@@ -2111,7 +2111,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Skaði kvað:
 				<br />
 				«Veiztu, ef fyrstr ok efstr
@@ -2129,7 +2129,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Скади сказала:
 				<br />
 				«Если ты первым
@@ -2152,7 +2152,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Léttari í málum
@@ -2170,7 +2170,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ласковей ты
@@ -2213,7 +2213,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Heill ver þú nú, Loki,
 				<br />
 				ok tak við hrímkálki
@@ -2229,7 +2229,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Привет тебе, Локи!
 				<br />
 				Кубок хрустальный
@@ -2264,7 +2264,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Ein þú værir,
 				<br />
 				ef þú svá værir,
@@ -2282,7 +2282,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				«Порочить не стал бы,
 				<br />
 				когда б ты и впрямь
@@ -2302,7 +2302,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Beyla kvað:
 				<br />
 				«Fjöll öll skjalfa;
@@ -2320,7 +2320,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Бейла сказала:
 				<br />
 				«Горы дрожат,
@@ -2343,7 +2343,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Þegi þú, Beyla,
@@ -2361,7 +2361,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Ты, Бейла, молчи!
@@ -2384,7 +2384,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þá kom Þórr at ok kvað:
 				<br />
 				«Þegi þú, rög vættr,
@@ -2402,7 +2402,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тут вошел Тор и сказал:
 				<br />
 				«Мерзостный, смолкни!
@@ -2424,7 +2424,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Jarðar burr
@@ -2442,7 +2442,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Вот и сын ерд
@@ -2465,7 +2465,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Þegi þú, rög vættr,
@@ -2483,7 +2483,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Мерзостный, смолкни!
@@ -2505,7 +2505,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Austrförum þínum
@@ -2523,7 +2523,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Полно тебе
@@ -2545,7 +2545,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Þegi þú, rög vættr,
@@ -2563,7 +2563,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Мерзостный, смолкни!
@@ -2586,7 +2586,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Lifa ætla ek mér
@@ -2606,7 +2606,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Еще доведется
@@ -2630,7 +2630,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Þórr kvað:
 				<br />
 				«Þegi þú, rög vættr,
@@ -2648,7 +2648,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Тор сказал:
 				<br />
 				«Мерзостный, смолкни!
@@ -2670,7 +2670,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Loki kvað:
 				<br />
 				«Kvað ek fyr ásum,
@@ -2688,7 +2688,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Локи сказал:
 				<br />
 				«Я высказал асам,
@@ -2710,7 +2710,7 @@ const lokialtercation = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Öl gerðir þú, Ægir,
 				<br />
 				en þú aldri munt
@@ -2728,7 +2728,7 @@ const lokialtercation = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Пива ты, Эгир,
 				<br />
 				немало припас,

@@ -68,7 +68,7 @@ export default function StoraEdda() {
             src="/stora-edda.png"
             width={300}
             height={300}
-            alt="Stora Edda"
+            alt="Изображение обложки книги Большая Эдда"
           />
           <div className="mt-5 text-sm">
             <p className="mb-2">

@@ -6,7 +6,7 @@ const heidreksriddles = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         G
                     </span>
                     estumblindi hét einn ríkr maðr í Reiðgotalandi. Hann var í óblíðu Heiðreks konungs. Í konungs hirð váru þeir sjau menn, er dæma skyldu öll mál manna þar í
@@ -74,7 +74,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hafa ek þat vilda,
                 <br />
                 er ek hafða í gær,
@@ -101,7 +101,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Иметь хочу я,
                 <br />
                 то, что я имел вчера,
@@ -147,7 +147,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Heiman ek fór,
                 <br />
                 heiman ek för gerðak,
@@ -174,7 +174,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Домой я ехал,
                 <br />
                 домой я направлялся,
@@ -223,7 +223,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat drykkja,
                 <br />
                 er ek drakk í gær,
@@ -250,7 +250,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это из напитков,
                 <br />
                 которые я вчера пил:
@@ -300,7 +300,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hverr er sá inn hvelli,
                 <br />
                 er gengr harðar götur
@@ -327,7 +327,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто такой резкий,
                 <br />
                 он идет по твердому пути
@@ -375,7 +375,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverr er sá inn mikli,
                 <br />
                 er ferr mold yfir,
@@ -402,7 +402,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это из чудес,
                 <br />
                 которое я видел снаружи
@@ -451,7 +451,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverr er sá inn mikli,
                 <br />
                 er mörgu ræðr
@@ -478,7 +478,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это из чудес,
                 <br />
                 которое я видел снаружи
@@ -524,7 +524,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hverr byggir há fjöll,
                 <br />
                 hverr fellr í djúpa dali,
@@ -547,7 +547,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это из чудес,
                 <br />
                 которое я видел снаружи
@@ -591,7 +591,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -618,7 +618,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это за чудо
                 <br />
                 я видел снаружи
@@ -663,7 +663,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -690,7 +690,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Несли жены
                 <br />
                 светловолосые,
@@ -742,7 +742,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -769,7 +769,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это за великанши
                 <br />
                 на горе богов?
@@ -812,7 +812,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -839,7 +839,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Я видел, как
                 <br />
                 передвигались
@@ -888,7 +888,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -917,7 +917,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что за слуги
                 <br />
                 скачут на тинг
@@ -967,7 +967,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -994,7 +994,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что за жены
                 <br />
                 сражаются со своим
@@ -1037,7 +1037,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -1057,7 +1057,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто этот один,
                 <br />
                 спящий в углублении
@@ -1107,7 +1107,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -1134,7 +1134,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто это великий,
                 <br />
                 проходящий над землей,
@@ -1182,7 +1182,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat undra,
                 <br />
                 er ek úti sá
@@ -1211,7 +1211,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто это из зверей
                 <br />
                 убивает скот людей
@@ -1261,7 +1261,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Báru brúðir
                 <br />
                 bleikhaddaðar,
@@ -1292,7 +1292,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто это из зверей
                 <br />
                 защищает датчан,
@@ -1340,7 +1340,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hverjar eru þær rýgjar
                 <br />
                 á reginfjalli,
@@ -1367,7 +1367,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто эти девицы,
                 <br />
                 проходящие над землей
@@ -1405,7 +1405,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverjar eru þær snótir,
                 <br />
                 er um sinn dróttin
@@ -1432,7 +1432,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто эти женщины,
                 <br />
                 идущие печально
@@ -1476,7 +1476,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverjar eru þær leikur,
                 <br />
                 er líða lönd yfir
@@ -1496,7 +1496,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто эти девы,
                 <br />
                 идущие во множестве
@@ -1541,7 +1541,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverjar eru þær snótir,
                 <br />
                 er ganga syrgjandi
@@ -1568,7 +1568,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто эти вдовы,
                 <br />
                 идущие все вместе,
@@ -1613,7 +1613,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverjar eru þær meyjar,
                 <br />
                 er ganga margar saman
@@ -1640,7 +1640,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Давно выросла
                 <br />
                 носатая гусыня,
@@ -1683,7 +1683,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverjar eru þær brúðir,
                 <br />
                 er ganga brimserkjum í<br />
@@ -1709,7 +1709,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто этот великий,
                 <br />
                 многими правящий,
@@ -1756,7 +1756,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fara ek sá
                 <br />
                 foldar moldbúa,
@@ -1783,7 +1783,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто эти жены,
                 <br />
                 идущие к скалам прибоя,
@@ -1829,7 +1829,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat dýra,
                 <br />
                 er drepr fé manna
@@ -1856,7 +1856,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Видел я летом
                 <br />
                 на закате,
@@ -1902,7 +1902,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er þat dýra,
                 <br />
                 er Dönum hlífir,
@@ -1933,7 +1933,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что это за чудо
                 <br />
                 я видел снаружи
@@ -1979,7 +1979,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Mjök varp forðum
                 <br />
                 nösgás vaxin,
@@ -2010,7 +2010,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Четыре висят,
                 <br />
                 четыре идут,
@@ -2052,7 +2052,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Fjórir ganga,
                 <br />
                 fjórir hanga,
@@ -2079,7 +2079,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Сидел я на стене,
                 <br />
                 видел я, как мертвецы
@@ -2113,7 +2113,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverr er sá inn eini,
                 <br />
                 er sefr í öskugrúa
@@ -2140,7 +2140,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто эти двое?
                 <br />
                 У них десять ног,
@@ -2179,7 +2179,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hest sá ek standa,
                 <br />
                 hýddi meri,
@@ -2199,7 +2199,7 @@ const heidreksriddles = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Скажи последнее,
                 <br />
                 если ты мудрее любого
@@ -2249,7 +2249,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverir eru þeir þegnar,
                 <br />
                 er ríða þingi at
@@ -2275,7 +2275,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 63,
@@ -2298,7 +2298,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sá ek á sumri
                 <br />
                 sólbjörgum í<br />
@@ -2327,7 +2327,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 65,
@@ -2351,7 +2351,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Meyjar ek sá
                 <br />
                 moldu líkar,
@@ -2377,7 +2377,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 67,
@@ -2398,7 +2398,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sat ek á segli,
                 <br />
                 sá ek dauða menn
@@ -2420,7 +2420,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 69,
@@ -2441,7 +2441,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverir eru þeir tveir,
                 <br />
                 er tíu hafa fætr,
@@ -2463,7 +2463,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 71,
@@ -2487,7 +2487,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Segðu þat þá hinzt,
                 <br />
                 ef þú, Heiðrekr, ert
@@ -2502,7 +2502,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 73,
@@ -2522,7 +2522,7 @@ const heidreksriddles = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Undr ok argskap
                 <br />
                 ok alla bleyði,
@@ -2537,7 +2537,7 @@ const heidreksriddles = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 75,

@@ -6,7 +6,7 @@ const greenlandicsongofatli = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         G
                     </span>
                     uðrún Gjúkadóttir hefndi bræðra sinna, svá sem frægt er orðit. Hon drap fyrst sonu Atla, en eftir drap hon Atla ok brenndi höllina ok hirðina alla. Um þetta er
@@ -30,7 +30,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli sendi
                 <br />
                 ár til Gunnars
@@ -50,7 +50,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли когда-то
                 <br />
                 отправил к Гуннару
@@ -74,7 +74,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Drukku þar dróttmegir,
                 <br />
                 en dyljendr þögðu,
@@ -94,7 +94,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дружинники пили
                 <br />
                 в вальгалле вино
@@ -118,7 +118,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Atli mik hingat sendi
                 <br />
                 ríða erendi
@@ -138,7 +138,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Атли я послан
                 <br />
                 сюда с порученьем,
@@ -162,7 +162,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skjöldu kneguð þar velja
                 <br />
                 ok skafna aska,
@@ -182,7 +182,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дадут вам щиты
                 <br />
                 и пики на выбор,
@@ -207,7 +207,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völl lézk ykkr ok mundu gefa
                 <br />
                 víðrar Gnitaheiðar,
@@ -227,7 +227,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Широкое даст
                 <br />
                 Гнитахейд поле,
@@ -252,7 +252,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Höfði vatt þá Gunnarr
                 <br />
                 ok Högna til sagði:
@@ -272,7 +272,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар тогда
                 <br />
                 повернулся к Хегни:
@@ -297,7 +297,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sjau eigum vit salhús
                 <br />
                 sverða full,
@@ -325,7 +325,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У нас семь палат,
                 <br />
                 полных мечами,
@@ -358,7 +358,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Högni kvað:
                 <br />
                 «Hvat hyggr þú brúði bendu,
@@ -380,7 +380,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хегни сказал:
                 <br />
                 «Почему нам жена
@@ -406,7 +406,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Niðjar hvöttu Gunnar
                 <br />
                 né náungr annarr,
@@ -426,7 +426,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не подстрекали
                 <br />
                 родичи Гуннара,
@@ -451,7 +451,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Rístu nú, Fjörnir,
                 <br />
                 láttu á flet vaða
@@ -463,7 +463,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Фьернир, вставай!
                 <br />
                 Пусть вкруговую
@@ -480,7 +480,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ulfr mun ráða
                 <br />
                 arfi Niflunga,
@@ -500,7 +500,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пусть волки наследье
                 <br />
                 отнимут у Нифлунгов —<br />
@@ -523,7 +523,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Leiddu landrögni
                 <br />
                 lýðar óneisir,
@@ -543,7 +543,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Простились люди
                 <br />
                 с конунгом, плача,
@@ -568,7 +568,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fetum létu fræknir
                 <br />
                 um fjöll at þyrja
@@ -588,7 +588,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Рысью пустили
                 <br />
                 резвых коней
@@ -613,7 +613,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Land sáu þeir Atla
                 <br />
                 ok liðskjalfar djúpa,
@@ -649,7 +649,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли владенья
                 <br />
                 они увидели,
@@ -689,7 +689,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Systir fann þeira snemst,
                 <br />
                 at þeir í sal kómu
@@ -708,7 +708,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Первой сестра
                 <br />
                 братьев приметила —<br />
@@ -730,7 +730,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Betr hefðir þú, bróðir,
                 <br />
                 at þú í brynju færir,
@@ -762,7 +762,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Лучше б тебе
                 <br />
                 кольчугу надеть,
@@ -798,7 +798,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gunnarr kvað:
                 <br />
                 «Seinat er nú, systir,
@@ -816,7 +816,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар сказал:
                 <br />
                 «Не успеть мне, сестра,
@@ -839,7 +839,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fengu þeir Gunnar
                 <br />
                 ok í fjötur settu
@@ -851,7 +851,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Схвачен был Гуннар,
                 <br />
                 накрепко скован,
@@ -868,7 +868,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sjau hjó Högni
                 <br />
                 sverði hvössu,
@@ -888,7 +888,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хегни сразил
                 <br />
                 мечом семерых,
@@ -915,7 +915,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 ********* Gunnars;
                 <br />
                 frágu fræknan,
@@ -929,7 +929,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Спросили, не хочет ли
                 <br />
                 готов властитель
@@ -946,7 +946,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gunnarr kvað:
                 <br />
                 «Hjarta skal mér Högna
@@ -964,7 +964,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар сказал:
                 <br />
                 «Пусть сердце Хегни
@@ -987,7 +987,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skáru þeir hjarta
                 <br />
                 Hjalla ór brjósti
@@ -999,7 +999,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вырвали сердце
                 <br />
                 у Хьялли из ребер,
@@ -1016,7 +1016,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Gunnarr,
                 <br />
                 gumna dróttinn:
@@ -1040,7 +1040,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар воскликнул,
                 <br />
                 владыка дружины:
@@ -1067,7 +1067,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hló þá Högni,
                 <br />
                 er til hjarta skáru
@@ -1083,7 +1083,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вождь рассмеялся —<br />
                 страха не ведал он, —<br />
                 когда грудь рассекли
@@ -1102,7 +1102,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mærr kvað þat Gunnarr
                 <br />
                 geirniflungr:
@@ -1126,7 +1126,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар сказал,
                 <br />
                 славный Нифлунг:
@@ -1154,7 +1154,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svá skaltu, Atli,
                 <br />
                 augum fjarri,
@@ -1174,7 +1174,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли, ты радости
                 <br />
                 так не увидишь,
@@ -1199,7 +1199,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ey var mér týja,
                 <br />
                 meðan vit tveir lifðum,
@@ -1226,7 +1226,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Был жив он — сомненье
                 <br />
                 меня донимало,
@@ -1257,7 +1257,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli kvað:
                 <br />
                 «Ýkvið ér hvélvögnum,
@@ -1267,7 +1267,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли сказал:
                 <br />
                 «Готовьте повозку,
@@ -1290,7 +1290,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli inn ríki
                 <br />
                 reið Glaum mönum,
@@ -1310,7 +1310,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли могучий
                 <br />
                 ехал на Глауме,
@@ -1333,7 +1333,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Guðrún kvað:
                 <br />
                 «Svá gangi þér, Atli,
@@ -1364,7 +1364,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун сказала:
                 <br />
                 «Клятвы тебя
@@ -1390,7 +1390,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Lifanda gram
                 <br />
                 lagði í garð,
@@ -1418,7 +1418,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Воины конунга
                 <br />
                 взяли живого,
@@ -1449,7 +1449,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atli lét
                 <br />
                 lands síns á vit
@@ -1469,7 +1469,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли направил
                 <br />
                 в путь обратный
@@ -1494,7 +1494,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Út gekk þá Guðrún
                 <br />
                 Atla í gögn
@@ -1514,7 +1514,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вышла Гудрун,
                 <br />
                 чтоб Атли встретить
@@ -1538,7 +1538,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Umðu ölskálir
                 <br />
                 Atla vínhöfgar,
@@ -1554,7 +1554,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Звенели чаши,
                 <br />
                 от пива тяжелые,
@@ -1575,7 +1575,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skævaði þá in skírleita
                 <br />
                 *********
@@ -1593,7 +1593,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Плавно вошла
                 <br />
                 с питьем яснолицая,
@@ -1614,7 +1614,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sona hefir þinna,
                 <br />
                 sverða deilir,
@@ -1634,7 +1634,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «С медом ты съел
                 <br />
                 сердца сыновей —<br />
@@ -1657,7 +1657,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kallar-a þú síðan
                 <br />
                 til knéa þinna
@@ -1681,7 +1681,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не подзовешь,
                 <br />
                 не возьмешь на колени
@@ -1706,7 +1706,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ymr varð á bekkjum,
                 <br />
                 afkárr söngr virða,
@@ -1730,7 +1730,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вопили неистово
                 <br />
                 люди в палате,
@@ -1759,7 +1759,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gulli söri
                 <br />
                 in gaglbjarta,
@@ -1779,7 +1779,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Золото сеяла
                 <br />
                 лебяжьебелая,
@@ -1804,7 +1804,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óvarr Atli
                 <br />
                 óðan hafði hann sik drukkit,
@@ -1824,7 +1824,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Атли беспечный
                 <br />
                 пьян был от пива,
@@ -1849,7 +1849,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hon beð broddi
                 <br />
                 gaf blóð at drekka
@@ -1869,7 +1869,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Постель она с лезвия
                 <br />
                 кровью насытила
@@ -1893,7 +1893,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eldi gaf hon þá alla,
                 <br />
                 er inni váru
@@ -1917,7 +1917,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Всех предала
                 <br />
                 огню, кто вернулся
@@ -1945,7 +1945,7 @@ const greenlandicsongofatli = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fullrætt er um þetta,
                 <br />
                 ferr engi svá síðan
@@ -1965,7 +1965,7 @@ const greenlandicsongofatli = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Довольно об этом!
                 <br />
                 Жены другие

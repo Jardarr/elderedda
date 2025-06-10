@@ -6,7 +6,7 @@ const songofvolunda = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         N
                     </span>
                     íðuðr hét konungr í Svíþjóð. Hann átti tvá sonu ok eina dóttur. Hon hét Böðvildr. Bræðr váru þrír, synir Finnakonungs. Hét einn Slagfiðr, annarr Egill, þriði
@@ -39,7 +39,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Meyjar flugu sunnan
                 <br />
                 myrkvið í gögnum,
@@ -59,7 +59,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С юга летели
                 <br />
                 над лесом дремучим
@@ -84,7 +84,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ein nam þeira
                 <br />
                 Egil at verja,
@@ -108,7 +108,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Первая дева, —<br />
                 нет ее краше, —<br />
                 на плечи Эгилю
@@ -135,7 +135,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sátu síðan
                 <br />
                 sjau vetr at þat,
@@ -159,7 +159,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Семь протекло
                 <br />
                 зим спокойных,
@@ -188,7 +188,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kom þar af veiði
                 <br />
                 veðreygr skyti,
@@ -216,7 +216,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вернулись с охоты
                 <br />
                 стрелок зоркоглазый,
@@ -245,7 +245,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En einn Völundr
                 <br />
                 sat í Ulfdölum,
@@ -269,7 +269,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 А Велунд один,
                 <br />
                 в Ульвдалире сидя,
@@ -297,7 +297,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þat spyrr Níðuðr,
                 <br />
                 Níára dróttinn,
@@ -317,7 +317,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ньяров владыка,
                 <br />
                 Нидуд проведал,
@@ -342,7 +342,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Stigu ór söðlum
                 <br />
                 at salar gafli,
@@ -362,7 +362,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 С седел сойдя
                 <br />
                 у двери жилища,
@@ -385,7 +385,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Og þeir af tóku
                 <br />
                 ok þeir á létu,
@@ -405,7 +405,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стали снимать их
                 <br />
                 и снова нанизывать,
@@ -429,7 +429,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk hann brúnni
                 <br />
                 beru hold steikja,
@@ -445,7 +445,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мясо зажарить
                 <br />
                 медвежье хотел он;
@@ -465,7 +465,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat á berfjalli,
                 <br />
                 bauga talði,
@@ -485,7 +485,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сидя на шкуре,
                 <br />
                 кольца считал
@@ -508,7 +508,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat hann svá lengi,
                 <br />
                 at hann sofnaði,
@@ -528,7 +528,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Долго сидел,
                 <br />
                 наконец заснул.
@@ -552,7 +552,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völundr kvað:
                 <br />
                 «Hverir ro jöfrar,
@@ -566,7 +566,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд сказал:
                 <br />
                 «Чьи это воины
@@ -585,7 +585,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kallaði nú Níðuðr
                 <br />
                 Níara dróttinn:
@@ -600,7 +600,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ньяров владыка,
                 <br />
                 Нидуд крикнул:
@@ -621,7 +621,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völundr Kvað:
                 <br />
                 «Gull var þar eigi
@@ -643,7 +643,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд сказал:
                 <br />
                 «Грани поклажи
@@ -669,7 +669,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlaðguðr ok Hervör
                 <br />
                 borin var Hlöðvé
@@ -681,7 +681,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хладгуд и Хервер,
                 <br />
                 Хледвера дочери,
@@ -700,7 +700,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Úti stóð kunnig
                 <br />
                 kván Níðaðar,
@@ -720,7 +720,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В дом войдя,
                 <br />
                 прошла вдоль палаты,
@@ -762,7 +762,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Ámun eru augu
                 <br />
                 ormi þeim inum frána,
@@ -785,7 +785,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Увидит ли меч он,
                 <br />
                 кольцо ли у Бедвильд —<br />
@@ -834,7 +834,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Skínn Níðaði
                 <br />
                 sverð á linda,
@@ -858,7 +858,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «На поясе Нидуда
                 <br />
                 меч мой сверкает,
@@ -885,7 +885,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú berr Böðvildr
                 <br />
                 brúðar minnar
@@ -896,7 +896,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 вот и у Бедвильд
                 <br />
                 кольцо золотое
@@ -913,7 +913,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat hann, né hann svaf, ávallt
                 <br />
                 ok hann sló hamri;
@@ -932,7 +932,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сон позабыв,
                 <br />
                 молотом бил он —<br />
@@ -956,7 +956,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kómu þeir til kistu,
                 <br />
                 kröfðu lukla,
@@ -976,7 +976,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 К ларю подошли,
                 <br />
                 ключи спросили, —<br />
@@ -998,7 +998,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völundr kvað:
                 <br />
                 «Komið einir tveir,
@@ -1020,7 +1020,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд сказал:
                 <br />
                 «В другой раз еще
@@ -1046,7 +1046,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Snemma kallaði
                 <br />
                 seggr annan,
@@ -1066,7 +1066,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вскоре позвал
                 <br />
                 юноша брата:
@@ -1090,7 +1090,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sneið af höfuð
                 <br />
                 húna þeira
@@ -1110,7 +1110,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Головы прочь
                 <br />
                 отрезал обоим
@@ -1135,7 +1135,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En ór augum
                 <br />
                 jarknasteina
@@ -1155,7 +1155,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ясных глаз
                 <br />
                 яхонты яркие
@@ -1180,7 +1180,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá nam Böðvildr
                 <br />
                 baugi at hrósa
@@ -1198,7 +1198,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бедвильд пришла
                 <br />
                 с кольцом поврежденным,
@@ -1216,7 +1216,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völundr kvað:
                 <br />
                 «Ek bæti svá
@@ -1238,7 +1238,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд сказал:
                 <br />
                 «Так я исправлю
@@ -1265,7 +1265,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bar hann hana bjóri,
                 <br />
                 því at hann betr kunni
@@ -1285,7 +1285,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пива принес ей,
                 <br />
                 хитрец, и взял ее,
@@ -1308,7 +1308,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Vel ek,» kvað Völundr,
                 <br />
                 «verða ek á fitjum
@@ -1332,7 +1332,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд сказал:
                 <br />
                 «Теперь взлечу я<br />
@@ -1360,7 +1360,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Úti stendr kunnig
                 <br />
                 kván Níðaðar,
@@ -1380,7 +1380,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У дома стоит
                 <br />
                 жена его мудрая,
@@ -1405,7 +1405,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Níðuðr kvað:
                 <br />
                 «Vaki ek ávallt
@@ -1427,7 +1427,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Нет, я не сплю, —<br />
                 горе томит меня,
                 <br />
@@ -1450,7 +1450,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Seg þú mér þat, Völundr,
                 <br />
                 vísi alfa,
@@ -1462,7 +1462,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молви мне, Велунд,
                 <br />
                 альвов властитель,
@@ -1479,7 +1479,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völundr kvað:
                 <br />
                 «Eiða skaltu mér áðr
@@ -1513,7 +1513,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд сказал:
                 <br />
                 «Сперва поклянись мне
@@ -1550,7 +1550,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gakk þú til smiðju,
                 <br />
                 þeirar er þú gerðir,
@@ -1570,7 +1570,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В кузню пойди, —<br />
                 ты сам ее строил,
                 <br />
@@ -1594,7 +1594,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En þær skálar,
                 <br />
                 er und skörum váru,
@@ -1614,7 +1614,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Из черепов
                 <br />
                 чаши я сделал,
@@ -1639,7 +1639,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En úr tönnum
                 <br />
                 tveggja þeira
@@ -1659,7 +1659,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 А из зубов
                 <br />
                 нагрудные пряжки
@@ -1684,7 +1684,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Níðuðr kvað:
                 <br />
                 «Mæltir-a þú þat mál,
@@ -1710,7 +1710,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нидуд сказал:
                 <br />
                 «Горше сло́ва
@@ -1741,7 +1741,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hlæjandi Völundr
                 <br />
                 hófsk at lofti,
@@ -1753,7 +1753,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Велунд, смеясь,
                 <br />
                 поднялся в воздух.
@@ -1770,7 +1770,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Níðuðr kvað:
                 <br />
                 «Upp rístu, Þakkráðr,
@@ -1788,7 +1788,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нидуд сказал:
                 <br />
                 «Такрад, вставай,
@@ -1810,7 +1810,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Er þat satt, Böðvildr,
                 <br />
                 er sögðu mér:
@@ -1822,7 +1822,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Правду ли, Бедвильд,
                 <br />
                 поведали мне, —<br />
@@ -1838,7 +1838,7 @@ const songofvolunda = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Böðvildr kvað:
                 <br />
                 «Satt er þat, Níðuðr,
@@ -1864,7 +1864,7 @@ const songofvolunda = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бедвильд сказала:
                 <br />
                 «Правду тебе,

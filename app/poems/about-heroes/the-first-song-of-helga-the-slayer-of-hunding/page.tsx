@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { thefirstsongofhelgatheslayerofhunding } from "./page.utils";
 import { Metadata, Viewport } from "next";
 import Link from "next/link";
@@ -71,16 +71,16 @@ export default function TheFirstSongOfHelgaTheSlayerOfHunding() {
                     &nbsp;/&nbsp;<span>Helgakviða Hundingsbana in fyrri</span>
                 </span>
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Helgakviða Hundingsbana in fyrri</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Первая Песнь о Хельги убийце Хундинга</h2>
+                    <h1>Helgakviða Hundingsbana in fyrri</h1>
+                    <h2 className="mt-2">Первая Песнь о Хельги убийце Хундинга</h2>
                 </div>
                 {thefirstsongofhelgatheslayerofhunding.map((poem, id) => {
                     return (
                         <div key={id} className={poem.class}>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6 flex" style={{ fontFamily: "Kells, sans-serif" }}>{poem.contentON}</div>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6" style={{ fontFamily: "Feofan, sans-serif" }}>{poem.contentRU}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Kells text-xl/6 sm:text-3xl/6 flex">{poem.contentON}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Feofan text-xl/6 sm:text-3xl/6">{poem.contentRU}</div>
                         </div>
                     );
                 })}

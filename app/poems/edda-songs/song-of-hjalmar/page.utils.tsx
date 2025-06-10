@@ -5,9 +5,9 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
+            <span className="w-40 sm:w-60">
                 «
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                <span className="font-Eileen text-3xl/4">
                     H
                 </span>
                 vat er þér, Hjálmarr?
@@ -29,7 +29,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что с тобой, Хьяльмар?
                 <br />
                 В лице изменился ты.
@@ -54,7 +54,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hjálmarr kvað:
                 <br />
                 «Sár hefi ek sextán,
@@ -76,7 +76,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Шестнадцать раз ранен,
                 <br />
                 кольчуга разорвана,
@@ -101,7 +101,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Áttak á foldu
                 <br />
                 fimm tún saman,
@@ -120,7 +120,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Имел я всего
                 <br />
                 пять дворов вместе,
@@ -145,7 +145,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Drekka í höllu
                 <br />
                 húskarlar mjöð,
@@ -164,7 +164,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пьют в чертоге
                 <br />
                 работники мед
@@ -189,7 +189,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvarf ek frá hvítri
                 <br />
                 hlaðs beðgunni
@@ -209,7 +209,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иду я с белого
                 <br />
                 поля битвы
@@ -233,7 +233,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hvarf ek frá fögrum
                 <br />
                 fljóða söngvi,
@@ -253,7 +253,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сними с руки моей
                 <br />
                 кольцо красное,
@@ -277,7 +277,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Drag þú mér af hendi
                 <br />
                 hring inn rauða
@@ -297,7 +297,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Покидаю прекрасную
                 <br />
                 женщин песню
@@ -322,7 +322,7 @@ const songofhjalmar = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrafn flýgr austan
                 <br />
                 af háum meiði,
@@ -342,7 +342,7 @@ const songofhjalmar = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ворон летит с востока
                 <br />
                 с высокого древа,

@@ -5,8 +5,8 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     S
                 </span>
                 pruttu á tái
@@ -28,7 +28,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Злые дела
                 <br />
                 там свершились,
@@ -53,7 +53,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Var-a þat nú
                 <br />
                 né í gær,
@@ -76,7 +76,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не нынче то было
                 <br />
                 и не вчера,
@@ -104,7 +104,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Systir var ykkur
                 <br />
                 Svanhildr of heitin,
@@ -124,7 +124,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун сказала:
                 <br />
                 «Сванхильд — имя
@@ -151,7 +151,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eftir er ykkr þrungit
                 <br />
                 þjóðkonunga;
@@ -163,7 +163,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Слава померкла
                 <br />
                 конунгов рода!
@@ -180,7 +180,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Einstæð em ek orðin,
                 <br />
                 sem ösp í holti,
@@ -200,7 +200,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я одинока,
                 <br />
                 что в роще осина,
@@ -225,7 +225,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hitt kvað þá Hamðir
                 <br />
                 inn hugumstóri:
@@ -245,7 +245,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хамдир сказал,
                 <br />
                 духом отважный:
@@ -269,7 +269,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bækr váru þínar
                 <br />
                 inar bláhvítu
@@ -289,7 +289,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Платки сине-белые,
                 <br />
                 пестрые ткани
@@ -312,7 +312,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Atla þóttisk þú stríða
                 <br />
                 at Erps morði
@@ -332,7 +332,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ты думала скорбь
                 <br />
                 Атли доставить
@@ -356,7 +356,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hitt kvað þá Sörli,
                 <br />
                 — svinna hafði hann hyggju —:
@@ -376,7 +376,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мудрым был Серли,
                 <br />
                 так он молвил:
@@ -401,7 +401,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bræðr grát þú þína
                 <br />
                 ok buri svása,
@@ -421,7 +421,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Братьев оплакивай,
                 <br />
                 милых сынов,
@@ -444,7 +444,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gengu ór garði
                 <br />
                 görvir at eiskra,
@@ -460,7 +460,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Из дому вышли,
                 <br />
                 фыркая в ярости,
@@ -480,7 +480,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fundu á stræti
                 <br />
                 stórbrögðóttan:
@@ -492,7 +492,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Им повстречался
                 <br />
                 хитрец по пути.
@@ -512,7 +512,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svaraði inn sundrmæðri,
                 <br />
                 svá kvaðsk veita mundu
@@ -532,7 +532,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сводный брат обещал,
                 <br />
                 что помощь окажет,
@@ -560,7 +560,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Erpr
                 <br />
                 einu sinni,
@@ -580,7 +580,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сказал тогда Эрп
                 <br />
                 слова такие, —<br />
@@ -604,7 +604,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Drógu þeir ór skíði
                 <br />
                 skíðiéarn,
@@ -624,7 +624,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Из ножен вынули
                 <br />
                 ножен железо,
@@ -648,7 +648,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Skóku loða,
                 <br />
                 skalmir festu,
@@ -660,7 +660,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Встряхнули плащи,
                 <br />
                 мечи прикрепили,
@@ -677,7 +677,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fram lágu brautir,
                 <br />
                 fundu vástigu
@@ -697,7 +697,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Нашли они путь —<br />
                 несчастья дорогу —<br />
                 и сына сестры
@@ -719,7 +719,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Glamr var í höllu,
                 <br />
                 halir ölreifir,
@@ -734,7 +734,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Весело пили
                 <br />
                 воины в доме,
@@ -755,7 +755,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Segja fóru ærir
                 <br />
                 Jörmunrekki,
@@ -775,7 +775,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сказали тогда
                 <br />
                 ермунрекку,
@@ -799,7 +799,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hló þá Jörmunrekkr,
                 <br />
                 hendi drap á kampa,
@@ -819,7 +819,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 ермунрекк смелый
                 <br />
                 в ответ усмехнулся,
@@ -846,7 +846,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Sæll ek þá þóttumk,
                 <br />
                 ef ek sjá knætta
@@ -866,7 +866,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 ермунрекк сказал:
                 <br />
                 «Счастлив я был бы
@@ -893,7 +893,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hitt kvað þá Hróðrglöð,
                 <br />
                 stóð of hleðum,
@@ -918,7 +918,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Молвила славная,
                 <br />
                 стоя с героями,
@@ -944,7 +944,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Styrr varð í ranni,
                 <br />
                 stukku ölskálir,
@@ -956,7 +956,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шум поднялся.
                 <br />
                 падали чаши,
@@ -973,7 +973,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hitt kvað þá Hamðir
                 <br />
                 inn hugumstóri:
@@ -996,7 +996,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вымолвил Хамдир,
                 <br />
                 духом отважный:
@@ -1024,7 +1024,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá hraut við
                 <br />
                 inn reginkunngi
@@ -1044,7 +1044,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Рычаньем ответил
                 <br />
                 богами рожденный,
@@ -1068,7 +1068,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hitt kvað þá Hamðir
                 <br />
                 inn hugumstóri:
@@ -1084,7 +1084,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Серли сказал:
                 <br />
                 «Ты злое свершил,
@@ -1103,7 +1103,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sörli Kvað:
                 <br />
                 «Hug hefðir þú, Hamðir,
@@ -1117,7 +1117,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ты, Хамдир, смел,
                 <br />
                 да смышленым ты не был —<br />
@@ -1132,7 +1132,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hamðir kvað:
                 <br />
                 «Af væri nú höfuð,
@@ -1152,7 +1152,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хамдир сказал:
                 <br />
                 «Голова бы скатилась.
@@ -1179,7 +1179,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sörli kvað:
                 <br />
                 «Ekki hygg ek okkr
@@ -1196,7 +1196,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Волки для нас
                 <br />
                 недобрый пример —<br />
@@ -1216,7 +1216,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vel höfum vit vegit,
                 <br />
                 stöndum á val Gotna,
@@ -1236,7 +1236,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мы стойко бились, —<br />
                 на трупах врагов
                 <br />
@@ -1259,7 +1259,7 @@ const hamdirsspeeches = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar fell Sörli
                 <br />
                 at salar gafli,
@@ -1271,7 +1271,7 @@ const hamdirsspeeches = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Серли погиб
                 <br />
                 у торцовой стены,

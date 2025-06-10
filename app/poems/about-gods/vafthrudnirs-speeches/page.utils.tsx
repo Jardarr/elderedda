@@ -5,8 +5,8 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="w-40">
-				<span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+			<span className="w-40 sm:w-60">
+				<span className="font-Eileen text-3xl/4">
                     O
                 </span>
 				ðinn kvað:
@@ -26,7 +26,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай, Фригг, мне совет,
@@ -49,7 +49,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Frigg kvað:
 				<br />
 				«Heima letja
@@ -67,7 +67,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фригг сказала:
 				<br />
 				«Лучше останься,
@@ -89,7 +89,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -107,7 +107,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Я странствовал много,
@@ -130,7 +130,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Frigg kvað:
 				<br />
 				«Heill þú farir!
@@ -148,7 +148,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Фригг сказала:
 				<br />
 				«Странствуй здоровым,
@@ -170,7 +170,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Fór þá Óðinn
 				<br />
 				at freista orðspeki
@@ -186,7 +186,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Отправился в путь
 				<br />
 				Один, чтоб мудрость
@@ -206,7 +206,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Heill þú nú, Vafþrúðnir,
@@ -224,7 +224,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Привет тебе, Вафтруднир!
@@ -247,7 +247,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Hvat er þat manna
@@ -265,7 +265,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Что за пришелец
@@ -288,7 +288,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Gagnráðr ek heiti,
@@ -304,7 +304,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Гагнрад мне имя,
@@ -325,7 +325,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Hví þú þá, Gagnráðr,
@@ -343,7 +343,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Будь у нас, Гагнрад,
@@ -366,7 +366,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Óauðigr maðr,
@@ -384,7 +384,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Должен молчать
@@ -406,7 +406,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Seg þú mér, Gagnráðr,
@@ -424,7 +424,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Гагнрад, скажи,
@@ -447,7 +447,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Skinfaxi heitir,
@@ -465,7 +465,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Скинфакси конь
@@ -487,7 +487,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Seg þú þat, Gagnráðr,
@@ -505,7 +505,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Гагнрад, скажи,
@@ -528,7 +528,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Hrímfaxi heitir,
@@ -546,7 +546,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Хримфакси конь
@@ -569,7 +569,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				Seg þú þat, Gagnráðr,
@@ -587,7 +587,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Гагнрад, скажи,
@@ -610,7 +610,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Ífing heitir á,
@@ -628,7 +628,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Ивинг — река,
@@ -651,7 +651,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				Seg þú þat, Gagnráðr,
@@ -669,7 +669,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Гагнрад, скажи,
@@ -691,7 +691,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Vígriðr heitir völlr,
@@ -709,7 +709,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Вигрид — равнина,
@@ -732,7 +732,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Fróðr ertu nú, gestr,
@@ -750,7 +750,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Гость мой, ты сведущ,
@@ -773,7 +773,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it eina,
@@ -791,7 +791,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай первый ответ,
@@ -814,7 +814,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Ór Ymis holdi
@@ -832,7 +832,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Имира плоть
@@ -854,7 +854,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat annat,
@@ -872,7 +872,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Второй дай ответ,
@@ -895,7 +895,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Mundilfari heitir,
@@ -913,7 +913,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Мундильфери
@@ -936,7 +936,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it þriðja,
@@ -954,7 +954,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай третий ответ,
@@ -976,7 +976,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Dellingr heitir,
@@ -994,7 +994,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Деллингом звать
@@ -1017,7 +1017,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it fjórða,
@@ -1035,7 +1035,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай четвертый ответ,
@@ -1057,7 +1057,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Vindsvalr heitir,
@@ -1069,7 +1069,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Виндсваль дал зиму,
@@ -1086,7 +1086,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it fimmta,
@@ -1104,7 +1104,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай пятый ответ,
@@ -1126,7 +1126,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Örófi vetra
@@ -1144,7 +1144,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«За множество зим
@@ -1166,7 +1166,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it sétta,
@@ -1184,7 +1184,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Шестой дай ответ,
@@ -1207,7 +1207,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Ór Élivágum
@@ -1225,7 +1225,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Брызги холодные
@@ -1248,7 +1248,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it sjaunda,
@@ -1266,7 +1266,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Седьмой дай ответ,
@@ -1289,7 +1289,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Undir hendi vaxa
@@ -1307,7 +1307,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«У етуна сильного
@@ -1330,7 +1330,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it átta,
@@ -1348,7 +1348,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Восьмой дай ответ,
@@ -1371,7 +1371,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				Örófi vetra
@@ -1388,7 +1388,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«За множество зим
@@ -1410,7 +1410,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it níunda,
@@ -1427,7 +1427,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай девятый ответ,
@@ -1450,7 +1450,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Hræsvelgr heitir,
@@ -1468,7 +1468,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Хресвельг сидит
@@ -1491,7 +1491,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it tíunda,
@@ -1511,7 +1511,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Дай десятый ответ,
@@ -1538,7 +1538,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Í Vanaheimi
@@ -1556,7 +1556,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«У ванов в жилище
@@ -1579,7 +1579,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat et ellifta,
@@ -1596,7 +1596,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Скажи мне еще,
@@ -1613,7 +1613,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Allir einherjar
@@ -1630,7 +1630,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Эйнхерии все
@@ -1653,7 +1653,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Seg þú þat it tolfta,
@@ -1673,7 +1673,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Скажи мне теперь,
@@ -1698,7 +1698,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Frá jötna rúnum
@@ -1720,7 +1720,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«О тайнах великих
@@ -1745,7 +1745,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -1763,7 +1763,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Много я странствовал,
@@ -1786,7 +1786,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Líf ok Lifþrasir,
@@ -1804,7 +1804,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Спрячется Лив
@@ -1826,7 +1826,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -1844,7 +1844,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Я странствовал много,
@@ -1867,7 +1867,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Eina dóttur
@@ -1885,7 +1885,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Прежде чем Волк
@@ -1908,7 +1908,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -1926,7 +1926,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Я странствовал много,
@@ -1949,7 +1949,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Þríar þjóðár
@@ -1967,7 +1967,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Три мощных потока
@@ -1989,7 +1989,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -2007,7 +2007,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Я странствовал много,
@@ -2030,7 +2030,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Víðarr ok Váli
@@ -2048,7 +2048,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Будут Видар и Вали
@@ -2071,7 +2071,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -2089,7 +2089,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Я странствовал много,
@@ -2112,7 +2112,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Ulfr gleypa
@@ -2130,7 +2130,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Фенрир проглотит
@@ -2153,7 +2153,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Óðinn kvað:
 				<br />
 				«Fjölð ek fór,
@@ -2171,7 +2171,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Один сказал:
 				<br />
 				«Я странствовал много,
@@ -2194,7 +2194,7 @@ const vafthrudnirsspeeches = [
 		class: "flex justify-center m-2",
 
 		contentON: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Vafþrúðnir kvað:
 				<br />
 				«Ey manni þat veit,
@@ -2218,7 +2218,7 @@ const vafthrudnirsspeeches = [
 		),
 
 		contentRU: (
-			<span className="flex w-40">
+			<span className="flex w-40 sm:w-60">
 				Вафтруднир сказал:
 				<br />
 				«Никто не узнает,

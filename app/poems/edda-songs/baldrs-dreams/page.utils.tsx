@@ -5,8 +5,8 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     S
                 </span>
                 enn váru æsir
@@ -28,7 +28,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тотчас собрались
                 <br />
                 все асы на тинг,
@@ -53,7 +53,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Upp reis Óðinn,
                 <br />
                 alda gautr,
@@ -73,7 +73,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один поднялся,
                 <br />
                 древний Гаут,
@@ -98,7 +98,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sá var blóðugr
                 <br />
                 um brjóst framan
@@ -118,7 +118,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 У пса была грудь
                 <br />
                 кровью покрыта,
@@ -141,7 +141,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá reið Óðinn
                 <br />
                 fyrir austan dyrr,
@@ -161,7 +161,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 На восток от ворот
                 <br />
                 выехал Один,
@@ -186,7 +186,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hvat er manna þat
                 <br />
                 mér ókunnra,
@@ -206,7 +206,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Что там за воин,
                 <br />
                 неведомый мне,
@@ -230,7 +230,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óðinn kvað:
                 <br />
                 «Vegtamr ek heiti,
@@ -252,7 +252,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один сказал:
                 <br />
                 «Имя мне Вегтам,
@@ -279,7 +279,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völva kvað:
                 <br />
                 «Hér stendr Baldri
@@ -301,7 +301,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вельва сказала:
                 <br />
                 «Мед здесь стоит,
@@ -328,7 +328,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óðinn kvað:
                 <br />
                 «Þegj-at-tu, völva,
@@ -350,7 +350,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один сказал:
                 <br />
                 «Вельва, ответь!
@@ -377,7 +377,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völva kvað:
                 <br />
                 «Höðr berr hávan
@@ -399,7 +399,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вельва сказала:
                 <br />
                 «Хед ввергнет сюда
@@ -426,7 +426,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óðinn kvað:
                 <br />
                 «Þegj-at-tu, völva,
@@ -447,7 +447,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один сказал:
                 <br />
                 «Вельва, ответь!
@@ -474,7 +474,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völva kvað:
                 <br />
                 Rindr berr Vála
@@ -500,7 +500,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вельва сказала:
                 <br />
                 «Ринд в западном доме
@@ -531,7 +531,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óðinn kvað:
                 <br />
                 «Þegj-at-tu, völva,
@@ -553,7 +553,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Один сказал:
                 <br />
                 «Вельва, ответь!
@@ -579,7 +579,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völva kvað:
                 <br />
                 «Ert-at-tu Vegtamr,
@@ -604,7 +604,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вельва сказала:
                 <br />
                 «Нет, ты не Вегтам,
@@ -634,7 +634,7 @@ const baldrsdreams = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Völva kvað:
                 <br />
                 «Heim ríð þú, Óðinn,
@@ -656,7 +656,7 @@ const baldrsdreams = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вельва сказала:
                 <br />
                 «Домой поезжай!

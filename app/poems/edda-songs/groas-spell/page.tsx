@@ -71,8 +71,8 @@ export default function GroasSpell() {
                     &nbsp;/&nbsp;<span>Grógaldr</span>
                 </span>
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Grógaldr</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>
+                    <h1>Grógaldr</h1>
+                    <h2 className="mt-2">
                         Заклинание Гроа, которое она, мертвая,
                         <br /> спела своему сыну
                     </h2>
@@ -80,10 +80,10 @@ export default function GroasSpell() {
                 {groasspell.map((poem, id) => {
                     return (
                         <div key={id} className={poem.class}>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6 flex" style={{ fontFamily: "Kells, sans-serif" }}>{poem.contentON}</div>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6" style={{ fontFamily: "Feofan, sans-serif" }}>{poem.contentRU}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Kells text-xl/6 sm:text-3xl/6 flex">{poem.contentON}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Feofan text-xl/6 sm:text-3xl/6">{poem.contentRU}</div>
                         </div>
                     );
                 })}

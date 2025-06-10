@@ -74,16 +74,16 @@ export default function SongOfTheValkyries() {
                     &nbsp;/&nbsp;<span>Darraðarljóð</span>
                 </span>
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1 style={{ fontFamily: "Elementary, sans-serif" }}>Darraðarljóð</h1>
-                    <h2 className="mt-2" style={{ fontFamily: "Feofan, sans-serif" }}>Песнь валькирий</h2>
+                    <h1>Darraðarljóð</h1>
+                    <h2 className="mt-2">Песнь валькирий</h2>
                 </div>
                 {songofthevalkyries.map((poem, id) => {
                     return (
                         <div key={id} className={poem.class}>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6 flex" style={{ fontFamily: "Kells, sans-serif" }}>{poem.contentON}</div>
-                            <div>{poem.number}</div>
-                            <div className="text-xl/6" style={{ fontFamily: "Feofan, sans-serif" }}>{poem.contentRU}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Kells text-xl/6 sm:text-3xl/6 flex">{poem.contentON}</div>
+                            <div className="text-xl/6 sm:text-xl/6">{poem.number}</div>
+                            <div className="font-Feofan text-xl/6 sm:text-3xl/6">{poem.contentRU}</div>
                         </div>
                     );
                 })}

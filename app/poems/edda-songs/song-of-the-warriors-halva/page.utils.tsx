@@ -6,7 +6,7 @@ const songofthewarriorshalva = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         H
                     </span>
                     álfr konungr fór til ríkis síns ór hernaði. Þeir fengu storm mikinn í hafi. Skip þeira varð ekki ausit. Þá var þat ráðs tekit at hluta mann fyrir borð, en þess
@@ -37,7 +37,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Upp mundum vér
                 <br />
                 allir ganga,
@@ -57,7 +57,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вместе наверх
                 <br />
                 все мы пойдем,
@@ -82,7 +82,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Konungr kvað:
                 <br />
                 «Vér skulum hálfir
@@ -104,7 +104,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг сказал:
                 <br />
                 Разделим мы надвое
@@ -131,7 +131,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Sér eigi þú allan
@@ -153,7 +153,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Не видишь ты весь
@@ -180,7 +180,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Konungr kvað:
                 <br />
                 «Ásmundr hefir
@@ -201,7 +201,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг сказал:
                 <br />
                 Асмунд нам дал
@@ -227,7 +227,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Þér er orðinn
@@ -249,7 +249,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Погубит тебя
@@ -276,7 +276,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Konungr kvað:
                 <br />
                 «Æ lystir þik
@@ -298,7 +298,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг сказал:
                 <br />
                 Вечно ты речь
@@ -325,7 +325,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Hálfr, dreymði mik,
@@ -346,7 +346,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Хальв, снилось мне, —<br />
@@ -371,7 +371,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Konungr kvað:
                 <br />
                 «Gefa mun ek hverjum
@@ -393,7 +393,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг сказал:
                 <br />
                 Каждому дам я<br />
@@ -419,7 +419,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Enn dreymði mik
@@ -441,7 +441,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Еще снилось мне
@@ -468,7 +468,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Konungr kvað:
                 <br />
                 «Hrynja um herðar
@@ -490,7 +490,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг сказал:
                 <br />
                 Спускаются с плеч
@@ -517,7 +517,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Þat dreymði mik
@@ -539,7 +539,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Так мне приснилось
@@ -566,7 +566,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Konungr kvað:
                 <br />
                 «Fulllangt er sjá
@@ -587,7 +587,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунг сказал:
                 <br />
                 Слишком длинна
@@ -613,7 +613,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Hlýði Hrókar
@@ -635,7 +635,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Хроки, внимайте,
@@ -662,7 +662,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Útsteinn kvað:
                 <br />
                 «Konung látum vér
@@ -684,7 +684,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Утстейн сказал:
                 <br />
                 Дадим мы конунгу
@@ -710,7 +710,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Innsteinn kvað:
                 <br />
                 «Hlítt hefir fylkir
@@ -732,7 +732,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн сказал:
                 <br />
                 Следовал князь
@@ -793,7 +793,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Rýkr um hauka
                 <br />
                 í höll konungs,
@@ -813,7 +813,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Коптят ястребов
                 <br />
                 в палатах конунга,
@@ -838,7 +838,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hins fýsi ek nú,
                 <br />
                 at Hálfr vaki;
@@ -858,7 +858,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иного я жажду,
                 <br />
                 как Хальв пробудился;
@@ -883,7 +883,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hrindum heilir
                 <br />
                 hallar bjóri.
@@ -903,7 +903,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Выбьем в палате
                 <br />
                 переднюю стену.
@@ -927,7 +927,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hart skulum ganga
                 <br />
                 ok hliða ekki við,
@@ -947,7 +947,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Твердо пойдем
                 <br />
                 и не отступим,
@@ -971,7 +971,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Snúizk snarliga,
                 <br />
                 snyrtidrengir,
@@ -991,7 +991,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Быстро бегите,
                 <br />
                 ладные воины,
@@ -1037,7 +1037,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hér sá ek alla
                 <br />
                 einum fylgja
@@ -1057,7 +1057,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Видел я: здесь
                 <br />
                 все одному
@@ -1104,7 +1104,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hrókr er fallin
                 <br />
                 með hertoga
@@ -1124,7 +1124,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хрок пал
                 <br />
                 храбрый, с вождем,
@@ -1148,7 +1148,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ek hefi úti
                 <br />
                 átján sumur
@@ -1168,7 +1168,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Следовал я<br />
                 восемнадцать лет
                 <br />
@@ -1191,7 +1191,7 @@ const songofthewarriorshalva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hér mun Innsteinn
                 <br />
                 til jarðar hníga
@@ -1211,7 +1211,7 @@ const songofthewarriorshalva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Иннстейн к земле
                 <br />
                 здесь наклонился,

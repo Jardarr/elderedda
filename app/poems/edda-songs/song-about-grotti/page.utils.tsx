@@ -6,7 +6,7 @@ const songaboutgrotti = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     kjöldr hét sonr Óðins, er Skjöldungar er frá komnir. Hann hafði atsetu ok réð löndum, þar sem nú er kölluð Danmörk, en þá var kallat Gotland. Skjöldr átti þann
@@ -59,7 +59,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú eru komnar
                 <br />
                 til konungs húsa
@@ -79,7 +79,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вот появились
                 <br />
                 в палатах конунга
@@ -104,7 +104,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þær at lúðri
                 <br />
                 leiddar váru
@@ -124,7 +124,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 К мельнице их
                 <br />
                 подвели обеих,
@@ -149,7 +149,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þær þyt þulu
                 <br />
                 þögnhorfinnar:
@@ -165,7 +165,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Начали песню,
                 <br />
                 прервали молчанье:
@@ -186,7 +186,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sungu ok slungu
                 <br />
                 snúðga-steini,
@@ -202,7 +202,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пели, швыряя
                 <br />
                 вертящийся камень,
@@ -223,7 +223,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Auð mölum Fróða,
                 <br />
                 mölum alsælan,
@@ -243,7 +243,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Намелем для Фроди
                 <br />
                 богатства немало,
@@ -268,7 +268,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hér skyli engi
                 <br />
                 öðrum granda,
@@ -288,7 +288,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Никто здесь не должен
                 <br />
                 зло замышлять,
@@ -312,7 +312,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En hann kvað ekki
                 <br />
                 orð it fyrra:
@@ -328,7 +328,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Он им сказал;
                 <br />
                 «Срок вам для сна —<br />
@@ -348,7 +348,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Var-at-tu, Fróði,
                 <br />
                 fullspakr of þik,
@@ -368,7 +368,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Фроди, ты не был
                 <br />
                 достаточно мудр, —<br />
@@ -392,7 +392,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Harðr var Hrungnir
                 <br />
                 ok hans faðir,
@@ -412,7 +412,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хрунгнир с отцом
                 <br />
                 храбрейшими были,
@@ -437,7 +437,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kæmi-a Grótti
                 <br />
                 ór gréa fjalli
@@ -457,7 +457,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гротти не вышла б<br />
                 из серого камня,
                 <br />
@@ -481,7 +481,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vér vetr níu
                 <br />
                 várum leikur
@@ -501,7 +501,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мы девять зим,
                 <br />
                 подруги могучие,
@@ -525,7 +525,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Veltum grjóti
                 <br />
                 of garð risa,
@@ -545,7 +545,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Камни вздымали
                 <br />
                 на стену турсов
@@ -570,7 +570,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En vit síðan
                 <br />
                 á Svíþjóðu
@@ -590,7 +590,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 За этим вослед
                 <br />
                 мы, вещие девы,
@@ -615,7 +615,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Steypðum stilli,
                 <br />
                 studdum annan,
@@ -631,7 +631,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Конунга свергли,
                 <br />
                 сражаясь за Готторма,
@@ -652,7 +652,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fram heldum því
                 <br />
                 þau misseri,
@@ -672,7 +672,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Так, дни за днями,
                 <br />
                 мы доблестно бились,
@@ -697,7 +697,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nú erum komnar
                 <br />
                 til konungs húsa
@@ -717,7 +717,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Вот мы пришли
                 <br />
                 к палатам конунга,
@@ -742,7 +742,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hendr skulu hvílask,
                 <br />
                 hallr standa mun,
@@ -762,7 +762,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Рукам дать покой бы,
                 <br />
                 жернов не двигать, —<br />
@@ -786,7 +786,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hendr skulu höndla
                 <br />
                 harðar trjónur,
@@ -806,7 +806,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В руки бы дали
                 <br />
                 крепкие древки,
@@ -830,7 +830,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eld sé ek brenna
                 <br />
                 fyr austan borg,
@@ -850,7 +850,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От палат на восток
                 <br />
                 вижу я пламя —<br />
@@ -874,7 +874,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mun-at þú halda
                 <br />
                 Hleiðrar stóli,
@@ -893,7 +893,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ты потеряешь
                 <br />
                 Хлейдра престол,
@@ -918,7 +918,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mól míns föður
                 <br />
                 mær rammliga,
@@ -938,7 +938,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сильно молоть
                 <br />
                 я постаралась,
@@ -962,7 +962,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mölum enn framar!
                 <br />
                 Mun Yrsu sonr,
@@ -982,7 +982,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мелем мы снова:
                 <br />
                 сын Ирсы местью
@@ -1007,7 +1007,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mólu meyjar,
                 <br />
                 megins kostuðu,
@@ -1027,7 +1027,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Девы мололи,
                 <br />
                 меряясь силами,
@@ -1052,7 +1052,7 @@ const songaboutgrotti = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En bergrisa
                 <br />
                 brúðr orð of kvað:
@@ -1068,7 +1068,7 @@ const songaboutgrotti = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Слово сказала
                 <br />
                 тогда исполинша:

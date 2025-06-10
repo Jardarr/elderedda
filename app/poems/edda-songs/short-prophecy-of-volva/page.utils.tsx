@@ -5,8 +5,8 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     V
                 </span>
                 áru ellifu
@@ -28,7 +28,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В живых оставалось
                 <br />
                 одиннадцать асов,
@@ -53,7 +53,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Var Baldrs faðir
                 <br />
                 Burs arfþegi,
@@ -77,7 +77,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бальдра отец
                 <br />
                 был наследником Бура,
@@ -106,7 +106,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Margt segjum þér
                 <br />
                 ok munum fleira;
@@ -118,7 +118,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -134,7 +134,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Haki var Hveðnu
                 <br />
                 hóti beztr sona,
@@ -150,7 +150,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хаки был сыном
                 <br />
                 достойнейшим Хведны,
@@ -170,7 +170,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Eru völur allar
                 <br />
                 frá Viðolfi,
@@ -190,7 +190,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От Видольва род свой
                 <br />
                 все вельвы ведут,
@@ -213,7 +213,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Margt segjum þér
                 <br />
                 ok munum fleira;
@@ -225,7 +225,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -241,7 +241,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Varð einn borin
                 <br />
                 í árdaga
@@ -261,7 +261,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В давние годы
                 <br />
                 родился однажды
@@ -283,7 +283,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hann Gjalp of bar,
                 <br />
                 hann Greip of bar,
@@ -303,7 +303,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Родила его Гьяльп,
                 <br />
                 родила его Грейн,
@@ -328,7 +328,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sá var aukinn
                 <br />
                 jarðar megni,
@@ -340,7 +340,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Взял силу земли он,
                 <br />
                 студеного моря
@@ -357,7 +357,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Margt segjum þér
                 <br />
                 ok munum fleira;
@@ -369,7 +369,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Я много сказала,
                 <br />
                 но больше скажу, —<br />
@@ -385,7 +385,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ól ulf Loki
                 <br />
                 við Angrboðu,
@@ -405,7 +405,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 От Ангрбоды Локи
                 <br />
                 Волка родил,
@@ -430,7 +430,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Loki át hjarta
                 <br />
                 lindi brenndu,
@@ -450,7 +450,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Найдя на костре
                 <br />
                 полусгоревшее
@@ -475,7 +475,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Haf gengr hríðum
                 <br />
                 við himin sjalfan,
@@ -495,7 +495,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ветер вздымает
                 <br />
                 до неба валы,
@@ -520,7 +520,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Varð einn borinn
                 <br />
                 öllum meiri,
@@ -540,7 +540,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Родился один
                 <br />
                 самый могучий,
@@ -565,7 +565,7 @@ const shortprophecyofvolva = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kemr annarr
                 <br />
                 enn máttkari,
@@ -585,7 +585,7 @@ const shortprophecyofvolva = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Но будет еще
                 <br />
                 сильнейший из всех,

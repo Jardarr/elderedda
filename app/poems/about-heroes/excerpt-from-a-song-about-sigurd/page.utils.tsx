@@ -5,8 +5,8 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="w-40">
-                <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+            <span className="w-40 sm:w-60">
+                <span className="font-Eileen text-3xl/4">
                     E
                 </span>
                 ldr nam at æsask
@@ -28,7 +28,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хегни сказал:
                 <br />
                 *********
@@ -49,7 +49,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr Grana
                 <br />
                 sverði keyrði;
@@ -71,7 +71,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар сказал:
                 <br />
                 «Сигурд обеты
@@ -98,7 +98,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brynhildr kvað:
                 <br />
                 «Sigurðr vá at ormi,
@@ -122,7 +122,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хегни сказал:
                 <br />
                 «Брюнхильд тебя,
@@ -149,7 +149,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Út gekk Sigurðr
                 <br />
                 andspjalli frá,
@@ -171,7 +171,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Жарили волка
                 <br />
                 одни, а другие
@@ -196,7 +196,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Högni kvað:
                 <br />
                 «[hvat hefir Sigurðr
@@ -210,7 +210,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Убит был Сигурд
                 <br />
                 к югу от Рейна, —<br />
@@ -234,7 +234,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gunnar kvað:
                 <br />
                 «Mér hefir Sigurðr
@@ -256,7 +256,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун снаружи
                 <br />
                 стояла, дочь Гьюки,
@@ -281,7 +281,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Högni kvað:
                 <br />
                 «Þik hefir Brynhildr
@@ -303,7 +303,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Одно лишь в ответ
                 <br />
                 вымолвил Хегни:
@@ -324,7 +324,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sumir ulf sviðu,
                 <br />
                 sumir orm sniðu,
@@ -344,7 +344,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сказала тогда
                 <br />
                 Брюнхильд, дочь Будли:
@@ -369,7 +369,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Soltinn varð Sigurðr
                 <br />
                 sunnan Rínar;
@@ -389,7 +389,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Не подобало
                 <br />
                 там ему править
@@ -413,7 +413,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Úti stóð Guðrún
                 <br />
                 Gjúka dóttir,
@@ -433,7 +433,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд тогда
                 <br />
                 от души рассмеялась,
@@ -458,7 +458,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Einn því Högni
                 <br />
                 andsvör veitti:
@@ -474,7 +474,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гудрун ответила,
                 <br />
                 Гьюки дочь:
@@ -499,7 +499,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Brynhildr
                 <br />
                 Buðla dóttir:
@@ -519,7 +519,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Поздний был вечер,
                 <br />
                 выпили много,
@@ -544,7 +544,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Væri-a þat sæmt,
                 <br />
                 at hann svá réði
@@ -564,7 +564,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стал ногой шевелить,
                 <br />
                 рассуждая долго,
@@ -589,7 +589,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hló þá Brynhildr
                 <br />
                 — bær allr dunði —<br />
@@ -608,7 +608,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд, дочь Будли,
                 <br />
                 конунга дочь,
@@ -631,7 +631,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat Guðrún
                 <br />
                 Gjúka dóttir:
@@ -651,7 +651,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Это услышав,
                 <br />
                 все замолчали, —<br />
@@ -675,7 +675,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fram var kvelda,
                 <br />
                 fjölð var drukkit,
@@ -695,7 +695,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Брюнхильд сказала:
                 <br />
                 «Гуннар, я сон
@@ -729,7 +729,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Fót nam-at hræra,
                 <br />
                 fjölð nam-at spjalla,
@@ -749,7 +749,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гуннар, ответь мне,
                 <br />
                 разве забыл ты,
@@ -773,7 +773,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Vaknaði Brynhildr
                 <br />
                 Buðla dóttir,
@@ -792,7 +792,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Когда отправился
                 <br />
                 смелый герой
@@ -817,7 +817,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þögðu allir
                 <br />
                 við því orði,
@@ -837,7 +837,7 @@ const excerptfromasongaboutsigurd = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Меч положил,
                 <br />
                 убранный золотом,
@@ -861,7 +861,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hugða ek mér, Gunnarr,
                 <br />
                 grimmt í svefni,
@@ -888,7 +888,7 @@ const excerptfromasongaboutsigurd = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 22,
@@ -896,7 +896,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mant-at-tu, Gunnarr,
                 <br />
                 til görva þat,
@@ -915,7 +915,7 @@ const excerptfromasongaboutsigurd = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 23,
@@ -923,7 +923,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá reyndi þat,
                 <br />
                 er riðit hafði
@@ -942,7 +942,7 @@ const excerptfromasongaboutsigurd = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 24,
@@ -950,7 +950,7 @@ const excerptfromasongaboutsigurd = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Benvönd of lét,
                 <br />
                 brugðinn gulli,
@@ -969,7 +969,7 @@ const excerptfromasongaboutsigurd = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 25,

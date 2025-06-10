@@ -6,7 +6,7 @@ const songaboutrig = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         S
                     </span>
                     vá segja menn í fornum sögum, at einnhverr af ásum, sá er Heimdallr hét, fór ferðar sinnar ok fram með sjóvarströndu nökkurri, kom at einum húsabæ ok nefndist
@@ -30,7 +30,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ár kváðu ganga
                 <br />
                 grænar brautir
@@ -46,7 +46,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В давние дни
                 <br />
                 доблестный старый
@@ -67,7 +67,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk hann meir at þat
                 <br />
                 miðrar brautar;
@@ -91,7 +91,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Шагал он по самой
                 <br />
                 средине дороги;
@@ -119,7 +119,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rígr kunni þeim
                 <br />
                 ráð at segja;
@@ -135,7 +135,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Риг им советы
                 <br />
                 умел преподать;
@@ -156,7 +156,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá tók Edda
                 <br />
                 ökkvinn hleif,
@@ -180,7 +180,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хлеб им тяжелый
                 <br />
                 достала прабабка,
@@ -212,7 +212,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rígr kunni þeim
                 <br />
                 ráð at segja;
@@ -232,7 +232,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Риг им советы
                 <br />
                 умел преподать;
@@ -253,7 +253,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar var hann at þat
                 <br />
                 þríar nætr saman,
@@ -269,7 +269,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пробыл он там
                 <br />
                 три ночи подряд;
@@ -290,7 +290,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Jóð ól Edda
                 <br />
                 jósu vatni,
@@ -302,7 +302,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Родила она сына,
                 <br />
                 водой окропили,
@@ -318,7 +318,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hann nam at vaxa
                 <br />
                 ok vel dafna;
@@ -340,7 +340,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стал он расти,
                 <br />
                 сильней становился,
@@ -368,7 +368,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Nam han meir at þat
                 <br />
                 magns of kosta,
@@ -384,7 +384,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стал он затем
                 <br />
                 пробовать силы,
@@ -405,7 +405,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar kom at garði
                 <br />
                 gengilbeina,
@@ -421,7 +421,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Дева пришла —<br />
                 с кривыми ногами,
                 <br />
@@ -440,7 +440,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Miðra fletja
                 <br />
                 meir settisk hon;
@@ -460,7 +460,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Села потом
                 <br />
                 посредине помоста,
@@ -485,7 +485,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Börn ólu þau,
                 <br />
                 — bjuggu ok unðu, —<br />
@@ -516,7 +516,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Детей родили они, —<br />
                 жили в довольстве, —<br />
                 сдается мне, звали их
@@ -551,7 +551,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Dætr váru þær
                 <br />
                 Drumba ok Kumba,
@@ -575,7 +575,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Были их дочери
                 <br />
                 Друмба и Кумба,
@@ -603,7 +603,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk Rígr at þat
                 <br />
                 réttar brautir,
@@ -623,7 +623,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пошел снова Риг
                 <br />
                 по прямым дорогам,
@@ -648,7 +648,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Maðr teglði þar
                 <br />
                 meið til rifjar;
@@ -664,7 +664,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мужчина строгал
                 <br />
                 вал для навоя, —<br />
@@ -684,7 +684,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat þar kona,
                 <br />
                 sveigði rokk,
@@ -708,7 +708,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Женщина там
                 <br />
                 прялку вращала:
@@ -736,7 +736,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rígr kunni þeim
                 <br />
                 ráð at segja;
@@ -752,7 +752,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Риг им советы
                 <br />
                 умел преподать.
@@ -765,7 +765,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá tók Amma
                 <br />
                 *********
@@ -776,7 +776,7 @@ const songaboutrig = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 20,
@@ -784,7 +784,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rígr kunni þeim
                 <br />
                 ráð at segja
@@ -804,7 +804,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Встал от стола он,
                 <br />
                 спать собираясь,
@@ -825,7 +825,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þar var hann at þat
                 <br />
                 þríar nætr saman;
@@ -837,7 +837,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пробыл он там
                 <br />
                 три ночи подряд
@@ -858,7 +858,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Jóð ól Amma
                 <br />
                 jósu vatni,
@@ -874,7 +874,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ребенка тогда
                 <br />
                 родила эта бабка,
@@ -896,7 +896,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hann nam at vaxa
                 <br />
                 ok vel dafna,
@@ -916,7 +916,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стал он расти,
                 <br />
                 сильней становился,
@@ -940,7 +940,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Heim óku þá
                 <br />
                 hanginluklu,
@@ -964,7 +964,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Хозяйку в одежде
                 <br />
                 из козьей шерсти,
@@ -991,7 +991,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Börn ólu þau,
                 <br />
                 — bjuggu ok unðu, —<br />
@@ -1010,7 +1010,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Детей родили они, —<br />
                 жили в довольстве, —<br />
                 звали их Дренг, Халь,
@@ -1033,7 +1033,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Enn hétu svá
                 <br />
                 öðrum nöfnum,
@@ -1053,7 +1053,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Другим имена
                 <br />
                 еще они дали:
@@ -1078,7 +1078,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk Rígr þaðan
                 <br />
                 réttar brautir;
@@ -1094,7 +1094,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Пошел снова Риг
                 <br />
                 по прямым дорогам;
@@ -1114,7 +1114,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gekk hann inn at þat,
                 <br />
                 golf var stráat;
@@ -1130,7 +1130,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В дом он вошел, —<br />
                 пол устлан соломой, —<br />
                 там двое сидели,
@@ -1148,7 +1148,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sat húsgumi
                 <br />
                 ok sneri streng,
@@ -1168,7 +1168,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стрелы хозяин
                 <br />
                 строгал и для лука
@@ -1193,7 +1193,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Keisti fald,
                 <br />
                 kinga var á bringu,
@@ -1213,7 +1213,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Убор был высокий
                 <br />
                 и бляха на шее,
@@ -1238,7 +1238,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rígr kunni þeim
                 <br />
                 ráð at segja;
@@ -1254,7 +1254,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Риг им советы
                 <br />
                 умел преподать;
@@ -1275,7 +1275,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá tók Móðir
                 <br />
                 merkðan dúk,
@@ -1295,7 +1295,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Мать развернула
                 <br />
                 скатерть узорную,
@@ -1320,7 +1320,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Framm setti hon
                 <br />
                 fulla skutla,
@@ -1342,7 +1342,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 И блюда с насечкой
                 <br />
                 из серебра,
@@ -1371,7 +1371,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Rígr kunni þeim
                 <br />
                 ráð at segja;
@@ -1395,7 +1395,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Риг им советы
                 <br />
                 умел преподать;
@@ -1424,7 +1424,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Svein ól Móðir,
                 <br />
                 silki vafði,
@@ -1444,7 +1444,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сына Мать родила,
                 <br />
                 спеленала шелками,
@@ -1469,7 +1469,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Upp óx þar
                 <br />
                 Jarl á fletjum;
@@ -1497,7 +1497,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ярл в палатах
                 <br />
                 начал расти;
@@ -1530,7 +1530,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Kom þar ór runni
                 <br />
                 Rígr gangandi,
@@ -1554,7 +1554,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Тут из лесов
                 <br />
                 Риг появился,
@@ -1583,7 +1583,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reið hann meir þaðan
                 <br />
                 myrkvan við,
@@ -1611,7 +1611,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Потом через лес
                 <br />
                 он оттуда поехал
@@ -1644,7 +1644,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Réð hann einn at þat
                 <br />
                 átján búum,
@@ -1664,7 +1664,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Восемнадцать дворов —<br />
                 вот чем владел он,
                 <br />
@@ -1688,7 +1688,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Óku ærir
                 <br />
                 úrgar brautir,
@@ -1708,7 +1708,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 По влажным дорогам
                 <br />
                 посланцы поехали,
@@ -1733,7 +1733,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Báðu hennar
                 <br />
                 ok heim óku,
@@ -1753,7 +1753,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Посватались к ней,
                 <br />
                 и в брачном покрове
@@ -1777,7 +1777,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Burr var inn ellsti,
                 <br />
                 en Barn annat,
@@ -1799,7 +1799,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Бур звали старшего,
                 <br />
                 Барн — второго,
@@ -1823,7 +1823,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Upp óxu þar
                 <br />
                 Jarli bornir,
@@ -1839,7 +1839,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ярла сыны
                 <br />
                 молодые росли,
@@ -1860,7 +1860,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 En Konr ungr
                 <br />
                 kunni rúnar,
@@ -1880,7 +1880,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Кон юный ведал
                 <br />
                 волшебные руны,
@@ -1905,7 +1905,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Klök nam fugla,
                 <br />
                 kyrra elda,
@@ -1921,7 +1921,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Знал птичий язык,
                 <br />
                 огонь усмирял,
@@ -1942,7 +1942,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Hann við Ríg jarl
                 <br />
                 rúnar deildi,
@@ -1962,7 +1962,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В знании рун
                 <br />
                 с Ярлом Ригом он спорил,
@@ -1987,7 +1987,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Reið Konr ungr
                 <br />
                 kjörr ok skóga,
@@ -1999,7 +1999,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Кон юный поехал
                 <br />
                 по темному лесу,
@@ -2016,7 +2016,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá kvað þat kráka,
                 <br />
                 sat kvisti ein:
@@ -2036,7 +2036,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Ворон прокаркал
                 <br />
                 с ветки высокой:
@@ -2061,7 +2061,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Á Danr ok Danpr
                 <br />
                 dýrar hallir,
@@ -2081,7 +2081,7 @@ const songaboutrig = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 у Дана и Данпа
                 <br />
                 богаче дома,
@@ -2108,7 +2108,7 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Brún bjartari,
                 <br />
                 brjóst ljósara,
@@ -2119,7 +2119,7 @@ const songaboutrig = [
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
     {
         id: 51,
@@ -2127,14 +2127,14 @@ const songaboutrig = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Bjuggu hjón,
                 <br />
                 bauga deildu.
             </span>
         ),
 
-        contentRU: <span className="flex w-40"></span>,
+        contentRU: <span className="flex w-40 sm:w-60"></span>,
     },
 ];
 

@@ -1,3 +1,4 @@
+import { Ephesis } from "next/font/google"
 import type { Config } from "tailwindcss"
 
 const config = {
@@ -78,6 +79,16 @@ const config = {
       },
       height: {
         'custom-height': 'calc(100vh - 136px)', // Вычисляем высоту, отнимая 136px от общей высоты экрана
+      },
+      fontFamily: {
+        Goth: ["Goth", "sans-serif"],
+        Ephesis: ["Ephesis", "sans-serif"],
+        Eileen: ["Eileen", "sans-serif"],
+        Elementary: ["Elementary", "sans-serif"],
+        Kells: ["Kells", "sans-serif"],
+        Feofan: ["Feofan", "sans-serif"],
+        GoodVibes: ["Good-vibes", "sans-serif"],
+        RosaMarena: ["Rosa-marena", "sans-serif"],
       },
     },
   },

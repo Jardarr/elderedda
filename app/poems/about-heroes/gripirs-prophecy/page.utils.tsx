@@ -6,7 +6,7 @@ const gripirsprophecy = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="text-2xl/4" style={{ fontFamily: "Eileen, sans-serif" }}>
+                    <span className="font-Eileen text-3xl/4">
                         G
                     </span>
                     rípir hét sonr Eylima, bróðir Hjördísar. Hann réð löndum ok var allra manna vitrastr ok framvíss. Sigurðr reið einn saman ok kom til hallar Grípis. Sigurðr var
@@ -30,7 +30,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Hverr byggir hér
                 <br />
                 borgir þessar?
@@ -53,7 +53,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 «Кто здесь живет
                 <br />
                 в этих палатах?
@@ -80,7 +80,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Er horskr konungr
@@ -102,7 +102,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Мудрого конунга
@@ -129,7 +129,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Geitir kvað:
                 <br />
                 «Þess mun glaðr konungr
@@ -153,7 +153,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гейтир сказал:
                 <br />
                 «Конунг счастливый
@@ -183,7 +183,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Þá gekk Geitir
                 <br />
                 Grípi at segja;
@@ -203,7 +203,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Гейтир пошел
                 <br />
                 Грипиру молвить:
@@ -227,7 +227,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Gengr ór skála
                 <br />
                 skatna dróttinn
@@ -247,7 +247,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Покинул владыка
                 <br />
                 мудрый палаты,
@@ -272,7 +272,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Mæla námu
                 <br />
                 ok margt hjala
@@ -295,7 +295,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Стали тогда
                 <br />
                 о многом беседовать
@@ -323,7 +323,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þú munt maðr vera
@@ -345,7 +345,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Будешь велик,
@@ -371,7 +371,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Segðu, gegn konungr,
@@ -393,7 +393,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Скажи, благосклонный
@@ -420,7 +420,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Fyrst muntu, fylkir,
@@ -442,7 +442,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Сначала отмстишь
@@ -468,7 +468,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Segðu, ítr konungr,
@@ -490,7 +490,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Скажи мне еще,
@@ -517,7 +517,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Muntu einn vega
@@ -539,7 +539,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Один ты убьешь
@@ -566,7 +566,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Auðr mun ærinn,
@@ -588,7 +588,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Великое счастье,
@@ -614,7 +614,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þú munt finna
@@ -636,7 +636,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Фафнира логово
@@ -663,7 +663,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Enn skaltu hilmi
@@ -685,7 +685,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Должен еще ты
@@ -710,7 +710,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Sefr á fjalli
@@ -732,7 +732,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Спит на горе
@@ -759,7 +759,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Brotin er brynja,
@@ -781,7 +781,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Броню рассеку я,
@@ -808,7 +808,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Hon mun ríkjum þér
@@ -830,7 +830,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Научит тебя
@@ -855,7 +855,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Nú er því lokit,
@@ -877,7 +877,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Понял тебя,
@@ -904,7 +904,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þú munt hitta
@@ -926,7 +926,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Ты посетишь
@@ -953,7 +953,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Nú fær mér ekka
@@ -975,7 +975,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Слово твое
@@ -1001,7 +1001,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Lá mér um æsku
@@ -1023,7 +1023,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Встала вся юность
@@ -1049,7 +1049,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Mann veit ek engi
@@ -1070,7 +1070,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Я на земле
@@ -1096,7 +1096,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Er-a með löstum
@@ -1118,7 +1118,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Нет, в жизни твоей
@@ -1144,7 +1144,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Verst hyggjum því,
@@ -1165,7 +1165,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Хуже всего,
@@ -1192,7 +1192,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Nú skal Sigurði
@@ -1214,7 +1214,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Будет Сигурду
@@ -1241,7 +1241,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Vilk-at ek reiði
@@ -1263,7 +1263,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Гнев твой навлечь
@@ -1290,7 +1290,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Fljóð er at Heimis
@@ -1312,7 +1312,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Есть дева у Хеймира,
@@ -1339,7 +1339,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hvat er mik at því,
@@ -1361,7 +1361,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Что до того мне,
@@ -1388,7 +1388,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípri kvað:
                 <br />
                 «Hon firrir þik
@@ -1410,7 +1410,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Лишит тебя счастья
@@ -1436,7 +1436,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hvat mun til líkna
@@ -1458,7 +1458,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Как суждено
@@ -1485,7 +1485,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «It munuð alla
@@ -1507,7 +1507,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Все вы клятвы
@@ -1534,7 +1534,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hvat er þá, Grípir,
@@ -1556,7 +1556,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Что же тогда
@@ -1581,7 +1581,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þú verðr, siklingr,
@@ -1603,7 +1603,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Будешь, князь,
@@ -1629,7 +1629,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Mun ek við þá Gunnar
@@ -1651,7 +1651,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Гуннара я<br />
@@ -1676,7 +1676,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þik mun Grímhildr
@@ -1698,7 +1698,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Гримхильд коварно
@@ -1725,7 +1725,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Mein eru fyr höndum,
@@ -1747,7 +1747,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Вижу теперь —<br />
@@ -1773,7 +1773,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Ér munuð allir
@@ -1795,7 +1795,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Все вы друг другу
@@ -1821,7 +1821,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hví gegnir þat?
@@ -1843,7 +1843,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Что это значит?
@@ -1870,7 +1870,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Lit hefir þú Gunnars
@@ -1892,7 +1892,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «На Гуннара ты
@@ -1919,7 +1919,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Verst hyggjum því,
@@ -1941,7 +1941,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Сигурда люди
@@ -1968,7 +1968,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þú munt hvíla,
@@ -1990,7 +1990,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Ты будешь покоиться,
@@ -2017,7 +2017,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Mun góða kván
@@ -2038,7 +2038,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «За Гуннара дева
@@ -2065,7 +2065,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Saman munu brullup
@@ -2087,7 +2087,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 Обе свадьбы
@@ -2114,7 +2114,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hvé mun at ynði
@@ -2136,7 +2136,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 К счастью ли будут
@@ -2163,7 +2163,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Minnir þik eiða,
@@ -2185,7 +2185,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Клятвы ты вспомнишь,
@@ -2212,7 +2212,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hvat mun at bótum
@@ -2234,7 +2234,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Какой же выкуп
@@ -2260,7 +2260,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Mun hon Gunnari
@@ -2281,7 +2281,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Гуннару скажет,
@@ -2308,7 +2308,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Hvat er þá, Grípir,
@@ -2330,7 +2330,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Что тогда, Грипир,
@@ -2357,7 +2357,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Mun fyr reiði
@@ -2379,7 +2379,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Разгневана будет
@@ -2406,7 +2406,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Mun horskr Gunnarr
@@ -2428,7 +2428,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Поверит ли Гуннар
@@ -2454,7 +2454,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Grípir kvað:
                 <br />
                 «Þá er Guðrúnu
@@ -2476,7 +2476,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Грипир сказал:
                 <br />
                 «Горе на сердце
@@ -2501,7 +2501,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Því skal hugga þik,
                 <br />
                 hers oddviti,
@@ -2521,7 +2521,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 В том утешенье,
                 <br />
                 князь, найдешь ты,
@@ -2546,7 +2546,7 @@ const gripirsprophecy = [
         class: "flex justify-center m-2",
 
         contentON: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Sigurðr kvað:
                 <br />
                 «Skiljumk heilir,
@@ -2568,7 +2568,7 @@ const gripirsprophecy = [
         ),
 
         contentRU: (
-            <span className="flex w-40">
+            <span className="flex w-40 sm:w-60">
                 Сигурд сказал:
                 <br />
                 «Простимся счастливо!
