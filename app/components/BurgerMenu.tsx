@@ -22,9 +22,9 @@ export default function BurgerMenu() {
                 <SheetContent className="bg-neutral-200/90 dark:bg-neutral-800/80">
                     <SheetHeader>
                         <SheetTitle className="flex flex-col">
-                            {PoemsLinks.map((link, index) => (
-                                <Link key={index} aria-label={link.aria} title={link.aria} onClick={handleLinkClick} href={link.href} className="text-neutral-800 dark:text-neutral-200">
-                                    {link.text}
+                            {PoemsLinks.map((link) => (
+                                <Link key={link.href} aria-label={link.aria} title={link.aria} onClick={handleLinkClick} href={link.href} className="text-neutral-800 dark:text-neutral-200">
+                                    <span className="font-Elementary text-base">{link.text}</span>
                                 </Link>
                             ))}
                         </SheetTitle>
