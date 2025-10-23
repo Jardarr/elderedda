@@ -2,16 +2,21 @@ import React from "react";
 import { poetry } from "./page.utils";
 import { Metadata, Viewport } from "next";
 import Image from "next/image";
+import ImageWithSkeleton from "@/app/components/ImageWithSkeleton";
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Два ворона",
-    description: "И Одаля столбы приобретали силу Поставленные крепкою рукой А недалече, под лысою горой Пролили Бло́том кровь",
+    description:
+        "И Одаля столбы приобретали силу Поставленные крепкою рукой А недалече, под лысою горой Пролили Бло́том кровь",
     keywords: ["Elder Edda, Старшая Эдда, Два ворона"],
-    authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+    authors: [
+        { name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" },
+    ],
     applicationName: "Gjallarbru | Elder Edda",
     openGraph: {
         title: "Jardarr | Два ворона",
-        description: "И Одаля столбы приобретали силу Поставленные крепкою рукой А недалече, под лысою горой Пролили Бло́том кровь",
+        description:
+            "И Одаля столбы приобретали силу Поставленные крепкою рукой А недалече, под лысою горой Пролили Бло́том кровь",
         url: "https://gjallarbru.ru",
         siteName: "Gjallarbru | Elder Edda",
         images: [
@@ -28,7 +33,8 @@ export const metadata: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "Gjallarbru | Два ворона",
-        description: "И Одаля столбы приобретали силу Поставленные крепкою рукой А недалече, под лысою горой Пролили Бло́том кровь",
+        description:
+            "И Одаля столбы приобретали силу Поставленные крепкою рукой А недалече, под лысою горой Пролили Бло́том кровь",
         images: ["/og-logo.jpg"],
     },
     robots: {
@@ -72,7 +78,14 @@ export default function Poetry() {
                 <div>
                     <p className="text-center font-bold pb-5">jardarr</p>
                 </div>
-                <Image className="my-5 rounded-md bg-indigo-500 shadow-lg shadow-indigo-500/50" src="/jonaslaumarkussen.jpg" alt="Изображение Одина скачущего на Слейпнире" width={300} height={300} />
+                <div className="my-5">
+                    <ImageWithSkeleton
+                        src="/jonaslaumarkussen.jpg"
+                        alt="Изображение Одина скачущего на Слейпнире"
+                        width={300}
+                        height={300}
+                    />
+                </div>
             </div>
         </main>
     );
