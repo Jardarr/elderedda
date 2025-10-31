@@ -1,5 +1,5 @@
 import { Send } from "lucide-react";
-import Link from "next/link";
+import { Link } from "../../i18n/routing";
 import Copyright from "./Copyright";
 import PoemsLinks from "../utils/PoemsLinks";
 

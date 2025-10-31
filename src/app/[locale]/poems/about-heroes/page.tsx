@@ -1,17 +1,17 @@
 import React from "react";
-import Link from "next/link";
+import { Link } from "../../../../i18n/routing";
 import { Metadata, Viewport } from "next";
-import EddaList from "@/app/utils/EddaList";
+import EddaList from "../../../utils/EddaList";
 
 export const metadata: Metadata = {
-	title: "Gjallarbru | Песни о Богах",
-	description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
-	keywords: ["Elder Edda, Старшая Эдда, Песни о Богах"],
+	title: "Gjallarbru | Песни о Героях",
+	description: "Она сказала: «Славься, день! И вы, дня сыны! И ты, ночь с сестрою! Взгляните на нас благостным взором, победу нам дайте!",
+	keywords: ["Elder Edda, Старшая Эдда, Песни о Героях"],
 	authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
 	applicationName: "Gjallarbru | Elder Edda",
 	openGraph: {
-		title: "Gjallarbru | Песни о Богах",
-		description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
+		title: "Gjallarbru | Песни о Героях",
+		description: "Она сказала: «Славься, день! И вы, дня сыны! И ты, ночь с сестрою! Взгляните на нас благостным взором, победу нам дайте!",
 		url: "https://gjallarbru.ru",
 		siteName: "Gjallarbru | Elder Edda",
 		images: [
@@ -27,8 +27,8 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "Gjallarbru | Песни о Богах",
-		description: "Встретились асы на Идавёлль-поле, капища стали высокие строить, сил не жалели, ковали сокровища, создали клещи, орудья готовили.",
+		title: "Gjallarbru | Песни о Героях",
+		description: "Она сказала: «Славься, день! И вы, дня сыны! И ты, ночь с сестрою! Взгляните на нас благостным взором, победу нам дайте!",
 		images: ["/og-logo.jpg"],
 	},
 	robots: {
@@ -56,19 +56,19 @@ export const viewport: Viewport = {
     userScalable: false,
 }
 
-export default function AboutGods() {
-    const songsOfGods = EddaList?.[0]?.song_of_gods || []; // Проверяем, что EddaList и song_of_gods существуют
+export default function AboutHeroes() {
+    const songsOfHeroes = EddaList?.[1]?.song_of_heroes || [];
 
     return (
         <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
-            <div className="flex flex-col items-center w-[600px] rounded-md my-20">
+            <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1>Goðakvæði</h1>
-                    <h2 className="mt-2">Песни о Богах</h2>
+                    <h1>Hetjukvæði</h1>
+                    <h2 className="mt-2">Песни о Героях</h2>
                 </div>
-                <nav className="flex flex-col items-center w-full max-w-52 mt-5">
-                    {songsOfGods.length > 0 ? (
-                        songsOfGods.map((item) => (
+                <nav className="flex flex-col items-center w-full max-w-72 lg:max-w-full my-5">
+                    {songsOfHeroes.length > 0 ? (
+                        songsOfHeroes.map((item) => (
                             item.text && item.link && item.title ? (
                                 <Link
                                     key={item.text}

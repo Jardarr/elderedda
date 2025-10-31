@@ -1,11 +1,14 @@
 "use client";
 
-import Link from "next/link";
+import { Link } from "../../i18n/routing";
 import Image from "next/image";
 import ThemeSwitcher from "./ThemeSwitcher";
 import BurgerMenu from "./BurgerMenu";
 import HeaderLinks from "../utils/HeaderLinks";
+import LanguageSwitcher from "./LanguageSwitcher";
+import { usePathname } from "next/navigation";
 export default function Header() {
+    const pathname = usePathname();
     return (
         <header className="flex w-full justify-between bg-white/20 dark:bg-gradient-to-r from-sky-950/30 via-black/30 to-sky-950/30 backdrop-blur-lg shadow-lg absolute top-0 right-0 left-0 z-50 px-4 md:px-24">
             <div className="flex items-center">
@@ -24,8 +27,9 @@ export default function Header() {
                         </Link>
                     ))}
                 </div>
-                <div className="mx-4">
+                <div className="flex items-center mx-4 gap-2">
                     <ThemeSwitcher />
+                    <LanguageSwitcher />
                 </div>
                 <BurgerMenu />
             </nav>

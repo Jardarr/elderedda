@@ -14,7 +14,7 @@ export default function Themebutton() {
 	return (
 		<button
 			onClick={() => setTheme(resolvedTheme === "dark" ? "light" : "dark")}
-			className="bg-neutral-500/30 dark:bg-neutral-700/30 p-2 rounded-lg sea-color dark:text-neutral-300"
+			className="bg-neutral-500/30 dark:bg-neutral-700/30 p-2 rounded-lg sea-color dark:text-neutral-300 border border-transparent transition ease-in-out duration-300 hover:border-sky-400"
 		>
 			{resolvedTheme === "dark" ? <Sun /> : <Moon />}
 		</button>

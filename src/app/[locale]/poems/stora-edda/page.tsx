@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Metadata, Viewport } from "next";
-import ImageWithSkeleton from "@/app/components/ImageWithSkeleton";
+import ImageWithSkeleton from "../../../../app/components/ImageWithSkeleton";
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Большая Эдда",

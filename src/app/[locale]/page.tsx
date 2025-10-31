@@ -1,5 +1,6 @@
 import { Metadata, Viewport } from "next";
-import Hero from "./components/Hero";
+import Hero from "../components/Hero";
+import { useTranslations } from "next-intl";
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Старшая Эдда",
@@ -55,17 +56,14 @@ export const viewport: Viewport = {
 };
 
 export default function Home() {
+    const t = useTranslations("HomePage");
     return (
         <div className="flex flex-col items-center justify-center">
             <Hero />
             <div className="font-GoodVibes max-w-2xl text-center p-5 text-lg sm:text-2xl sea-color dark:text-neutral-300">
-                <p className="mb-2">Добро пожаловать на Gjallarbru — портал, вдохновлённый древнескандинавской мифологией и её глубинной связью между человеческим и божественным.</p>
-                <p className="mb-2">
-                    В мифах Gjallarbrú — мост, ведущий через реку Гьёлль к Хельхейму, миру мёртвых. Но в символическом смысле — это путь понимания, соединяющий нас с миром духов, с
-                    памятью предков и богами. Этот сайт — наш мост. Здесь оживают древние сказания, образы и архетипы, передающиеся сквозь тысячелетия. Мифы, это связь между
-                    прошлым и настоящим, где каждый может найти свой путь по этому мосту — к смыслу, силе и вдохновению северной традиции.
-                </p>
-                <p>Gjallarbru зовёт — иди с нами.</p>
+                <p className="mb-2">{t("Greeting1")}</p>
+                <p className="mb-2">{t("Greeting2")}</p>
+                <p>{t("Greeting3")}</p>
             </div>
         </div>
     );

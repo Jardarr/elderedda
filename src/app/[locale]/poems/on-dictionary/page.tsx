@@ -1,4 +1,4 @@
-import SearchInDict from "@/app/components/SearchInDict";
+import SearchInDict from "../../../components/SearchInDict";
 import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {

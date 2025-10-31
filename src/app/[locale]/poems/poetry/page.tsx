@@ -1,8 +1,7 @@
 import React from "react";
 import { poetry } from "./page.utils";
 import { Metadata, Viewport } from "next";
-import Image from "next/image";
-import ImageWithSkeleton from "@/app/components/ImageWithSkeleton";
+import ImageWithSkeleton from "../../../../app/components/ImageWithSkeleton";
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Два ворона",

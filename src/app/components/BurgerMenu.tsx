@@ -1,5 +1,5 @@
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
-import Link from "next/link";
+import { Link } from "../../i18n/routing";
 import { useState } from "react";
 import PoemsLinks from "../utils/PoemsLinks";
 

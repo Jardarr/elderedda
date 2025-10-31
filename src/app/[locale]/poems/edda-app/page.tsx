@@ -1,7 +1,7 @@
 import React from "react";
-import Link from "next/link";
+import { Link } from "../../../../i18n/routing";
 import { Metadata, Viewport } from "next";
-import EddaList from "@/app/utils/EddaList";
+import EddaList from "../../../utils/EddaList";
 
 export const metadata: Metadata = {
 	title: "Gjallarbru | Старшая Эдда - Приложения",
