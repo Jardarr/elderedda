@@ -129,7 +129,7 @@ const EddaList = [
             {
                 text: "Dráp Niflunga",
                 title: "Убийство Нифлунгов",
-                link: "/poems/about-heroes/killing-the-niflungs",
+                link: "/poems/about-heroes/the-slaying-of-the-niflungs",
             },
             {
                 text: "Guðrúnarkviða in forna",

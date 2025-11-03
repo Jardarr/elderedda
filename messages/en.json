@@ -3,5 +3,52 @@
         "Greeting1": "Welcome to Gjallarbru — a portal inspired by ancient Scandinavian mythology and its profound bond between the human and the divine.",
         "Greeting2": "In the myths, Gjallarbrú is the bridge that crosses the river Gjöll leading to Helheim, the realm of the dead. Yet, in a symbolic sense, it is the path of understanding that connects us with the world of spirits, the memory of our ancestors, and the gods themselves. This website is our bridge — where ancient tales, images, and archetypes come alive, passed down through millennia. Myths are the link between the past and the present, where each of us may find our own way across this bridge — toward meaning, strength, and the inspiration of the Northern tradition.",
         "Greeting3": "Gjallarbru calls — walk with us."
+    },
+    "Poems": {
+        "TheLayOfThrym": {
+            "Title": "The Lay of Thrym",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
+            "Verses": {
+                "1": [
+                    "Wild was Vingthor",
+                    "when he awoke,",
+                    "And when his mighty",
+                    "hammer he missed;",
+                    "He shook his beard,",
+                    "his hair was bristling,",
+                    "As the son of Jorth",
+                    "about him sought."
+                ],
+                "2": [
+                    "Hear now the speech",
+                    "that first he spake:",
+                    "\"Harken, Loki,",
+                    "and heed my words,",
+                    "Nowhere on earth",
+                    "is it known to man,",
+                    "Nor in heaven above:",
+                    "our hammer is stolen.\""
+                ]
+            }
+        },
+        "TheSlayingOfTheNiflungs": {
+            "Title": "The Slaying of The Niflungs",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
+            "Verses": {
+                "1": [
+                    "Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death. It was agreed that they should give him Guthrun as wife, and they gave her a draught of forgetfulness to drink before she would consent to be wedded to Atli. The sons of Atli were Erp and Eitil, and Svanhild was the daughter of Sigurth and Guthrun."
+                ],
+                "2": [
+                    "King Atli invited Gunnar and Hogni to come to him, and sent as messenger Vingi or Knefröth. Guthrun was aware of treachery, and sent with him a message in runes that they should not come, and as a token she sent to Hogni the ring Andvaranaut and tied a wolf's hair in it."
+                ],
+                "3": [
+                    "Gunnar had sought Oddrun, Atli's sister, for his wife, but had her not; then he married Glaumvor, and Hogni's wife was Kostbera; their sons were Solar and Snævar and Gjuki."
+                ],
+                "4": [
+                    "And when the Gjukungs came to Atli, then Guthrun be sought her sons to plead for the lives of both the Gjukungs, but they would not do it. Hogni's heart was cut out, and Gunnar was cast into the serpent's den. He smote on the harp and put the serpents to sleep, but an adder stung him in the liver."
+                ]
+
+            }
+        }
     }
 }

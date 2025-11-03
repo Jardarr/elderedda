@@ -1,4 +1,4 @@
-const killingtheniflungs = [
+const theslayingoftheniflungs = [
     {
         id: 1,
         class: "m-7",
@@ -42,4 +42,4 @@ const killingtheniflungs = [
     },
 ];
 
-export { killingtheniflungs };
+export { theslayingoftheniflungs };
