@@ -158,8 +158,8 @@ const EddaList = [
             },
             {
                 text: "Guðrúnarhvöt",
-                title: " Подстрекательство Гудрун",
-                link: "/poems/about-heroes/incitement-of-gudrun",
+                title: "Подстрекательство Гудрун",
+                link: "/poems/about-heroes/gudruns-inciting",
             },
             {
                 text: "Hamðismál",

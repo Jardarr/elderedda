@@ -1,4 +1,4 @@
-const incitementofgudrun = [
+const gudrunsinciting = [
     {
         id: 1,
         class: "m-7",
@@ -998,4 +998,4 @@ const incitementofgudrun = [
     },
 ];
 
-export { incitementofgudrun };
+export { gudrunsinciting };
