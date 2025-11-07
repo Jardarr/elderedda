@@ -47,7 +47,7 @@ const EddaList = [
             {
                 text: "Þrymskviða",
                 title: "Песнь о Трюме",
-                link: "/poems/about-gods/song-of-thryme",
+                link: "/poems/about-gods/the-lay-of-thrym",
             },
             {
                 text: "Alvíssmál",

@@ -1,8 +1,8 @@
 import React from "react";
-import { theslayingoftheniflungs } from "./page.utils";
+import { theslayingoftheniflungs } from "./theslayingoftheniflungs";
 import { Metadata, Viewport } from "next";
 import Link from "next/link";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import DOMPurify from "isomorphic-dompurify";
 
 export const metadata: Metadata = {
@@ -65,9 +65,9 @@ export const viewport: Viewport = {
 
 export default function TheSlayingOfTheNiflungs() {
     const t = useTranslations("Poems.TheSlayingOfTheNiflungs");
-    const verses = t.raw("Verses") || {};
-    const source = t.raw("Source");
-    const autors = DOMPurify.sanitize(source);
+    const locale = useLocale();
+    const source = DOMPurify.sanitize(t.raw("Source"));
+    const translatedBlocks = t.raw("Texts") || [];
     return (
         <main className="flex items-center justify-center text-sm md:text-base">
             <div className="flex flex-col w-[600px] rounded-md mt-20">
@@ -88,28 +88,65 @@ export default function TheSlayingOfTheNiflungs() {
                     <h1>Dráp Niflunga</h1>
                     <h2 className="mt-2">{t("Title")}</h2>
                 </div>
-                <div>
-                    {theslayingoftheniflungs.map((poem, id) => (
-                        <div key={id} className={poem.class}>
-                            <div className="font-Kells text-xl/6 sm:text-3xl/6 flex">
-                                {poem.contentON}
+                {theslayingoftheniflungs.map((block) => {
+                    const translated = translatedBlocks.find(
+                        (b: any) => b.id === block.id
+                    );
+                    const linesTranslated =
+                        locale === "ru"
+                            ? translated?.linesRU || []
+                            : translated?.linesEN || [];
+
+                    // стих
+                    if (block.type === "stanza") {
+                        return (
+                            <div
+                                key={block.id}
+                                className="flex justify-center mb-6"
+                            >
+                                {block.number && (
+                                    <div className="text-base/6 sm:text-xl/6 mt-1">
+                                        {block.number}
+                                    </div>
+                                )}
+                                <div className="flex mt-1">
+                                    <div className="font-Kells w-40 sm:w-60 text-xl/6 sm:text-3xl/6">
+                                        {block.linesON.map((line, i) => (
+                                            <p key={i}>{line}</p>
+                                        ))}
+                                    </div>
+                                    <div className="w-40 sm:w-60">
+                                        {linesTranslated.map(
+                                            (line: string, i: number) => (
+                                                <p key={i}>{line}</p>
+                                            )
+                                        )}
+                                    </div>
+                                </div>
+                            </div>
+                        );
+                    }
+
+                    // проза
+                    return (
+                        <div key={block.id} className="mb-6 mx-3 sm:mx-0">
+                            <div className="font-Kells text-xl/6 sm:text-3xl/6">
+                                {block.linesON.map((line, i) => (
+                                    <p key={i}>{line}</p>
+                                ))}
+                            </div>
+                            <div className="mt-6">
+                                {linesTranslated.map(
+                                    (line: string, i: number) => (
+                                        <p key={i}>{line}</p>
+                                    )
+                                )}
                             </div>
                         </div>
-                    ))}
-                </div>
-                <div className="mx-7">
-                    {Object.entries(verses).map(([num, lines]) => (
-                        <div key={num} className="mb-6">
-                            {lines.map((line: string, i: number) => (
-                                <p key={i} className="mb-2">
-                                    {line}
-                                </p>
-                            ))}
-                        </div>
-                    ))}
-                </div>
+                    );
+                })}
                 <div className="flex justify-center text-center my-8 mx-4">
-                    <span dangerouslySetInnerHTML={{ __html: autors }}></span>
+                    <span dangerouslySetInnerHTML={{ __html: source }}></span>
                 </div>
             </div>
         </main>

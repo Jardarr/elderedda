@@ -67,53 +67,796 @@
                         "Or hard your hearts",
                         "as the Hunnish kings'."
                     ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "Then Hamther spake,",
+                        "the high of heart:",
+                        "\"Little the deed",
+                        "of Hogni didst love,",
+                        "When Sigurth they wakened",
+                        "from his sleep;",
+                        "Thy bed-covers white",
+                        "were red with blood",
+                        "Of thy husband, drenched",
+                        "with gore from his heart."
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "\"Bloody revenge",
+                        "didst have for thy brothers,",
+                        "Evil and sore,",
+                        "when thy sons didst slay;",
+                        "Else yet might we all",
+                        "on Jormunrek",
+                        "Together our sister's",
+                        "slaying avenge."
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "The gear of the Hunnish",
+                        "kings now give us!",
+                        "Thou hast whetted us so",
+                        "to the battle of swords.\""
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "Laughing did Guthrun",
+                        "go to her chamber,",
+                        "The helms of the kings",
+                        "from the cupboards she took,",
+                        "And mail-coats broad,",
+                        "to her sons she bore them;",
+                        "On their horses' backs",
+                        "the heroes leaped."
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "Then Hamther spake,",
+                        "the high of heart:",
+                        "\"Homeward no more",
+                        "his mother to see",
+                        "Comes the spear-god,",
+                        "fallen mid Gothic folk;",
+                        "One death-draught thou",
+                        "for us all shalt drink,",
+                        "For Svanhild then",
+                        "and thy sons as well.\""
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "Weeping Guthrun,",
+                        "Gjuki's daughter,",
+                        "Went sadly before",
+                        "the gate to sit,",
+                        "And with tear-stained cheeks",
+                        "to tell the tale",
+                        "Of her mighty griefs,",
+                        "so many in kind."
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "\"Three home-fires knew I,",
+                        "three hearths I knew,",
+                        "Home was I brought",
+                        "by husbands three;",
+                        "But Sigurth only",
+                        "of all was dear,",
+                        "He whom my brothers",
+                        "brought to his death."
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        "\"A greater sorrow",
+                        "I saw not nor knew,",
+                        "Yet more it seemed",
+                        "I must suffer yet",
+                        "When the princes great",
+                        "to Atli gave me."
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "\"The brave boys I summoned",
+                        "to secret speech;",
+                        "For my woes requital",
+                        "I might not win",
+                        "Till off the heads",
+                        "of the Hniflungs I hewed."
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "\"To the sea I went,",
+                        "my heart full sore",
+                        "For the Norns, whose wrath",
+                        "I would now escape;",
+                        "But the lofty billows",
+                        "bore me undrowned,",
+                        "Till to land I came,",
+                        "so I longer must live."
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "\"Then to the bed",
+                        "of old was it better!",
+                        "Of a king of the folk",
+                        "a third time I came;",
+                        "Boys I bore",
+                        "his heirs to be,",
+                        "Heirs so young,",
+                        "the sons of Jonak."
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "\"But round Svanhild",
+                        "handmaidens sat,",
+                        "She was dearest ever",
+                        "of all my children;",
+                        "So did Svanhild",
+                        "seem in my hall",
+                        "As the ray of the sun",
+                        "is fair to see."
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "\"Gold I gave her",
+                        "and garments bright,",
+                        "Ere I let her go",
+                        "to the Gothic folk;",
+                        "Of my heavy woes",
+                        "the hardest it was",
+                        "When Svanhild's tresses",
+                        "fair were trodden",
+                        "In the mire by hoofs",
+                        "of horses wild."
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "\"The sorest it was",
+                        "when Sigurth mine",
+                        "On his couch, of victory",
+                        "robbed, they killed;",
+                        "And grimmest of all",
+                        "when to Gunnar's heart",
+                        "There crept the bright-hued",
+                        "crawling snakes.",
+                        "And keenest of all",
+                        "when they cut the heart",
+                        "From the living breast",
+                        "of the king so brave; "
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "Many woes I remember,",
+                        "*********",
+                        "Bridle, Sigurth,",
+                        "thy steed so black,",
+                        "Hither let run",
+                        "thy swift-faring horse;",
+                        "Here there sits not",
+                        "son or daughter",
+                        "Who yet to Guthrun",
+                        "gifts shall give. "
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "\"Remember, Sigurth,",
+                        "what once we said,",
+                        "When together both",
+                        "on the bed we sat,",
+                        "That mightily thou",
+                        "to me wouldst come",
+                        "From hell and I",
+                        "from earth to thee. "
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "\"Pile ye up, jarls,",
+                        "the pyre of oak,",
+                        "Make it the highest",
+                        "a hero e'er had;",
+                        "Let the fire burn",
+                        "my grief-filled breast,",
+                        "My sore-pressed heart,",
+                        "till my sorrows melt.\""
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "May nobles all",
+                        "less sorrow know,",
+                        "And less the woes",
+                        "of women become,",
+                        "Since the tale of this",
+                        "lament is told."
+                    ]
                 }
             ]
         },
         "TheLayOfThrym": {
             "Title": "The Lay of Thrym",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
-            "Texts": {
-                "1": [
-                    "Wild was Vingthor",
-                    "when he awoke,",
-                    "And when his mighty",
-                    "hammer he missed;",
-                    "He shook his beard,",
-                    "his hair was bristling,",
-                    "As the son of Jorth",
-                    "about him sought."
-                ],
-                "2": [
-                    "Hear now the speech",
-                    "that first he spake:",
-                    "\"Harken, Loki,",
-                    "and heed my words,",
-                    "Nowhere on earth",
-                    "is it known to man,",
-                    "Nor in heaven above:",
-                    "our hammer is stolen.\""
-                ]
-            }
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "stanza",
+                    "number": "1.",
+                    "linesEN": [
+                        "Wild was Vingthor",
+                        "when he awoke,",
+                        "And when his mighty",
+                        "hammer he missed;",
+                        "He shook his beard,",
+                        "his hair was bristling,",
+                        "As the son of Jorth",
+                        "about him sought."
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        "Hear now the speech",
+                        "that first he spake:",
+                        "\"Harken, Loki,",
+                        "and heed my words,",
+                        "Nowhere on earth",
+                        "is it known to man,",
+                        "Nor in heaven above:",
+                        "our hammer is stolen.\""
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        "To the dwelling fair",
+                        "of Freyja went they,",
+                        "Hear now the speech",
+                        "that first he spake:",
+                        "\"Wilt thou, Freyja,",
+                        "thy feather-dress lend me,",
+                        "That so my hammer",
+                        "I may seek?\""
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        "\"Thine should it be",
+                        "though of silver bright,",
+                        "And I would give it",
+                        "though 'twere of gold.\"",
+                        "Then Loki flew,",
+                        "and the feather-dress whirred,",
+                        "Till he left behind him",
+                        "the home of the gods,",
+                        "And reached at last",
+                        "the realm of the giants."
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "Thrym sat on a mound,",
+                        "the giants' master,",
+                        "Leashes of gold",
+                        "he laid for his dogs,",
+                        "And stroked and smoothed",
+                        "the manes of his steeds."
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "Thrym spake:",
+                        "\"How fare the gods,",
+                        "how fare the elves?",
+                        "Why comst thou alone",
+                        "to the giants' land?\"",
+                        "Loki spake:",
+                        "\"III fare the gods,",
+                        "ill fare the elves!",
+                        "Hast thou hidden",
+                        "Hlorrithi's hammer?\""
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "Thrym spake:",
+                        "\"I have hidden",
+                        "Hlorrithi's hammer,",
+                        "Eight miles down",
+                        "deep in the earth;",
+                        "And back again",
+                        "shall no man bring it",
+                        "If Freyja I win not",
+                        "to be my wife.\""
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "Then Loki flew,",
+                        "and the feather-dress whirred,",
+                        "Till he left behind him",
+                        "the home of the giants,",
+                        "And reached at last",
+                        "the realm of the gods.",
+                        "There in the courtyard",
+                        "Thor he met:",
+                        "Hear now the speech",
+                        "that first he spake:"
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "\"Hast thou found tidings",
+                        "as well as trouble?",
+                        "Thy news in the air",
+                        "shalt thou utter now;",
+                        "Oft doth the sitter",
+                        "his story forget,",
+                        "And lies he speaks",
+                        "who lays himself down.\""
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "Loki spake:",
+                        "\"Trouble I have,",
+                        "and tidings as well:",
+                        "Thrym, king of the giants,",
+                        "keeps thy hammer,",
+                        "And back again",
+                        "shall no man bring it",
+                        "If Freyja he wins not",
+                        "to be his wife.\""
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "Freyja the fair",
+                        "then went they to find",
+                        "Hear now the speech",
+                        "that first he spake:",
+                        "\"Bind on, Freyja,",
+                        "the bridal veil,",
+                        "For we two must haste",
+                        "to the giants' home.\""
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        "Wrathful was Freyja,",
+                        "and fiercely she snorted,",
+                        "And the dwelling great",
+                        "of the gods was shaken,",
+                        "And burst was the mighty",
+                        "Brisings' necklace:",
+                        "\"Most lustful indeed",
+                        "should I look to all",
+                        "If I journeyed with thee",
+                        "to the giants' home.\""
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "Then were the gods",
+                        "together met,",
+                        "And the goddesses came",
+                        "and council held,",
+                        "And the far-famed ones",
+                        "a plan would find,",
+                        "How they might Hlorrithi's",
+                        "hammer win."
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "Then Heimdall spake,",
+                        "whitest of the gods,",
+                        "Like the Wanes he knew",
+                        "the future well:",
+                        "\"Bind we on Thor",
+                        "the bridal veil,",
+                        "Let him bear the mighty",
+                        "Brisings' necklace;"
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "\"Keys around him",
+                        "let there rattle,",
+                        "And down to his knees",
+                        "hang woman's dress;",
+                        "With gems full broad",
+                        "upon his breast,",
+                        "And a pretty cap",
+                        "to crown his head.\""
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "Then Thor the mighty",
+                        "his answer made:",
+                        "\"Me would the gods",
+                        "unmanly call",
+                        "If I let bind",
+                        "the bridal veil.\""
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "Then Loki spake,",
+                        "the son of Laufey:",
+                        "\"Be silent, Thor,",
+                        "and speak not thus;",
+                        "Else will the giants",
+                        "in Asgarth dwell",
+                        "If thy hammer is brought not",
+                        "home to thee.\""
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "Then bound they on Thor",
+                        "the bridal veil,",
+                        "And next the mighty",
+                        "Brisings' necklace."
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "Keys around him",
+                        "let they rattle,",
+                        "And down to his knees",
+                        "hung woman's dress;",
+                        "With gems full broad",
+                        "upon his breast,",
+                        "And a pretty cap",
+                        "to crown his head."
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "Then Loki spake,",
+                        "the son of Laufey:",
+                        "\"As thy maid-servant thither",
+                        "I go with thee;",
+                        "We two shall haste",
+                        "to the giants' home.\""
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "Then home the goats",
+                        "to the hall were driven,",
+                        "They wrenched at the halters,",
+                        "swift were they to run;",
+                        "The mountains burst,",
+                        "earth burned with fire,",
+                        "And Othin's son",
+                        "sought Jotunheim."
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "Then loud spake Thrym,",
+                        "the giants' leader:",
+                        "\"Bestir ye, giants,",
+                        "put straw on the benches;",
+                        "Now Freyja they bring",
+                        "to be my bride,",
+                        "The daughter of Njorth",
+                        "ut of Noatun."
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        "\"Gold-horned cattle",
+                        "go to my stables,",
+                        "Jet-black oxen,",
+                        "the giant's joy;",
+                        "Many my gems,",
+                        "and many my jewels,",
+                        "Freyja alone",
+                        "did I lack, methinks.\""
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        "Early it was",
+                        "to evening come,",
+                        "And forth was borne",
+                        "the beer for the giants;",
+                        "Thor alone ate an ox,",
+                        "and eight salmon,",
+                        "All the dainties as well",
+                        "that were set for the women;",
+                        "And drank Sif's mate",
+                        "three tuns of mead."
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        "Then loud spake Thrym,",
+                        "the giants' leader:",
+                        "\"Who ever saw bride",
+                        "more keenly bite?",
+                        "I ne'er saw bride",
+                        "with a broader bite,",
+                        "Nor a maiden who drank",
+                        "more mead than this!\""
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        "Hard by there sat",
+                        "the serving-maid wise,",
+                        "So well she answered",
+                        "the giant's words:",
+                        "\"From food has Freyja",
+                        "eight nights fasted,",
+                        "So hot was her longing",
+                        "for Jotunheim.\""
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        "Thrym looked 'neath the veil,",
+                        "for he longed to kiss,",
+                        "But back he leaped",
+                        "the length of the hall:",
+                        "\"Why are so fearful",
+                        "the eyes of Freyja?",
+                        "Fire, methinks,",
+                        "from her eyes burns forth.\""
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        "Hard by there sat",
+                        "the serving-maid wise,",
+                        "So well she answered",
+                        "the giant's words:",
+                        "\"No sleep has Freyja",
+                        "for eight nights found,",
+                        "So hot was her longing",
+                        "for Jotunheim.\""
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        "Soon came the giant's",
+                        "luckless sister,",
+                        "Who feared not to ask",
+                        "the bridal fee:",
+                        "\"From thy hands the rings",
+                        "of red gold take,",
+                        "If thou wouldst win",
+                        "my willing love,",
+                        "(My willing love",
+                        "and welcome glad.)\""
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        "Then loud spake Thrym,",
+                        "the giants' leader:",
+                        "\"Bring in the hammer",
+                        "to hallow the bride;",
+                        "On the maiden's knees",
+                        "let Mjollnir lie,",
+                        "That us both the band",
+                        "of Vor may bless.\""
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        "The heart in the breast",
+                        "of Hlorrithi laughed",
+                        "When the hard-souled one",
+                        "his hammer beheld;",
+                        "First Thrym, the king",
+                        "of the giants, he killed,",
+                        "Then all the folk",
+                        "of the giants he felled."
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        "The giant's sister",
+                        "old he slew,",
+                        "She who had begged",
+                        "the bridal fee;",
+                        "A stroke she got",
+                        "in the shilling's stead,",
+                        "And for many rings",
+                        "the might of the hammer."
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        "And so his hammer",
+                        "got Othin's son."
+                    ]
+                }
+            ]
         },
         "TheSlayingOfTheNiflungs": {
             "Title": "The Slaying of The Niflungs",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
-            "Texts": {
-                "1": [
-                    "Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death. It was agreed that they should give him Guthrun as wife, and they gave her a draught of forgetfulness to drink before she would consent to be wedded to Atli. The sons of Atli were Erp and Eitil, and Svanhild was the daughter of Sigurth and Guthrun."
-                ],
-                "2": [
-                    "King Atli invited Gunnar and Hogni to come to him, and sent as messenger Vingi or Knefröth. Guthrun was aware of treachery, and sent with him a message in runes that they should not come, and as a token she sent to Hogni the ring Andvaranaut and tied a wolf's hair in it."
-                ],
-                "3": [
-                    "Gunnar had sought Oddrun, Atli's sister, for his wife, but had her not; then he married Glaumvor, and Hogni's wife was Kostbera; their sons were Solar and Snævar and Gjuki."
-                ],
-                "4": [
-                    "And when the Gjukungs came to Atli, then Guthrun be sought her sons to plead for the lives of both the Gjukungs, but they would not do it. Hogni's heart was cut out, and Gunnar was cast into the serpent's den. He smote on the harp and put the serpents to sleep, but an adder stung him in the liver."
-                ]
-
-            }
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "stanza",
+                    "number": "1.",
+                    "linesEN": [
+                        "Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death. It was agreed that they should give him Guthrun as wife, and they gave her a draught of forgetfulness to drink before she would consent to be wedded to Atli. The sons of Atli were Erp and Eitil, and Svanhild was the daughter of Sigurth and Guthrun.",
+                        "King Atli invited Gunnar and Hogni to come to him, and sent as messenger Vingi or Knefröth. Guthrun was aware of treachery, and sent with him a message in runes that they should not come, and as a token she sent to Hogni the ring Andvaranaut and tied a wolf's hair in it.",
+                        "Gunnar had sought Oddrun, Atli's sister, for his wife, but had her not; then he married Glaumvor, and Hogni's wife was Kostbera; their sons were Solar and Snævar and Gjuki.",
+                        "And when the Gjukungs came to Atli, then Guthrun be sought her sons to plead for the lives of both the Gjukungs, but they would not do it. Hogni's heart was cut out, and Gunnar was cast into the serpent's den. He smote on the harp and put the serpents to sleep, but an adder stung him in the liver."
+                    ]
+                }
+            ]
         }
     }
 }

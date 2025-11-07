@@ -1,4 +1,4 @@
-const songofthryme = [
+const thelayofthrym = [
 	{
 		id: 2,
 		number: "1.",
@@ -1450,4 +1450,4 @@ const songofthryme = [
 	},
 ];
 
-export { songofthryme };
+export { thelayofthrym };

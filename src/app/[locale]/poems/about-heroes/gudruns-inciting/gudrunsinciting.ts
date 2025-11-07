@@ -257,7 +257,18 @@ export const gudrunsinciting = [
         "number": "18.",
         "type": "stanza",
         "linesON": [
-            
+            "En sá sárastr,",
+            "er þeir Sigurð minn,",
+            "sigri ræntan,",
+            "í sæing vágu,",
+            "en sá grimmastr,",
+            "er þeir Gunnari",
+            "fránir ormar",
+            "til fjörs skriðu,",
+            "en sá hvassastr,",
+            "er til hjarta",
+            "konung óblauðan",
+            "kvikvan skáru."
         ]
     },
     {
@@ -265,7 +276,16 @@ export const gudrunsinciting = [
         "number": "19.",
         "type": "stanza",
         "linesON": [
-            
+            "Fjölð man ek bölva,",
+            "*********",
+            "Beittu, Siguðr,",
+            "inn blakka mar,",
+            "hest inn hraðfæra",
+            "láttu hinig renna;",
+            "sitr eigi hér",
+            "snör né dóttir,",
+            "sú er Guðrúnu",
+            "gæfi hnossir."
         ]
     },
     {
@@ -273,7 +293,14 @@ export const gudrunsinciting = [
         "number": "20.",
         "type": "stanza",
         "linesON": [
-            
+            "Minnsktu, Sigurðr,",
+            "hvat vit mæltum,",
+            "þá er vit á beð",
+            "bæði sátum,",
+            "at þú myndir mín,",
+            "móðugr, vitja,",
+            "halr, ór helju,",
+            "en ek þín ór heimi."
         ]
     },
     {
@@ -281,7 +308,27 @@ export const gudrunsinciting = [
         "number": "21.",
         "type": "stanza",
         "linesON": [
-            
+            "Hlaðið ér, jarlar,",
+            "eikiköstinn,",
+            "látið þann und hilmi",
+            "hæstan verða;",
+            "megi brenna brjóst",
+            "bölvafullt eldr,",
+            "þrungit um hjarta",
+            "þiðni sorgir.»"
+        ]
+    },
+    {
+        "id": "22",
+        "number": "22.",
+        "type": "stanza",
+        "linesON": [
+            "Jörlum öllum",
+            "óðal batni,",
+            "snótum öllum",
+            "sorg at minni,",
+            "at þetta tregróf",
+            "of talit væri."
         ]
     }
 ]

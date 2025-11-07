@@ -105,7 +105,7 @@ export default function GudrunsInciting() {
                         return (
                             <div key={block.id} className="flex justify-center mb-6">
                                 {block.number && (
-                                    <div className="text-xl/6 sm:text-xl/6 mt-1">
+                                    <div className="text-base/6 sm:text-xl/6 mt-1">
                                         {block.number}
                                     </div>
                                 )}
@@ -129,7 +129,7 @@ export default function GudrunsInciting() {
 
                     // проза
                     return (
-                        <div key={block.id} className="mb-6">
+                        <div key={block.id} className="mb-6 mx-3 sm:mx-0">
                             <div className="font-Kells text-xl/6 sm:text-3xl/6">
                                 {block.linesON.map((line, i) => (
                                     <p key={i}>{line}</p>
