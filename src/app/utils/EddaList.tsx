@@ -7,7 +7,7 @@ const EddaList = [
             {
                 text: "Völuspá",
                 title: "Прорицание вельвы",
-                link: "/poems/about-gods/volvas-prophecy",
+                link: "/poems/about-gods/the-prophecy-of-the-seeress",
             },
             {
                 text: "Hávamál",

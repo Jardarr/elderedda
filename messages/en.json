@@ -5,6 +5,1546 @@
         "Greeting3": "Gjallarbru calls — walk with us."
     },
     "Poems": {
+        "lyaout": {
+            "Title": "",
+            "Source": "",
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "stanza",
+                    "number": "1.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "34",
+                    "type": "stanza",
+                    "number": "34.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "35",
+                    "type": "stanza",
+                    "number": "35.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "36",
+                    "type": "stanza",
+                    "number": "36.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "37",
+                    "type": "stanza",
+                    "number": "37.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "38",
+                    "type": "stanza",
+                    "number": "38.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "39",
+                    "type": "stanza",
+                    "number": "39.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "40",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "41",
+                    "type": "stanza",
+                    "number": "41.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "42",
+                    "type": "stanza",
+                    "number": "42.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "43",
+                    "type": "stanza",
+                    "number": "43.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "44.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "47",
+                    "type": "stanza",
+                    "number": "47.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "48",
+                    "type": "stanza",
+                    "number": "48.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "49",
+                    "type": "stanza",
+                    "number": "49.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "50",
+                    "type": "stanza",
+                    "number": "50.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "51",
+                    "type": "stanza",
+                    "number": "51.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "52",
+                    "type": "stanza",
+                    "number": "52.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "53",
+                    "type": "stanza",
+                    "number": "53.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "54",
+                    "type": "stanza",
+                    "number": "54.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "55",
+                    "type": "stanza",
+                    "number": "55.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "56",
+                    "type": "stanza",
+                    "number": "56.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "57",
+                    "type": "stanza",
+                    "number": "57.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "58",
+                    "type": "stanza",
+                    "number": "58.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "59",
+                    "type": "stanza",
+                    "number": "59.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "60",
+                    "type": "stanza",
+                    "number": "60.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "61",
+                    "type": "stanza",
+                    "number": "61.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "62",
+                    "type": "stanza",
+                    "number": "62.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "63",
+                    "type": "stanza",
+                    "number": "63.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "64",
+                    "type": "stanza",
+                    "number": "64.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "65",
+                    "type": "stanza",
+                    "number": "65.",
+                    "linesEN": [
+                        
+                    ]
+                },
+                {
+                    "id": "66",
+                    "type": "stanza",
+                    "number": "66.",
+                    "linesEN": [
+                        
+                    ]
+                }
+            ]
+        },
+        "TheProphecyOfTheSeeress": {
+            "Title": "The Prophecy of the Seeress",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "stanza",
+                    "number": "1.",
+                    "linesEN": [
+                        "Hearing I ask",
+                        "from the holy races,",
+                        "From Heimdall's sons,",
+                        "both high and low;",
+                        "Thou wilt, Valfather,",
+                        "that well I relate",
+                        "Old tales I remember",
+                        "of men long ago."
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        "I remember yet",
+                        "the giants of yore,",
+                        "Who gave me bread",
+                        "in the days gone by;",
+                        "Nine worlds I knew,",
+                        "the nine in the tree",
+                        "With mighty roots",
+                        "beneath the mold."
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        "Of old was the age",
+                        "when Ymir lived;",
+                        "Sea nor cool waves",
+                        "nor sand there were;",
+                        "Earth had not been,",
+                        "nor heaven above,",
+                        "But a yawning gap,",
+                        "and grass nowhere."
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        "Then Bur's sons lifted",
+                        "the level land,",
+                        "Mithgarth the mighty",
+                        "there they made;",
+                        "The sun from the south",
+                        "warmed the stones of earth,",
+                        "And green was the ground",
+                        "with growing leeks."
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "The sun, the sister",
+                        "of the moon, from the south",
+                        "Her right hand cast",
+                        "over heaven's rim;",
+                        "No knowledge she had",
+                        "where her home should be,",
+                        "The moon knew not",
+                        "what might was his,",
+                        "The stars knew not",
+                        "where their stations were."
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "Then sought the gods",
+                        "their assembly-seats,",
+                        "The holy ones,",
+                        "and council held;",
+                        "Names then gave they",
+                        "to noon and twilight,",
+                        "Morning they named,",
+                        "and the waning moon,",
+                        "Night and evening,",
+                        "the years to number."
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "At Ithavoll met",
+                        "the mighty gods,",
+                        "Shrines and temples",
+                        "they timbered high;",
+                        "Forges they set, and",
+                        "they smithied ore,",
+                        "Tongs they wrought,",
+                        "and tools they fashioned. "
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "In their dwellings at peace",
+                        "they played at tables,",
+                        "Of gold no lack",
+                        "did the gods then know,--",
+                        "Till thither came",
+                        "up giant-maids three,",
+                        "Huge of might,",
+                        "out of Jotunheim."
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "Then sought the gods",
+                        "their assembly-seats,",
+                        "The holy ones,",
+                        "and council held,",
+                        "To find who should raise",
+                        "the race of dwarfs",
+                        "Out of Brimir's blood",
+                        "and the legs of Blain. "
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "There was Motsognir",
+                        "the mightiest made",
+                        "Of all the dwarfs,",
+                        "and Durin next;",
+                        "Many a likeness",
+                        "of men they made,",
+                        "The dwarfs in the earth,",
+                        "as Durin said."
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "Nyi and Nithi,",
+                        "Northri and Suthri,",
+                        "Austri and Vestri,",
+                        "Althjof, Dvalin,",
+                        "Nar and Nain,",
+                        "Niping, Dain,",
+                        "Bifur, Bofur,",
+                        "Bombur, Nori,",
+                        "An and Onar,",
+                        "Ai, Mjothvitnir."
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        "Vigg and Gandalf)",
+                        "Vindalf, Thrain,",
+                        "Thekk and Thorin,",
+                        "Thror, Vit and Lit,",
+                        "Nyr and Nyrath,--",
+                        "now have I told--",
+                        "Regin and Rathsvith--",
+                        "the list aright."
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "Fili, Kili,",
+                        "Fundin, Nali,",
+                        "Heptifili,",
+                        "Hannar, Sviur,",
+                        "Frar, Hornbori,",
+                        "Fræg and Loni,",
+                        "Aurvang, Jari,",
+                        "Eikinskjaldi."
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "The race of the dwarfs",
+                        "in Dvalin's throng",
+                        "Down to Lofar",
+                        "the list must I tell;",
+                        "The rocks they left,",
+                        "and through wet lands",
+                        "They sought a home",
+                        "in the fields of sand."
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "There were Draupnir",
+                        "and Dolgthrasir,",
+                        "Hor, Haugspori,",
+                        "Hlevang, Gloin,",
+                        "Dori, Ori,",
+                        "Duf, Andvari,",
+                        "Skirfir, Virfir,",
+                        "Skafith, Ai."
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "Alf and Yngvi,",
+                        "Eikinskjaldi,",
+                        "Fjalar and Frosti,",
+                        "Fith and Ginnar;",
+                        "So for all time",
+                        "shall the tale be known,",
+                        "The list of all",
+                        "the forbears of Lofar."
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "Then from the throng",
+                        "did three come forth,",
+                        "From the home of the gods,",
+                        "the mighty and gracious;",
+                        "Two without fate",
+                        "on the land they found,",
+                        "Ask and Embla,",
+                        "empty of might."
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "Soul they had not,",
+                        "sense they had not,",
+                        "Heat nor motion,",
+                        "nor goodly hue;",
+                        "Soul gave Othin,",
+                        "sense gave Hönir,",
+                        "Heat gave Lothur",
+                        "and goodly hue."
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "An ash I know,",
+                        "Yggdrasil its name,",
+                        "With water white",
+                        "is the great tree wet;",
+                        "Thence come the dews",
+                        "that fall in the dales,",
+                        "Green by Urth's well",
+                        "does it ever grow."
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "Thence come the maidens",
+                        "mighty in wisdom,",
+                        "Three from the dwelling",
+                        "down 'neath the tree;",
+                        "Urth is one named,",
+                        "Verthandi the next,--",
+                        "On the wood they scored,--",
+                        "and Skuld the third.",
+                        "Laws they made there,",
+                        "and life allotted",
+                        "To the sons of men,",
+                        "and set their fates."
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "The war I remember,",
+                        "the first in the world,",
+                        "When the gods with spears",
+                        "had smitten Gollveig,",
+                        "And in the hall",
+                        "of Hor had burned her,",
+                        "Three times burned,",
+                        "and three times born,",
+                        "Oft and again,",
+                        "yet ever she lives."
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "Heith they named her",
+                        "who sought their home,",
+                        "The wide-seeing witch,",
+                        "in magic wise;",
+                        "Minds she bewitched",
+                        "that were moved by her magic,",
+                        "To evil women",
+                        "a joy she was."
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        "On the host his spear",
+                        "did Othin hurl,",
+                        "Then in the world",
+                        "did war first come;",
+                        "The wall that girdled",
+                        "the gods was broken,",
+                        "And the field by the warlike",
+                        "Wanes was trodden."
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        "Then sought the gods",
+                        "their assembly-seats,",
+                        "The holy ones,",
+                        "and council held,",
+                        "Whether the gods",
+                        "should tribute give,",
+                        "Or to all alike",
+                        "should worship belong."
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        "Then sought the gods",
+                        "their assembly-seats,",
+                        "The holy ones,",
+                        "and council held,",
+                        "To find who with venom",
+                        "the air had filled,",
+                        "Or had given Oth's bride",
+                        "to the giants' brood."
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        "In swelling rage",
+                        "then rose up Thor,--",
+                        "Seldom he sits",
+                        "when he such things hears,--",
+                        "And the oaths were broken,",
+                        "the words and bonds,",
+                        "The mighty pledges",
+                        "between them made. "
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        "I know of the horn",
+                        "of Heimdall, hidden",
+                        "Under the high-reaching",
+                        "holy tree;",
+                        "On it there pours",
+                        "from Valfather's pledge",
+                        "A mighty stream:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        "Alone I sat",
+                        "when the Old One sought me,",
+                        "The terror of gods,",
+                        "and gazed in mine eyes:",
+                        "\"What hast thou to ask?",
+                        "why comest thou hither?",
+                        "Othin, I know",
+                        "where thine eye is hidden.\"",
+                        "I know where Othin's",
+                        "eye is hidden,",
+                        "Deep in the wide-famed",
+                        "well of Mimir;",
+                        "Mead from the pledge",
+                        "of Othin each mom",
+                        "Does Mimir drink:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        "Necklaces had I",
+                        "and rings from Heerfather,",
+                        "Wise was my speech",
+                        "and my magic wisdom;",
+                        "*********",
+                        "Widely I saw",
+                        "over all the worlds."
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        "On all sides saw I",
+                        "Valkyries assemble,",
+                        "Ready to ride",
+                        "to the ranks of the gods;",
+                        "Skuld bore the shield,",
+                        "and Skogul rode next,",
+                        "Guth, Hild, Gondul,",
+                        "and Geirskogul.",
+                        "Of Herjan's maidens",
+                        "the list have ye heard,",
+                        "Valkyries ready",
+                        "to ride o'er the earth."
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        "I saw for Baldr,",
+                        "the bleeding god,",
+                        "The son of Othin,",
+                        "his destiny set:",
+                        "Famous and fair",
+                        "in the lofty fields,",
+                        "Full grown in strength",
+                        "the mistletoe stood." 
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        "From the branch which seemed",
+                        "so slender and fair",
+                        "Came a harmful shaft",
+                        "that Hoth should hurl;",
+                        "But the brother of Baldr",
+                        "was born ere long,",
+                        "And one night old",
+                        "fought Othin's son."
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        "His hands he washed not,",
+                        "his hair he combed not,",
+                        "Till he bore to the bale-blaze",
+                        "Baldr's foe.",
+                        "But in Fensalir",
+                        "did Frigg weep sore",
+                        "For Valhall's need:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "34",
+                    "type": "stanza",
+                    "number": "34.",
+                    "linesEN": [
+                        "Then did Váli slaughter bonds twist:",
+                        "made farily grim were those fetters of guts."
+                    ]
+                },
+                {
+                    "id": "35",
+                    "type": "stanza",
+                    "number": "35.",
+                    "linesEN": [
+                        "One did I see",
+                        "in the wet woods bound,",
+                        "A lover of ill,",
+                        "and to Loki like;",
+                        "By his side does Sigyn",
+                        "sit, nor is glad",
+                        "To see her mate:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "36",
+                    "type": "stanza",
+                    "number": "36.",
+                    "linesEN": [
+                        "From the east there pours",
+                        "through poisoned vales",
+                        "With swords and daggers",
+                        "the river Slith."
+                    ]
+                },
+                {
+                    "id": "37",
+                    "type": "stanza",
+                    "number": "37.",
+                    "linesEN": [
+                        "Northward a hall",
+                        "in Nithavellir",
+                        "Of gold there rose",
+                        "for Sindri's race;",
+                        "And in Okolnir",
+                        "another stood,",
+                        "Where the giant Brimir",
+                        "his beer-hall had. "
+                    ]
+                },
+                {
+                    "id": "38",
+                    "type": "stanza",
+                    "number": "38.",
+                    "linesEN": [
+                        "A hall I saw,",
+                        "far from the sun,",
+                        "On Nastrond it stands,",
+                        "and the doors face north,",
+                        "Venom drops",
+                        "through the smoke-vent down,",
+                        "For around the walls",
+                        "do serpents wind."
+                    ]
+                },
+                {
+                    "id": "39",
+                    "type": "stanza",
+                    "number": "39.",
+                    "linesEN": [
+                        "I saw there wading",
+                        "through rivers wild",
+                        "Treacherous men",
+                        "and murderers too,",
+                        "And workers of ill",
+                        "with the wives of men;",
+                        "There Nithhogg sucked",
+                        "the blood of the slain,",
+                        "And the wolf tore men;",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "40",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesEN": [
+                        "The giantess old",
+                        "in Ironwood sat,",
+                        "In the east, and bore",
+                        "the brood of Fenrir;",
+                        "Among these one",
+                        "in monster's guise",
+                        "Was soon to steal",
+                        "the sun from the sky."
+                    ]
+                },
+                {
+                    "id": "41",
+                    "type": "stanza",
+                    "number": "41.",
+                    "linesEN": [
+                        "There feeds he full",
+                        "on the flesh of the dead,",
+                        "And the home of the gods",
+                        "he reddens with gore;",
+                        "Dark grows the sun,",
+                        "and in summer soon",
+                        "Come mighty storms:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "42",
+                    "type": "stanza",
+                    "number": "42.",
+                    "linesEN": [
+                        "On a hill there sat,",
+                        "and smote on his harp,",
+                        "Eggther the joyous,",
+                        "the giants' warder;",
+                        "Above him the cock",
+                        "in the bird-wood crowed,",
+                        "Fair and red",
+                        "did Fjalar stand."
+                    ]
+                },
+                {
+                    "id": "43",
+                    "type": "stanza",
+                    "number": "43.",
+                    "linesEN": [
+                        "Then to the gods",
+                        "crowed Gollinkambi,",
+                        "He wakes the heroes",
+                        "in Othin's hall;",
+                        "And beneath the earth",
+                        "does another crow,",
+                        "The rust-red bird",
+                        "at the bars of Hel."
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "44.",
+                    "linesEN": [
+                        "Now Garm howls loud",
+                        "before Gnipahellir,",
+                        "The fetters will burst,",
+                        "and the wolf run free;",
+                        "Much do I know,",
+                        "and more can see",
+                        "Of the fate of the gods,",
+                        "the mighty in fight."
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesEN": [
+                        "Brothers shall fight",
+                        "and fell each other,",
+                        "And sisters' sons",
+                        "shall kinship stain;",
+                        "Hard is it on earth,",
+                        "with mighty whoredom;",
+                        "Axe-time, sword-time,",
+                        "shields are sundered,",
+                        "Wind-time, wolf-time,",
+                        "ere the world falls;",
+                        "Nor ever shall men",
+                        "each other spare."
+                    ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesEN": [
+                        "Fast move the sons",
+                        "of Mim, and fate",
+                        "Is heard in the note",
+                        "of the Gjallarhorn;",
+                        "Loud blows Heimdall,",
+                        "the horn is aloft,",
+                        "In fear quake all",
+                        "who on Hel-roads are. "
+                    ]
+                },
+                {
+                    "id": "47",
+                    "type": "stanza",
+                    "number": "47.",
+                    "linesEN": [
+                        "Yggdrasil shakes,",
+                        "and shiver on high",
+                        "The ancient limbs,",
+                        "and the giant is loose;",
+                        "To the head of Mim",
+                        "does Othin give heed,",
+                        "But the kinsman of Surt",
+                        "shall slay him soon."
+                    ]
+                },
+                {
+                    "id": "48",
+                    "type": "stanza",
+                    "number": "48.",
+                    "linesEN": [
+                        "How fare the gods?",
+                        "how fare the elves?",
+                        "All Jotunheim groans,",
+                        "the gods are at council;",
+                        "Loud roar the dwarfs",
+                        "by the doors of stone,",
+                        "The masters of the rocks:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "49",
+                    "type": "stanza",
+                    "number": "49.",
+                    "linesEN": [
+                        "Now Garm howls loud",
+                        "before Gnipahellir,",
+                        "The fetters will burst,",
+                        "and the wolf run free",
+                        "Much do I know,",
+                        "and more can see",
+                        "Of the fate of the gods,",
+                        "the mighty in fight."
+                    ]
+                },
+                {
+                    "id": "50",
+                    "type": "stanza",
+                    "number": "50.",
+                    "linesEN": [
+                        "From the east comes Hrym",
+                        "with shield held high;",
+                        "In giant-wrath",
+                        "does the serpent writhe;",
+                        "O'er the waves he twists,",
+                        "and the tawny eagle",
+                        "Gnaws corpses screaming;",
+                        "Naglfar is loose."
+                    ]
+                },
+                {
+                    "id": "51",
+                    "type": "stanza",
+                    "number": "51.",
+                    "linesEN": [
+                        "O'er the sea from the east",
+                        "there sails a ship",
+                        "With the people of Muspell,",
+                        "at the helm stands Loki;",
+                        "After the wolf",
+                        "do wild men follow,",
+                        "And with them the brother",
+                        "of Byleist goes."
+                    ]
+                },
+                {
+                    "id": "52",
+                    "type": "stanza",
+                    "number": "52.",
+                    "linesEN": [
+                        "Surt fares from the south",
+                        "with the scourge of branches,",
+                        "The sun of the battle-gods",
+                        "shone from his sword;",
+                        "The crags are sundered,",
+                        "the giant-women sink,",
+                        "The dead throng Hel-way,",
+                        "and heaven is cloven."
+                    ]
+                },
+                {
+                    "id": "53",
+                    "type": "stanza",
+                    "number": "53.",
+                    "linesEN": [
+                        "Now comes to Hlin",
+                        "yet another hurt,",
+                        "When Othin fares",
+                        "to fight with the wolf,",
+                        "And Beli's fair slayer",
+                        "seeks out Surt,",
+                        "For there must fall",
+                        "the joy of Frigg."
+                    ]
+                },
+                {
+                    "id": "54",
+                    "type": "stanza",
+                    "number": "54.",
+                    "linesEN": [
+                        "Then comes Sigfather's",
+                        "mighty son,",
+                        "Vithar, to fight",
+                        "with the foaming wolf;",
+                        "In the giant's son",
+                        "does he thrust his sword",
+                        "Full to the heart:",
+                        "his father is avenged. "
+                    ]
+                },
+                {
+                    "id": "55",
+                    "type": "stanza",
+                    "number": "55.",
+                    "linesEN": [
+                        "Hither there comes",
+                        "the son of Hlothyn,",
+                        "The bright snake gapes",
+                        "to heaven above;",
+                        "*********",
+                        "Against the serpent",
+                        "goes Othin's son."
+                    ]
+                },
+                {
+                    "id": "56",
+                    "type": "stanza",
+                    "number": "56.",
+                    "linesEN": [
+                        "In anger smites",
+                        "the warder of earth,--",
+                        "Forth from their homes",
+                        "must all men flee;--",
+                        "Nine paces fares",
+                        "the son of Fjorgyn,",
+                        "And, slain by the serpent,",
+                        "fearless he sinks."
+                    ]
+                },
+                {
+                    "id": "57",
+                    "type": "stanza",
+                    "number": "57.",
+                    "linesEN": [
+                        "The sun turns black,",
+                        "earth sinks in the sea,",
+                        "The hot stars down",
+                        "from heaven are whirled;",
+                        "Fierce grows the steam",
+                        "and the life-feeding flame,",
+                        "Till fire leaps high",
+                        "about heaven itself."
+                    ]
+                },
+                {
+                    "id": "58",
+                    "type": "stanza",
+                    "number": "58.",
+                    "linesEN": [
+                        "Now Garm howls loud",
+                        "before Gnipahellir,",
+                        "The fetters will burst,",
+                        "and the wolf run free;",
+                        "Much do I know,",
+                        "and more can see",
+                        "Of the fate of the gods,",
+                        "the mighty in fight."
+                    ]
+                },
+                {
+                    "id": "59",
+                    "type": "stanza",
+                    "number": "59.",
+                    "linesEN": [
+                        "Now do I see",
+                        "the earth anew",
+                        "Rise all green",
+                        "from the waves again;",
+                        "The cataracts fall,",
+                        "and the eagle flies,",
+                        "And fish he catches",
+                        "beneath the cliffs."
+                    ]
+                },
+                {
+                    "id": "60",
+                    "type": "stanza",
+                    "number": "60.",
+                    "linesEN": [
+                        "The gods in Ithavoll",
+                        "meet together,",
+                        "Of the terrible girdler",
+                        "of earth they talk,",
+                        "And the mighty past",
+                        "they call to mind,",
+                        "And the ancient runes",
+                        "of the Ruler of Gods."
+                    ]
+                },
+                {
+                    "id": "61",
+                    "type": "stanza",
+                    "number": "61.",
+                    "linesEN": [
+                        "In wondrous beauty",
+                        "once again",
+                        "Shall the golden tables",
+                        "stand mid the grass,",
+                        "Which the gods had owned",
+                        "in the days of old,"
+                    ]
+                },
+                {
+                    "id": "62",
+                    "type": "stanza",
+                    "number": "62.",
+                    "linesEN": [
+                        "Then fields unsowed",
+                        "bear ripened fruit,",
+                        "All ills grow better,",
+                        "and Baldr comes back;",
+                        "Baldr and Hoth dwell",
+                        "in Hropt's battle-hall,",
+                        "And the mighty gods:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "63",
+                    "type": "stanza",
+                    "number": "63.",
+                    "linesEN": [
+                        "Then Hönir wins",
+                        "the prophetic wand,",
+                        "And the sons of the brothers",
+                        "of Tveggi abide",
+                        "In Vindheim now:",
+                        "would you know yet more?"
+                    ]
+                },
+                {
+                    "id": "64",
+                    "type": "stanza",
+                    "number": "64.",
+                    "linesEN": [
+                        "More fair than the sun,",
+                        "a hall I see,",
+                        "Roofed with gold,",
+                        "on Gimle it stands;",
+                        "There shall the righteous",
+                        "rulers dwell,",
+                        "And happiness ever",
+                        "there shall they have."
+                    ]
+                },
+                {
+                    "id": "65",
+                    "type": "stanza",
+                    "number": "65.",
+                    "linesEN": [
+                        "There comes on high,",
+                        "all power to hold,",
+                        "A mighty lord,",
+                        "all lands he rules."
+                    ]
+                },
+                {
+                    "id": "66",
+                    "type": "stanza",
+                    "number": "66.",
+                    "linesEN": [
+                        "From below the dragon",
+                        "dark comes forth,",
+                        "Nithhogg flying",
+                        "from Nithafjoll;",
+                        "The bodies of men on",
+                        "his wings he bears,",
+                        "The serpent bright:",
+                        "but now must I sink."
+                    ]
+                }
+            ]
+        },
         "GudrunsInciting": {
             "Title": "Gudrun's Inciting",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",

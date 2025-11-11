@@ -56,7 +56,7 @@ export const viewport: Viewport = {
     userScalable: false,
 };
 
-export default function VolvasProphecy() {
+export default function TheProphecyOfTheSeeress() {
     return (
         <main className="flex items-center justify-center bg-poem-bg bg-cover bg-fixed bg-top bg-no-repeat text-sm md:text-base">
             <div className="flex flex-col w-[600px] rounded-md mt-20">
