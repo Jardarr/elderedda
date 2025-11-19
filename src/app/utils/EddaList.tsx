@@ -12,7 +12,7 @@ const EddaList = [
             {
                 text: "Hávamál",
                 title: "Речи Высокого",
-                link: "/poems/about-gods/highs-speeches",
+                link: "/poems/about-gods/sayings-of-the-high-one",
             },
             {
                 text: "Vafþrúðnismál",

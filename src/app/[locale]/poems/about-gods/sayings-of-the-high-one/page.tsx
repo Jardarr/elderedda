@@ -56,7 +56,7 @@ export const viewport: Viewport = {
     userScalable: false,
 };
 
-export default function HighsSpeeches() {
+export default function SayingsOfTheHighOne() {
     return (
         <main className="flex items-center justify-center text-sm md:text-base">
             <div className="flex flex-col w-[600px] rounded-md mt-20">

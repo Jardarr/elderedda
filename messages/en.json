@@ -1545,6 +1545,4382 @@
                 }
             ]
         },
+        "SayingsOfTheHighOne": {
+            "Title": "",
+            "Source": "",
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "stanza",
+                    "number": "1.",
+                    "linesEN": [
+                        "Within the gates",
+                        "ere a man shall go,",
+                        "(Full warily let him watch,)",
+                        "Full long let him look about him;",
+                        "For little he knows",
+                        "where a foe may lurk,",
+                        "And sit in the seats within."
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        "Hail to the giver!",
+                        "a guest has come;",
+                        "Where shall the stranger sit?",
+                        "Swift shall he be who,",
+                        "with swords shall try",
+                        "The proof of his might to make."
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        "Fire he needs",
+                        "who with frozen knees",
+                        "Has come from the cold without;",
+                        "Food and clothes",
+                        "must the farer have,",
+                        "The man from the mountains come."
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        "Water and towels",
+                        "and welcoming speech",
+                        "Should he find who comes, to the feast;",
+                        "If renown he would get,",
+                        "and again be greeted,",
+                        "Wisely and well must he act."
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "Wits must he have",
+                        "who wanders wide,",
+                        "But all is easy at home;",
+                        "At the witless man",
+                        "the wise shall wink",
+                        "When among such men he sits."
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "A man shall not boast",
+                        "of his keenness of mind,",
+                        "But keep it close in his breast;",
+                        "To the silent and wise",
+                        "does ill come seldom",
+                        "When he goes as guest to a house;",
+                        "(For a faster friend",
+                        "one never finds",
+                        "Than wisdom tried and true.)"
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "The knowing guest",
+                        "who goes to the feast,",
+                        "In silent attention sits;",
+                        "With his ears he hears,",
+                        "with his eyes he watches,",
+                        "Thus wary are wise men all."
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "Happy the one",
+                        "who wins for himself",
+                        "Favor and praises fair;",
+                        "Less safe by far",
+                        "is the wisdom found",
+                        "That is hid in another's heart."
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "Happy the man",
+                        "who has while he lives",
+                        "Wisdom and praise as well,",
+                        "For evil counsel",
+                        "a man full oft",
+                        "Has from another's heart."
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "A better burden",
+                        "may no man bear",
+                        "For wanderings wide than wisdom;",
+                        "It is better than wealth ",
+                        "on unknown ways,",
+                        "And in grief a refuge it gives."
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "A better burden",
+                        "may no man bear",
+                        "For wanderings wide than wisdom;",
+                        "Worse food for the journey",
+                        "he brings not afield",
+                        "Than an over-drinking of ale."
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        "Less good there lies",
+                        "than most believe",
+                        "In ale for mortal men;",
+                        "For the more he drinks",
+                        "the less does man",
+                        "Of his mind the mastery hold."
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "Over beer the bird",
+                        "of forgetfulness broods,",
+                        "And steals the minds of men;",
+                        "With the heron's feathers",
+                        "fettered I lay",
+                        "And in Gunnloth's house was held."
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "Drunk I was,",
+                        "I was dead-drunk,",
+                        "When with Fjalar wise I was;",
+                        "'Tis the best of drinking",
+                        "if back one brings",
+                        "His wisdom with him home."
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "The son of a king",
+                        "shall be silent and wise,",
+                        "And bold in battle as well;",
+                        "Bravely and gladly",
+                        "a man shall go,",
+                        "Till the day of his death is come."
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "The sluggard believes",
+                        "he shall live forever,",
+                        "If the fight he faces not;",
+                        "But age shall not grant him",
+                        "the gift of peace,",
+                        "Though spears may spare his life."
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "The fool is agape",
+                        "when he comes to the feast,",
+                        "He stammers or else is still;",
+                        "But soon if he gets",
+                        "a drink is it seen",
+                        "What the mind of the man is like."
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "He alone is aware",
+                        "who has wandered wide,",
+                        "And far abroad has fared,",
+                        "How great a mind",
+                        "is guided by him",
+                        "That wealth of wisdom has."
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "Shun not the mead,",
+                        "but drink in measure;",
+                        "Speak to the point or be still;",
+                        "For rudeness none",
+                        "shall rightly blame thee",
+                        "If soon thy bed thou seekest."
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "The greedy man,",
+                        "if his mind be vague,",
+                        "Will eat till sick he is;",
+                        "The vulgar man,",
+                        "when among the wise,",
+                        "To scorn by his belly is brought."
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "The herds know well",
+                        "when home they shall fare,",
+                        "And then from the grass they go;",
+                        "But the foolish man",
+                        "his belly's measure",
+                        "Shall never know aright."
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "A paltry man",
+                        "and poor of mind",
+                        "At all things ever mocks;",
+                        "For never he knows,",
+                        "what he ought to know,",
+                        "That he is not free from faults."
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        "The witless man",
+                        "is awake all night,",
+                        "Thinking of many things;",
+                        "Care-worn he is",
+                        "when the morning comes,",
+                        "And his woe is just as it was."
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        "The foolish man",
+                        "for friends all those",
+                        "Who laugh at him will hold;",
+                        "When among the wise",
+                        "he marks it not",
+                        "Though hatred of him they speak."
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        "The foolish man",
+                        "for friends all those",
+                        "Who laugh at him will hold;",
+                        "But the truth when he comes",
+                        "to the council he learns,",
+                        "That few in his favor will speak."
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        "An ignorant man",
+                        "thinks that all he knows,",
+                        "When he sits by himself in a corner;",
+                        "But never what answer",
+                        "to make he knows,",
+                        "When others with questions come."
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        "A witless man,",
+                        "when he meets with men,",
+                        "Had best in silence abide;",
+                        "For no one shall find",
+                        "that nothing he knows,",
+                        "If his mouth is not open too much.",
+                        "(But a man knows not,",
+                        "if nothing he knows,",
+                        "When his mouth has been open too much.)"
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        "Wise shall he seem",
+                        "who well can question,",
+                        "And also answer well;",
+                        "Nought is concealed",
+                        "that men may say",
+                        "Among the sons of men."
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        "Often he speaks",
+                        "who never is still",
+                        "With words that win no faith;",
+                        "The babbling tongue,",
+                        "if a bridle it find not,",
+                        "Oft for itself sings ill."
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        "In mockery no one | a man shall hold,",
+                        "Although he fare to the feast;",
+                        "Wise seems one oft, | if nought he is asked,",
+                        "And safely he sits dry-skinned."
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        "Wise a guest holds it",
+                        "to take to his heels,",
+                        "When mock of another he makes;",
+                        "But little he knows",
+                        "who laughs at the feast,",
+                        "Though he mocks in the midst of his foes."
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        "Friendly of mind",
+                        "are many men,",
+                        "Till feasting they mock at their friends;",
+                        "To mankind a bane",
+                        "must it ever be",
+                        "When guests together strive."
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        "Oft should one make",
+                        "an early meal,",
+                        "Nor fasting come to the feast;",
+                        "Else he sits and chews",
+                        "as if he would choke,",
+                        "And little is able to ask."
+                    ]
+                },
+                {
+                    "id": "34",
+                    "type": "stanza",
+                    "number": "34.",
+                    "linesEN": [
+                        "Crooked and far",
+                        "is the road to a foe,",
+                        "Though his house on the highway be;",
+                        "But wide and straight",
+                        "is the way to a friend,",
+                        "Though far away he fare."
+                    ]
+                },
+                {
+                    "id": "35",
+                    "type": "stanza",
+                    "number": "35.",
+                    "linesEN": [
+                        "Forth shall one go,",
+                        "nor stay as a guest",
+                        "In a single spot forever;",
+                        "Love becomes loathing",
+                        "if long one sits",
+                        "By the hearth in another's home."
+                    ]
+                },
+                {
+                    "id": "36",
+                    "type": "stanza",
+                    "number": "36.",
+                    "linesEN": [
+                        "Better a house,",
+                        "though a hut it be,",
+                        "A man is master at home;",
+                        "A pair of goats",
+                        "and a patched-up roof",
+                        "Are better far than begging."
+                    ]
+                },
+                {
+                    "id": "37",
+                    "type": "stanza",
+                    "number": "37.",
+                    "linesEN": [
+                        "Better a house,",
+                        "though a hut it be,",
+                        "A man is master at home;",
+                        "His heart is bleeding",
+                        "who needs must beg",
+                        "When food he fain would have."
+                    ]
+                },
+                {
+                    "id": "38",
+                    "type": "stanza",
+                    "number": "38.",
+                    "linesEN": [
+                        "Away from his arms",
+                        "in the open field",
+                        "A man should fare not a foot;",
+                        "For never he knows",
+                        "when the need for a spear",
+                        "Shall arise on the distant road."
+                    ]
+                },
+                {
+                    "id": "39",
+                    "type": "stanza",
+                    "number": "39.",
+                    "linesEN": [
+                        "If wealth a man",
+                        "has won for himself,",
+                        "Let him never suffer in need;",
+                        "Oft he saves for a foe",
+                        "what he plans for a friend,",
+                        "For much goes worse than we wish."
+                    ]
+                },
+                {
+                    "id": "40",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesEN": [
+                        "None so free with gifts",
+                        "or food have I found",
+                        "That gladly he took not a gift,",
+                        "Nor one who so widely",
+                        "scattered his wealth",
+                        "That of recompense hatred he had."
+                    ]
+                },
+                {
+                    "id": "41",
+                    "type": "stanza",
+                    "number": "41.",
+                    "linesEN": [
+                        "Friends shall gladden each other",
+                        "with arms and garments,",
+                        "As each for himself can see;",
+                        "Gift-givers' friendships",
+                        "are longest found,",
+                        "If fair their fates may be."
+                    ]
+                },
+                {
+                    "id": "42",
+                    "type": "stanza",
+                    "number": "42.",
+                    "linesEN": [
+                        "To his friend a man",
+                        "a friend shall prove,",
+                        "And gifts with gifts requite;",
+                        "But men shall mocking",
+                        "with mockery answer,",
+                        "And fraud with falsehood meet."
+                    ]
+                },
+                {
+                    "id": "43",
+                    "type": "stanza",
+                    "number": "43.",
+                    "linesEN": [
+                        "To his friend a man",
+                        "a friend shall prove,",
+                        "To him and the friend of his friend;",
+                        "But never a man",
+                        "shall friendship make",
+                        "With one of his foeman's friends."
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "44.",
+                    "linesEN": [
+                        "If a friend thou hast",
+                        "whom thou fully wilt trust,",
+                        "And good from him wouldst get,",
+                        "Thy thoughts with his mingle,",
+                        "and gifts shalt thou make,",
+                        "And fare to find him oft."
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesEN": [
+                        "If another thou hast",
+                        "whom thou hardly wilt trust,",
+                        "Yet good from him wouldst get,",
+                        "Thou shalt speak him fair,",
+                        "but falsely think,",
+                        "And fraud with falsehood requite."
+                    ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesEN": [
+                        "So is it with him",
+                        "whom thou hardly wilt trust,",
+                        "And whose mind thou mayst not know;",
+                        "Laugh with him mayst thou,",
+                        "but speak not thy mind,",
+                        "Like gifts to his shalt thou give."
+                    ]
+                },
+                {
+                    "id": "47",
+                    "type": "stanza",
+                    "number": "47.",
+                    "linesEN": [
+                        "Young was I once,",
+                        "and wandered alone,",
+                        "And nought of the road I knew;",
+                        "Rich did I feel",
+                        "when a comrade I found,",
+                        "For man is man's delight."
+                    ]
+                },
+                {
+                    "id": "48",
+                    "type": "stanza",
+                    "number": "48.",
+                    "linesEN": [
+                        "The lives of the brave",
+                        "and noble are best,",
+                        "Sorrows they seldom feed;",
+                        "But the coward fear",
+                        "of all things feels,",
+                        "And not gladly the niggard gives."
+                    ]
+                },
+                {
+                    "id": "49",
+                    "type": "stanza",
+                    "number": "49.",
+                    "linesEN": [
+                        "My garments once",
+                        "in a field I gave",
+                        "To a pair of carven poles;",
+                        "Heroes they seemed",
+                        "when clothes they had,",
+                        "But the naked man is nought."
+                    ]
+                },
+                {
+                    "id": "50",
+                    "type": "stanza",
+                    "number": "50.",
+                    "linesEN": [
+                        "On the hillside drear",
+                        "the fir-tree dies,",
+                        "All bootless its needles and bark;",
+                        "It is like a man",
+                        "whom no one loves,--",
+                        "Why should his life be long?"
+                    ]
+                },
+                {
+                    "id": "51",
+                    "type": "stanza",
+                    "number": "51.",
+                    "linesEN": [
+                        "Hotter than fire",
+                        "between false friends",
+                        "Does friendship five days burn;",
+                        "When the sixth day comes",
+                        "the fire cools,",
+                        "And ended is all the love."
+                    ]
+                },
+                {
+                    "id": "52",
+                    "type": "stanza",
+                    "number": "52.",
+                    "linesEN": [
+                        "No great thing needs",
+                        "a man to give,",
+                        "Oft little will purchase praise;",
+                        "With half a loaf",
+                        "and a half-filled cup",
+                        "A friend full fast I made."
+                    ]
+                },
+                {
+                    "id": "53",
+                    "type": "stanza",
+                    "number": "53.",
+                    "linesEN": [
+                        "A little sand",
+                        "has a little sea,",
+                        "And small are the minds of men;",
+                        "Though all men are not",
+                        "equal in wisdom,",
+                        "Yet half-wise only are all."
+                    ]
+                },
+                {
+                    "id": "54",
+                    "type": "stanza",
+                    "number": "54.",
+                    "linesEN": [
+                        "A measure of wisdom",
+                        "each man shall have,",
+                        "But never too much let him know;",
+                        "The fairest lives",
+                        "do those men live",
+                        "Whose wisdom wide has grown."
+                    ]
+                },
+                {
+                    "id": "55",
+                    "type": "stanza",
+                    "number": "55.",
+                    "linesEN": [
+                        "A measure of wisdom",
+                        "each man shall have,",
+                        "But never too much let him know;",
+                        "For the wise man's heart",
+                        "is seldom happy,",
+                        "If wisdom too great he has won."
+                    ]
+                },
+                {
+                    "id": "56",
+                    "type": "stanza",
+                    "number": "56.",
+                    "linesEN": [
+                        "A measure of wisdom",
+                        "each man shall have,",
+                        "But never too much let him know;",
+                        "Let no man the fate",
+                        "before him see,",
+                        "For so is he freest from sorrow."
+                    ]
+                },
+                {
+                    "id": "57",
+                    "type": "stanza",
+                    "number": "57.",
+                    "linesEN": [
+                        "A brand from a brand",
+                        "is kindled and burned,",
+                        "And fire from fire begotten;",
+                        "And man by his speech",
+                        "is known to men,",
+                        "And the stupid by their stillness."
+                    ]
+                },
+                {
+                    "id": "58",
+                    "type": "stanza",
+                    "number": "58.",
+                    "linesEN": [
+                        "He must early go forth",
+                        "who fain the blood",
+                        "Or the goods of another would get;",
+                        "The wolf that lies idle",
+                        "shall win little meat,",
+                        "Or the sleeping man success."
+                    ]
+                },
+                {
+                    "id": "59",
+                    "type": "stanza",
+                    "number": "59.",
+                    "linesEN": [
+                        "He must early go forth",
+                        "whose workers are few,",
+                        "Himself his work to seek;",
+                        "Much remains undone",
+                        "for the morning-sleeper,",
+                        "For the swift is wealth half won."
+                    ]
+                },
+                {
+                    "id": "60",
+                    "type": "stanza",
+                    "number": "60.",
+                    "linesEN": [
+                        "Of seasoned shingles",
+                        "and strips of bark",
+                        "For the thatch let one know his need,",
+                        "And how much of wood",
+                        "he must have for a month,",
+                        "Or in half a year he will use."
+                    ]
+                },
+                {
+                    "id": "61",
+                    "type": "stanza",
+                    "number": "61.",
+                    "linesEN": [
+                        "Washed and fed",
+                        "to the council fare,",
+                        "But care not too much for thy clothes;",
+                        "Let none be ashamed",
+                        "of his shoes and hose,",
+                        "Less still of the steed he rides,",
+                        "(Though poor be the horse he has.)"
+                    ]
+                },
+                {
+                    "id": "62",
+                    "type": "stanza",
+                    "number": "62.",
+                    "linesEN": [
+                        "When the eagle comes",
+                        "to the ancient sea,",
+                        "He snaps and hangs his head;",
+                        "So is a man",
+                        "in the midst of a throng,",
+                        "Who few to speak for him finds."
+                    ]
+                },
+                {
+                    "id": "63",
+                    "type": "stanza",
+                    "number": "63.",
+                    "linesEN": [
+                        "To question and answer",
+                        "must all be ready",
+                        "Who wish to be known as wise;",
+                        "Tell one thy thoughts,",
+                        "but beware of two,--",
+                        "All know what is known to three."
+                    ]
+                },
+                {
+                    "id": "64",
+                    "type": "stanza",
+                    "number": "64.",
+                    "linesEN": [
+                        "The man who is prudent",
+                        "a measured use",
+                        "Of the might he has will make;",
+                        "He finds when among",
+                        "the brave he fares",
+                        "That the boldest he may not be."
+                    ]
+                },
+                {
+                    "id": "65",
+                    "type": "stanza",
+                    "number": "65.",
+                    "linesEN": [
+                        "*********",
+                        "Oft for the words",
+                        "that to others one speaks",
+                        "He will get but an evil gift."
+                    ]
+                },
+                {
+                    "id": "66",
+                    "type": "stanza",
+                    "number": "66.",
+                    "linesEN": [
+                        "Too early to many",
+                        "a meeting I came,",
+                        "And some too late have I sought;",
+                        "The beer was all drunk,",
+                        "or not yet brewed;",
+                        "Little the loathed man finds."
+                    ]
+                },
+                {
+                    "id": "67",
+                    "type": "stanza",
+                    "number": "67.",
+                    "linesEN": [
+                        "To their homes men would bid",
+                        "me hither and yon,",
+                        "If at meal-time I needed no meat,",
+                        "Or would hang two hams",
+                        "in my true friend's house,",
+                        "Where only one I had eaten."
+                    ]
+                },
+                {
+                    "id": "68",
+                    "type": "stanza",
+                    "number": "68.",
+                    "linesEN": [
+                        "Fire for men",
+                        "is the fairest gift,",
+                        "And power to see the sun;",
+                        "Health as well,",
+                        "if a man may have it,",
+                        "And a life not stained with sin."
+                    ]
+                },
+                {
+                    "id": "69",
+                    "type": "stanza",
+                    "number": "69.",
+                    "linesEN": [
+                        "All wretched is no man,",
+                        "though never so sick;",
+                        "Some from their sons have joy,",
+                        "Some win it from kinsmen,",
+                        "and some from their wealth,",
+                        "And some from worthy works."
+                    ]
+                },
+                {
+                    "id": "70",
+                    "type": "stanza",
+                    "number": "70.",
+                    "linesEN": [
+                        "It is better to live",
+                        "than to lie a corpse,",
+                        "The live man catches the cow;",
+                        "I saw flames rise",
+                        "for the rich man's pyre,",
+                        "And before his door he lay dead."
+                    ]
+                },
+                {
+                    "id": "71",
+                    "type": "stanza",
+                    "number": "71.",
+                    "linesEN": [
+                        "The lame rides a horse,",
+                        "the handless is herdsman,",
+                        "The deaf in battle is bold;",
+                        "The blind man is better",
+                        "than one that is burned,",
+                        "No good can come of a corpse."
+                    ]
+                },
+                {
+                    "id": "72",
+                    "type": "stanza",
+                    "number": "72.",
+                    "linesEN": [
+                        "A son is better,",
+                        "though late he be born,",
+                        "And his father to death have fared;",
+                        "Memory-stones",
+                        "seldom stand by the road",
+                        "Save when kinsman honors his kin."
+                    ]
+                },
+                {
+                    "id": "73",
+                    "type": "stanza",
+                    "number": "73.",
+                    "linesEN": [
+                        "Two make a battle,",
+                        "the tongue slays the head;",
+                        "In each furry coat",
+                        "a fist I look for."
+                    ]
+                },
+                {
+                    "id": "74",
+                    "type": "stanza",
+                    "number": "74.",
+                    "linesEN": [
+                        "He welcomes the night",
+                        "whose fare is enough,",
+                        "(Short are the yards of a ship,)",
+                        "Uneasy are autumn nights;",
+                        "Full oft does the weather",
+                        "change in a week,",
+                        "And more in a month's time."
+                    ]
+                },
+                {
+                    "id": "75",
+                    "type": "stanza",
+                    "number": "75.",
+                    "linesEN": [
+                        "A man knows not,",
+                        "if nothing he knows,",
+                        "That gold oft apes begets;",
+                        "One man is wealthy",
+                        "and one is poor,",
+                        "Yet scorn for him none should know."
+                    ]
+                },
+                {
+                    "id": "76",
+                    "type": "stanza",
+                    "number": "76.",
+                    "linesEN": [
+                        "Among Fitjung's sons saw I well-stocked folds,–",
+                        "Now bear they the beggar's staff;",
+                        "Wealth is as swift as a winking eye,",
+                        "Of friends the falsest it is."
+                    ]
+                },
+                {
+                    "id": "77",
+                    "type": "stanza",
+                    "number": "77.",
+                    "linesEN": [
+                        "Cattle die, and kinsmen die,",
+                        "And so one dies one's self;",
+                        "But a noble name will never die,",
+                        "If good renown one gets."
+                    ]
+                },
+                {
+                    "id": "78",
+                    "type": "stanza",
+                    "number": "78.",
+                    "linesEN": [
+                        "Cattle die, and kinsmen die,",
+                        "And so one dies one's self;",
+                        "One thing now that never dies,",
+                        "The fame of a dead man's deeds."
+                    ]
+                },
+                {
+                    "id": "79",
+                    "type": "stanza",
+                    "number": "79.",
+                    "linesEN": [
+                        "Certain is that which is sought from runes,",
+                        "That the gods so great have made,",
+                        "And the Master-Poet painted;",
+                        "*********",
+                        "the race of gods:",
+                        "Silence is safest and best."
+                    ]
+                },
+                {
+                    "id": "80",
+                    "type": "stanza",
+                    "number": "80.",
+                    "linesEN": [
+                        "An unwise man, if a maiden's love",
+                        "Or wealth he chances to win,",
+                        "His pride will wax, but his wisdom never,",
+                        "Straight forward he fares in conceit."
+                    ]
+                },
+                {
+                    "id": "81",
+                    "type": "stanza",
+                    "number": "81.",
+                    "linesEN": [
+                        "Give praise to the day at evening,",
+                        "to a woman on her pyre,",
+                        "To a weapon which is tried,",
+                        "to a maid at wed lock,",
+                        "To ice when it is crossed,",
+                        "to ale that is drunk."
+                    ]
+                },
+                {
+                    "id": "82",
+                    "type": "stanza",
+                    "number": "82.",
+                    "linesEN": [
+                        "When the gale blows hew wood,",
+                        "in fair winds seek the water;",
+                        "Sport with maidens at dusk,",
+                        "for day's eyes are many;",
+                        "From the ship seek swiftness,",
+                        "from the shield protection,",
+                        "Cuts from the sword,",
+                        "from the maiden kisses."
+                    ]
+                },
+                {
+                    "id": "83",
+                    "type": "stanza",
+                    "number": "83.",
+                    "linesEN": [
+                        "By the fire drink ale,",
+                        "over ice go on skates;",
+                        "Buy a steed that is lean,",
+                        "and a sword when tarnished,",
+                        "The horse at home fatten,",
+                        "the hound in thy dwelling."
+                    ]
+                },
+                {
+                    "id": "84",
+                    "type": "stanza",
+                    "number": "84.",
+                    "linesEN": [
+                        "A man shall trust not",
+                        "the oath of a maid,",
+                        "Nor the word a woman speaks;",
+                        "For their hearts on a whirling",
+                        "wheel were fashioned,",
+                        "And fickle their breasts were formed."
+                    ]
+                },
+                {
+                    "id": "85",
+                    "type": "stanza",
+                    "number": "85.",
+                    "linesEN": [
+                        "In a breaking bow",
+                        "or a burning flame,",
+                        "A ravening wolf",
+                        "or a croaking raven,",
+                        "In a grunting boar,",
+                        "a tree with roots broken,",
+                        "In billowy seas",
+                        "or a bubbling kettle."
+                    ]
+                },
+                {
+                    "id": "86",
+                    "type": "stanza",
+                    "number": "86.",
+                    "linesEN": [
+                        "In a flying arrow",
+                        "or falling waters,",
+                        "In ice new formed",
+                        "or the serpent's folds,",
+                        "In a bride's bed-speech",
+                        "or a broken sword,",
+                        "In the sport of bears",
+                        "or in sons of kings,"
+                    ]
+                },
+                {
+                    "id": "87",
+                    "type": "stanza",
+                    "number": "87.",
+                    "linesEN": [
+                        "n a calf that is sick",
+                        "or a stubborn thrall,",
+                        "A flattering witch",
+                        "or a foe new slain."
+                    ]
+                },
+                {
+                    "id": "88",
+                    "type": "stanza",
+                    "number": "88.",
+                    "linesEN": [
+                        "In a brother's slayer,",
+                        "if thou meet him abroad,",
+                        "In a half-burned house,",
+                        "in a horse full swift--",
+                        "One leg is hurt",
+                        "and the horse is useless--",
+                        "None had ever such faith",
+                        "as to trust in them all."
+                    ]
+                },
+                {
+                    "id": "89",
+                    "type": "stanza",
+                    "number": "89.",
+                    "linesEN": [
+                        "Hope not too surely",
+                        "for early harvest,",
+                        "Nor trust too soon in thy son;",
+                        "The field needs good weather,",
+                        "the son needs wisdom,",
+                        "And oft is either denied."
+                    ]
+                },
+                {
+                    "id": "90",
+                    "type": "stanza",
+                    "number": "90.",
+                    "linesEN": [
+                        "The love of women",
+                        "fickle of will",
+                        "Is like starting o'er ice",
+                        "with a steed unshod,",
+                        "A two-year-old restive",
+                        "and little tamed,",
+                        "Or steering a rudderless",
+                        "ship in a storm,",
+                        "Or, lame, hunting reindeer",
+                        "on slippery rocks. "
+                    ]
+                },
+                {
+                    "id": "91",
+                    "type": "stanza",
+                    "number": "91.",
+                    "linesEN": [
+                        "Clear now will I speak,",
+                        "for I know them both,",
+                        "Men false to women are found;",
+                        "When fairest we speak,",
+                        "then falsest we think,",
+                        "Against wisdom we work with deceit."
+                    ]
+                },
+                {
+                    "id": "92",
+                    "type": "stanza",
+                    "number": "92.",
+                    "linesEN": [
+                        "Soft words shall he speak",
+                        "and wealth shall he offer",
+                        "Who longs for a maiden's love,",
+                        "And the beauty praise",
+                        "of the maiden bright;",
+                        "He wins whose wooing is best."
+                    ]
+                },
+                {
+                    "id": "93",
+                    "type": "stanza",
+                    "number": "93.",
+                    "linesEN": [
+                        "Fault for loving",
+                        "let no man find",
+                        "Ever with any other;",
+                        "Oft the wise are fettered,",
+                        "where fools go free,",
+                        "By beauty that breeds desire."
+                    ]
+                },
+                {
+                    "id": "94",
+                    "type": "stanza",
+                    "number": "94.",
+                    "linesEN": [
+                        "Fault with another",
+                        "let no man find",
+                        "For what touches many a man;",
+                        "Wise men oft",
+                        "into witless fools",
+                        "Are made by mighty love."
+                    ]
+                },
+                {
+                    "id": "95",
+                    "type": "stanza",
+                    "number": "95.",
+                    "linesEN": [
+                        "The head alone knows",
+                        "what dwells near the heart,",
+                        "A man knows his mind alone;",
+                        "No sickness is worse",
+                        "to one who is wise",
+                        "Than to lack the longed-for joy. "
+                    ]
+                },
+                {
+                    "id": "96",
+                    "type": "stanza",
+                    "number": "96.",
+                    "linesEN": [
+                        "This found I myself,",
+                        "when I sat in the reeds,",
+                        "And long my love awaited;",
+                        "As my life the maiden",
+                        "wise I loved,",
+                        "Yet her I never had."
+                    ]
+                },
+                {
+                    "id": "97",
+                    "type": "stanza",
+                    "number": "97.",
+                    "linesEN": [
+                        "Billing's daughter",
+                        "I found on her bed,",
+                        "In slumber bright as the sun;",
+                        "Empty appeared",
+                        "an earl's estate",
+                        "Without that form so fair."
+                    ]
+                },
+                {
+                    "id": "98",
+                    "type": "stanza",
+                    "number": "98.",
+                    "linesEN": [
+                        "Othin, again",
+                        "at evening come,",
+                        "If a woman thou wouldst win;",
+                        "Evil it were",
+                        "if others than we",
+                        "Should know of such a sin."
+                    ]
+                },
+                {
+                    "id": "99",
+                    "type": "stanza",
+                    "number": "99.",
+                    "linesEN": [
+                        "Away I hastened,",
+                        "hoping for joy,",
+                        "And careless of counsel wise;",
+                        "Well I believed",
+                        "that soon I should win",
+                        "Measureless joy with the maid."
+                    ]
+                },
+                {
+                    "id": "100",
+                    "type": "stanza",
+                    "number": "100.",
+                    "linesEN": [
+                        "So came I next",
+                        "when night it was,",
+                        "The warriors all were awake;",
+                        "With burning lights",
+                        "and waving brands",
+                        "I learned my luckess way."
+                    ]
+                },
+                {
+                    "id": "101",
+                    "type": "stanza",
+                    "number": "101.",
+                    "linesEN": [
+                        "At morning then,",
+                        "when once more I came,",
+                        "And all were sleeping still,",
+                        "A dog found",
+                        "in the fair one's place,",
+                        "Bound there upon her bed."
+                    ]
+                },
+                {
+                    "id": "102",
+                    "type": "stanza",
+                    "number": "102.",
+                    "linesEN": [
+                        "Many fair maids,",
+                        "if a man but tries them,",
+                        "False to a lover are found;",
+                        "That did I learn",
+                        "when I longed to gain",
+                        "With wiles the maiden wise;",
+                        "Foul scorn was my meed",
+                        "from the crafty maid,",
+                        "And nought from the woman I won."
+                    ]
+                },
+                {
+                    "id": "103",
+                    "type": "stanza",
+                    "number": "103.",
+                    "linesEN": [
+                        "Though glad at home,",
+                        "and merry with guests,",
+                        "A man shall be wary and wise;",
+                        "The sage and shrewd,",
+                        "wide wisdom seeking,",
+                        "Must see that his speech be fair;",
+                        "A fool is he named",
+                        "who nought can say,",
+                        "For such is the way of the witless."
+                    ]
+                },
+                {
+                    "id": "104",
+                    "type": "stanza",
+                    "number": "104.",
+                    "linesEN": [
+                        "I found the old giant,",
+                        "now back have I fared,",
+                        "Small gain from silence I got;",
+                        "Full many a word,",
+                        "my will to get,",
+                        "I spoke in Suttung's hall."
+                    ]
+                },
+                {
+                    "id": "105",
+                    "type": "stanza",
+                    "number": "105.",
+                    "linesEN": [
+                        "The mouth of Rati",
+                        "made room for my passage,",
+                        "And space in the stone he gnawed;",
+                        "Above and below",
+                        "the giants' paths lay,",
+                        "So rashly I risked my head."
+                    ]
+                },
+                {
+                    "id": "106",
+                    "type": "stanza",
+                    "number": "106.",
+                    "linesEN": [
+                        "Gunnloth gave",
+                        "on a golden stool",
+                        "A drink of the marvelous mead;",
+                        "A harsh reward",
+                        "did I let her have",
+                        "For her heroic heart,",
+                        "And her spirit troubled sore."
+                    ]
+                },
+                {
+                    "id": "107",
+                    "type": "stanza",
+                    "number": "107.",
+                    "linesEN": [
+                        "The well-earned beauty",
+                        "well I enjoyed,",
+                        "Little the wise man lacks;",
+                        "So Othrörir now",
+                        "has up been brought",
+                        "To the midst of the men of earth."
+                    ]
+                },
+                {
+                    "id": "108",
+                    "type": "stanza",
+                    "number": "108.",
+                    "linesEN": [
+                        "Hardly, methinks,",
+                        "would I home have come,",
+                        "And left the giants' land,",
+                        "Had not Gunnloth helped me,",
+                        "the maiden good,",
+                        "Whose arms about me had been."
+                    ]
+                },
+                {
+                    "id": "109",
+                    "type": "stanza",
+                    "number": "109.",
+                    "linesEN": [
+                        "The day that followed,",
+                        "the frost-giants came,",
+                        "Some word of Hor to win,",
+                        "(And into the hall of Hor;)",
+                        "Of Bolverk they asked,",
+                        "were he back midst the gods,",
+                        "Or had Suttung slain him there?"
+                    ]
+                },
+                {
+                    "id": "110",
+                    "type": "stanza",
+                    "number": "110.",
+                    "linesEN": [
+                        "On his ring swore Othin",
+                        "the oath, methinks;",
+                        "Who now his troth shall trust?",
+                        "Suttung's betrayal",
+                        "he sought with drink,",
+                        "And Gunnloth to grief he left."
+                    ]
+                },
+                {
+                    "id": "111",
+                    "type": "stanza",
+                    "number": "111.",
+                    "linesEN": [
+                        "It is time to chant",
+                        "from the chanter's stool;",
+                        "By the wells of Urth I was,",
+                        "I saw and was silent,",
+                        "I saw and thought,",
+                        "And heard the speech of Hor.",
+                        "(Of runes heard I words,",
+                        "nor were counsels wanting,",
+                        "At the hall of Hor,",
+                        "In the hall of Hor;",
+                        "Such was the speech I heard.)"
+                    ]
+                },
+                {
+                    "id": "112",
+                    "type": "stanza",
+                    "number": "112.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "Rise not at night,",
+                        "save if news thou seekest,",
+                        "Or fain to the outhouse wouldst fare."
+                    ]
+                },
+                {
+                    "id": "113",
+                    "type": "stanza",
+                    "number": "113.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "Beware of sleep",
+                        "on a witch's bosom,",
+                        "Nor let her limbs ensnare thee."
+                    ]
+                },
+                {
+                    "id": "114",
+                    "type": "stanza",
+                    "number": "114.",
+                    "linesEN": [
+                        "Such is her might",
+                        "that thou hast no mind",
+                        "For the council or meeting of men;",
+                        "Meat thou hatest,",
+                        "joy thou hast not,",
+                        "And sadly to slumber thou farest."
+                    ]
+                },
+                {
+                    "id": "115",
+                    "type": "stanza",
+                    "number": "115.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "Seek never to win",
+                        "the wife of another,",
+                        "Or long for her secret love."
+                    ]
+                },
+                {
+                    "id": "116",
+                    "type": "stanza",
+                    "number": "116.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "If o'er mountains or gulfs",
+                        "thou fain wouldst go,",
+                        "Look well to thy food for the way."
+                    ]
+                },
+                {
+                    "id": "117",
+                    "type": "stanza",
+                    "number": "117.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "An evil man",
+                        "thou must not let",
+                        "Bring aught of ill to thee;",
+                        "For an evil man",
+                        "will never make",
+                        "Reward for a worthy thought."
+                    ]
+                },
+                {
+                    "id": "118",
+                    "type": "stanza",
+                    "number": "118.",
+                    "linesEN": [
+                        "I saw a man",
+                        "who was wounded sore",
+                        "By an evil woman's word;",
+                        "A lying tongue",
+                        "his death-blow launched,",
+                        "And no word of truth there was."
+                    ]
+                },
+                {
+                    "id": "119",
+                    "type": "stanza",
+                    "number": "119.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "If a friend thou hast",
+                        "whom thou fully wilt trust,",
+                        "Then fare to find him oft;",
+                        "For brambles grow",
+                        "and waving grass",
+                        "On the rarely trodden road."
+                    ]
+                },
+                {
+                    "id": "120",
+                    "type": "stanza",
+                    "number": "120.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "A good man find",
+                        "to hold in friendship,",
+                        "And give heed to his healing charms."
+                    ]
+                },
+                {
+                    "id": "121",
+                    "type": "stanza",
+                    "number": "121.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "Be never the first",
+                        "to break with thy friend",
+                        "The bond that holds you both;",
+                        "Care eats the heart",
+                        "if thou canst not speak",
+                        "To another all thy thought."
+                    ]
+                },
+                {
+                    "id": "122",
+                    "type": "stanza",
+                    "number": "122.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "Exchange of words",
+                        "with a witless ape",
+                        "Thou must not ever make."
+                    ]
+                },
+                {
+                    "id": "123",
+                    "type": "stanza",
+                    "number": "123.",
+                    "linesEN": [
+                        "For never thou mayst",
+                        "from an evil man",
+                        "A good requital get;",
+                        "But a good man oft",
+                        "the greatest love",
+                        "Through words of praise will win thee."
+                    ]
+                },
+                {
+                    "id": "124",
+                    "type": "stanza",
+                    "number": "124.",
+                    "linesEN": [
+                        "Mingled is love",
+                        "when a man can speak",
+                        "To another all his thought;",
+                        "Nought is so bad",
+                        "as false to be,",
+                        "No friend speaks only fair."
+                    ]
+                },
+                {
+                    "id": "125",
+                    "type": "stanza",
+                    "number": "125.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "With a worse man speak not",
+                        "three words in dispute,",
+                        "Ill fares the better oft",
+                        "When the worse man wields a sword."
+                    ]
+                },
+                {
+                    "id": "126",
+                    "type": "stanza",
+                    "number": "126.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "A shoemaker be,",
+                        "or a maker of shafts,",
+                        "For only thy single self;",
+                        "If the shoe is ill made,",
+                        "or the shaft prove false,",
+                        "Then evil of thee men think."
+                    ]
+                },
+                {
+                    "id": "127",
+                    "type": "stanza",
+                    "number": "127.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "If evil thou knowest,",
+                        "as evil proclaim it,",
+                        "And make no friendship with foes."
+                    ]
+                },
+                {
+                    "id": "128",
+                    "type": "stanza",
+                    "number": "128.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "In evil never",
+                        "joy shalt thou know,",
+                        "But glad the good shall make thee."
+                    ]
+                },
+                {
+                    "id": "129",
+                    "type": "stanza",
+                    "number": "129.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir! ",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "Look not up",
+                        "when the battle is on,",
+                        "(Like madmen the sons",
+                        "of men become,)",
+                        "Lest men bewitch thy wits."
+                    ]
+                },
+                {
+                    "id": "130",
+                    "type": "stanza",
+                    "number": "130.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "If thou fain wouldst win",
+                        "a woman's love,",
+                        "And gladness get from her,",
+                        "Fair be thy promise",
+                        "and well fulfilled;",
+                        "None loathes what good he gets."
+                    ]
+                },
+                {
+                    "id": "131",
+                    "type": "stanza",
+                    "number": "131.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "I bid thee be wary,",
+                        "but be not fearful;",
+                        "(Beware most with ale or another's wife,",
+                        "And third beware",
+                        "lest a thief outwit thee.)"
+                    ]
+                },
+                {
+                    "id": "132",
+                    "type": "stanza",
+                    "number": "132.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "Scorn or mocking",
+                        "ne'er shalt thou make",
+                        "Of a guest or a journey-goer."
+                    ]
+                },
+                {
+                    "id": "133",
+                    "type": "stanza",
+                    "number": "133.",
+                    "linesEN": [
+                        "Oft scarcely he knows",
+                        "who sits in the house",
+                        "What kind is the man who comes;",
+                        "None so good is found",
+                        "that faults he has not,",
+                        "Nor so wicked that nought he is worth."
+                    ]
+                },
+                {
+                    "id": "134",
+                    "type": "stanza",
+                    "number": "134.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "Scorn not ever",
+                        "the gray-haired singer,",
+                        "Oft do the old speak good;",
+                        "(Oft from shrivelled skin",
+                        "come skillful counsels,",
+                        "Though it hang with the hides,",
+                        "And flap with the pelts,",
+                        "And is blown with the bellies.)"
+                    ]
+                },
+                {
+                    "id": "135",
+                    "type": "stanza",
+                    "number": "135.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest",
+                        "Great thy gain if thou learnest:",
+                        "Curse not thy guest,",
+                        "nor show him thy gate,",
+                        "Deal well with a man in want."
+                    ]
+                },
+                {
+                    "id": "136",
+                    "type": "stanza",
+                    "number": "136.",
+                    "linesEN": [
+                        "Strong is the beam",
+                        "that raised must be",
+                        "To give an entrance to all;",
+                        "Give it a ring,",
+                        "or grim will be",
+                        "The wish it would work on thee."
+                    ]
+                },
+                {
+                    "id": "137",
+                    "type": "stanza",
+                    "number": "137.",
+                    "linesEN": [
+                        "I rede thee, Loddfafnir!",
+                        "and hear thou my rede,",
+                        "Profit thou hast if thou hearest,",
+                        "Great thy gain if thou learnest:",
+                        "When ale thou drinkest)",
+                        "seek might of earth,",
+                        "(For earth cures drink,",
+                        "and fire cures ills,",
+                        "The oak cures tightness,",
+                        "the ear cures magic,",
+                        "Rye cures rupture,",
+                        "the moon cures rage,",
+                        "Grass cures the scab,",
+                        "and runes the sword-cut;)",
+                        "The field absorbs the flood."
+                    ]
+                },
+                {
+                    "id": "138",
+                    "type": "stanza",
+                    "number": "138.",
+                    "linesEN": [
+                        "I ween that I hung",
+                        "on the windy tree,",
+                        "Hung there for nights full nine;",
+                        "With the spear I was wounded,",
+                        "and offered I was",
+                        "To Othin, myself to myself,",
+                        "On the tree that none",
+                        "may ever know",
+                        "What root beneath it runs."
+                    ]
+                },
+                {
+                    "id": "139",
+                    "type": "stanza",
+                    "number": "139.",
+                    "linesEN": [
+                        "None made me happy",
+                        "with loaf or horn,",
+                        "And there below I looked;",
+                        "I took up the runes,",
+                        "shrieking I took them,",
+                        "And forthwith back I fell."
+                    ]
+                },
+                {
+                    "id": "140",
+                    "type": "stanza",
+                    "number": "140.",
+                    "linesEN": [
+                        "Nine mighty songs",
+                        "I got from the son",
+                        "Of Bolthorn, Bestla's father;",
+                        "And a drink I got",
+                        "of the goodly mead",
+                        "Poured out from Othrörir."
+                    ]
+                },
+                {
+                    "id": "141",
+                    "type": "stanza",
+                    "number": "141.",
+                    "linesEN": [
+                        "Then began I to thrive,",
+                        "and wisdom to get,",
+                        "I grew and well I was;",
+                        "Each word led me on",
+                        "to another word,",
+                        "Each deed to another deed."
+                    ]
+                },
+                {
+                    "id": "142",
+                    "type": "stanza",
+                    "number": "142.",
+                    "linesEN": [
+                        "Runes shalt thou find,",
+                        "and fateful signs,",
+                        "That the king of singers colored,",
+                        "And the mighty gods have made;",
+                        "Full strong the signs,",
+                        "full mighty the signs",
+                        "That the ruler of gods doth write."
+                    ]
+                },
+                {
+                    "id": "143",
+                    "type": "stanza",
+                    "number": "143.",
+                    "linesEN": [
+                        "Othin for the gods,",
+                        "Dain for the elves,",
+                        "And Dvalin for the dwarfs,",
+                        "Alsvith for giants",
+                        "and all mankind,",
+                        "And some myself I wrote."
+                    ]
+                },
+                {
+                    "id": "144",
+                    "type": "stanza",
+                    "number": "144.",
+                    "linesEN": [
+                        "Knowest how one shall write,",
+                        "knowest how one shall rede?",
+                        "Knowest how one shall tint,",
+                        "knowest how one makes trial?",
+                        "Knowest how one shall ask,",
+                        "knowest how one shall offer?",
+                        "Knowest how one shall send,",
+                        "knowest how one shall sacrifice?"
+                    ]
+                },
+                {
+                    "id": "145",
+                    "type": "stanza",
+                    "number": "145.",
+                    "linesEN": [
+                        "Better no prayer",
+                        "than too big an offering,",
+                        "By thy getting measure thy gift;",
+                        "Better is none",
+                        "than too big a sacrifice,",
+                        "*********",
+                        "So Thund of old wrote",
+                        "ere man's race began,",
+                        "Where he rose on high",
+                        "when home he came"
+                    ]
+                },
+                {
+                    "id": "146",
+                    "type": "stanza",
+                    "number": "146.",
+                    "linesEN": [
+                        "The songs I know",
+                        "that king's wives know not,",
+                        "Nor men that are sons of men;",
+                        "The first is called help,",
+                        "and help it can bring thee",
+                        "In sorrow and pain and sickness."
+                    ]
+                },
+                {
+                    "id": "147",
+                    "type": "stanza",
+                    "number": "147.",
+                    "linesEN": [
+                        "A second I know,",
+                        "that men shall need",
+                        "Who leechcraft long to use;",
+                        "*********",
+                        "*********"
+                    ]
+                },
+                {
+                    "id": "148",
+                    "type": "stanza",
+                    "number": "148.",
+                    "linesEN": [
+                        "A third I know,",
+                        "if great is my need",
+                        "Of fetters to hold my foe;",
+                        "Blunt do I make",
+                        "mine enemy's blade,",
+                        "Nor bites his sword or staff."
+                    ]
+                },
+                {
+                    "id": "149",
+                    "type": "stanza",
+                    "number": "149.",
+                    "linesEN": [
+                        "A fourth I know,",
+                        "if men shall fasten",
+                        "Bonds on my bended legs;",
+                        "So great is the charm",
+                        "that forth I may go,",
+                        "The fetters spring from my feet,",
+                        "Broken the bonds from my hands."
+                    ]
+                },
+                {
+                    "id": "150",
+                    "type": "stanza",
+                    "number": "150.",
+                    "linesEN": [
+                        "A fifth I know,",
+                        "if I see from afar",
+                        "An arrow fly 'gainst the folk;",
+                        "It flies not so swift",
+                        "that I stop it not,",
+                        "If ever my eyes behold it."
+                    ]
+                },
+                {
+                    "id": "151",
+                    "type": "stanza",
+                    "number": "151.",
+                    "linesEN": [
+                        "A sixth I know,",
+                        "if harm one seeks",
+                        "With a sapling's roots to send me;",
+                        "The hero himself",
+                        "who wreaks his hate",
+                        "Shall taste the ill ere I."
+                    ]
+                },
+                {
+                    "id": "152",
+                    "type": "stanza",
+                    "number": "152.",
+                    "linesEN": [
+                        "A seventh I know,",
+                        "if I see in flames",
+                        "The hall o'er my comrades' heads;",
+                        "It burns not so wide",
+                        "that I will not quench it,",
+                        "I know that song to sing. "
+                    ]
+                },
+                {
+                    "id": "153",
+                    "type": "stanza",
+                    "number": "153.",
+                    "linesEN": [
+                        "An eighth I know,",
+                        "that is to all",
+                        "Of greatest good to learn;",
+                        "When hatred grows",
+                        "among heroes' sons,",
+                        "I soon can set it right. "
+                    ]
+                },
+                {
+                    "id": "154",
+                    "type": "stanza",
+                    "number": "154.",
+                    "linesEN": [
+                        "A ninth I know,",
+                        "if need there comes",
+                        "To shelter my ship on the flood;",
+                        "The wind I calm",
+                        "upon the waves,",
+                        "And the sea I put to sleep. "
+                    ]
+                },
+                {
+                    "id": "155",
+                    "type": "stanza",
+                    "number": "155.",
+                    "linesEN": [
+                        "A tenth I know,",
+                        "what time I see",
+                        "House-riders flying on high;",
+                        "So can I work",
+                        "that wildly they go,",
+                        "Showing their true shapes,",
+                        "Hence to their own homes. "
+                    ]
+                },
+                {
+                    "id": "156",
+                    "type": "stanza",
+                    "number": "156.",
+                    "linesEN": [
+                        "An eleventh I know,",
+                        "if needs I must lead",
+                        "To the fight my long-loved friends;",
+                        "I sing in the shields,",
+                        "and in strength they go",
+                        "Whole to the field of fight,",
+                        "Whole from the field of fight,",
+                        "And whole they come thence home."
+                    ]
+                },
+                {
+                    "id": "157",
+                    "type": "stanza",
+                    "number": "157.",
+                    "linesEN": [
+                        "A twelfth I know,",
+                        "if high on a tree",
+                        "I see a hanged man swing;",
+                        "So do I write",
+                        "and color the runes",
+                        "That forth he fares,",
+                        "And to me talks. "
+                    ]
+                },
+                {
+                    "id": "158",
+                    "type": "stanza",
+                    "number": "158.",
+                    "linesEN": [
+                        "A thirteenth I know,",
+                        "if a thane full young",
+                        "With water I sprinkle well;",
+                        "He shall not fall,",
+                        "though he fares mid the host,",
+                        "Nor sink beneath the swords. "
+                    ]
+                },
+                {
+                    "id": "159",
+                    "type": "stanza",
+                    "number": "159.",
+                    "linesEN": [
+                        "A fourteenth I know,",
+                        "if fain I would name",
+                        "To men the mighty gods;",
+                        "All know I well",
+                        "of the gods and elves,",
+                        "Few be the fools know this. "
+                    ]
+                },
+                {
+                    "id": "160",
+                    "type": "stanza",
+                    "number": "160.",
+                    "linesEN": [
+                        "A fifteenth I know,",
+                        "that before the doors",
+                        "Of Delling sang Thjothrörir the dwarf;",
+                        "Might he sang for the gods,",
+                        "and glory for elves,",
+                        "And wisdom for Hroptatyr wise. "
+                    ]
+                },
+                {
+                    "id": "161",
+                    "type": "stanza",
+                    "number": "161.",
+                    "linesEN": [
+                        "A sixteenth I know,",
+                        "if I seek delight",
+                        "To win from a maiden wise;",
+                        "The mind I turn",
+                        "of the white-armed maid,",
+                        "And thus change all her thoughts. "
+                    ]
+                },
+                {
+                    "id": "162",
+                    "type": "stanza",
+                    "number": "162.",
+                    "linesEN": [
+                        "A seventeenth I know,",
+                        "so that seldom shall go",
+                        "A maiden young from me;",
+                        "Long these songs",
+                        "thou shalt, Loddfafnir,",
+                        "Seek in vain to sing;",
+                        "Yet good it were",
+                        "if thou mightest get them,",
+                        "Well, if thou wouldst them learn,",
+                        "Help, if thou hadst them. "
+                    ]
+                },
+                {
+                    "id": "163",
+                    "type": "stanza",
+                    "number": "163.",
+                    "linesEN": [
+                        "An eighteenth I know,",
+                        "that ne'er will I tell",
+                        "To maiden or wife of man,",
+                        "The best is what none",
+                        "but one's self doth know,",
+                        "So comes the end of the songs,",
+                        "Save only to her",
+                        "in whose arms I lie,",
+                        "Or who else my sister is. "
+                    ]
+                },
+                {
+                    "id": "164",
+                    "type": "stanza",
+                    "number": "164.",
+                    "linesEN": [
+                        "Now are Hor's words",
+                        "spoken in the hall,",
+                        "Kind for the kindred of men,",
+                        "Cursed for the kindred of giants:",
+                        "Hail to the speaker,",
+                        "and to him who learns!",
+                        "Profit be his who has them!",
+                        "Hail to them who hearken! "
+                    ]
+                }
+            ]
+        },
+        "TheLayOfVafthrudnir": {
+            "Title": "",
+            "Source": "",
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "stanza",
+                    "number": "1.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Counsel me, Frigg, for I long to fare,",
+                        "And Vafthruthnir fain would find;",
+                        "fit wisdom old with the giant wise",
+                        "Myself would I seek to match.\""
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        "Frigg spake:",
+                        "\"Heerfather here at home would I keep,",
+                        "Where the gods together dwell;",
+                        "Amid all the giants an equal in might",
+                        "To Vafthruthnir know I none.\""
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared, much have I found.",
+                        "Much have I got from the gods;",
+                        "And fain would I know how Vafthruthnir now",
+                        "Lives in his lofty hall.\""
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        "Frigg spake:",
+                        "\"Safe mayst thou go, safe come again,",
+                        "And safe be the way thou wendest!",
+                        "Father of men, let thy mind be keen",
+                        "When speech with the giant thou seekest.\""
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "The wisdom then of the giant wise",
+                        "Forth did he fare to try;",
+                        "He found the hall",
+                        "of the father of Im,",
+                        "And in forthwith went Ygg."
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Vafthruthnir, hail!",
+                        "to thy hall am I come,",
+                        "For thyself I fain would see;",
+                        "And first would I ask",
+                        "if wise thou art,",
+                        "Or, giant, all wisdom hast won.\""
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Who is the man",
+                        "that speaks to me,",
+                        "Here in my lofty hall?",
+                        "Forth from our dwelling",
+                        "thou never shalt fare,",
+                        "Unless wiser than I thou art.\""
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Gagnrath they call me,",
+                        "and thirsty I come",
+                        "From a journey hard to thy hall;",
+                        "Welcome I look for,",
+                        "for long have I fared,",
+                        "And gentle greeting, giant.\""
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Why standest thou there",
+                        "on the floor whilst thou speakest?",
+                        "A seat shalt thou have in my hall;",
+                        "Then soon shall we know",
+                        "whose knowledge is more,",
+                        "The guest's or the sage's gray.\""
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"If a poor man reaches",
+                        "the home of the rich,",
+                        "Let him wisely speak or be still;",
+                        "For to him who speaks",
+                        "with the hard of heart",
+                        "Will chattering ever work ill.\""
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Speak forth now, Gagnrath,",
+                        "if there from the floor",
+                        "Thou wouldst thy wisdom make known:",
+                        "What name has the steed",
+                        "that each morn anew",
+                        "The day for mankind doth draw?\""
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Skinfaxi is he,",
+                        "the steed who for men",
+                        "The glittering day doth draw;",
+                        "The best of horses",
+                        "to heroes he seems,",
+                        "And brightly his mane doth burn.\""
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Speak forth now, Gagnrath,",
+                        "if there from the floor",
+                        "Thou wouldst thy wisdom make known:",
+                        "What name has the steed",
+                        "that from East anew",
+                        "Brings night for the noble gods?\""
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Hrimfaxi name they",
+                        "the steed that anew",
+                        "Brings night for the noble gods;",
+                        "Each morning foam",
+                        "from his bit there falls,",
+                        "And thence come the dews in the dales.\""
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Speak forth now, Gagnrath,",
+                        "if there from the floor",
+                        "Thou wouldst thy wisdom make known:",
+                        "What name has the river",
+                        "that 'twixt the realms",
+                        "Of the gods and the giants goes?\""
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "Othin spoke:",
+                        "\"Ifing is the river",
+                        "that 'twixt the realms",
+                        "Of the gods and the giants goes;",
+                        "For all time ever",
+                        "open it flows,",
+                        "No ice on the river there is.\""
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Speak forth now, Gagnrath,",
+                        "if there from the floor",
+                        "Thou wouldst thy wisdom make known:",
+                        "What name has the field",
+                        "where in fight shall meet",
+                        "Surt and the gracious gods?\""
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Vigrith is the field",
+                        "where in fight shall meet",
+                        "Surt and the gracious gods;",
+                        "A hundred miles",
+                        "each way does it measure.",
+                        "And so are its boundaries set.\""
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Wise art thou, guest!",
+                        "To my bench shalt thou go,",
+                        "In our seats let us speak together;",
+                        "Here in the hall",
+                        "our heads, O guest,",
+                        "Shall we wager our wisdom upon.\""
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"First answer me well,",
+                        "if thy wisdom avails,",
+                        "And thou knowest it, Vafthruthnir, now:",
+                        "In earliest time",
+                        "whence came the earth,",
+                        "Or the sky, thou giant sage?\""
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Out of Ymir's flesh",
+                        "was fashioned the earth,",
+                        "And the mountains were made of his bones;",
+                        "The sky from the frost-cold",
+                        "giant's skull,",
+                        "And the ocean out of his blood.\""
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Next answer me well,",
+                        "if thy wisdom avails,",
+                        "And thou knowest it, Vafthruthnir, now:",
+                        "Whence came the moon,",
+                        "o'er the world of men",
+                        "That fares, and the flaming sun?\""
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Mundilferi is he",
+                        "who begat the moon,",
+                        "And fathered the flaming sun;",
+                        "The round of heaven",
+                        "each day they run,",
+                        "To tell the time for men.\""
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Third answer me well,",
+                        "if wise thou art called,",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "Whence came the day,",
+                        "o'er mankind that fares,",
+                        "Or night with the narrowing moon?\""
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"The father of day",
+                        "is Delling called,",
+                        "And the night was begotten by Nor;",
+                        "Full moon and old",
+                        "by the gods were fashioned,",
+                        "To tell the time for men.\""
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Fourth answer me well,",
+                        "if wise thou art called,",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "Whence did winter come,",
+                        "or the summer warm,",
+                        "First with the gracious gods?\""
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Vindsval he was",
+                        "who was winter's father,",
+                        "And Svosuth summer begat;\""
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Fifth answer me well,",
+                        "if wise thou art called,",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "What giant first",
+                        "was fashioned of old,",
+                        "And the eldest of Ymir's kin?\""
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Winters unmeasured",
+                        "ere earth was made",
+                        "Was the birth of Bergelmir;",
+                        "Thruthgelmir's son",
+                        "was the giant strong,",
+                        "And Aurgelmir's grandson of old.\""
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Sixth answer me well,",
+                        "if wise thou art called,",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "Whence did Aurgelmir come",
+                        "with the giants' kin,",
+                        "Long since, thou giant sage?\""
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Down from Elivagar",
+                        "did venom drop,",
+                        "And waxed till a giant it was;",
+                        "And thence arose",
+                        "our giants' race,",
+                        "And thus so fierce are we found.\""
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Seventh answer me well,",
+                        "if wise thou art called,",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "How begat he children,",
+                        "the giant grim,",
+                        "Who never a giantess knew?\""
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"They say 'neath the arms",
+                        "of the giant of ice",
+                        "Grew man-child and maid together;",
+                        "And foot with foot",
+                        "did the wise one fashion",
+                        "A son that six heads bore.\""
+                    ]
+                },
+                {
+                    "id": "34",
+                    "type": "stanza",
+                    "number": "34.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Eighth answer me well,",
+                        "if wise thou art called,",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "What farthest back",
+                        "dost thou bear in mind?",
+                        "For wide is thy wisdom, giant!\""
+                    ]
+                },
+                {
+                    "id": "35",
+                    "type": "stanza",
+                    "number": "35.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Winters unmeasured",
+                        "ere earth was made",
+                        "Was the birth of Bergelmir;",
+                        "This first knew I well,",
+                        "when the giant wise",
+                        "In a boat of old was borne.\""
+                    ]
+                },
+                {
+                    "id": "36",
+                    "type": "stanza",
+                    "number": "36.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Ninth answer me well,",
+                        "if wise thou art called",
+                        "If thou knowest it, Vafthruthnir, now:",
+                        "Whence comes the wind",
+                        "that fares o'er the waves",
+                        "Yet never itself is seen?\""
+                    ]
+                },
+                {
+                    "id": "37",
+                    "type": "stanza",
+                    "number": "37.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"In an eagle's guise",
+                        "at the end of heaven",
+                        "Hræsvelg sits, they say;",
+                        "And from his wings",
+                        "does the wind come forth",
+                        "To move o'er the world of men.\""
+                    ]
+                },
+                {
+                    "id": "38",
+                    "type": "stanza",
+                    "number": "38.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Tenth answer me now,",
+                        "if thou knowest all",
+                        "The fate that is fixed for the gods:",
+                        "Whence came up Njorth",
+                        "to the kin of the gods,",
+                        "(Rich in temples",
+                        "and shrines he rules,)",
+                        "Though of gods he was never begot?\""
+                    ]
+                },
+                {
+                    "id": "39",
+                    "type": "stanza",
+                    "number": "39.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"In the home of the Wanes",
+                        "did the wise ones create him,",
+                        "And gave him as pledge to the gods;",
+                        "At the fall of the world",
+                        "shall he fare once more",
+                        "Home to the Wanes so wise.\""
+                    ]
+                },
+                {
+                    "id": "40",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Eleventh answer me well,",
+                        "who issue forth from the stronghold",
+                        "to hack each other every day?",
+                        "Slaughter they choose",
+                        "and ride to war",
+                        "sit the glorious ones in reconciliation together.\""
+                    ]
+                },
+                {
+                    "id": "41",
+                    "type": "stanza",
+                    "number": "41.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "All the champions every day contend in Óðin's courtyard;",
+                        "they choose the slaughter and ride from the field,",
+                        "thenceforth sit reconciled."
+                    ]
+                },
+                {
+                    "id": "42",
+                    "type": "stanza",
+                    "number": "42.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Twelfth answer me now",
+                        "how all thou knowest",
+                        "Of the fate that is fixed for the gods;",
+                        "Of the runes of the gods",
+                        "and the giants' race",
+                        "The truth indeed dost thou tell,",
+                        "(And wide is thy wisdom, giant!)\""
+                    ]
+                },
+                {
+                    "id": "43",
+                    "type": "stanza",
+                    "number": "43.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"Of the runes of the gods",
+                        "and the giants' race",
+                        "The truth indeed can I tell,",
+                        "(For to every world have I won;)",
+                        "To nine worlds came I,",
+                        "to Niflhel beneath,",
+                        "The home where dead men dwell.\""
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "44.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared,",
+                        "much have I found,",
+                        "Much have I got of the gods:",
+                        "What shall live of mankind",
+                        "when at last there comes",
+                        "The mighty winter to men?\""
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"In Hoddmimir's wood",
+                        "shall hide themselves",
+                        "Lif and Lifthrasir then;",
+                        "The morning dews",
+                        "for meat shall they have,",
+                        "Such food shall men then find.\""
+                    ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared,",
+                        "much have I found,",
+                        "Much have I got of the gods:",
+                        "Whence comes the sun",
+                        "to the smooth sky back,",
+                        "When Fenrir has snatched it forth?\""
+                    ]
+                },
+                {
+                    "id": "47",
+                    "type": "stanza",
+                    "number": "47.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"A daughter bright",
+                        "Alfrothul bears",
+                        "Ere Fenrir snatches her forth;",
+                        "Her mother's paths",
+                        "shall the maiden tread",
+                        "When the gods to death have gone.\""
+                    ]
+                },
+                {
+                    "id": "48",
+                    "type": "stanza",
+                    "number": "48.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared,",
+                        "much have I found,",
+                        "Much have I got of the gods:",
+                        "What maidens are they,",
+                        "so wise of mind.",
+                        "That forth o'er the sea shall fare?\""
+                    ]
+                },
+                {
+                    "id": "49",
+                    "type": "stanza",
+                    "number": "49.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"O'er Mogthrasir's hill",
+                        "shall the maidens pass,",
+                        "And three are their throngs that come;",
+                        "They all shall protect",
+                        "the dwellers on earth,",
+                        "Though they come of the giants' kin.\""
+                    ]
+                },
+                {
+                    "id": "50",
+                    "type": "stanza",
+                    "number": "50.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared,",
+                        "much have I found,",
+                        "Much have I got of the gods:",
+                        "Who then shall rule",
+                        "the realm of the gods,",
+                        "When the fires of Surt have sunk?\""
+                    ]
+                },
+                {
+                    "id": "51",
+                    "type": "stanza",
+                    "number": "51.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"In the gods' home Vithar",
+                        "and Vali shall dwell,",
+                        "When the fires of Surt have sunk;",
+                        "Mothi and Magni",
+                        "shall Mjollnir have",
+                        "When Vingnir falls in fight.\""
+                    ]
+                },
+                {
+                    "id": "52",
+                    "type": "stanza",
+                    "number": "52.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared,",
+                        "much have I found,",
+                        "Much have I got of the gods:",
+                        "What shall bring the doom",
+                        "of death to Othin,",
+                        "When the gods to destruction go?\""
+                    ]
+                },
+                {
+                    "id": "53",
+                    "type": "stanza",
+                    "number": "53.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"The wolf shall fell",
+                        "the father of men,",
+                        "And this shall Vithar avenge;",
+                        "The terrible jaws",
+                        "shall he tear apart,",
+                        "And so the wolf shall he slay.\""
+                    ]
+                },
+                {
+                    "id": "54",
+                    "type": "stanza",
+                    "number": "54.",
+                    "linesEN": [
+                        "Othin spake:",
+                        "\"Much have I fared,",
+                        "much have I found,",
+                        "Much have I got from the gods:",
+                        "What spake Othin himself",
+                        "in the ears of his son,",
+                        "Ere in the bale-fire he burned?\""
+                    ]
+                },
+                {
+                    "id": "55",
+                    "type": "stanza",
+                    "number": "55.",
+                    "linesEN": [
+                        "Vafthruthnir spake:",
+                        "\"No man can tell",
+                        "what in olden time",
+                        "Thou spak'st in the ears of thy son;",
+                        "With fated mouth",
+                        "the fall of the gods",
+                        "And mine olden tales have I told;",
+                        "With Othin in knowledge",
+                        "now have I striven,",
+                        "And ever the wiser thou art.\""
+                    ]
+                }
+            ]
+        },
+        "TheLayOfGrímnir": {
+            "Title": "",
+            "Source": "",
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "prose",
+                    "number": "1.",
+                    "linesEN": [
+                        "Of the sons of King Hrauthung",
+                        "King Hrauthung had two sons: one was called Agnar, and the other Geirröth. Agnar was ten winters old, and Geirröth eight. Once they both rowed in a boat with their fishing-gear to catch little fish; and the wind drove them out into the sea. In the darkness of the night they were wrecked on the shore; and going up, they found a poor peasant, with whom they stayed through the winter. The housewife took care of Agnar, and the peasant cared for Geirröth, and taught him wisdom. In the spring the peasant gave him a boat; and when the couple led them to the shore, the peasant spoke secretly with Geirröth. They had a fair wind, and came to their father's landing-place. Geirröth was forward in the boat; he leaped up on land, but pushed out the boat and said, \"Go thou now where evil may have thee!\" The boat drifted out to sea. Geirröth, however, went up to the house, and was well received, but his father was dead. Then Geirröth was made king, and became a renowned man.",
+                        "Othin and Frigg sat in Hlithskjolf and looked over all the worlds. Othin said: \"Seest thou Agnar, thy foster ling, how he begets children with a giantess in the cave? But Geirröth, my fosterling, is a king, and now rules over his land.\" Frigg said: \"He is so miserly that he tortures his guests if he thinks that too many of them come to him.\" Othin replied that this was the greatest of lies; and they made a wager about this matter. Frigg sent her maid-servant, Fulla, to Geirröth. She bade the king beware lest a magician who was come thither to his land should bewitch him, and told this sign concerning him, that no dog was so fierce as to leap at him. Now it was a very great slander that King Geirröth was not hospitable; but nevertheless he had them take the man whom the dogs would not attack. He wore a dark-blue mantle and called himself Grimnir, but said no more about himself, though he was questioned. The king had him tortured to make him speak, and set him between two fires, and he sat there eight nights. King Geirröth had a son ten winters old, and called Agnar after his father's brother. Agnar went to Grimnir, and gave him a full horn to drink from, and said that the king did ill in letting him be tormented with out cause. Grimnir drank from the horn; the fire had come so near that the mantle burned on Grimnir's back. He spake:"
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        "Hot art thou, fire!",
+                        "too fierce by far;",
+                        "Get ye now gone, ye flames!",
+                        "The mantle is burnt,",
+                        "though I bear it aloft,",
+                        "And the fire scorches the fur."
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        "Twixt the fires now",
+                        "eight nights have I sat,",
+                        "And no man brought meat to me,",
+                        "Save Agnar alone,",
+                        "and alone shall rule",
+                        "Geirröth's son o'er the Goths."
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        "Hail to thee, Agnar!",
+                        "for hailed thou art",
+                        "By the voice of Veratyr;",
+                        "For a single drink",
+                        "shalt thou never receive",
+                        "A greater gift as reward."
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "The land is holy",
+                        "that lies hard by",
+                        "The gods and the elves together;",
+                        "And Thor shall ever",
+                        "in Thruthheim dwell,",
+                        "Till the gods to destruction go."
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "Ydalir call they",
+                        "the place where Ull",
+                        "A hall for himself hath set;",
+                        "And Alfheim the gods",
+                        "to Freyr once gave",
+                        "As a tooth-gift in ancient times."
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "A third home is there,",
+                        "with silver thatched",
+                        "By the hands of the gracious gods:",
+                        "Valaskjolf is it,",
+                        "in days of old",
+                        "Set by a god for himself."
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "Sökkvabekk is the fourth,",
+                        "where cool waves flow,",
+                        "And amid their murmur it stands;",
+                        "There daily do Othin",
+                        "and Saga drink",
+                        "In gladness from cups of gold."
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "The fifth is Glathsheim,",
+                        "and gold-bright there",
+                        "Stands Valhall stretching wide;",
+                        "And there does Othin",
+                        "each day choose",
+                        "The men who have fallen in fight."
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "Easy is it to know",
+                        "for him who to Othin",
+                        "Comes and beholds the hall;",
+                        "Its rafters are spears,",
+                        "with shields is it roofed,",
+                        "On its benches are breastplates strewn."
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "Easy is it to know",
+                        "for him who to Othin",
+                        "Comes and beholds the hall;",
+                        "There hangs a wolf",
+                        "by the western door,",
+                        "And o'er it an eagle hovers."
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "stanza",
+                    "number": "12.",
+                    "linesEN": [
+                        "The sixth is Thrymheim,",
+                        "where Thjazi dwelt,",
+                        "The giant of marvelous might;",
+                        "Now Skathi abides,",
+                        "the god's fair bride,",
+                        "In the home that her father had."
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "The seventh is Breithablik;",
+                        "Baldr has there",
+                        "For himself a dwelling set,",
+                        "In the land I know",
+                        "that lies so fair,",
+                        "And from evil fate is free."
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "Himinbjorg is the eighth,",
+                        "and Heimdall there",
+                        "O'er men holds sway, it is said;",
+                        "In his well-built house",
+                        "does the warder of heaven",
+                        "The good mead gladly drink."
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "The ninth is Folkvang,",
+                        "where Freyja decrees",
+                        "Who shall have seats in the hall;",
+                        "The half of the dead",
+                        "each day does she choose,",
+                        "And half does Othin have."
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "The tenth is Glitnir;",
+                        "its pillars are gold,",
+                        "And its roof with silver is set;",
+                        "There most of his days",
+                        "does Forseti dwell,",
+                        "And sets all strife at end."
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "The eleventh is Noatun;",
+                        "there has Njorth",
+                        "For himself a dwelling set;",
+                        "The sinless ruler",
+                        "of men there sits",
+                        "In his temple timbered high."
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "Filled with growing trees",
+                        "and high-standing grass",
+                        "Is Vithi, Vithar's land;",
+                        "But there did the son",
+                        "from his steed leap down,",
+                        "When his father he fain would avenge."
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "In Eldhrimnir",
+                        "Andhrimnir cooks",
+                        "Sæhrimnir's seething flesh,",
+                        "The best of food,",
+                        "but few men know",
+                        "On what fare the warriors feast."
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "Freki and Geri",
+                        "does Heerfather feed,",
+                        "The far-famed fighter of old:",
+                        "But on wine alone",
+                        "does the weapon-decked god,",
+                        "Othin, forever live."
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "O'er Mithgarth Hugin",
+                        "and Munin both",
+                        "Each day set forth to fly;",
+                        "For Hugin I fear",
+                        "lest he come not home,",
+                        "But for Munin my care is more."
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "Loud roars Thund,",
+                        "and Thjothvitnir's fish",
+                        "joyously fares in the flood;",
+                        "Hard does it seem",
+                        "to the host of the slain",
+                        "To wade the torrent wild."
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        "There Valgrind stands,",
+                        "the sacred gate,",
+                        "And behind are the holy doors;",
+                        "Old is the gate,",
+                        "but few there are",
+                        "Who can tell how it tightly is locked."
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        "Five hundred doors",
+                        "and forty there are,",
+                        "I ween, in Valhall's walls;",
+                        "Eight hundred fighters",
+                        "through one door fare",
+                        "When to war with the wolf they go."
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        "Five hundred rooms",
+                        "and forty there are",
+                        "I ween, in Bilskirnir built;",
+                        "Of all the homes",
+                        "whose roofs I beheld,",
+                        "My son's the greatest meseemed."
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        "Heithrun is the goat",
+                        "who stands by Heerfather's hall,",
+                        "And the branches of Lærath she bites;",
+                        "The pitcher she fills",
+                        "with the fair, clear mead,",
+                        "Ne'er fails the foaming drink."
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        "Eikthyrnir is the hart",
+                        "who stands by Heerfather's hall",
+                        "And the branches of Lærath he bites;",
+                        "From his horns a stream",
+                        "into Hvergelmir drops,",
+                        "Thence all the rivers run."
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        "Sith and Vith,",
+                        "Sækin and Ækin,",
+                        "Svol and Fimbulthul,",
+                        "Gunnthro, and Fjorm,",
+                        "Rin and Rinnandi,",
+                        "Gipul and Gopul,",
+                        "Gomul and Geirvimul,",
+                        "That flow through the fields of the gods;",
+                        "Thyn and Vin,",
+                        "Thol and Hol,",
+                        "Groth and Gunnthorin."
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        "Vino is one,",
+                        "Vegsvin another,",
+                        "And Thjothnuma a third;",
+                        "Nyt and Not,",
+                        "Non and Hron,",
+                        "Slith and Hrith,",
+                        "Sylg and Ylg,",
+                        "Vith and Von,",
+                        "Vond and Strond,",
+                        "Gjol and Leipt,",
+                        "that go among men,",
+                        "And hence they fall to Hel."
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        "Kormt and Ormt",
+                        "and the Kerlaugs twain",
+                        "Shall Thor each day wade through,",
+                        "(When dooms to give",
+                        "he forth shall go",
+                        "To the ash-tree Yggdrasil;)",
+                        "For heaven's bridge",
+                        "burns all in flame,",
+                        "And the sacred waters seethe."
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        "Glath and Gyllir,",
+                        "Gler and Skeithbrimir,",
+                        "Silfrintopp and Sinir,",
+                        "Gisl and Falhofnir,",
+                        "Golltopp and Lettfeti,",
+                        "On these steeds the gods shall go",
+                        "When dooms to give",
+                        "each day they ride",
+                        "To the ash-tree Yggdrasil."
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        "Three roots there are",
+                        "that three ways run",
+                        "'Neath the ash-tree Yggdrasil;",
+                        "'Neath the first lives Hel,",
+                        "'neath the second the frost-giants,",
+                        "'Neath the last are the lands of men."
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        "Ratatosk is the squirrel",
+                        "who there shall run",
+                        "On the ash-tree Yggdrasil;",
+                        "From above the words",
+                        "of the eagle he bears,",
+                        "And tells them to Nithhogg beneath."
+                    ]
+                },
+                {
+                    "id": "34",
+                    "type": "stanza",
+                    "number": "34.",
+                    "linesEN": [
+                        "Four harts there are,",
+                        "that the highest twigs",
+                        "Nibble with necks bent back;",
+                        "Dain and Dvalin,",
+                        "*********",
+                        "Duneyr and Dyrathror."
+                    ]
+                },
+                {
+                    "id": "35",
+                    "type": "stanza",
+                    "number": "35.",
+                    "linesEN": [
+                        "More serpents there are",
+                        "beneath the ash",
+                        "Than an unwise ape would think;",
+                        "Goin and Moin,",
+                        "Grafvitnir's sons,",
+                        "Grabak and Grafvolluth,",
+                        "Ofnir and Svafnir",
+                        "shall ever, methinks,",
+                        "Gnaw at the twigs of the tree."
+                    ]
+                },
+                {
+                    "id": "36",
+                    "type": "stanza",
+                    "number": "36.",
+                    "linesEN": [
+                        "Yggdrasil's ash",
+                        "great evil suffers,",
+                        "Far more than men do know;",
+                        "The hart bites its top,",
+                        "its trunk is rotting,",
+                        "And Nithhogg gnaws beneath."
+                    ]
+                },
+                {
+                    "id": "37",
+                    "type": "stanza",
+                    "number": "37.",
+                    "linesEN": [
+                        "Hrist and Mist",
+                        "bring the horn at my will,",
+                        "Skeggjold and Skogul;",
+                        "Hild and Thruth,",
+                        "Hlok and Herfjotur,",
+                        "Gol and Geironul,",
+                        "Randgrith and Rathgrith",
+                        "and Reginleif",
+                        "Beer to the warriors bring."
+                    ]
+                },
+                {
+                    "id": "38",
+                    "type": "stanza",
+                    "number": "38.",
+                    "linesEN": [
+                        "Arvak and Alsvith",
+                        "up shall drag",
+                        "Weary the weight of the sun;",
+                        "But an iron cool",
+                        "have the kindly gods",
+                        "Of yore set under their yokes."
+                    ]
+                },
+                {
+                    "id": "39",
+                    "type": "stanza",
+                    "number": "39.",
+                    "linesEN": [
+                        "In front of the sun",
+                        "does Svalin stand,",
+                        "The shield for the shining god;",
+                        "Mountains and sea",
+                        "would be set in flames",
+                        "If it fell from before the sun."
+                    ]
+                },
+                {
+                    "id": "40",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesEN": [
+                        "Skoll is the wolf",
+                        "that to Ironwood",
+                        "Follows the glittering god,",
+                        "And the son of Hrothvitnir,",
+                        "Hati, awaits",
+                        "The burning bride of heaven."
+                    ]
+                },
+                {
+                    "id": "41",
+                    "type": "stanza",
+                    "number": "41.",
+                    "linesEN": [
+                        "Out of Ymir's flesh",
+                        "was fashioned the earth,",
+                        "And the ocean out of his blood;",
+                        "Of his bones the hills,",
+                        "of his hair the trees,",
+                        "Of his skull the heavens high."
+                    ]
+                },
+                {
+                    "id": "42",
+                    "type": "stanza",
+                    "number": "42.",
+                    "linesEN": [
+                        "Mithgarth the gods",
+                        "from his eyebrows made,",
+                        "And set for the sons of men;",
+                        "And out of his brain",
+                        "the baleful clouds",
+                        "They made to move on high."
+                    ]
+                },
+                {
+                    "id": "43",
+                    "type": "stanza",
+                    "number": "43.",
+                    "linesEN": [
+                        "His the favor of Ull",
+                        "and of all the gods",
+                        "Who first in the flames will reach;",
+                        "For the house can be seen",
+                        "by the sons of the gods",
+                        "If the kettle aside were cast."
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "44.",
+                    "linesEN": [
+                        "In days of old",
+                        "did Ivaldi's sons",
+                        "Skithblathnir fashion fair,",
+                        "The best of ships",
+                        "for the bright god Freyr,",
+                        "The noble son of Njorth."
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesEN": [
+                        "The best of trees",
+                        "must Yggdrasil be,",
+                        "Skithblathnir best of boats;",
+                        "Of all the gods",
+                        "is Othin the greatest,",
+                        "And Sleipnir the best of steeds;",
+                        "Bifrost of bridges,",
+                        "Bragi of skalds,",
+                        "Hobrok of hawks,",
+                        "and Garm of hounds."
+                    ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesEN": [
+                        "To the race of the gods",
+                        "my face have I raised,",
+                        "And the wished-for aid have I waked;",
+                        "For to all the gods",
+                        "has the message gone",
+                        "That sit in Ægir's seats,",
+                        "That drink within Ægir's doors."
+                    ]
+                },
+                {
+                    "id": "47",
+                    "type": "stanza",
+                    "number": "47.",
+                    "linesEN": [
+                        "Grim is my name,",
+                        "Gangleri am I,",
+                        "Herjan and Hjalmberi,",
+                        "Thekk and Thrithi,",
+                        "Thuth and Uth,",
+                        "Helblindi and Hor;"
+                    ]
+                },
+                {
+                    "id": "48",
+                    "type": "stanza",
+                    "number": "48.",
+                    "linesEN": [
+                        "Sath and Svipal",
+                        "and Sanngetal,",
+                        "Herteit and Hnikar,",
+                        "Bileyg, Baleyg,",
+                        "Bolverk, Fjolnir, Grim and Grimnir,",
+                        "Glapsvith, Fjolsvith."
+                    ]
+                },
+                {
+                    "id": "49",
+                    "type": "stanza",
+                    "number": "49.",
+                    "linesEN": [
+                        "Sithhott, Sithskegg,",
+                        "Sigfather, Hnikuth,",
+                        "Allfather, Valfather,",
+                        "Atrith, Farmatyr:",
+                        "A single name",
+                        "have I never had",
+                        "Since first among men I fared."
+                    ]
+                },
+                {
+                    "id": "50",
+                    "type": "stanza",
+                    "number": "50.",
+                    "linesEN": [
+                        "Grimnir they call me",
+                        "in Geirröth's hall,",
+                        "With Asmund Jalk am I;",
+                        "Kjalar I was",
+                        "when I went in a sledge,",
+                        "At the council Thror am I called,",
+                        "As Vithur I fare to the fight;",
+                        "Oski, Biflindi,",
+                        "Jafnhor and Omi,",
+                        "Gondlir and Harbarth midst gods."
+                    ]
+                },
+                {
+                    "id": "51",
+                    "type": "stanza",
+                    "number": "51.",
+                    "linesEN": [
+                        "So. I deceived the giant",
+                        "Sokkmimir old",
+                        "As Svithur and Svithrir of yore;",
+                        "Of Mithvitnir's son",
+                        "the slayer I was",
+                        "When the famed one found his doom."
+                    ]
+                },
+                {
+                    "id": "52",
+                    "type": "stanza",
+                    "number": "52.",
+                    "linesEN": [
+                        "Drunk art thou, Geirröth,",
+                        "too much didst thou drink,",
+                        "*********",
+                        "Much hast thou lost,",
+                        "for help no more",
+                        "From me or my heroes thou hast."
+                    ]
+                },
+                {
+                    "id": "53",
+                    "type": "stanza",
+                    "number": "53.",
+                    "linesEN": [
+                        "Small heed didst thou take",
+                        "to all that I told,",
+                        "And false were the words of thy friends;",
+                        "For now the sword",
+                        "of my friend I see,",
+                        "That waits all wet with blood."
+                    ]
+                },
+                {
+                    "id": "54",
+                    "type": "stanza",
+                    "number": "54.",
+                    "linesEN": [
+                        "Thy sword-pierced body",
+                        "shall Ygg have soon,",
+                        "For thy life is ended at last;",
+                        "The maids are hostile;",
+                        "now Othin behold!",
+                        "Now come to me if thou canst!"
+                    ]
+                },
+                {
+                    "id": "55",
+                    "type": "stanza",
+                    "number": "55.",
+                    "linesEN": [
+                        "Now am I Othin,",
+                        "Ygg was I once,",
+                        "Ere that did they call me Thund;",
+                        "Vak and Skilfing,",
+                        "Vofuth and Hroptatyr,",
+                        "Gaut and Jalk midst the gods;",
+                        "Ofnir and Svafnir,",
+                        "and all, methinks,",
+                        "Are names for none but me."
+                    ]
+                },
+                {
+                    "id": "56",
+                    "type": "prose",
+                    "number": "56.",
+                    "linesEN": [
+                        "King Geirröth sat and had his sword on his knee, half drawn from its sheath. But when he heard that Othin was come thither, then he rose up and sought to take Othin from the fire. The sword slipped from his hand, and fell with the hilt down. The king stumbled and fell forward, and the sword pierced him through, and slew him. Then Othin vanished, but Agnar long ruled there as king."
+                    ]
+                }
+            ]
+        },
+        "TheLayOfSkírnir": {
+            "Title": "",
+            "Source": "",
+            "Texts": [
+                {
+                    "id": "1",
+                    "type": "prose",
+                    "number": "1.",
+                    "linesEN": [
+                        "Freyr, the son of Njorth, had sat one day in Hlithskjolf, and looked over all the worlds. He looked into Jotunheim, and saw there a fair maiden, as she went from her father's house to her bower. Forthwith he felt a mighty love-sickness. Skirnir was the name of Freyr's servant; Njorth bade him ask speech of Freyr. He said:"
+                    ]
+                },
+                {
+                    "id": "2",
+                    "type": "stanza",
+                    "number": "2.",
+                    "linesEN": [
+                        "\"Go now, Skirnir!",
+                        "and seek to gain",
+                        "Speech from my son;",
+                        "And answer to win,",
+                        "for whom the wise one",
+                        "Is mightily moved.\""
+                    ]
+                },
+                {
+                    "id": "3",
+                    "type": "stanza",
+                    "number": "3.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Ill words do I now",
+                        "await from thy son,",
+                        "If I seek to get speech with him,",
+                        "And answer to win,",
+                        "for whom the wise one",
+                        "Is mightily moved.\""
+                    ]
+                },
+                {
+                    "id": "4",
+                    "type": "stanza",
+                    "number": "4.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Speak prithee, Freyr,",
+                        "foremost of the gods,",
+                        "For now I fain would know;",
+                        "Why sittest thou here",
+                        "in the wide halls,",
+                        "Days long, my prince, alone?\""
+                    ]
+                },
+                {
+                    "id": "5",
+                    "type": "stanza",
+                    "number": "5.",
+                    "linesEN": [
+                        "Freyr spake:",
+                        "\"How shall I tell thee,",
+                        "thou hero young,",
+                        "Of all my grief so great?",
+                        "Though every day",
+                        "the elfbeam dawns,",
+                        "It lights my longing never.\""
+                    ]
+                },
+                {
+                    "id": "6",
+                    "type": "stanza",
+                    "number": "6.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Thy longings, methinks,",
+                        "are not so large",
+                        "That thou mayst not tell them to me;",
+                        "Since in days of yore",
+                        "we were young together,",
+                        "We two might each other trust.\""
+                    ]
+                },
+                {
+                    "id": "7",
+                    "type": "stanza",
+                    "number": "7.",
+                    "linesEN": [
+                        "Freyr spake:",
+                        "\"From Gymir's house",
+                        "I beheld go forth",
+                        "A maiden dear to me;",
+                        "Her arms glittered,",
+                        "and from their gleam",
+                        "Shone all the sea and sky.\""
+                    ]
+                },
+                {
+                    "id": "8",
+                    "type": "stanza",
+                    "number": "8.",
+                    "linesEN": [
+                        "\"To me more dear | than in days of old",
+                        "Was ever maiden to man;",
+                        "But no one of gods | or elves will grant",
+                        "That we both together should be.\""
+                    ]
+                },
+                {
+                    "id": "9",
+                    "type": "stanza",
+                    "number": "9.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Then give me the horse",
+                        "that goes through the dark",
+                        "And magic flickering flames;",
+                        "And the sword as well",
+                        "that fights of itself",
+                        "Against the giants grim.\""
+                    ]
+                },
+                {
+                    "id": "10",
+                    "type": "stanza",
+                    "number": "10.",
+                    "linesEN": [
+                        "Freyr spake:",
+                        "\"The horse will I give thee",
+                        "that goes through the dark",
+                        "And magic flickering flames,",
+                        "And the sword as well",
+                        "that will fight of itself",
+                        "If a worthy hero wields it.\""
+                    ]
+                },
+                {
+                    "id": "11",
+                    "type": "stanza",
+                    "number": "11.",
+                    "linesEN": [
+                        "Skirnir spake to the horse:",
+                        "\"Dark is it without,",
+                        "and I deem it time",
+                        "To fare through the wild fells,",
+                        "(To fare through the giants' fastness;)",
+                        "We shall both come back,",
+                        "or us both together",
+                        "The terrible giant will take.\""
+                    ]
+                },
+                {
+                    "id": "12",
+                    "type": "prose",
+                    "number": "12.",
+                    "linesEN": [
+                        "Skirnir rode into Jotunheim to Gymir's house. There were fierce dogs bound before the gate of the fence which was around Gerth's hall. He rode to where a herdsman sat on a hill, and said:"
+                    ]
+                },
+                {
+                    "id": "13",
+                    "type": "stanza",
+                    "number": "13.",
+                    "linesEN": [
+                        "\"Tell me, herdsman,",
+                        "sitting on the hill,",
+                        "And watching all the ways,",
+                        "How may I win",
+                        "a word with the maid",
+                        "Past the hounds of Gymir here?\""
+                    ]
+                },
+                {
+                    "id": "14",
+                    "type": "stanza",
+                    "number": "14.",
+                    "linesEN": [
+                        "The herdsman spake:",
+                        "\"Art thou doomed to die",
+                        "or already dead,",
+                        "Thou horseman that ridest hither?",
+                        "Barred from speech",
+                        "shalt thou ever be",
+                        "With Gymir's daughter good.\""
+                    ]
+                },
+                {
+                    "id": "15",
+                    "type": "stanza",
+                    "number": "15.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Boldness is better",
+                        "than plaints can be",
+                        "For him whose feet must fare;",
+                        "To a destined day has mine age been doomed,",
+                        "And my life's span thereto laid.\""
+                    ]
+                },
+                {
+                    "id": "16",
+                    "type": "stanza",
+                    "number": "16.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"What noise is that which now so loud",
+                        "I hear within our house?",
+                        "The ground shakes, and the home of Gymir",
+                        "Around me trembles too.\""
+                    ]
+                },
+                {
+                    "id": "17",
+                    "type": "stanza",
+                    "number": "17.",
+                    "linesEN": [
+                        "The Serving-Maid spake:",
+                        "\"One stands without who has leapt from his steed,",
+                        "And lets his horse loose to graze;\"",
+                        "*********",
+                        "*********"
+                    ]
+                },
+                {
+                    "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"Bid the man come in, and drink good mead",
+                        "Here within our hall;",
+                        "Though this I fear, that there without",
+                        "My brother's slayer stands.\""
+                    ]
+                },
+                {
+                    "id": "19",
+                    "type": "stanza",
+                    "number": "19.",
+                    "linesEN": [
+                        "\"Art thou of the elves",
+                        "or the offspring of gods,",
+                        "Or of the wise Wanes?",
+                        "How camst thou alone",
+                        "through the leaping flame",
+                        "Thus to behold our home?\""
+                    ]
+                },
+                {
+                    "id": "20",
+                    "type": "stanza",
+                    "number": "20.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"I am not of the elves,",
+                        "nor the offspring of gods,",
+                        "Nor of the wise Wanes;",
+                        "Though I came alone",
+                        "through the leaping flame",
+                        "Thus to behold thy home.\""
+                    ]
+                },
+                {
+                    "id": "21",
+                    "type": "stanza",
+                    "number": "21.",
+                    "linesEN": [
+                        "\"Eleven apples,",
+                        "all of gold,",
+                        "Here will I give thee, Gerth,",
+                        "To buy thy troth",
+                        "that Freyr shall be",
+                        "Deemed to be dearest to you.\""
+                    ]
+                },
+                {
+                    "id": "22",
+                    "type": "stanza",
+                    "number": "22.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"I will not take",
+                        "at any man's wish",
+                        "These eleven apples ever;",
+                        "Nor shall Freyr and I",
+                        "one dwelling find",
+                        "So long as we two live.\""
+                    ]
+                },
+                {
+                    "id": "23",
+                    "type": "stanza",
+                    "number": "23.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Then do I bring thee",
+                        "the ring that was burned",
+                        "Of old with Othin's son;",
+                        "From it do eight",
+                        "of like weight fall",
+                        "On every ninth night.\""
+                    ]
+                },
+                {
+                    "id": "24",
+                    "type": "stanza",
+                    "number": "24.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"The ring I wish not,",
+                        "though burned it was",
+                        "Of old with Othin's son;",
+                        "In Gymir's home",
+                        "is no lack of gold",
+                        "In the wealth my father wields.\""
+                    ]
+                },
+                {
+                    "id": "25",
+                    "type": "stanza",
+                    "number": "25",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Seest thou, maiden,",
+                        "this keen, bright sword",
+                        "That I hold here in my hand?",
+                        "Thy head from thy neck",
+                        "shall I straightway hew,",
+                        "If thou wilt not do my will.\""
+                    ]
+                },
+                {
+                    "id": "26",
+                    "type": "stanza",
+                    "number": "26.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"For no man's sake",
+                        "will I ever suffer",
+                        "To be thus moved by might;",
+                        "But gladly, methinks,",
+                        "will Gymir seek",
+                        "To fight if he finds thee here.\""
+                    ]
+                },
+                {
+                    "id": "27",
+                    "type": "stanza",
+                    "number": "27.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"Seest thou, maiden,",
+                        "this keen, bright sword",
+                        "That I hold here in my hand?",
+                        "Before its blade the",
+                        "old giant bends,",
+                        "Thy father is doomed to die.\""
+                    ]
+                },
+                {
+                    "id": "28",
+                    "type": "stanza",
+                    "number": "28.",
+                    "linesEN": [
+                        "\"I strike thee, maid,",
+                        "with my magic staff,",
+                        "To tame thee to work my will;",
+                        "There shalt thou go",
+                        "where never again",
+                        "The sons of men shall see thee.\""
+                    ]
+                },
+                {
+                    "id": "29",
+                    "type": "stanza",
+                    "number": "29.",
+                    "linesEN": [
+                        "\"On the eagle's hill",
+                        "shalt thou ever sit,",
+                        "And gaze on the gates of Hel;",
+                        "More loathsome to thee",
+                        "than the light-hued snake",
+                        "To men, shall thy meat become.\""
+                    ]
+                },
+                {
+                    "id": "30",
+                    "type": "stanza",
+                    "number": "30.",
+                    "linesEN": [
+                        "\"Fearful to see,",
+                        "if thou comest forth,",
+                        "Hrimnir will stand and stare,",
+                        "(Men will marvel at thee;)",
+                        "More famed shalt thou grow",
+                        "than the watchman of the gods!",
+                        "Peer forth, then, from thy prison,\""
+                    ]
+                },
+                {
+                    "id": "31",
+                    "type": "stanza",
+                    "number": "31.",
+                    "linesEN": [
+                        "\"Rage and longing,",
+                        "fetters and wrath,",
+                        "Tears and torment are thine;",
+                        "Where thou sittest down",
+                        "my doom is on thee",
+                        "Of heavy heart",
+                        "And double dole.\""
+                    ]
+                },
+                {
+                    "id": "32",
+                    "type": "stanza",
+                    "number": "32.",
+                    "linesEN": [
+                        "\"In the giants' home",
+                        "shall vile things harm thee",
+                        "Each day with evil deeds;",
+                        "Grief shalt thou get",
+                        "instead of gladness,",
+                        "And sorrow to suffer with tears.\""
+                    ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesEN": [
+                        "\"With three-headed giants",
+                        "thou shalt dwell ever,",
+                        "Or never know a husband;",
+                        "(Let longing grip thee,",
+                        "let wasting waste thee,)",
+                        "Be like to the thistle",
+                        "that in the loft",
+                        "Was cast and there was crushed.\""
+                    ]
+                },
+                {
+                    "id": "34",
+                    "type": "stanza",
+                    "number": "34.",
+                    "linesEN": [
+                        "\"I go to the wood,",
+                        "and to the wet forest,",
+                        "To win a magic wand;",
+                        "*********",
+                        "*********",
+                        "I won a magic wand.\""
+                    ]
+                },
+                {
+                    "id": "35",
+                    "type": "stanza",
+                    "number": "35.",
+                    "linesEN": [
+                        "\"Othin grows angry,",
+                        "angered is the best of the gods,",
+                        "Freyr shall be thy foe,",
+                        "Most evil maid,",
+                        "who the magic wrath",
+                        "Of gods hast got for thyself.\""
+                    ]
+                },
+                {
+                    "id": "36",
+                    "type": "stanza",
+                    "number": "36.",
+                    "linesEN": [
+                        "\"Give heed, frost-rulers,",
+                        "hear it, giants.",
+                        "Sons of Suttung,",
+                        "And gods, ye too,",
+                        "How I forbid",
+                        "and how I ban",
+                        "The meeting of men with the maid,",
+                        "(The joy of men with the maid.)\""
+                    ]
+                },
+                {
+                    "id": "37",
+                    "type": "stanza",
+                    "number": "37.",
+                    "linesEN": [
+                        "\"Hrimgrimnir is he,",
+                        "the giant who shall have thee",
+                        "In the depth by the doors of Hel;",
+                        "To the frost-giants' halls",
+                        "each day shalt thou fare,",
+                        "Crawling and craving in vain,",
+                        "(Crawling and having no hope.)\""
+                    ]
+                },
+                {
+                    "id": "38",
+                    "type": "stanza",
+                    "number": "38.",
+                    "linesEN": [
+                        "\"Base wretches there",
+                        "by the root of the tree",
+                        "Will hold for thee horns of filth;",
+                        "A fairer drink",
+                        "shalt thou never find,",
+                        "Maid, to meet thy wish,",
+                        "(Maid, to meet my wish.)\""
+                    ]
+                },
+                {
+                    "id": "39",
+                    "type": "stanza",
+                    "number": "39.",
+                    "linesEN": [
+                        "\"I write thee a charm",
+                        "and three runes therewith,",
+                        "Longing and madness and lust;",
+                        "But what I have writ",
+                        "I may yet unwrite",
+                        "If I find a need therefor.\""
+                    ]
+                },
+                {
+                    "id": "40",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"Find welcome rather,",
+                        "and with it take",
+                        "The frost-cup filled with mead;",
+                        "Though I did not believe",
+                        "that I should so love",
+                        "Ever one of the Wanes.\""
+                    ]
+                },
+                {
+                    "id": "41",
+                    "type": "stanza",
+                    "number": "41.",
+                    "linesEN": [
+                        "Skirnir spake:",
+                        "\"My tidings all",
+                        "must I truly learn",
+                        "Ere homeward hence I ride:",
+                        "How soon thou wilt",
+                        "with the mighty son",
+                        "Of Njorth a meeting make.\""
+                    ]
+                },
+                {
+                    "id": "42",
+                    "type": "stanza",
+                    "number": "42.",
+                    "linesEN": [
+                        "Gerth spake:",
+                        "\"Barri there is,",
+                        "which we both know well,",
+                        "A forest fair and still;",
+                        "And nine nights hence",
+                        "to the son of Njorth",
+                        "Will Gerth there grant delight.\""
+                    ]
+                },
+                {
+                    "id": "43",
+                    "type": "prose",
+                    "number": "43.",
+                    "linesEN": [
+                        "Then Skirnir rode home. Freyr stood without, and spoke to him, and asked for tidings:"
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "44.",
+                    "linesEN": [
+                        "\"Tell me, Skimir,",
+                        "ere thou take off the saddle,",
+                        "Or farest forward a step:",
+                        "What hast thou done",
+                        "in the giants' dwelling",
+                        "To make glad thee or me?\""
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesEN": [
+                        "Skirnir spoke:",
+                        "\"Barri there is,",
+                        "which we both know well,",
+                        "A forest fair and still;",
+                        "And nine nights hence",
+                        "to the son of Njorth",
+                        "Will Gerth there grant delight.\""
+                    ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesEN": [
+                        "Freyr spake:",
+                        "\"Long is one night,",
+                        "longer are two;",
+                        "How then shall I bear three?",
+                        "Often to me",
+                        "has a month seemed less",
+                        "Than now half a night of desire.\""
+                    ]
+                }
+            ]
+        },
+
         "GudrunsInciting": {
             "Title": "Gudrun's Inciting",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
