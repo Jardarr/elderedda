@@ -1018,13 +1018,13 @@
                     "type": "stanza",
                     "number": "1.",
                     "linesEN": [
-                        "Within the gates",
-                        "ere a man shall go,",
-                        "(Full warily let him watch,)",
-                        "Full long let him look about him;",
-                        "For little he knows",
-                        "where a foe may lurk,",
-                        "And sit in the seats within."
+                        "\"Прежде чем в дом",
+                        "войдешь, все входы",
+                        "ты осмотри,",
+                        "ты огляди, —",
+                        "ибо как знать,",
+                        "в этом жилище",
+                        "недругов нет ли.\""
                     ]
                 },
                 {
@@ -1032,12 +1032,12 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesEN": [
-                        "Hail to the giver!",
-                        "a guest has come;",
-                        "Where shall the stranger sit?",
-                        "Swift shall he be who,",
-                        "with swords shall try",
-                        "The proof of his might to make."
+                        "\"Дающим привет!",
+                        "Гость появился!",
+                        "Где место найдет он?",
+                        "Торопится тот,",
+                        "кто хотел бы скорей",
+                        "у огня отогреться.\""
                     ]
                 },
                 {
@@ -1045,12 +1045,12 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesEN": [
-                        "Fire he needs",
-                        "who with frozen knees",
-                        "Has come from the cold without;",
-                        "Food and clothes",
-                        "must the farer have,",
-                        "The man from the mountains come."
+                        "\"Дорог огонь",
+                        "тому, кто с дороги,",
+                        "чьи застыли колени;",
+                        "в еде и одежде",
+                        "нуждается странник",
+                        "в горных краях.\""
                     ]
                 },
                 {
@@ -1058,12 +1058,12 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesEN": [
-                        "Water and towels",
-                        "and welcoming speech",
-                        "Should he find who comes, to the feast;",
-                        "If renown he would get,",
-                        "and again be greeted,",
-                        "Wisely and well must he act."
+                        "\"Гостю вода",
+                        "нужна и ручник,",
+                        "приглашенье учтивое,",
+                        "надо приветливо",
+                        "речь повести",
+                        "и выслушать гостя.\""
                     ]
                 },
                 {
@@ -1071,12 +1071,12 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesEN": [
-                        "Wits must he have",
-                        "who wanders wide,",
-                        "But all is easy at home;",
-                        "At the witless man",
-                        "the wise shall wink",
-                        "When among such men he sits."
+                        "\"Ум надобен тем,",
+                        "кто далеко забрел, —",
+                        "дома все тебе ведомо;",
+                        "насмешливо будут",
+                        "глядеть на невежду,",
+                        "средь мудрых сидящего.\""
                     ]
                 },
                 {
@@ -1084,15 +1084,15 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesEN": [
-                        "A man shall not boast",
-                        "of his keenness of mind,",
-                        "But keep it close in his breast;",
-                        "To the silent and wise",
-                        "does ill come seldom",
-                        "When he goes as guest to a house;",
-                        "(For a faster friend",
-                        "one never finds",
-                        "Than wisdom tried and true.)"
+                        "\"Умом пред людьми",
+                        "похваляться не надо —",
+                        "скрывать его стоит;",
+                        "если мудрец",
+                        "будет молчать —",
+                        "не грозит ему горе,",
+                        "ибо нет на земле",
+                        "надежнее друга,",
+                        "чем мудрость житейская.\""
                     ]
                 },
                 {
@@ -1100,12 +1100,12 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesEN": [
-                        "The knowing guest",
-                        "who goes to the feast,",
-                        "In silent attention sits;",
-                        "With his ears he hears,",
-                        "with his eyes he watches,",
-                        "Thus wary are wise men all."
+                        "\"Гость осторожный,",
+                        "дом посетивший,",
+                        "безмолвно внимает —",
+                        "чутко слушать",
+                        "и зорко смотреть",
+                        "мудрый стремится.\""
                     ]
                 },
                 {
@@ -1113,12 +1113,12 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesEN": [
-                        "Happy the one",
-                        "who wins for himself",
-                        "Favor and praises fair;",
-                        "Less safe by far",
-                        "is the wisdom found",
-                        "That is hid in another's heart."
+                        "\"Счастливы те,",
+                        "кто заслужил",
+                        "похвалу и приязнь;",
+                        "труднее найти",
+                        "добрый совет",
+                        "в груди у других.\""
                     ]
                 },
                 {
@@ -1126,12 +1126,12 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesEN": [
-                        "Happy the man",
-                        "who has while he lives",
-                        "Wisdom and praise as well,",
-                        "For evil counsel",
-                        "a man full oft",
-                        "Has from another's heart."
+                        "\"Счастливы те,",
+                        "кто в жизни славны",
+                        "разумом добрым;",
+                        "неладный совет",
+                        "часто найдешь",
+                        "у другого в груди.\""
                     ]
                 },
                 {
@@ -1139,12 +1139,12 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesEN": [
-                        "A better burden",
-                        "may no man bear",
-                        "For wanderings wide than wisdom;",
-                        "It is better than wealth ",
-                        "on unknown ways,",
-                        "And in grief a refuge it gives."
+                        "\"Нету в пути",
+                        "драгоценней ноши,",
+                        "чем мудрость житейская,",
+                        "дороже сокровищ",
+                        "она на чужбине —",
+                        "то бедных богатство.\""
                     ]
                 },
                 {
@@ -1152,12 +1152,12 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesEN": [
-                        "A better burden",
-                        "may no man bear",
-                        "For wanderings wide than wisdom;",
-                        "Worse food for the journey",
-                        "he brings not afield",
-                        "Than an over-drinking of ale."
+                        "\"Нету в пути",
+                        "драгоценней ноши,",
+                        "чем мудрость житейская,",
+                        "хуже нельзя",
+                        "в путь запастись,",
+                        "чем пивом опиться.\""
                     ]
                 },
                 {
@@ -1165,12 +1165,12 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesEN": [
-                        "Less good there lies",
-                        "than most believe",
-                        "In ale for mortal men;",
-                        "For the more he drinks",
-                        "the less does man",
-                        "Of his mind the mastery hold."
+                        "\"Меньше от пива",
+                        "пользы бывает,",
+                        "чем думают многие;",
+                        "чем больше ты пьешь,",
+                        "тем меньше покорен",
+                        "твой разум тебе.\""
                     ]
                 },
                 {
@@ -1178,12 +1178,12 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesEN": [
-                        "Over beer the bird",
-                        "of forgetfulness broods,",
-                        "And steals the minds of men;",
-                        "With the heron's feathers",
-                        "fettered I lay",
-                        "And in Gunnloth's house was held."
+                        "\"Цапля забвенья",
+                        "вьется над миром,",
+                        "рассудок крадет;",
+                        "крылья той птицы",
+                        "меня приковали",
+                        "в доме у Гуннлед.\""
                     ]
                 },
                 {
@@ -1191,12 +1191,12 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesEN": [
-                        "Drunk I was,",
-                        "I was dead-drunk,",
-                        "When with Fjalar wise I was;",
-                        "'Tis the best of drinking",
-                        "if back one brings",
-                        "His wisdom with him home."
+                        "\"Пьяным я был,",
+                        "слишком напился",
+                        "у мудрого Фьялара;",
+                        "но лучшее в пиве —",
+                        "что хмель от него",
+                        "исчезает бесследно.\""
                     ]
                 },
                 {
@@ -1204,12 +1204,12 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesEN": [
-                        "The son of a king",
-                        "shall be silent and wise,",
-                        "And bold in battle as well;",
-                        "Bravely and gladly",
-                        "a man shall go,",
-                        "Till the day of his death is come."
+                        "\"Осторожным быть должен",
+                        "конунга отпрыск",
+                        "и смелым в сраженье;",
+                        "каждый да будет",
+                        "весел и добр",
+                        "до часа кончины.\""
                     ]
                 },
                 {
@@ -1217,12 +1217,12 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesEN": [
-                        "The sluggard believes",
-                        "he shall live forever,",
-                        "If the fight he faces not;",
-                        "But age shall not grant him",
-                        "the gift of peace,",
-                        "Though spears may spare his life."
+                        "\"Глупый надеется",
+                        "смерти не встретить,",
+                        "коль битв избегает;",
+                        "но старость настанет —",
+                        "никто от нее",
+                        "не сыщет защиты.\""
                     ]
                 },
                 {
@@ -1230,12 +1230,12 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesEN": [
-                        "The fool is agape",
-                        "when he comes to the feast,",
-                        "He stammers or else is still;",
-                        "But soon if he gets",
-                        "a drink is it seen",
-                        "What the mind of the man is like."
+                        "\"Глазеет глупец,",
+                        "приехавший в гости,",
+                        "болтая иль молча;",
+                        "а выпьет глоток —",
+                        "и сразу покажет,",
+                        "как мало в нем мудрости,\""
                     ]
                 },
                 {
@@ -1243,12 +1243,12 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesEN": [
-                        "He alone is aware",
-                        "who has wandered wide,",
-                        "And far abroad has fared,",
-                        "How great a mind",
-                        "is guided by him",
-                        "That wealth of wisdom has."
+                        "\"Знает лишь тот,",
+                        "кто много земель",
+                        "объездил и видел, —",
+                        "коль сам он умен, —",
+                        "что на уме",
+                        "у каждого мужа.\""
                     ]
                 },
                 {
@@ -1256,12 +1256,12 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesEN": [
-                        "Shun not the mead,",
-                        "but drink in measure;",
-                        "Speak to the point or be still;",
-                        "For rudeness none",
-                        "shall rightly blame thee",
-                        "If soon thy bed thou seekest."
+                        "\"Пей на пиру,",
+                        "но меру блюди",
+                        "и дельно беседуй;",
+                        "не прослывешь",
+                        "меж людей неучтивым,",
+                        "коль спать рано ляжешь.\""
                     ]
                 },
                 {
@@ -1269,12 +1269,12 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesEN": [
-                        "The greedy man,",
-                        "if his mind be vague,",
-                        "Will eat till sick he is;",
-                        "The vulgar man,",
-                        "when among the wise,",
-                        "To scorn by his belly is brought."
+                        "\"Без толку жадный",
+                        "старается жрать",
+                        "себе на погибель;",
+                        "смеются порой",
+                        "над утробой глупца",
+                        "на пиршестве мудрых.\""
                     ]
                 },
                 {
@@ -1282,12 +1282,12 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesEN": [
-                        "The herds know well",
-                        "when home they shall fare,",
-                        "And then from the grass they go;",
-                        "But the foolish man",
-                        "his belly's measure",
-                        "Shall never know aright."
+                        "\"Знают стада,",
+                        "что срок наступил",
+                        "покинуть им пастбища;",
+                        "а кто неумен,",
+                        "меры не знает,",
+                        "живот набивая.\""
                     ]
                 },
                 {
@@ -1295,12 +1295,12 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesEN": [
-                        "A paltry man",
-                        "and poor of mind",
-                        "At all things ever mocks;",
-                        "For never he knows,",
-                        "what he ought to know,",
-                        "That he is not free from faults."
+                        "\"Кто нравом тяжел,",
+                        "тот всех осуждает,",
+                        "смеется над всем;",
+                        "ему невдомек,",
+                        "а должен бы знать,",
+                        "что сам он с изъяном.\""
                     ]
                 },
                 {
@@ -1308,12 +1308,12 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesEN": [
-                        "The witless man",
-                        "is awake all night,",
-                        "Thinking of many things;",
-                        "Care-worn he is",
-                        "when the morning comes,",
-                        "And his woe is just as it was."
+                        "\"Глупый не спит",
+                        "всю ночь напролет",
+                        "в думах докучных;",
+                        "утро настанет —",
+                        "где же усталому",
+                        "мудро размыслить.\""
                     ]
                 },
                 {
@@ -1321,12 +1321,12 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesEN": [
-                        "The foolish man",
-                        "for friends all those",
-                        "Who laugh at him will hold;",
-                        "When among the wise",
-                        "he marks it not",
-                        "Though hatred of him they speak."
+                        "\"Муж неразумный",
+                        "увидит приязнь",
+                        "в улыбке другого;",
+                        "с мудрыми сидя,",
+                        "глупец не поймет",
+                        "над собою насмешки.\""
                     ]
                 },
                 {
@@ -1334,12 +1334,12 @@
                     "type": "stanza",
                     "number": "25",
                     "linesEN": [
-                        "The foolish man",
-                        "for friends all those",
-                        "Who laugh at him will hold;",
-                        "But the truth when he comes",
-                        "to the council he learns,",
-                        "That few in his favor will speak."
+                        "\"Муж неразумный",
+                        "увидит приязнь",
+                        "в улыбке другого;",
+                        "а после на тинге",
+                        "едва ли отыщет",
+                        "сторонников верных.\""
                     ]
                 },
                 {
@@ -1347,12 +1347,12 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesEN": [
-                        "An ignorant man",
-                        "thinks that all he knows,",
-                        "When he sits by himself in a corner;",
-                        "But never what answer",
-                        "to make he knows,",
-                        "When others with questions come."
+                        "\"Муж неразумный",
+                        "все знает на свете,",
+                        "в углу своем сидя;",
+                        "но не найдет он",
+                        "достойных ответов",
+                        "в дельной беседе.\""
                     ]
                 },
                 {
@@ -1360,15 +1360,15 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesEN": [
-                        "A witless man,",
-                        "when he meets with men,",
-                        "Had best in silence abide;",
-                        "For no one shall find",
-                        "that nothing he knows,",
-                        "If his mouth is not open too much.",
-                        "(But a man knows not,",
-                        "if nothing he knows,",
-                        "When his mouth has been open too much.)"
+                        "\"Муж неразумный",
+                        "на сборище людном",
+                        "молчал бы уж лучше;",
+                        "не распознать",
+                        "в человеке невежду,",
+                        "коль он не болтлив,",
+                        "но невежда всегда",
+                        "не видит того,",
+                        "что болтлив он безмерно.\""
                     ]
                 },
                 {
@@ -1376,12 +1376,12 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesEN": [
-                        "Wise shall he seem",
-                        "who well can question,",
-                        "And also answer well;",
-                        "Nought is concealed",
-                        "that men may say",
-                        "Among the sons of men."
+                        "\"Мудрым слывет,",
+                        "кто расспросит других",
+                        "и расскажет разумно;",
+                        "скрыть не умеют",
+                        "люди в беседах,",
+                        "что с ними случилось.\""
                     ]
                 },
                 {
@@ -1389,12 +1389,12 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesEN": [
-                        "Often he speaks",
-                        "who never is still",
-                        "With words that win no faith;",
-                        "The babbling tongue,",
-                        "if a bridle it find not,",
-                        "Oft for itself sings ill."
+                        "\"Кто молчать не умеет,",
+                        "тот лишние речи",
+                        "заводит нередко;",
+                        "быстрый язык",
+                        "накличет беду,",
+                        "коль его не сдержать.\""
                     ]
                 },
                 {
@@ -1402,10 +1402,12 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesEN": [
-                        "In mockery no onea man shall hold,",
-                        "Although he fare to the feast;",
-                        "Wise seems one oft,if nought he is asked,",
-                        "And safely he sits dry-skinned."
+                        "\"Насмешливых взглядов",
+                        "не надо бросать",
+                        "на гостей приглашенных",
+                        "не спросишь иного —",
+                        "он мнит, что разумен,",
+                        "и мирно пирует.\""
                     ]
                 },
                 {
@@ -1413,12 +1415,12 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesEN": [
-                        "Wise a guest holds it",
-                        "to take to his heels,",
-                        "When mock of another he makes;",
-                        "But little he knows",
-                        "who laughs at the feast,",
-                        "Though he mocks in the midst of his foes."
+                        "\"Доволен глумливый,",
+                        "коль, гостя обидев,",
+                        "удрать ухитрился;",
+                        "насмешник такой",
+                        "не знает, что нажил",
+                        "гневных врагов.\""
                     ]
                 },
                 {
@@ -1426,12 +1428,12 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesEN": [
-                        "Friendly of mind",
-                        "are many men,",
-                        "Till feasting they mock at their friends;",
-                        "To mankind a bane",
-                        "must it ever be",
-                        "When guests together strive."
+                        "\"Люди друзьями",
+                        "слывут, но порой",
+                        "на пиру подерутся;",
+                        "распри всегда",
+                        "готовы возникнуть:",
+                        "гость ссорится с гостем.\""
                     ]
                 },
                 {
@@ -1439,12 +1441,12 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesEN": [
-                        "Oft should one make",
-                        "an early meal,",
-                        "Nor fasting come to the feast;",
-                        "Else he sits and chews",
-                        "as if he would choke,",
-                        "And little is able to ask."
+                        "\"Рано поешь,",
+                        "а в гости сбираясь,",
+                        "есть надо плотно:",
+                        "или голодным",
+                        "будешь в гостях —",
+                        "не сможешь беседовать.\""
                     ]
                 },
                 {
@@ -1452,12 +1454,12 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesEN": [
-                        "Crooked and far",
-                        "is the road to a foe,",
-                        "Though his house on the highway be;",
-                        "But wide and straight",
-                        "is the way to a friend,",
-                        "Though far away he fare."
+                        "\"Путь неблизок",
+                        "к другу плохому,",
+                        "хоть двор его рядом;",
+                        "а к доброму другу",
+                        "дорога пряма,",
+                        "хоть далек его двор.\""
                     ]
                 },
                 {
@@ -1465,12 +1467,12 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesEN": [
-                        "Forth shall one go,",
-                        "nor stay as a guest",
-                        "In a single spot forever;",
-                        "Love becomes loathing",
-                        "if long one sits",
-                        "By the hearth in another's home."
+                        "\"Гость не должен",
+                        "назойливым быть",
+                        "и сидеть бесконечно;",
+                        "даже приятель",
+                        "станет противен,",
+                        "коль долго гостит он.\""
                     ]
                 },
                 {
@@ -1478,12 +1480,12 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesEN": [
-                        "Better a house,",
-                        "though a hut it be,",
-                        "A man is master at home;",
-                        "A pair of goats",
-                        "and a patched-up roof",
-                        "Are better far than begging."
+                        "\"Пусть невелик",
+                        "твой дом, но твой он,",
+                        "и в нем ты владыка;",
+                        "пусть крыша из прутьев",
+                        "и две лишь козы, —",
+                        "это лучше подачек.\""
                     ]
                 },
                 {
@@ -1491,12 +1493,12 @@
                     "type": "stanza",
                     "number": "37.",
                     "linesEN": [
-                        "Better a house,",
-                        "though a hut it be,",
-                        "A man is master at home;",
-                        "His heart is bleeding",
-                        "who needs must beg",
-                        "When food he fain would have."
+                        "\"Пусть невелик",
+                        "твой дом, но твой он,",
+                        "и в нем ты владыка;",
+                        "кровью исходит",
+                        "сердце у тех,",
+                        "кто просит подачек.\""
                     ]
                 },
                 {
@@ -1504,12 +1506,12 @@
                     "type": "stanza",
                     "number": "38.",
                     "linesEN": [
-                        "Away from his arms",
-                        "in the open field",
-                        "A man should fare not a foot;",
-                        "For never he knows",
-                        "when the need for a spear",
-                        "Shall arise on the distant road."
+                        "\"Муж не должен",
+                        "хотя бы на миг",
+                        "отходить от оружья;",
+                        "ибо как знать,",
+                        "когда на пути",
+                        "копье пригодится.\""
                     ]
                 },
                 {
@@ -1517,12 +1519,12 @@
                     "type": "stanza",
                     "number": "39.",
                     "linesEN": [
-                        "If wealth a man",
-                        "has won for himself,",
-                        "Let him never suffer in need;",
-                        "Oft he saves for a foe",
-                        "what he plans for a friend,",
-                        "For much goes worse than we wish."
+                        "\"Не знаю радушных",
+                        "и щедрых, что стали б",
+                        "дары отвергать;",
+                        "ни таких, что, в ответ",
+                        "на подарок врученный,",
+                        "подарка б не приняли.\""
                     ]
                 },
                 {
@@ -1530,12 +1532,12 @@
                     "type": "stanza",
                     "number": "40.",
                     "linesEN": [
-                        "None so free with gifts",
-                        "or food have I found",
-                        "That gladly he took not a gift,",
-                        "Nor one who so widely",
-                        "scattered his wealth",
-                        "That of recompense hatred he had."
+                        "\"Добра не жалей,",
+                        "что нажито было,",
+                        "не скорби о потере;",
+                        "что другу обещано,",
+                        "недруг возьмет —",
+                        "выйдет хуже, чем думалось.\""
                     ]
                 },
                 {
@@ -1543,12 +1545,12 @@
                     "type": "stanza",
                     "number": "41.",
                     "linesEN": [
-                        "Friends shall gladden each other",
-                        "with arms and garments,",
-                        "As each for himself can see;",
-                        "Gift-givers' friendships",
-                        "are longest found,",
-                        "If fair their fates may be."
+                        "\"Оружье друзьям",
+                        "и одежду дари —",
+                        "то тешит их взоры;",
+                        "друзей одаряя,",
+                        "ты дружбу крепишь,",
+                        "коль судьба благосклонна.\""
                     ]
                 },
                 {
@@ -1556,12 +1558,12 @@
                     "type": "stanza",
                     "number": "42.",
                     "linesEN": [
-                        "To his friend a man",
-                        "a friend shall prove,",
-                        "And gifts with gifts requite;",
-                        "But men shall mocking",
-                        "with mockery answer,",
-                        "And fraud with falsehood meet."
+                        "\"Надобно в дружбе",
+                        "верным быть другу,",
+                        "одарять за подарки;",
+                        "смехом на смех",
+                        "пристойно ответить",
+                        "и обманом — на ложь.\""
                     ]
                 },
                 {
@@ -1569,12 +1571,12 @@
                     "type": "stanza",
                     "number": "43.",
                     "linesEN": [
-                        "To his friend a man",
-                        "a friend shall prove,",
-                        "To him and the friend of his friend;",
-                        "But never a man",
-                        "shall friendship make",
-                        "With one of his foeman's friends."
+                        "\"Надобно в дружбе",
+                        "верным быть другу",
+                        "и другом друзей его;",
+                        "с недругом друга",
+                        "никто не обязан",
+                        "дружбу поддерживать.\""
                     ]
                 },
                 {
@@ -1582,12 +1584,12 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesEN": [
-                        "If a friend thou hast",
-                        "whom thou fully wilt trust,",
-                        "And good from him wouldst get,",
-                        "Thy thoughts with his mingle,",
-                        "and gifts shalt thou make,",
-                        "And fare to find him oft."
+                        "\"Если дружбу ведешь",
+                        "и в друге уверен",
+                        "и добра ждешь от друга, —",
+                        "открывай ему душу,",
+                        "дары приноси,",
+                        "навещай его часто.\""
                     ]
                 },
                 {
@@ -1595,12 +1597,12 @@
                     "type": "stanza",
                     "number": "45.",
                     "linesEN": [
-                        "If another thou hast",
-                        "whom thou hardly wilt trust,",
-                        "Yet good from him wouldst get,",
-                        "Thou shalt speak him fair,",
-                        "but falsely think,",
-                        "And fraud with falsehood requite."
+                        "\"Но если другому",
+                        "поверил оплошно,",
+                        "добра ожидая,",
+                        "сладкою речью",
+                        "скрой злые мысли",
+                        "и лги, если лжет он.\""
                     ]
                 },
                 {
@@ -1608,12 +1610,12 @@
                     "type": "stanza",
                     "number": "46.",
                     "linesEN": [
-                        "So is it with him",
-                        "whom thou hardly wilt trust,",
-                        "And whose mind thou mayst not know;",
-                        "Laugh with him mayst thou,",
-                        "but speak not thy mind,",
-                        "Like gifts to his shalt thou give."
+                        "\"Так же и с теми,",
+                        "в ком усомнишься,",
+                        "в ком видишь коварство, —",
+                        "улыбайся в ответ,",
+                        "скрывай свои мысли, —",
+                        "тем же отплачивай.\""
                     ]
                 },
                 {
@@ -1621,12 +1623,12 @@
                     "type": "stanza",
                     "number": "47.",
                     "linesEN": [
-                        "Young was I once,",
-                        "and wandered alone,",
-                        "And nought of the road I knew;",
-                        "Rich did I feel",
-                        "when a comrade I found,",
-                        "For man is man's delight."
+                        "\"Молод я был,",
+                        "странствовал много",
+                        "и сбился с пути;",
+                        "счел себя богачом,",
+                        "спутника встретив, —",
+                        "друг — радость друга.\""
                     ]
                 },
                 {
@@ -1634,12 +1636,12 @@
                     "type": "stanza",
                     "number": "48.",
                     "linesEN": [
-                        "The lives of the brave",
-                        "and noble are best,",
-                        "Sorrows they seldom feed;",
-                        "But the coward fear",
-                        "of all things feels,",
-                        "And not gladly the niggard gives."
+                        "\"Щедрые, смелые",
+                        "счастливы в жизни,",
+                        "заботы не знают;",
+                        "а трус, тот всегда",
+                        "спасаться готов,",
+                        "как скупец — от подарка.\""
                     ]
                 },
                 {
@@ -1647,12 +1649,12 @@
                     "type": "stanza",
                     "number": "49.",
                     "linesEN": [
-                        "My garments once",
-                        "in a field I gave",
-                        "To a pair of carven poles;",
-                        "Heroes they seemed",
-                        "when clothes they had,",
-                        "But the naked man is nought."
+                        "\"В поле я отдал",
+                        "одежду мою",
+                        "двум мужам деревянным;",
+                        "от этого стали",
+                        "с людьми они сходны:",
+                        "жалок нагой.\""
                     ]
                 },
                 {
@@ -1660,12 +1662,12 @@
                     "type": "stanza",
                     "number": "50.",
                     "linesEN": [
-                        "On the hillside drear",
-                        "the fir-tree dies,",
-                        "All bootless its needles and bark;",
-                        "It is like a man",
-                        "whom no one loves,--",
-                        "Why should his life be long?"
+                        "\"Сосна, у дома",
+                        "возросшая, сохнет,",
+                        "корой не укрыта;",
+                        "и человек,",
+                        "что людям не люб, —",
+                        "зачем ему жить!\""
                     ]
                 },
                 {
@@ -1673,12 +1675,12 @@
                     "type": "stanza",
                     "number": "51.",
                     "linesEN": [
-                        "Hotter than fire",
-                        "between false friends",
-                        "Does friendship five days burn;",
-                        "When the sixth day comes",
-                        "the fire cools,",
-                        "And ended is all the love."
+                        "\"Жарко приязнь",
+                        "пылает пять дней",
+                        "меж дурными друзьями;",
+                        "а пятый прошел —",
+                        "погаснет огонь,",
+                        "и дружба вся врозь.\""
                     ]
                 },
                 {
@@ -1686,12 +1688,12 @@
                     "type": "stanza",
                     "number": "52.",
                     "linesEN": [
-                        "No great thing needs",
-                        "a man to give,",
-                        "Oft little will purchase praise;",
-                        "With half a loaf",
-                        "and a half-filled cup",
-                        "A friend full fast I made."
+                        "\"Подарок большой",
+                        "не всюду пригоден,",
+                        "он может быть малым;",
+                        "неполный кувшин,",
+                        "половина краюхи",
+                        "мне добыли друга.\""
                     ]
                 },
                 {
@@ -1699,12 +1701,12 @@
                     "type": "stanza",
                     "number": "53.",
                     "linesEN": [
-                        "A little sand",
-                        "has a little sea,",
-                        "And small are the minds of men;",
-                        "Though all men are not",
-                        "equal in wisdom,",
-                        "Yet half-wise only are all."
+                        "\"У малых песчинок,",
+                        "у малых волн",
+                        "мудрости мало;",
+                        "не все мудрецы, —",
+                        "глупых и умных",
+                        "поровну в мире.\""
                     ]
                 },
                 {
@@ -1712,12 +1714,12 @@
                     "type": "stanza",
                     "number": "54.",
                     "linesEN": [
-                        "A measure of wisdom",
-                        "each man shall have,",
-                        "But never too much let him know;",
-                        "The fairest lives",
-                        "do those men live",
-                        "Whose wisdom wide has grown."
+                        "\"Следует мужу",
+                        "в меру быть умным,",
+                        "не мудрствуя много;",
+                        "лучше живется",
+                        "тем людям, чьи знанья",
+                        "не слишком обширны.\""
                     ]
                 },
                 {
@@ -1725,12 +1727,12 @@
                     "type": "stanza",
                     "number": "55.",
                     "linesEN": [
-                        "A measure of wisdom",
-                        "each man shall have,",
-                        "But never too much let him know;",
-                        "For the wise man's heart",
-                        "is seldom happy,",
-                        "If wisdom too great he has won."
+                        "\"Следует мужу",
+                        "в меру быть умным,",
+                        "не мудрствуя много;",
+                        "ибо редка",
+                        "радость в сердцах,",
+                        "если разум велик.\""
                     ]
                 },
                 {
@@ -1738,12 +1740,12 @@
                     "type": "stanza",
                     "number": "56.",
                     "linesEN": [
-                        "A measure of wisdom",
-                        "each man shall have,",
-                        "But never too much let him know;",
-                        "Let no man the fate",
-                        "before him see,",
-                        "For so is he freest from sorrow."
+                        "\"Следует мужу",
+                        "в меру быть умным,",
+                        "не мудрствуя много;",
+                        "тот, кто удел свой",
+                        "не знает вперед,",
+                        "всего беззаботней.\""
                     ]
                 },
                 {
@@ -1751,12 +1753,12 @@
                     "type": "stanza",
                     "number": "57.",
                     "linesEN": [
-                        "A brand from a brand",
-                        "is kindled and burned,",
-                        "And fire from fire begotten;",
-                        "And man by his speech",
-                        "is known to men,",
-                        "And the stupid by their stillness."
+                        "\"Головня головне",
+                        "передать готова",
+                        "пламя от пламени;",
+                        "в речах человек",
+                        "познает человека,",
+                        "в безмолвье глупеет.\""
                     ]
                 },
                 {
@@ -1764,12 +1766,12 @@
                     "type": "stanza",
                     "number": "58.",
                     "linesEN": [
-                        "He must early go forth",
-                        "who fain the blood",
-                        "Or the goods of another would get;",
-                        "The wolf that lies idle",
-                        "shall win little meat,",
-                        "Or the sleeping man success."
+                        "\"Рано встает,",
+                        "кто хочет отнять",
+                        "добро или жизнь;",
+                        "не видеть добычи",
+                        "лежачему волку,",
+                        "а победы — проспавшему.\""
                     ]
                 },
                 {
@@ -1777,12 +1779,12 @@
                     "type": "stanza",
                     "number": "59.",
                     "linesEN": [
-                        "He must early go forth",
-                        "whose workers are few,",
-                        "Himself his work to seek;",
-                        "Much remains undone",
-                        "for the morning-sleeper,",
-                        "For the swift is wealth half won."
+                        "\"Рано встает,",
+                        "кто без подмоги",
+                        "к труду приступает;",
+                        "утром дремота",
+                        "работе помеха —",
+                        "кто бодр, тот богат.\""
                     ]
                 },
                 {
@@ -1790,12 +1792,12 @@
                     "type": "stanza",
                     "number": "60.",
                     "linesEN": [
-                        "Of seasoned shingles",
-                        "and strips of bark",
-                        "For the thatch let one know his need,",
-                        "And how much of wood",
-                        "he must have for a month,",
-                        "Or in half a year he will use."
+                        "\"Мера бересты",
+                        "и балок для кровли",
+                        "известна хозяину,",
+                        "и сколько потребно",
+                        "в полгода поленьев",
+                        "сжигать в очаге.\""
                     ]
                 },
                 {
@@ -1803,13 +1805,13 @@
                     "type": "stanza",
                     "number": "61.",
                     "linesEN": [
-                        "Washed and fed",
-                        "to the council fare,",
-                        "But care not too much for thy clothes;",
-                        "Let none be ashamed",
-                        "of his shoes and hose,",
-                        "Less still of the steed he rides,",
-                        "(Though poor be the horse he has.)"
+                        "\"Сытым и чистым",
+                        "на тинг собирайся,",
+                        "хоть и в бедной одежде;",
+                        "сапог и штанов",
+                        "стыдиться не надо,",
+                        "а также коня,",
+                        "коль он неказист.\""
                     ]
                 },
                 {
@@ -1817,12 +1819,12 @@
                     "type": "stanza",
                     "number": "62.",
                     "linesEN": [
-                        "When the eagle comes",
-                        "to the ancient sea,",
-                        "He snaps and hangs his head;",
-                        "So is a man",
-                        "in the midst of a throng,",
-                        "Who few to speak for him finds."
+                        "\"Вытянув шею,",
+                        "орел озирает",
+                        "древнее море;",
+                        "так смотрит муж,",
+                        "в чуждой толпе",
+                        "защиты не знающий.\""
                     ]
                 },
                 {
@@ -1830,12 +1832,12 @@
                     "type": "stanza",
                     "number": "63.",
                     "linesEN": [
-                        "To question and answer",
-                        "must all be ready",
-                        "Who wish to be known as wise;",
-                        "Tell one thy thoughts,",
-                        "but beware of two,--",
-                        "All know what is known to three."
+                        "\"Вопросит и ответит",
+                        "умный всегда,",
+                        "коль слыть хочет сведущим;",
+                        "должен один",
+                        "знать, а не двое, —",
+                        "у трех все проведают.\""
                     ]
                 },
                 {
@@ -1843,12 +1845,12 @@
                     "type": "stanza",
                     "number": "64.",
                     "linesEN": [
-                        "The man who is prudent",
-                        "a measured use",
-                        "Of the might he has will make;",
-                        "He finds when among",
-                        "the brave he fares",
-                        "That the boldest he may not be."
+                        "\"Силу свою",
+                        "должен мудрец",
+                        "осторожно показывать;",
+                        "в том убедится",
+                        "бившийся часто,",
+                        "что есть и сильнейшие.\""
                     ]
                 },
                 {
@@ -1856,10 +1858,9 @@
                     "type": "stanza",
                     "number": "65.",
                     "linesEN": [
-                        "*********",
-                        "Oft for the words",
-                        "that to others one speaks",
-                        "He will get but an evil gift."
+                        "\"Бывает, ты слово",
+				        "скажешь другому,",
+                        "а после поплатишься.\""
                     ]
                 },
                 {
@@ -1867,12 +1868,12 @@
                     "type": "stanza",
                     "number": "66.",
                     "linesEN": [
-                        "Too early to many",
-                        "a meeting I came,",
-                        "And some too late have I sought;",
-                        "The beer was all drunk,",
-                        "or not yet brewed;",
-                        "Little the loathed man finds."
+                        "\"Случалось, я рано",
+                        "в гости являлся",
+                        "иль поздно порою:",
+                        "там выпили пиво,",
+                        "а там не варили —",
+                        "кто не мил, тот некстати.\""
                     ]
                 },
                 {
@@ -1880,12 +1881,12 @@
                     "type": "stanza",
                     "number": "67.",
                     "linesEN": [
-                        "To their homes men would bid",
-                        "me hither and yon,",
-                        "If at meal-time I needed no meat,",
-                        "Or would hang two hams",
-                        "in my true friend's house,",
-                        "Where only one I had eaten."
+                        "\"Повсюду меня",
+                        "приглашали бы в гости,",
+                        "но только без трапез",
+                        "иль если бы, окорок",
+                        "съевши у друга,",
+                        "я два отдавал бы.\""
                     ]
                 },
                 {
@@ -1893,12 +1894,12 @@
                     "type": "stanza",
                     "number": "68.",
                     "linesEN": [
-                        "Fire for men",
-                        "is the fairest gift,",
-                        "And power to see the sun;",
-                        "Health as well,",
-                        "if a man may have it,",
-                        "And a life not stained with sin."
+                        "\"Драгоценен огонь",
+                        "для сынов человека",
+                        "и солнца сиянье;",
+                        "если телом ты здрав,",
+                        "то здоровье, а также",
+                        "жизнь без порока.\""
                     ]
                 },
                 {
@@ -1906,12 +1907,12 @@
                     "type": "stanza",
                     "number": "69.",
                     "linesEN": [
-                        "All wretched is no man,",
-                        "though never so sick;",
-                        "Some from their sons have joy,",
-                        "Some win it from kinsmen,",
-                        "and some from their wealth,",
-                        "And some from worthy works."
+                        "\"Хворый судьбой",
+                        "не совсем обездолен:",
+                        "этот счастлив сынами,",
+                        "этот близкой родней,",
+                        "этот богатством,",
+                        "а этот деяньями.\""
                     ]
                 },
                 {
@@ -1919,12 +1920,12 @@
                     "type": "stanza",
                     "number": "70.",
                     "linesEN": [
-                        "It is better to live",
-                        "than to lie a corpse,",
-                        "The live man catches the cow;",
-                        "I saw flames rise",
-                        "for the rich man's pyre,",
-                        "And before his door he lay dead."
+                        "\"Лучше живым быть,",
+                        "нежели мертвым;",
+                        "живой — наживает;",
+                        "для богатого пламя,",
+                        "я видел, пылало,",
+                        "но ждала его смерть.\""
                     ]
                 },
                 {
@@ -1932,12 +1933,12 @@
                     "type": "stanza",
                     "number": "71.",
                     "linesEN": [
-                        "The lame rides a horse,",
-                        "the handless is herdsman,",
-                        "The deaf in battle is bold;",
-                        "The blind man is better",
-                        "than one that is burned,",
-                        "No good can come of a corpse."
+                        "\"Ездить может хромой,",
+                        "безрукий — пасти,",
+                        "сражаться — глухой;",
+                        "даже слепец",
+                        "до сожженья полезен —",
+                        "что толку от трупа!\""
                     ]
                 },
                 {
@@ -1945,12 +1946,12 @@
                     "type": "stanza",
                     "number": "72.",
                     "linesEN": [
-                        "A son is better,",
-                        "though late he be born,",
-                        "And his father to death have fared;",
-                        "Memory-stones",
-                        "seldom stand by the road",
-                        "Save when kinsman honors his kin."
+                        "\"Сын — это счастье,",
+                        "хотя бы на свете",
+                        "отца не застал он;",
+                        "не будет и камня",
+                        "у края дороги,",
+                        "коль сын не поставит.\""
                     ]
                 },
                 {
@@ -1958,10 +1959,10 @@
                     "type": "stanza",
                     "number": "73.",
                     "linesEN": [
-                        "Two make a battle,",
-                        "the tongue slays the head;",
-                        "In each furry coat",
-                        "a fist I look for."
+                        "\"Двое — смерть одному;",
+                        "голове враг — язык;",
+                        "под каждым плащом",
+                        "рука наготове.\""
                     ]
                 },
                 {
@@ -1969,13 +1970,13 @@
                     "type": "stanza",
                     "number": "74.",
                     "linesEN": [
-                        "He welcomes the night",
-                        "whose fare is enough,",
-                        "(Short are the yards of a ship,)",
-                        "Uneasy are autumn nights;",
-                        "Full oft does the weather",
-                        "change in a week,",
-                        "And more in a month's time."
+                        "\"Ночь тому не страшна,",
+                        "кто сделал запасы;",
+                        "коротки реи;",
+                        "ненастна ночь осенью;",
+                        "сменится ветер",
+                        "не раз за пять дней,",
+                        "несчетно — за месяц.\""
                     ]
                 },
                 {
@@ -1983,12 +1984,12 @@
                     "type": "stanza",
                     "number": "75.",
                     "linesEN": [
-                        "A man knows not,",
-                        "if nothing he knows,",
-                        "That gold oft apes begets;",
-                        "One man is wealthy",
-                        "and one is poor,",
-                        "Yet scorn for him none should know."
+                        "\"Иной не постигнет,",
+                        "что вреден подчас",
+                        "достаток рассудку;",
+                        "один — богатей,",
+                        "другой же — бедняк",
+                        "и в том невиновен.\""
                     ]
                 },
                 {
@@ -1996,10 +1997,12 @@
                     "type": "stanza",
                     "number": "76.",
                     "linesEN": [
-                        "Among Fitjung's sons saw I well-stocked folds,–",
-                        "Now bear they the beggar's staff;",
-                        "Wealth is as swift as a winking eye,",
-                        "Of friends the falsest it is."
+                        "\"Гибнут стада,",
+                        "родня умирает,",
+                        "и смертен ты сам;",
+                        "но смерти не ведает",
+                        "громкая слава",
+                        "деяний достойных.\""
                     ]
                 },
                 {
@@ -2007,10 +2010,12 @@
                     "type": "stanza",
                     "number": "77.",
                     "linesEN": [
-                        "Cattle die, and kinsmen die,",
-                        "And so one dies one's self;",
-                        "But a noble name will never die,",
-                        "If good renown one gets."
+                        "\"Гибнут стада,",
+                        "родня умирает,",
+                        "и смертен ты сам;",
+                        "но знаю одно,",
+                        "что вечно бессмертно:",
+                        "умершего слава.\""
                     ]
                 },
                 {
@@ -2018,10 +2023,12 @@
                     "type": "stanza",
                     "number": "78.",
                     "linesEN": [
-                        "Cattle die, and kinsmen die,",
-                        "And so one dies one's self;",
-                        "One thing now that never dies,",
-                        "The fame of a dead man's deeds."
+                        "\"У Фитьюнга были",
+                        "сыны богачами",
+                        "и бедность изведали;",
+                        "может внезапно",
+                        "исчезнуть достаток —",
+                        "друг он неверный.\""
                     ]
                 },
                 {
@@ -2029,12 +2036,12 @@
                     "type": "stanza",
                     "number": "79.",
                     "linesEN": [
-                        "Certain is that which is sought from runes,",
-                        "That the gods so great have made,",
-                        "And the Master-Poet painted;",
-                        "*********",
-                        "the race of gods:",
-                        "Silence is safest and best."
+                        "\"Если глупцу",
+                        "достается в удел",
+                        "любовь иль богатство,",
+                        "не добудет ума он,",
+                        "но чванство умножит",
+                        "и спесью прославится.\""
                     ]
                 },
                 {
@@ -2042,10 +2049,12 @@
                     "type": "stanza",
                     "number": "80.",
                     "linesEN": [
-                        "An unwise man, if a maiden's love",
-                        "Or wealth he chances to win,",
-                        "His pride will wax, but his wisdom never,",
-                        "Straight forward he fares in conceit."
+                        "\"Вот что отвечу,",
+                        "когда вопрошаешь",
+                        "о рунах божественных,",
+                        "что создали сильные,",
+                        "а вырезал Вещий:",
+                        "благо в молчанье.\""
                     ]
                 },
                 {
@@ -2053,12 +2062,12 @@
                     "type": "stanza",
                     "number": "81.",
                     "linesEN": [
-                        "Give praise to the day at evening,",
-                        "to a woman on her pyre,",
-                        "To a weapon which is tried,",
-                        "to a maid at wed lock,",
-                        "To ice when it is crossed,",
-                        "to ale that is drunk."
+                        "\"День хвали вечером,",
+                        "жен — на костре,",
+                        "меч — после битвы,",
+                        "дев — после свадьбы,",
+                        "лед — если выдержит,",
+                        "пиво — коль выпито.\""
                     ]
                 },
                 {
@@ -2066,14 +2075,14 @@
                     "type": "stanza",
                     "number": "82.",
                     "linesEN": [
-                        "When the gale blows hew wood,",
-                        "in fair winds seek the water;",
-                        "Sport with maidens at dusk,",
-                        "for day's eyes are many;",
-                        "From the ship seek swiftness,",
-                        "from the shield protection,",
-                        "Cuts from the sword,",
-                        "from the maiden kisses."
+                        "\"Лес руби на ветру,",
+                        "жди погоды для гребли,",
+                        "с девой беседуй",
+                        "во тьме — зорок день;",
+                        "у ладьи — быстрота,",
+                        "у щита — оборона,",
+                        "удар — у меча,",
+                        "поцелуи — у девы.\""
                     ]
                 },
                 {
@@ -2081,12 +2090,12 @@
                     "type": "stanza",
                     "number": "83.",
                     "linesEN": [
-                        "By the fire drink ale,",
-                        "over ice go on skates;",
-                        "Buy a steed that is lean,",
-                        "and a sword when tarnished,",
-                        "The horse at home fatten,",
-                        "the hound in thy dwelling."
+                        "\"Пиво пей у огня,",
+                        "по льду скользи,",
+                        "коня купи тощего,",
+                        "меч — заржавелый,",
+                        "корми коня дома,",
+                        "а пса — у чужих.\""
                     ]
                 },
                 {
@@ -2094,12 +2103,12 @@
                     "type": "stanza",
                     "number": "84.",
                     "linesEN": [
-                        "A man shall trust not",
-                        "the oath of a maid,",
-                        "Nor the word a woman speaks;",
-                        "For their hearts on a whirling",
-                        "wheel were fashioned,",
-                        "And fickle their breasts were formed."
+                        "\"Не доверяй",
+                        "ни девы речам,",
+                        "ни жены разговорам —",
+                        "на колесе",
+                        "их слеплено сердце,",
+                        "коварство в груди их.\""
                     ]
                 },
                 {
@@ -2107,14 +2116,14 @@
                     "type": "stanza",
                     "number": "85.",
                     "linesEN": [
-                        "In a breaking bow",
-                        "or a burning flame,",
-                        "A ravening wolf",
-                        "or a croaking raven,",
-                        "In a grunting boar,",
-                        "a tree with roots broken,",
-                        "In billowy seas",
-                        "or a bubbling kettle."
+                        "\"Непрочному луку,",
+                        "жаркому пламени,",
+                        "голодному волку,",
+                        "горластой вороне,",
+                        "визжащей свинье,",
+                        "стволу без корней,",
+                        "встающему валу,",
+                        "котлу, что кипит,\""
                     ]
                 },
                 {
@@ -2122,14 +2131,14 @@
                     "type": "stanza",
                     "number": "86.",
                     "linesEN": [
-                        "In a flying arrow",
-                        "or falling waters,",
-                        "In ice new formed",
-                        "or the serpent's folds,",
-                        "In a bride's bed-speech",
-                        "or a broken sword,",
-                        "In the sport of bears",
-                        "or in sons of kings,"
+                        "\"Летящей стреле,",
+                        "отходящему валу,",
+                        "тонкому льду,",
+                        "змее, что свилась,",
+                        "жены объясненьям,",
+                        "с изъяном мечу,",
+                        "медведя проделкам,",
+                        "и конунга сыну,\""
                     ]
                 },
                 {
@@ -2137,10 +2146,10 @@
                     "type": "stanza",
                     "number": "87.",
                     "linesEN": [
-                        "n a calf that is sick",
-                        "or a stubborn thrall,",
-                        "A flattering witch",
-                        "or a foe new slain."
+                        "\"Скотине больной,",
+                        "рабу своевольному,",
+                        "лести колдуньи,",
+                        "врагу, что сражен,\""
                     ]
                 },
                 {
@@ -2148,14 +2157,12 @@
                     "type": "stanza",
                     "number": "88.",
                     "linesEN": [
-                        "In a brother's slayer,",
-                        "if thou meet him abroad,",
-                        "In a half-burned house,",
-                        "in a horse full swift--",
-                        "One leg is hurt",
-                        "and the horse is useless--",
-                        "None had ever such faith",
-                        "as to trust in them all."
+                        "\"Всходам ранним",
+                        "не должно нам верить,",
+                        "ни сыну до срока:",
+                        "погоде для сева",
+                        "и сына уму",
+                        "доверять не дерзай.\""
                     ]
                 },
                 {
@@ -2163,12 +2170,14 @@
                     "type": "stanza",
                     "number": "89.",
                     "linesEN": [
-                        "Hope not too surely",
-                        "for early harvest,",
-                        "Nor trust too soon in thy son;",
-                        "The field needs good weather,",
-                        "the son needs wisdom,",
-                        "And oft is either denied."
+                        "\"Брата убийце,",
+                        "коль встречен он будет,",
+                        "горящему дому,",
+                        "коню слишком резвому, —",
+                        "конь захромает —",
+                        "куда он годится, —",
+                        "всему, что назвал я,",
+                        "верить не надо!\""
                     ]
                 },
                 {
@@ -2176,16 +2185,16 @@
                     "type": "stanza",
                     "number": "90.",
                     "linesEN": [
-                        "The love of women",
-                        "fickle of will",
-                        "Is like starting o'er ice",
-                        "with a steed unshod,",
-                        "A two-year-old restive",
-                        "and little tamed,",
-                        "Or steering a rudderless",
-                        "ship in a storm,",
-                        "Or, lame, hunting reindeer",
-                        "on slippery rocks. "
+                        "\"Женщин любить,",
+                        "в обманах искусных, —",
+                        "что по льду скакать",
+                        "на коне без подков,",
+                        "норовистом, двухлетнем",
+                        "коне непокорном,",
+                        "иль в бурю корабль",
+                        "без кормила вести,",
+                        "иль хромцу за оленем",
+                        "в распутицу гнаться.\""
                     ]
                 },
                 {
@@ -2193,12 +2202,12 @@
                     "type": "stanza",
                     "number": "91.",
                     "linesEN": [
-                        "Clear now will I speak,",
-                        "for I know them both,",
-                        "Men false to women are found;",
-                        "When fairest we speak,",
-                        "then falsest we think,",
-                        "Against wisdom we work with deceit."
+                        "\"Откровенно скажу",
+                        "о мужах и о женах:",
+                        "мужи тоже лживы;",
+                        "красно говоря,",
+                        "но задумав коварство, —",
+                        "улестим даже умных.\""
                     ]
                 },
                 {
@@ -2206,12 +2215,12 @@
                     "type": "stanza",
                     "number": "92.",
                     "linesEN": [
-                        "Soft words shall he speak",
-                        "and wealth shall he offer",
-                        "Who longs for a maiden's love,",
-                        "And the beauty praise",
-                        "of the maiden bright;",
-                        "He wins whose wooing is best."
+                        "\"Красно говори",
+                        "и подарки готовь,",
+                        "чтобы жен соблазнять;",
+                        "дев красоту",
+                        "неустанно хваля,",
+                        "будь уверен в успехе.\""
                     ]
                 },
                 {
@@ -2219,12 +2228,12 @@
                     "type": "stanza",
                     "number": "93.",
                     "linesEN": [
-                        "Fault for loving",
-                        "let no man find",
-                        "Ever with any other;",
-                        "Oft the wise are fettered,",
-                        "where fools go free,",
-                        "By beauty that breeds desire."
+                        "\"Никто за любовь",
+                        "никогда осуждать",
+                        "другого не должен;",
+                        "часто мудрец",
+                        "опутан любовью,",
+                        "глупцу непонятной.\""
                     ]
                 },
                 {
@@ -2232,12 +2241,12 @@
                     "type": "stanza",
                     "number": "94.",
                     "linesEN": [
-                        "Fault with another",
-                        "let no man find",
-                        "For what touches many a man;",
-                        "Wise men oft",
-                        "into witless fools",
-                        "Are made by mighty love."
+                        "\"Мужей не суди",
+                        "за то, что может",
+                        "с каждым свершиться;",
+                        "нередко бывает",
+                        "мудрец безрассудным",
+                        "от сильной страсти.\""
                     ]
                 },
                 {
@@ -2245,12 +2254,12 @@
                     "type": "stanza",
                     "number": "95.",
                     "linesEN": [
-                        "The head alone knows",
-                        "what dwells near the heart,",
-                        "A man knows his mind alone;",
-                        "No sickness is worse",
-                        "to one who is wise",
-                        "Than to lack the longed-for joy. "
+                        "\"Твоей лишь душе",
+                        "ведомо то,",
+                        "что в сердце твоем;",
+                        "худшей на свете",
+                        "хвори не знаю,",
+                        "чем духа томленье.\""
                     ]
                 },
                 {
@@ -2258,12 +2267,12 @@
                     "type": "stanza",
                     "number": "96.",
                     "linesEN": [
-                        "This found I myself,",
-                        "when I sat in the reeds,",
-                        "And long my love awaited;",
-                        "As my life the maiden",
-                        "wise I loved,",
-                        "Yet her I never had."
+                        "\"Изведал я это:",
+                        "милую ждал я,",
+                        "таясь в тростниках;",
+                        "дороже была мне,",
+                        "чем тело с душой,",
+                        "но моею не стала.\""
                     ]
                 },
                 {
@@ -2271,12 +2280,12 @@
                     "type": "stanza",
                     "number": "97.",
                     "linesEN": [
-                        "Billing's daughter",
-                        "I found on her bed,",
-                        "In slumber bright as the sun;",
-                        "Empty appeared",
-                        "an earl's estate",
-                        "Without that form so fair."
+                        "\"Солнечноясную",
+                        "Биллинга дочь",
+                        "нашел я на ложе;",
+                        "мне ярла власть",
+                        "не была так желанна,",
+                        "как светлая дева.\""
                     ]
                 },
                 {
@@ -2284,12 +2293,12 @@
                     "type": "stanza",
                     "number": "98.",
                     "linesEN": [
-                        "Othin, again",
-                        "at evening come,",
-                        "If a woman thou wouldst win;",
-                        "Evil it were",
-                        "if others than we",
-                        "Should know of such a sin."
+                        "\"«Вечером, Один,",
+                        "прийди, чтоб деву",
+                        "к согласью склонить:",
+                        "будет неладно,",
+                        "если другие",
+                        "про это проведают».\""
                     ]
                 },
                 {
@@ -2297,12 +2306,12 @@
                     "type": "stanza",
                     "number": "99.",
                     "linesEN": [
-                        "Away I hastened,",
-                        "hoping for joy,",
-                        "And careless of counsel wise;",
-                        "Well I believed",
-                        "that soon I should win",
-                        "Measureless joy with the maid."
+                        "\"Ее я оставил —",
+                        "казалось, от страсти",
+                        "мой разум мутился;",
+                        "таил я надежду,",
+                        "что будет моей",
+                        "дева любимая.\""
                     ]
                 },
                 {
@@ -2310,12 +2319,12 @@
                     "type": "stanza",
                     "number": "100.",
                     "linesEN": [
-                        "So came I next",
-                        "when night it was,",
-                        "The warriors all were awake;",
-                        "With burning lights",
-                        "and waving brands",
-                        "I learned my luckess way."
+                        "\"Вновь я пришел,",
+                        "увидел, что воины",
+                        "стали стеной, —",
+                        "факелы блещут,",
+                        "завалы из бревен",
+                        "мне путь преградили.\""
                     ]
                 },
                 {
@@ -2323,12 +2332,12 @@
                     "type": "stanza",
                     "number": "101.",
                     "linesEN": [
-                        "At morning then,",
-                        "when once more I came,",
-                        "And all were sleeping still,",
-                        "A dog found",
-                        "in the fair one's place,",
-                        "Bound there upon her bed."
+                        "\"А перед утром, —",
+                        "все почивали, —",
+                        "явился я вновь;",
+                        "лишь сука была",
+                        "привязана к ложу",
+                        "девы достойной.\""
                     ]
                 },
                 {
@@ -2336,15 +2345,15 @@
                     "type": "stanza",
                     "number": "102.",
                     "linesEN": [
-                        "Many fair maids,",
-                        "if a man but tries them,",
-                        "False to a lover are found;",
-                        "That did I learn",
-                        "when I longed to gain",
-                        "With wiles the maiden wise;",
-                        "Foul scorn was my meed",
-                        "from the crafty maid,",
-                        "And nought from the woman I won."
+                        "\"Девы нередко,",
+                        "коль их разгадаешь,",
+                        "коварство таят;",
+                        "изведал я это,",
+                        "деву пытаясь",
+                        "к ласкам склонить;",
+                        "был тяжко унижен",
+                        "жестокой и все ж",
+                        "не достиг я успеха.\""
                     ]
                 },
                 {
@@ -2352,15 +2361,15 @@
                     "type": "stanza",
                     "number": "103.",
                     "linesEN": [
-                        "Though glad at home,",
-                        "and merry with guests,",
-                        "A man shall be wary and wise;",
-                        "The sage and shrewd,",
-                        "wide wisdom seeking,",
-                        "Must see that his speech be fair;",
-                        "A fool is he named",
-                        "who nought can say,",
-                        "For such is the way of the witless."
+                        "\"Будь дома весел,",
+                        "будь с гостем приветлив,",
+                        "но разум храни;",
+                        "прослыть хочешь мудрым —",
+                        "в речах будь искусен, —",
+                        "тебя не забудут;",
+                        "глупцом из глупцов",
+                        "прослывет безмолвный —",
+                        "то свойственно глупым.\""
                     ]
                 },
                 {
@@ -2368,12 +2377,12 @@
                     "type": "stanza",
                     "number": "104.",
                     "linesEN": [
-                        "I found the old giant,",
-                        "now back have I fared,",
-                        "Small gain from silence I got;",
-                        "Full many a word,",
-                        "my will to get,",
-                        "I spoke in Suttung's hall."
+                        "\"От старого турса",
+                        "вернулся назад я;",
+                        "промолчал бы — что пользы!",
+                        "Но речи я вел",
+                        "и удачи добился",
+                        "в палатах у Суттунга.\""
                     ]
                 },
                 {
@@ -2381,12 +2390,13 @@
                     "type": "stanza",
                     "number": "105.",
                     "linesEN": [
-                        "The mouth of Rati",
-                        "made room for my passage,",
-                        "And space in the stone he gnawed;",
-                        "Above and below",
-                        "the giants' paths lay,",
-                        "So rashly I risked my head."
+                        "\"Гуннлед меня",
+                        "угостила медом",
+                        "на троне из золота;",
+                        "плату недобрую",
+                        "деве я отдал",
+                        "за ласку, любовь,",
+                        "за всю ее скорбь.\""
                     ]
                 },
                 {
@@ -2394,13 +2404,12 @@
                     "type": "stanza",
                     "number": "106.",
                     "linesEN": [
-                        "Gunnloth gave",
-                        "on a golden stool",
-                        "A drink of the marvelous mead;",
-                        "A harsh reward",
-                        "did I let her have",
-                        "For her heroic heart,",
-                        "And her spirit troubled sore."
+                        "\"Рати клыкам",
+                        "в камень велел я",
+                        "крепко вгрызаться;",
+                        "етунов стены",
+                        "меня обступили,",
+                        "мне гибель грозила.\""
                     ]
                 },
                 {
@@ -2408,12 +2417,12 @@
                     "type": "stanza",
                     "number": "107.",
                     "linesEN": [
-                        "The well-earned beauty",
-                        "well I enjoyed,",
-                        "Little the wise man lacks;",
-                        "So Othrörir now",
-                        "has up been brought",
-                        "To the midst of the men of earth."
+                        "\"Хитростью вдоволь",
+                        "я насладился,",
+                        "все умный сумеет;",
+                        "так ныне Одрерир",
+                        "в доме священном",
+                        "людей покровителя.\""
                     ]
                 },
                 {
@@ -2421,12 +2430,12 @@
                     "type": "stanza",
                     "number": "108.",
                     "linesEN": [
-                        "Hardly, methinks,",
-                        "would I home have come,",
-                        "And left the giants' land,",
-                        "Had not Gunnloth helped me,",
-                        "the maiden good,",
-                        "Whose arms about me had been."
+                        "\"Не удалось бы",
+                        "выбраться мне",
+                        "из жилья исполинов,",
+                        "когда бы не помощь",
+                        "Гуннлед прекрасной,",
+                        "меня обнимавшей.\""
                     ]
                 },
                 {
@@ -2434,13 +2443,13 @@
                     "type": "stanza",
                     "number": "109.",
                     "linesEN": [
-                        "The day that followed,",
-                        "the frost-giants came,",
-                        "Some word of Hor to win,",
-                        "(And into the hall of Hor;)",
-                        "Of Bolverk they asked,",
-                        "were he back midst the gods,",
-                        "Or had Suttung slain him there?"
+                        "\"Назавтра собрались",
+                        "и двинулись хримтурсы",
+                        "к палатам Высокого",
+                        "спросить у Высокого:",
+                        "Бельверк — спросили —",
+                        "вернулся к богам",
+                        "иль сразил его Суттунг?\""
                     ]
                 },
                 {
@@ -2448,12 +2457,12 @@
                     "type": "stanza",
                     "number": "110.",
                     "linesEN": [
-                        "On his ring swore Othin",
-                        "the oath, methinks;",
-                        "Who now his troth shall trust?",
-                        "Suttung's betrayal",
-                        "he sought with drink,",
-                        "And Gunnloth to grief he left."
+                        "\"Клятву Один",
+                        "дал на кольце;",
+                        "не коварна ли клятва?",
+                        "Напиток достал он",
+                        "обманом у Суттунга",
+                        "Гуннлед на горе.\""
                     ]
                 },
                 {
@@ -2461,17 +2470,17 @@
                     "type": "stanza",
                     "number": "111.",
                     "linesEN": [
-                        "It is time to chant",
-                        "from the chanter's stool;",
-                        "By the wells of Urth I was,",
-                        "I saw and was silent,",
-                        "I saw and thought,",
-                        "And heard the speech of Hor.",
-                        "(Of runes heard I words,",
-                        "nor were counsels wanting,",
-                        "At the hall of Hor,",
-                        "In the hall of Hor;",
-                        "Such was the speech I heard.)"
+                        "\"Пора мне с престола",
+                        "тула поведать",
+                        "у источника Урд;",
+                        "смотрел я в молчанье,",
+                        "смотрел я в раздумье,",
+                        "слушал слова я;",
+                        "говорили о рунах,",
+                        "давали советы",
+                        "у дома Высокого,",
+                        "в доме Высокого",
+                        "так толковали:\""
                     ]
                 },
                 {
@@ -2479,13 +2488,13 @@
                     "type": "stanza",
                     "number": "112.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "Rise not at night,",
-                        "save if news thou seekest,",
-                        "Or fain to the outhouse wouldst fare."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "ночью вставать",
+                        "по нужде только надо",
+                        "иль следя за врагом.\""
                     ]
                 },
                 {
@@ -2493,13 +2502,13 @@
                     "type": "stanza",
                     "number": "113.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "Beware of sleep",
-                        "on a witch's bosom,",
-                        "Nor let her limbs ensnare thee."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "с чародейкой не спи,",
+                        "пусть она не сжимает",
+                        "в объятьях тебя.\""
                     ]
                 },
                 {
@@ -2507,12 +2516,12 @@
                     "type": "stanza",
                     "number": "114.",
                     "linesEN": [
-                        "Such is her might",
-                        "that thou hast no mind",
-                        "For the council or meeting of men;",
-                        "Meat thou hatest,",
-                        "joy thou hast not,",
-                        "And sadly to slumber thou farest."
+                        "\"Заставит она",
+                        "тебя позабыть",
+                        "о тинге и сходках;",
+                        "есть не захочешь,",
+                        "забудешь друзей,",
+                        "сон горестным станет.\""
                     ]
                 },
                 {
@@ -2520,13 +2529,13 @@
                     "type": "stanza",
                     "number": "115.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "Seek never to win",
-                        "the wife of another,",
-                        "Or long for her secret love."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "чужую жену",
+                        "не должен ты брать",
+                        "в подруги себе.\""
                     ]
                 },
                 {
@@ -2534,13 +2543,13 @@
                     "type": "stanza",
                     "number": "116.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "If o'er mountains or gulfs",
-                        "thou fain wouldst go,",
-                        "Look well to thy food for the way."
+                        "\"Советы мои",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "в горах ли ты едешь",
+                        "или по фьордам —",
+                        "еды бери вдоволь.\""
                     ]
                 },
                 {
@@ -2548,16 +2557,16 @@
                     "type": "stanza",
                     "number": "117.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "An evil man",
-                        "thou must not let",
-                        "Bring aught of ill to thee;",
-                        "For an evil man",
-                        "will never make",
-                        "Reward for a worthy thought."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "с дурным человеком",
+                        "несчастьем своим",
+                        "делиться не должно;",
+                        "ведь люди дурные",
+                        "тебе не отплатят",
+                        "добром за доверье.\""
                     ]
                 },
                 {
@@ -2565,12 +2574,12 @@
                     "type": "stanza",
                     "number": "118.",
                     "linesEN": [
-                        "I saw a man",
-                        "who was wounded sore",
-                        "By an evil woman's word;",
-                        "A lying tongue",
-                        "his death-blow launched,",
-                        "And no word of truth there was."
+                        "\"Я видел однажды,",
+                        "как муж был погублен",
+                        "злой женщины словом;",
+                        "коварный язык",
+                        "уязвил клеветой,",
+                        "обвиняя облыжно.\""
                     ]
                 },
                 {
@@ -2578,16 +2587,16 @@
                     "type": "stanza",
                     "number": "119.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "If a friend thou hast",
-                        "whom thou fully wilt trust,",
-                        "Then fare to find him oft;",
-                        "For brambles grow",
-                        "and waving grass",
-                        "On the rarely trodden road."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "есть друг у тебя,",
+                        "кому доверяешь, —",
+                        "навещай его часто;",
+                        "высокой травой",
+                        "и кустами покрыты",
+                        "неторные тропы.\""
                     ]
                 },
                 {
@@ -2595,13 +2604,13 @@
                     "type": "stanza",
                     "number": "120.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "A good man find",
-                        "to hold in friendship,",
-                        "And give heed to his healing charms."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "с мужем достойным",
+                        "мирно беседуй,",
+                        "добивайся доверья.\""
                     ]
                 },
                 {
@@ -2609,16 +2618,16 @@
                     "type": "stanza",
                     "number": "121.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "Be never the first",
-                        "to break with thy friend",
-                        "The bond that holds you both;",
-                        "Care eats the heart",
-                        "if thou canst not speak",
-                        "To another all thy thought."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "дружбу блюди",
+                        "и первым ее",
+                        "порвать не старайся;",
+                        "скорбь твое сердце",
+                        "сожжет, коль не сможешь",
+                        "другу довериться.\""
                     ]
                 },
                 {
@@ -2626,13 +2635,13 @@
                     "type": "stanza",
                     "number": "122.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "Exchange of words",
-                        "with a witless ape",
-                        "Thou must not ever make."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "глупцу не перечь,",
+                        "с мужем неумным",
+                        "в спор не вступай,\""
                     ]
                 },
                 {
@@ -2640,12 +2649,12 @@
                     "type": "stanza",
                     "number": "123.",
                     "linesEN": [
-                        "For never thou mayst",
-                        "from an evil man",
-                        "A good requital get;",
-                        "But a good man oft",
-                        "the greatest love",
-                        "Through words of praise will win thee."
+                        "\"Ибо дурной",
+                        "тебе не отплатит",
+                        "благом за благо,",
+                        "а добрый ответит",
+                        "на дружбу всегда",
+                        "похвалой и приязнью.\""
                     ]
                 },
                 {
@@ -2653,12 +2662,13 @@
                     "type": "stanza",
                     "number": "124.",
                     "linesEN": [
-                        "Mingled is love",
-                        "when a man can speak",
-                        "To another all his thought;",
-                        "Nought is so bad",
-                        "as false to be,",
-                        "No friend speaks only fair."
+                        "\"Хорошему другу",
+                        "что только хочешь",
+                        "правдиво поведай;",
+                        "всегда откровенность",
+                        "лучше обмана;",
+                        "не только приятное",
+                        "другу рассказывай.\""
                     ]
                 },
                 {
@@ -2666,14 +2676,14 @@
                     "type": "stanza",
                     "number": "125.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "With a worse man speak not",
-                        "three words in dispute,",
-                        "Ill fares the better oft",
-                        "When the worse man wields a sword."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "с тем, кто хуже тебя,",
+                        "спорить не надо;",
+                        "нападет негодяй,",
+                        "а достойный уступит.\""
                     ]
                 },
                 {
@@ -2681,16 +2691,16 @@
                     "type": "stanza",
                     "number": "126.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "A shoemaker be,",
-                        "or a maker of shafts,",
-                        "For only thy single self;",
-                        "If the shoe is ill made,",
-                        "or the shaft prove false,",
-                        "Then evil of thee men think."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "обтесывай древки",
+                        "и обувь готовь",
+                        "лишь себе самому;",
+                        "если обувь плоха",
+                        "или погнуто древко —",
+                        "проклятья получишь.\""
                     ]
                 },
                 {
@@ -2698,13 +2708,13 @@
                     "type": "stanza",
                     "number": "127.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "If evil thou knowest,",
-                        "as evil proclaim it,",
-                        "And make no friendship with foes."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "злые поступки",
+                        "злыми зови,",
+                        "мсти за злое немедля.\""
                     ]
                 },
                 {
@@ -2712,13 +2722,13 @@
                     "type": "stanza",
                     "number": "128.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "In evil never",
-                        "joy shalt thou know,",
-                        "But glad the good shall make thee."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "дурным никогда",
+                        "доволен не будь,",
+                        "дорожи только добрым.\""
                     ]
                 },
                 {
@@ -2726,15 +2736,15 @@
                     "type": "stanza",
                     "number": "129.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir! ",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "Look not up",
-                        "when the battle is on,",
-                        "(Like madmen the sons",
-                        "of men become,)",
-                        "Lest men bewitch thy wits."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь;",
+                        "вверх не смотри,",
+                        "вступая в сраженье, —",
+                        "не сглазил бы враг, —",
+                        "воины часто",
+                        "разум теряют.\""
                     ]
                 },
                 {
@@ -2742,16 +2752,16 @@
                     "type": "stanza",
                     "number": "130.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "If thou fain wouldst win",
-                        "a woman's love,",
-                        "And gladness get from her,",
-                        "Fair be thy promise",
-                        "and well fulfilled;",
-                        "None loathes what good he gets."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "если встречи с красавицей",
+                        "ищешь и ею",
+                        "насладиться намерен —",
+                        "обещанья давай",
+                        "и крепко держи их!",
+                        "Добро не прискучит.\""
                     ]
                 },
                 {
@@ -2759,15 +2769,16 @@
                     "type": "stanza",
                     "number": "131.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "I bid thee be wary,",
-                        "but be not fearful;",
-                        "(Beware most with ale or another's wife,",
-                        "And third beware",
-                        "lest a thief outwit thee.)"
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "будь осторожен,",
+                        "но страха чуждайся,",
+                        "пиву не верь",
+                        "и хитрому вору,",
+                        "не доверяй",
+                        "и жене другого.\""
                     ]
                 },
                 {
@@ -2775,13 +2786,13 @@
                     "type": "stanza",
                     "number": "132.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "Scorn or mocking",
-                        "ne'er shalt thou make",
-                        "Of a guest or a journey-goer."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "потешаться не вздумай",
+                        "над путником дальним,",
+                        "глумиться над гостем.\""
                     ]
                 },
                 {
@@ -2789,12 +2800,12 @@
                     "type": "stanza",
                     "number": "133.",
                     "linesEN": [
-                        "Oft scarcely he knows",
-                        "who sits in the house",
-                        "What kind is the man who comes;",
-                        "None so good is found",
-                        "that faults he has not,",
-                        "Nor so wicked that nought he is worth."
+                        "\"Не ведают часто",
+                        "сидящие дома,",
+                        "кто путник пришедший;",
+                        "изъян и у доброго",
+                        "сыщешь, а злой",
+                        "не во всем нехорош.\""
                     ]
                 },
                 {
@@ -2802,18 +2813,18 @@
                     "type": "stanza",
                     "number": "134.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "Scorn not ever",
-                        "the gray-haired singer,",
-                        "Oft do the old speak good;",
-                        "(Oft from shrivelled skin",
-                        "come skillful counsels,",
-                        "Though it hang with the hides,",
-                        "And flap with the pelts,",
-                        "And is blown with the bellies.)"
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "над седым стариком",
+                        "никогда не смейся;",
+                        "цени слово старца;",
+                        "цедится мудрость",
+                        "из старого меха,",
+                        "что висит возле шкур,",
+                        "качаясь средь кож,",
+                        "с сычугами в соседстве.\""
                     ]
                 },
                 {
@@ -2821,13 +2832,13 @@
                     "type": "stanza",
                     "number": "135.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest",
-                        "Great thy gain if thou learnest:",
-                        "Curse not thy guest,",
-                        "nor show him thy gate,",
-                        "Deal well with a man in want."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "над гостями не смейся,",
+                        "в дверь не гони их,",
+                        "к несчастным будь щедр.\""
                     ]
                 },
                 {
@@ -2835,12 +2846,12 @@
                     "type": "stanza",
                     "number": "136.",
                     "linesEN": [
-                        "Strong is the beam",
-                        "that raised must be",
-                        "To give an entrance to all;",
-                        "Give it a ring,",
-                        "or grim will be",
-                        "The wish it would work on thee."
+                        "\"Ворота сломаешь,",
+                        "коль всех без разбора",
+                        "впускать будешь в дом;",
+                        "кольцо подари,",
+                        "не то пожеланья",
+                        "плохие получишь.\""
                     ]
                 },
                 {
@@ -2848,21 +2859,21 @@
                     "type": "stanza",
                     "number": "137.",
                     "linesEN": [
-                        "I rede thee, Loddfafnir!",
-                        "and hear thou my rede,",
-                        "Profit thou hast if thou hearest,",
-                        "Great thy gain if thou learnest:",
-                        "When ale thou drinkest)",
-                        "seek might of earth,",
-                        "(For earth cures drink,",
-                        "and fire cures ills,",
-                        "The oak cures tightness,",
-                        "the ear cures magic,",
-                        "Rye cures rupture,",
-                        "the moon cures rage,",
-                        "Grass cures the scab,",
-                        "and runes the sword-cut;)",
-                        "The field absorbs the flood."
+                        "\"Советы мои,",
+                        "Лоддфафнир, слушай,",
+                        "на пользу их примешь,",
+                        "коль ты их поймешь:",
+                        "если ты захмелел —",
+                        "землей исцелишься,",
+                        "ведь землей лечат хмель,",
+                        "а пламенем — хвори,",
+                        "понос лечат дубом,",
+                        "колосьями — порчу,",
+                        "безумье — луной,",
+                        "бузиною — желтуху,",
+                        "червями — укусы",
+                        "и рунами — чирьи,",
+                        "земля ж выпьет влагу.\""
                     ]
                 },
                 {
@@ -2870,15 +2881,15 @@
                     "type": "stanza",
                     "number": "138.",
                     "linesEN": [
-                        "I ween that I hung",
-                        "on the windy tree,",
-                        "Hung there for nights full nine;",
-                        "With the spear I was wounded,",
-                        "and offered I was",
-                        "To Othin, myself to myself,",
-                        "On the tree that none",
-                        "may ever know",
-                        "What root beneath it runs."
+                        "\"Знаю, висел я",
+                        "в ветвях на ветру",
+                        "девять долгих ночей,",
+                        "пронзенный копьем,",
+                        "посвященный Одину,",
+                        "в жертву себе же,",
+                        "на дереве том,",
+                        "чьи корни сокрыты",
+                        "в недрах неведомых.\""
                     ]
                 },
                 {
@@ -2886,12 +2897,12 @@
                     "type": "stanza",
                     "number": "139.",
                     "linesEN": [
-                        "None made me happy",
-                        "with loaf or horn,",
-                        "And there below I looked;",
-                        "I took up the runes,",
-                        "shrieking I took them,",
-                        "And forthwith back I fell."
+                        "\"Никто не питал,",
+                        "никто не поил меня,",
+                        "взирал я на землю,",
+                        "поднял я руны,",
+                        "стеная их поднял —",
+                        "и с древа рухнул.\""
                     ]
                 },
                 {
@@ -2899,12 +2910,12 @@
                     "type": "stanza",
                     "number": "140.",
                     "linesEN": [
-                        "Nine mighty songs",
-                        "I got from the son",
-                        "Of Bolthorn, Bestla's father;",
-                        "And a drink I got",
-                        "of the goodly mead",
-                        "Poured out from Othrörir."
+                        "\"Девять песен узнал я",
+                        "от сына Бельторна,",
+                        "Бестлы отца,",
+                        "меду отведал",
+                        "великолепного,",
+                        "что в Одрерир налит.\""
                     ]
                 },
                 {
@@ -2912,12 +2923,13 @@
                     "type": "stanza",
                     "number": "141.",
                     "linesEN": [
-                        "Then began I to thrive,",
-                        "and wisdom to get,",
-                        "I grew and well I was;",
-                        "Each word led me on",
-                        "to another word,",
-                        "Each deed to another deed."
+                        "\"Стал созревать я",
+                        "и знанья множить,",
+                        "расти, процветая;",
+                        "слово от слова",
+                        "слово рождало,",
+                        "дело от дела",
+                        "дело рождало.\""
                     ]
                 },
                 {
@@ -2925,13 +2937,13 @@
                     "type": "stanza",
                     "number": "142.",
                     "linesEN": [
-                        "Runes shalt thou find,",
-                        "and fateful signs,",
-                        "That the king of singers colored,",
-                        "And the mighty gods have made;",
-                        "Full strong the signs,",
-                        "full mighty the signs",
-                        "That the ruler of gods doth write."
+                        "\"Руны найдешь",
+                        "и постигнешь знаки,",
+                        "сильнейшие знаки,",
+                        "крепчайшие знаки,",
+                        "Хрофт их окрасил,",
+                        "а создали боги",
+                        "и Один их вырезал,\""
                     ]
                 },
                 {
@@ -2939,12 +2951,11 @@
                     "type": "stanza",
                     "number": "143.",
                     "linesEN": [
-                        "Othin for the gods,",
-                        "Dain for the elves,",
-                        "And Dvalin for the dwarfs,",
-                        "Alsvith for giants",
-                        "and all mankind,",
-                        "And some myself I wrote."
+                        "\"Один у асов,",
+                        "а Даин у альвов,",
+                        "Двалин у карликов,",
+                        "у етунов Асвид,",
+                        "и сам я их резал.\""
                     ]
                 },
                 {
@@ -2952,14 +2963,14 @@
                     "type": "stanza",
                     "number": "144.",
                     "linesEN": [
-                        "Knowest how one shall write,",
-                        "knowest how one shall rede?",
-                        "Knowest how one shall tint,",
-                        "knowest how one makes trial?",
-                        "Knowest how one shall ask,",
-                        "knowest how one shall offer?",
-                        "Knowest how one shall send,",
-                        "knowest how one shall sacrifice?"
+                        "\"Умеешь ли резать?",
+                        "Умеешь разгадывать?",
+                        "Умеешь окрасить?",
+                        "Умеешь ли спрашивать?",
+                        "Умеешь молиться",
+                        "и жертвы готовить?",
+                        "Умеешь раздать?",
+                        "Умеешь заклать?\""
                     ]
                 },
                 {
@@ -2967,16 +2978,15 @@
                     "type": "stanza",
                     "number": "145.",
                     "linesEN": [
-                        "Better no prayer",
-                        "than too big an offering,",
-                        "By thy getting measure thy gift;",
-                        "Better is none",
-                        "than too big a sacrifice,",
-                        "*********",
-                        "So Thund of old wrote",
-                        "ere man's race began,",
-                        "Where he rose on high",
-                        "when home he came"
+                        "\"Хоть совсем не молись,",
+                        "но не жертвуй без меры,",
+                        "на дар ждут ответа;",
+                        "совсем не коли,",
+                        "чем без меры закалывать.",
+                        "Так вырезал Тунд",
+                        "до рожденья людей;",
+                        "вознесся он там,",
+                        "когда возвратился.\""
                     ]
                 },
                 {
@@ -2984,12 +2994,13 @@
                     "type": "stanza",
                     "number": "146.",
                     "linesEN": [
-                        "The songs I know",
-                        "that king's wives know not,",
-                        "Nor men that are sons of men;",
-                        "The first is called help,",
-                        "and help it can bring thee",
-                        "In sorrow and pain and sickness."
+                        "\"Заклинанья я знаю —",
+                        "не знает никто их,",
+                        "даже конунгов жены;",
+                        "помощь — такое",
+                        "первому имя —",
+                        "помогает в печалях,",
+                        "в заботах и горестях.\""
                     ]
                 },
                 {
@@ -2997,11 +3008,9 @@
                     "type": "stanza",
                     "number": "147.",
                     "linesEN": [
-                        "A second I know,",
-                        "that men shall need",
-                        "Who leechcraft long to use;",
-                        "*********",
-                        "*********"
+                        "\"Знаю второе, —",
+                        "оно врачеванью",
+                        "пользу приносит.\""
                     ]
                 },
                 {
@@ -3009,12 +3018,12 @@
                     "type": "stanza",
                     "number": "148.",
                     "linesEN": [
-                        "A third I know,",
-                        "if great is my need",
-                        "Of fetters to hold my foe;",
-                        "Blunt do I make",
-                        "mine enemy's blade,",
-                        "Nor bites his sword or staff."
+                        "\"Знаю и третье, —",
+                        "оно защитит",
+                        "в битве с врагами,",
+                        "клинки их туплю,",
+                        "их мечи и дубины",
+                        "в бою бесполезны.\""
                     ]
                 },
                 {
@@ -3022,13 +3031,13 @@
                     "type": "stanza",
                     "number": "149.",
                     "linesEN": [
-                        "A fourth I know,",
-                        "if men shall fasten",
-                        "Bonds on my bended legs;",
-                        "So great is the charm",
-                        "that forth I may go,",
-                        "The fetters spring from my feet,",
-                        "Broken the bonds from my hands."
+                        "\"Четвертое знаю, —",
+                        "коль свяжут мне члены",
+                        "оковами крепкими,",
+                        "так я спою,",
+                        "что мигом спадут",
+                        "узы с запястий",
+                        "и с ног кандалы.\""
                     ]
                 },
                 {
@@ -3036,12 +3045,12 @@
                     "type": "stanza",
                     "number": "150.",
                     "linesEN": [
-                        "A fifth I know,",
-                        "if I see from afar",
-                        "An arrow fly 'gainst the folk;",
-                        "It flies not so swift",
-                        "that I stop it not,",
-                        "If ever my eyes behold it."
+                        "\"И пятое знаю, —",
+                        "коль пустит стрелу",
+                        "враг мой в сраженье,",
+                        "взгляну — и стрела",
+                        "не долетит,",
+                        "взору покорная.\""
                     ]
                 },
                 {
@@ -3049,12 +3058,12 @@
                     "type": "stanza",
                     "number": "151.",
                     "linesEN": [
-                        "A sixth I know,",
-                        "if harm one seeks",
-                        "With a sapling's roots to send me;",
-                        "The hero himself",
-                        "who wreaks his hate",
-                        "Shall taste the ill ere I."
+                        "\"Знаю шестое, —",
+                        "коль недруг корнями",
+                        "вздумал вредить мне, —",
+                        "немедля врага,",
+                        "разбудившего гнев мой,",
+                        "несчастье постигнет.\""
                     ]
                 },
                 {
@@ -3062,12 +3071,12 @@
                     "type": "stanza",
                     "number": "152.",
                     "linesEN": [
-                        "A seventh I know,",
-                        "if I see in flames",
-                        "The hall o'er my comrades' heads;",
-                        "It burns not so wide",
-                        "that I will not quench it,",
-                        "I know that song to sing. "
+                        "\"Знаю седьмое, —",
+                        "коль дом загорится",
+                        "с людьми на скамьях,",
+                        "тотчас я пламя",
+                        "могу погасить,",
+                        "запев заклинанье.\""
                     ]
                 },
                 {
@@ -3075,12 +3084,12 @@
                     "type": "stanza",
                     "number": "153.",
                     "linesEN": [
-                        "An eighth I know,",
-                        "that is to all",
-                        "Of greatest good to learn;",
-                        "When hatred grows",
-                        "among heroes' sons,",
-                        "I soon can set it right. "
+                        "\"Знаю восьмое, —",
+                        "это бы всем",
+                        "помнить полезно:",
+                        "где ссора начнется",
+                        "средь воинов смелых,",
+                        "могу помирить их.\""
                     ]
                 },
                 {
@@ -3088,12 +3097,12 @@
                     "type": "stanza",
                     "number": "154.",
                     "linesEN": [
-                        "A ninth I know,",
-                        "if need there comes",
-                        "To shelter my ship on the flood;",
-                        "The wind I calm",
-                        "upon the waves,",
-                        "And the sea I put to sleep. "
+                        "\"Знаю девятое, —",
+                        "если ладья",
+                        "борется с бурей,",
+                        "вихрям улечься",
+                        "и волнам утихнуть",
+                        "пошлю повеленье.\""
                     ]
                 },
                 {
@@ -3101,13 +3110,13 @@
                     "type": "stanza",
                     "number": "155.",
                     "linesEN": [
-                        "A tenth I know,",
-                        "what time I see",
-                        "House-riders flying on high;",
-                        "So can I work",
-                        "that wildly they go,",
-                        "Showing their true shapes,",
-                        "Hence to their own homes. "
+                        "\"Знаю десятое, —",
+                        "если замечу,",
+                        "что ведьмы взлетели,",
+                        "сделаю так,",
+                        "что не вернуть им",
+                        "душ своих старых,",
+                        "обличий оставленных.\""
                     ]
                 },
                 {
@@ -3115,14 +3124,14 @@
                     "type": "stanza",
                     "number": "156.",
                     "linesEN": [
-                        "An eleventh I know,",
-                        "if needs I must lead",
-                        "To the fight my long-loved friends;",
-                        "I sing in the shields,",
-                        "and in strength they go",
-                        "Whole to the field of fight,",
-                        "Whole from the field of fight,",
-                        "And whole they come thence home."
+                        "\"Одиннадцатым",
+                        "друзей оберечь",
+                        "в битве берусь я,",
+                        "в щит я пою, —",
+                        "побеждают они,",
+                        "в боях невредимы,",
+                        "из битв невредимы",
+                        "прибудут с победой.\""
                     ]
                 },
                 {
@@ -3130,13 +3139,13 @@
                     "type": "stanza",
                     "number": "157.",
                     "linesEN": [
-                        "A twelfth I know,",
-                        "if high on a tree",
-                        "I see a hanged man swing;",
-                        "So do I write",
-                        "and color the runes",
-                        "That forth he fares,",
-                        "And to me talks. "
+                        "\"Двенадцатым я,",
+                        "увидев на дереве",
+                        "в петле повисшего,",
+                        "так руны вырежу,",
+                        "так их окрашу,",
+                        "что он оживет",
+                        "и беседовать будет.\""
                     ]
                 },
                 {
@@ -3144,12 +3153,12 @@
                     "type": "stanza",
                     "number": "158.",
                     "linesEN": [
-                        "A thirteenth I know,",
-                        "if a thane full young",
-                        "With water I sprinkle well;",
-                        "He shall not fall,",
-                        "though he fares mid the host,",
-                        "Nor sink beneath the swords. "
+                        "\"Тринадцатым я",
+                        "водою младенца",
+                        "могу освятить, —",
+                        "не коснутся мечи его,",
+                        "и невредимым",
+                        "в битвах он будет.\""
                     ]
                 },
                 {
@@ -3157,12 +3166,12 @@
                     "type": "stanza",
                     "number": "159.",
                     "linesEN": [
-                        "A fourteenth I know,",
-                        "if fain I would name",
-                        "To men the mighty gods;",
-                        "All know I well",
-                        "of the gods and elves,",
-                        "Few be the fools know this. "
+                        "\"Четырнадцатым",
+                        "число я открою",
+                        "асов и альвов,",
+                        "прозванье богов",
+                        "поведаю людям, —",
+                        "то может лишь мудрый.\""
                     ]
                 },
                 {
@@ -3170,12 +3179,12 @@
                     "type": "stanza",
                     "number": "160.",
                     "linesEN": [
-                        "A fifteenth I know,",
-                        "that before the doors",
-                        "Of Delling sang Thjothrörir the dwarf;",
-                        "Might he sang for the gods,",
-                        "and glory for elves,",
-                        "And wisdom for Hroptatyr wise. "
+                        "\"Пятнадцатое",
+                        "Тьодрерир пел",
+                        "пред дверью Деллинга;",
+                        "напел силу асам,",
+                        "и почести — альвам,",
+                        "и Одину — дух.\""
                     ]
                 },
                 {
@@ -3183,12 +3192,12 @@
                     "type": "stanza",
                     "number": "161.",
                     "linesEN": [
-                        "A sixteenth I know,",
-                        "if I seek delight",
-                        "To win from a maiden wise;",
-                        "The mind I turn",
-                        "of the white-armed maid,",
-                        "And thus change all her thoughts. "
+                        "\"Шестнадцатым я",
+                        "дух шевельну",
+                        "девы достойной,",
+                        "коль дева мила,",
+                        "овладею душой,",
+                        "покорю ее помыслы.\""
                     ]
                 },
                 {
@@ -3196,16 +3205,15 @@
                     "type": "stanza",
                     "number": "162.",
                     "linesEN": [
-                        "A seventeenth I know,",
-                        "so that seldom shall go",
-                        "A maiden young from me;",
-                        "Long these songs",
-                        "thou shalt, Loddfafnir,",
-                        "Seek in vain to sing;",
-                        "Yet good it were",
-                        "if thou mightest get them,",
-                        "Well, if thou wouldst them learn,",
-                        "Help, if thou hadst them. "
+                        "\"Семнадцатым я",
+                        "опутать смогу",
+                        "душу девичью;",
+                        "те заклятья, Лоддфафнир,",
+                        "будут тебе",
+                        "навек неизвестны;",
+                        "хотя хороши они,",
+                        "впрок бы принять их,",
+                        "на пользу усвоить.\""
                     ]
                 },
                 {
@@ -3213,15 +3221,15 @@
                     "type": "stanza",
                     "number": "163.",
                     "linesEN": [
-                        "An eighteenth I know,",
-                        "that ne'er will I tell",
-                        "To maiden or wife of man,",
-                        "The best is what none",
-                        "but one's self doth know,",
-                        "So comes the end of the songs,",
-                        "Save only to her",
-                        "in whose arms I lie,",
-                        "Or who else my sister is. "
+                        "\"Восемнадцатое",
+                        "ни девам, ни женам",
+                        "сказать не смогу я, —",
+                        "один сбережет",
+                        "сокровеннее тайну, —",
+                        "тут песня пресеклась —",
+                        "откроюсь, быть может,",
+                        "только жене",
+                        "иль сестре расскажу.\""
                     ]
                 },
                 {
@@ -3229,14 +3237,14 @@
                     "type": "stanza",
                     "number": "164.",
                     "linesEN": [
-                        "Now are Hor's words",
-                        "spoken in the hall,",
-                        "Kind for the kindred of men,",
-                        "Cursed for the kindred of giants:",
-                        "Hail to the speaker,",
-                        "and to him who learns!",
-                        "Profit be his who has them!",
-                        "Hail to them who hearken! "
+                        "\"Вот речи Высокого",
+                        "в доме Высокого,",
+                        "нужные людям,",
+                        "ненужные етунам.",
+                        "Благо сказавшему!",
+                        "Благо узнавшим!",
+                        "Кто вспомнит — воспользуйся!",
+                        "Благо внимавшим!\""
                     ]
                 }
             ]
@@ -3250,11 +3258,13 @@
                     "type": "stanza",
                     "number": "1.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Counsel me, Frigg, for I long to fare,",
-                        "And Vafthruthnir fain would find;",
-                        "fit wisdom old with the giant wise",
-                        "Myself would I seek to match.\""
+                        "\"Один сказал:",
+                        "«Дай, Фригг, мне совет,",
+                        "в путь я собрался",
+                        "к Вафтрудниру в гости!",
+                        "В древних познаньях",
+                        "помериться силой",
+                        "хочу я с мудрейшим».\""
                     ]
                 },
                 {
@@ -3262,11 +3272,13 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesEN": [
-                        "Frigg spake:",
-                        "\"Heerfather here at home would I keep,",
-                        "Where the gods together dwell;",
-                        "Amid all the giants an equal in might",
-                        "To Vafthruthnir know I none.\""
+                        "\"Фригг сказала:",
+                        "«Лучше останься,",
+                        "Ратей Отец,",
+                        "в чертогах богов —",
+                        "Вафтруднир слывет",
+                        "сильнейшим из етунов,",
+                        "кто с ним сравнится!»\""
                     ]
                 },
                 {
@@ -3274,11 +3286,13 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared, much have I found.",
-                        "Much have I got from the gods;",
-                        "And fain would I know how Vafthruthnir now",
-                        "Lives in his lofty hall.\""
+                        "\"Один сказал:",
+                        "«Я странствовал много,",
+                        "беседовал много",
+                        "с благими богами;",
+                        "видеть хотел бы,",
+                        "как Вафтруднир в доме",
+                        "живет у себя».\""
                     ]
                 },
                 {
@@ -3286,11 +3300,13 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesEN": [
-                        "Frigg spake:",
-                        "\"Safe mayst thou go, safe come again,",
-                        "And safe be the way thou wendest!",
-                        "Father of men, let thy mind be keen",
-                        "When speech with the giant thou seekest.\""
+                        "\"Фригг сказала:",
+                        "«Странствуй здоровым,",
+                        "здоровым вернись,",
+                        "доброй дороги!",
+                        "Пусть мудрость тебе",
+                        "там помощью будет",
+                        "с етуном в споре!»\""
                     ]
                 },
                 {
@@ -3298,11 +3314,12 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesEN": [
-                        "The wisdom then of the giant wise",
-                        "Forth did he fare to try;",
-                        "He found the hall",
-                        "of the father of Im,",
-                        "And in forthwith went Ygg."
+                        "\"Отправился в путь",
+                        "Один, чтоб мудрость",
+                        "турса изведать;",
+                        "Игг прибыл к владеньям",
+                        "Има отца",
+                        "и в палату вошел.\""
                     ]
                 },
                 {
@@ -3310,13 +3327,13 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Vafthruthnir, hail!",
-                        "to thy hall am I come,",
-                        "For thyself I fain would see;",
-                        "And first would I ask",
-                        "if wise thou art,",
-                        "Or, giant, all wisdom hast won.\""
+                        "\"Один сказал:",
+                        "«Привет тебе, Вафтруднир!",
+                        "Вот я пришел",
+                        "поглядеть на тебя;",
+                        "хочу я постичь",
+                        "познанья твои,",
+                        "все ли, мудрый, ты ведаешь».\""
                     ]
                 },
                 {
@@ -3324,13 +3341,13 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Who is the man",
-                        "that speaks to me,",
-                        "Here in my lofty hall?",
-                        "Forth from our dwelling",
-                        "thou never shalt fare,",
-                        "Unless wiser than I thou art.\""
+                        "\"Вафтруднир сказал:",
+                        "«Что за пришелец",
+                        "в дом мой проник",
+                        "и слова в меня мечет?",
+                        "Ты дом не покинешь,",
+                        "коль не победишь,",
+                        "состязаясь со мною».\""
                     ]
                 },
                 {
@@ -3338,13 +3355,13 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Gagnrath they call me,",
-                        "and thirsty I come",
-                        "From a journey hard to thy hall;",
-                        "Welcome I look for,",
-                        "for long have I fared,",
-                        "And gentle greeting, giant.\""
+                        "\"Один сказал:",
+                        "«Гагнрад мне имя,",
+                        "мучим я жаждой,",
+                        "в пути утомился,",
+                        "жду приглашенья —",
+                        "долог был путь мой, —",
+                        "прими меня, етун».\""
                     ]
                 },
                 {
@@ -3352,13 +3369,13 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Why standest thou there",
-                        "on the floor whilst thou speakest?",
-                        "A seat shalt thou have in my hall;",
-                        "Then soon shall we know",
-                        "whose knowledge is more,",
-                        "The guest's or the sage's gray.\""
+                        "\"Вафтруднир сказал:",
+                        "«Будь у нас, Гагнрад,",
+                        "гостем в палате,",
+                        "садись на скамью!",
+                        "Посмотрим сейчас,",
+                        "кто в знаньях сильней,",
+                        "старый турс или ты».\""
                     ]
                 },
                 {
@@ -3366,13 +3383,13 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"If a poor man reaches",
-                        "the home of the rich,",
-                        "Let him wisely speak or be still;",
-                        "For to him who speaks",
-                        "with the hard of heart",
-                        "Will chattering ever work ill.\""
+                        "\"Один сказал:",
+                        "«Должен молчать",
+                        "или дельно беседовать",
+                        "бедный с богатым;",
+                        "в речах своих буду",
+                        "меру блюсти,",
+                        "с хладноребрым сойдясь».\""
                     ]
                 },
                 {
@@ -3380,13 +3397,13 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Speak forth now, Gagnrath,",
-                        "if there from the floor",
-                        "Thou wouldst thy wisdom make known:",
-                        "What name has the steed",
-                        "that each morn anew",
-                        "The day for mankind doth draw?\""
+                        "\"Вафтруднир сказал:",
+                        "«Гагнрад, скажи,",
+                        "коль стоя ты хочешь",
+                        "спорить со мною:",
+                        "что за конь поутру",
+                        "день нам приносит,",
+                        "как имя коню?»\""
                     ]
                 },
                 {
@@ -3394,13 +3411,13 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Skinfaxi is he,",
-                        "the steed who for men",
-                        "The glittering day doth draw;",
-                        "The best of horses",
-                        "to heroes he seems,",
-                        "And brightly his mane doth burn.\""
+                        "\"Один сказал:",
+                        "«Скинфакси конь",
+                        "сияющий день",
+                        "поутру нам приносит;",
+                        "слывет у героев",
+                        "он лучшим конем",
+                        "с гривой сверкающей».\""
                     ]
                 },
                 {
@@ -3408,13 +3425,13 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Speak forth now, Gagnrath,",
-                        "if there from the floor",
-                        "Thou wouldst thy wisdom make known:",
-                        "What name has the steed",
-                        "that from East anew",
-                        "Brings night for the noble gods?\""
+                        "\"Вафтруднир сказал:",
+                        "«Гагнрад, скажи,",
+                        "коль стоя ты хочешь",
+                        "спорить со мною:",
+                        "кто конь, несущий",
+                        "сумрак ночной",
+                        "над богами благими?»\""
                     ]
                 },
                 {
@@ -3422,13 +3439,13 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Hrimfaxi name they",
-                        "the steed that anew",
-                        "Brings night for the noble gods;",
-                        "Each morning foam",
-                        "from his bit there falls,",
-                        "And thence come the dews in the dales.\""
+                        "\"Один сказал:",
+                        "«Хримфакси конь",
+                        "сумрак несет",
+                        "над богами благими;",
+                        "пену с удил",
+                        "роняет на долы",
+                        "росой на рассвете».\""
                     ]
                 },
                 {
@@ -3436,13 +3453,13 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Speak forth now, Gagnrath,",
-                        "if there from the floor",
-                        "Thou wouldst thy wisdom make known:",
-                        "What name has the river",
-                        "that 'twixt the realms",
-                        "Of the gods and the giants goes?\""
+                        "\"Вафтруднир сказал:",
+                        "«Гагнрад, скажи,",
+                        "коль стоя ты хочешь",
+                        "спорить со мною:",
+                        "как имя реки,",
+                        "где проходит рубеж",
+                        "меж богами и турсами?»\""
                     ]
                 },
                 {
@@ -3450,13 +3467,13 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesEN": [
-                        "Othin spoke:",
-                        "\"Ifing is the river",
-                        "that 'twixt the realms",
-                        "Of the gods and the giants goes;",
-                        "For all time ever",
-                        "open it flows,",
-                        "No ice on the river there is.\""
+                        "\"Один сказал:",
+                        "«Ивинг — река,",
+                        "где проходит рубеж",
+                        "меж богами и турсами;",
+                        "воды ее",
+                        "не застынут вовек,",
+                        "льдом не оденутся».\""
                     ]
                 },
                 {
@@ -3464,13 +3481,13 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Speak forth now, Gagnrath,",
-                        "if there from the floor",
-                        "Thou wouldst thy wisdom make known:",
-                        "What name has the field",
-                        "where in fight shall meet",
-                        "Surt and the gracious gods?\""
+                        "\"Вафтруднир сказал:",
+                        "«Гагнрад, скажи,",
+                        "коль стоя ты хочешь",
+                        "спорить со мною:",
+                        "как имя равнины,",
+                        "где встретится Сурт",
+                        "в битве с богами?»\""
                     ]
                 },
                 {
@@ -3478,13 +3495,13 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Vigrith is the field",
-                        "where in fight shall meet",
-                        "Surt and the gracious gods;",
-                        "A hundred miles",
-                        "each way does it measure.",
-                        "And so are its boundaries set.\""
+                        "\"Один сказал:",
+                        "«Вигрид — равнина,",
+                        "где встретится Сурт",
+                        "в битве с богами,",
+                        "по сто переходов",
+                        "в каждую сторону",
+                        "поле для боя».\""
                     ]
                 },
                 {
@@ -3492,13 +3509,13 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Wise art thou, guest!",
-                        "To my bench shalt thou go,",
-                        "In our seats let us speak together;",
-                        "Here in the hall",
-                        "our heads, O guest,",
-                        "Shall we wager our wisdom upon.\""
+                        "\"Вафтруднир сказал:",
+                        "«Гость мой, ты сведущ,",
+                        "садись на скамью,",
+                        "побеседуем сидя!",
+                        "Голову мы,",
+                        "гость мой, назначим",
+                        "ставкою в споре!»\""
                     ]
                 },
                 {
@@ -3506,13 +3523,13 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"First answer me well,",
-                        "if thy wisdom avails,",
-                        "And thou knowest it, Vafthruthnir, now:",
-                        "In earliest time",
-                        "whence came the earth,",
-                        "Or the sky, thou giant sage?\""
+                        "\"Один сказал:",
+                        "«Дай первый ответ,",
+                        "если светел твой ум",
+                        "и все знаешь, Вафтруднир:",
+                        "как создали землю,",
+                        "как небо возникло,",
+                        "етун, открой мне?»\""
                     ]
                 },
                 {
@@ -3520,13 +3537,13 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Out of Ymir's flesh",
-                        "was fashioned the earth,",
-                        "And the mountains were made of his bones;",
-                        "The sky from the frost-cold",
-                        "giant's skull,",
-                        "And the ocean out of his blood.\""
+                        "\"Вафтруднир сказал:",
+                        "«Имира плоть",
+                        "стала землей,",
+                        "стали кости горами,",
+                        "небом стал череп",
+                        "холодного турса,",
+                        "а кровь его морем».\""
                     ]
                 },
                 {
@@ -3534,13 +3551,13 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Next answer me well,",
-                        "if thy wisdom avails,",
-                        "And thou knowest it, Vafthruthnir, now:",
-                        "Whence came the moon,",
-                        "o'er the world of men",
-                        "That fares, and the flaming sun?\""
+                        "\"Один сказал:",
+                        "«Второй дай ответ,",
+                        "если светел твой ум",
+                        "и все знаешь, Вафтруднир:",
+                        "луна как возникла",
+                        "во тьме для людей,",
+                        "как создано солнце?»\""
                     ]
                 },
                 {
@@ -3548,13 +3565,13 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Mundilferi is he",
-                        "who begat the moon,",
-                        "And fathered the flaming sun;",
-                        "The round of heaven",
-                        "each day they run,",
-                        "To tell the time for men.\""
+                        "\"Вафтруднир сказал:",
+                        "«Мундильфери",
+                        "зовется отец",
+                        "солнца с луною;",
+                        "небо обходят",
+                        "они каждый день,",
+                        "то времени мера».\""
                     ]
                 },
                 {
@@ -3562,13 +3579,13 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Third answer me well,",
-                        "if wise thou art called,",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "Whence came the day,",
-                        "o'er mankind that fares,",
-                        "Or night with the narrowing moon?\""
+                        "\"Один сказал:",
+                        "«Дай третий ответ,",
+                        "коль мудрым слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "откуда начало",
+                        "дня над людьми",
+                        "и ночи с луною?»\""
                     ]
                 },
                 {
@@ -3576,13 +3593,13 @@
                     "type": "stanza",
                     "number": "25",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"The father of day",
-                        "is Delling called,",
-                        "And the night was begotten by Nor;",
-                        "Full moon and old",
-                        "by the gods were fashioned,",
-                        "To tell the time for men.\""
+                        "\"Вафтруднир сказал:",
+                        "«Деллингом звать",
+                        "день породившего,",
+                        "Нер — ночи отец;",
+                        "измыслили боги",
+                        "луны измененья,",
+                        "чтоб меру дать времени».\""
                     ]
                 },
                 {
@@ -3590,13 +3607,13 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Fourth answer me well,",
-                        "if wise thou art called,",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "Whence did winter come,",
-                        "or the summer warm,",
-                        "First with the gracious gods?\""
+                        "\"Один сказал:",
+                        "«Дай четвертый ответ,",
+                        "коль умным слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "кто создал зиму",
+                        "и теплое лето",
+                        "у богов всеблагих?»\""
                     ]
                 },
                 {
@@ -3604,10 +3621,10 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Vindsval he was",
-                        "who was winter's father,",
-                        "And Svosuth summer begat;\""
+                        "\"Вафтруднир сказал:",
+                        "«Виндсваль дал зиму,",
+                        "а Свасуд — лето,",
+                        "они им отцы».\""
                     ]
                 },
                 {
@@ -3615,13 +3632,13 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Fifth answer me well,",
-                        "if wise thou art called,",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "What giant first",
-                        "was fashioned of old,",
-                        "And the eldest of Ymir's kin?\""
+                        "\"Один сказал:",
+                        "«Дай пятый ответ,",
+                        "коль умным слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "кто в начале времен",
+                        "был старшим из асов",
+                        "и родичей Имира?»\""
                     ]
                 },
                 {
@@ -3629,13 +3646,13 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Winters unmeasured",
-                        "ere earth was made",
-                        "Was the birth of Bergelmir;",
-                        "Thruthgelmir's son",
-                        "was the giant strong,",
-                        "And Aurgelmir's grandson of old.\""
+                        "\"Вафтруднир сказал:",
+                        "«За множество зим",
+                        "до созданья земли",
+                        "был Бергельмир турс,",
+                        "Трудгельмир — имя",
+                        "турса отца,",
+                        "и Аургельмир — деда».\""
                     ]
                 },
                 {
@@ -3643,13 +3660,13 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Sixth answer me well,",
-                        "if wise thou art called,",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "Whence did Aurgelmir come",
-                        "with the giants' kin,",
-                        "Long since, thou giant sage?\""
+                        "\"Один сказал:",
+                        "«Шестой дай ответ,",
+                        "коль мудрым слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "откуда меж турсов",
+                        "Аургельмир явился,",
+                        "первый их предок?»\""
                     ]
                 },
                 {
@@ -3657,13 +3674,13 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Down from Elivagar",
-                        "did venom drop,",
-                        "And waxed till a giant it was;",
-                        "And thence arose",
-                        "our giants' race,",
-                        "And thus so fierce are we found.\""
+                        "\"Вафтруднир сказал:",
+                        "«Брызги холодные",
+                        "Эливагара",
+                        "етуном стали;",
+                        "отсюда свой род",
+                        "исполины ведут,",
+                        "оттого мы жестоки».\""
                     ]
                 },
                 {
@@ -3671,13 +3688,13 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Seventh answer me well,",
-                        "if wise thou art called,",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "How begat he children,",
-                        "the giant grim,",
-                        "Who never a giantess knew?\""
+                        "\"Один сказал:",
+                        "«Седьмой дай ответ,",
+                        "коль мудрым слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "как же мог етун,",
+                        "не знавший жены,",
+                        "отцом быть потомства?»\""
                     ]
                 },
                 {
@@ -3685,13 +3702,13 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"They say 'neath the arms",
-                        "of the giant of ice",
-                        "Grew man-child and maid together;",
-                        "And foot with foot",
-                        "did the wise one fashion",
-                        "A son that six heads bore.\""
+                        "\"Вафтруднир сказал:",
+                        "«У етуна сильного",
+                        "дочка и сын",
+                        "возникли под мышкой,",
+                        "нога же с ногой",
+                        "шестиглавого сына",
+                        "турсу родили».\""
                     ]
                 },
                 {
@@ -3699,13 +3716,13 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Eighth answer me well,",
-                        "if wise thou art called,",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "What farthest back",
-                        "dost thou bear in mind?",
-                        "For wide is thy wisdom, giant!\""
+                        "\"Один сказал:",
+                        "«Восьмой дай ответ,",
+                        "коль мудрым слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "что первое ведаешь,",
+                        "помнишь древнейшее,",
+                        "турс многомудрый?»\""
                     ]
                 },
                 {
@@ -3713,13 +3730,13 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Winters unmeasured",
-                        "ere earth was made",
-                        "Was the birth of Bergelmir;",
-                        "This first knew I well,",
-                        "when the giant wise",
-                        "In a boat of old was borne.\""
+                        "\"Вафтруднир сказал:",
+                        "«За множество зим",
+                        "до созданья земли",
+                        "был Бергельмир турс;",
+                        "в гроб его",
+                        "при мне положили —",
+                        "вот что первое помню».\""
                     ]
                 },
                 {
@@ -3727,13 +3744,13 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Ninth answer me well,",
-                        "if wise thou art called",
-                        "If thou knowest it, Vafthruthnir, now:",
-                        "Whence comes the wind",
-                        "that fares o'er the waves",
-                        "Yet never itself is seen?\""
+                        "\"Один сказал:",
+                        "«Дай девятый ответ,",
+                        "коль мудрым слывешь",
+                        "и все знаешь, Вафтруднир:",
+                        "ветер откуда",
+                        "слетает на волны?",
+                        "Для людей он невидим».\""
                     ]
                 },
                 {
@@ -3741,13 +3758,13 @@
                     "type": "stanza",
                     "number": "37.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"In an eagle's guise",
-                        "at the end of heaven",
-                        "Hræsvelg sits, they say;",
-                        "And from his wings",
-                        "does the wind come forth",
-                        "To move o'er the world of men.\""
+                        "\"Вафтруднир сказал:",
+                        "«Хресвельг сидит",
+                        "у края небес",
+                        "в обличье орла;",
+                        "он ветер крылами",
+                        "своими вздымает",
+                        "над всеми народами».\""
                     ]
                 },
                 {
@@ -3755,15 +3772,15 @@
                     "type": "stanza",
                     "number": "38.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Tenth answer me now,",
-                        "if thou knowest all",
-                        "The fate that is fixed for the gods:",
-                        "Whence came up Njorth",
-                        "to the kin of the gods,",
-                        "(Rich in temples",
-                        "and shrines he rules,)",
-                        "Though of gods he was never begot?\""
+                        "\"Один сказал:",
+                        "«Дай десятый ответ,",
+                        "коль судьбы богов",
+                        "ты ведаешь, Вафтруднир:",
+                        "как меж асами",
+                        "Ньерд появился?",
+                        "Посвящают ему",
+                        "капища, храмы,",
+                        "но сам он не ас».\""
                     ]
                 },
                 {
@@ -3771,13 +3788,13 @@
                     "type": "stanza",
                     "number": "39.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"In the home of the Wanes",
-                        "did the wise ones create him,",
-                        "And gave him as pledge to the gods;",
-                        "At the fall of the world",
-                        "shall he fare once more",
-                        "Home to the Wanes so wise.\""
+                        "\"Вафтруднир сказал:",
+                        "«У ванов в жилище",
+                        "рожден и в залог",
+                        "отдан был асам;",
+                        "когда же настанет",
+                        "мира конец,",
+                        "он к ванам вернется».\""
                     ]
                 },
                 {
@@ -3785,13 +3802,10 @@
                     "type": "stanza",
                     "number": "40.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Eleventh answer me well,",
-                        "who issue forth from the stronghold",
-                        "to hack each other every day?",
-                        "Slaughter they choose",
-                        "and ride to war",
-                        "sit the glorious ones in reconciliation together.\""
+                        "\"Один сказал:",
+                        "«Скажи мне еще,",
+                        "где каждый день",
+                        "битвы кипят?»\""
                     ]
                 },
                 {
@@ -3799,10 +3813,13 @@
                     "type": "stanza",
                     "number": "41.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "All the champions every day contend in Óðin's courtyard;",
-                        "they choose the slaughter and ride from the field,",
-                        "thenceforth sit reconciled."
+                        "\"Вафтруднир сказал:",
+                        "«Эйнхерии все",
+                        "рубятся вечно",
+                        "в чертоге у Одина;",
+                        "в схватки вступают,",
+                        "а кончив сраженье,",
+                        "мирно пируют».\""
                     ]
                 },
                 {
@@ -3810,14 +3827,14 @@
                     "type": "stanza",
                     "number": "42.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Twelfth answer me now",
-                        "how all thou knowest",
-                        "Of the fate that is fixed for the gods;",
-                        "Of the runes of the gods",
-                        "and the giants' race",
-                        "The truth indeed dost thou tell,",
-                        "(And wide is thy wisdom, giant!)\""
+                        "\"Один сказал:",
+                        "«Скажи мне теперь,",
+                        "откуда ты ведаешь",
+                        "судьбы богов;",
+                        "о тайнах великих",
+                        "богов и турсов",
+                        "ты правду поведал,",
+                        "турс многомудрый».\""
                     ]
                 },
                 {
@@ -3825,14 +3842,14 @@
                     "type": "stanza",
                     "number": "43.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"Of the runes of the gods",
-                        "and the giants' race",
-                        "The truth indeed can I tell,",
-                        "(For to every world have I won;)",
-                        "To nine worlds came I,",
-                        "to Niflhel beneath,",
-                        "The home where dead men dwell.\""
+                        "\"Вафтруднир сказал:",
+                        "«О тайнах великих",
+                        "богов и турсов",
+                        "поведал я правду:",
+                        "все девять миров",
+                        "до дна прошел",
+                        "и Нифльхель увидел,",
+                        "куда смерть уводит».\""
                     ]
                 },
                 {
@@ -3840,13 +3857,13 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared,",
-                        "much have I found,",
-                        "Much have I got of the gods:",
-                        "What shall live of mankind",
-                        "when at last there comes",
-                        "The mighty winter to men?\""
+                        "\"Один сказал:",
+                        "«Много я странствовал,",
+                        "много беседовал",
+                        "с благими богами;",
+                        "кто будет жить",
+                        "после конца",
+                        "зимы великанов?»\""
                     ]
                 },
                 {
@@ -3854,13 +3871,13 @@
                     "type": "stanza",
                     "number": "45.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"In Hoddmimir's wood",
-                        "shall hide themselves",
-                        "Lif and Lifthrasir then;",
-                        "The morning dews",
-                        "for meat shall they have,",
-                        "Such food shall men then find.\""
+                        "\"Вафтруднир сказал:",
+                        "«Спрячется Лив",
+                        "и Ливтрасир с нею",
+                        "в роще Ходдмимир;",
+                        "будут питаться",
+                        "росой по утрам",
+                        "и людей породят».\""
                     ]
                 },
                 {
@@ -3868,13 +3885,13 @@
                     "type": "stanza",
                     "number": "46.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared,",
-                        "much have I found,",
-                        "Much have I got of the gods:",
-                        "Whence comes the sun",
-                        "to the smooth sky back,",
-                        "When Fenrir has snatched it forth?\""
+                        "\"Один сказал:",
+                        "«Я странствовал много,",
+                        "беседовал много",
+                        "с благими богами;",
+                        "как солнце на глади",
+                        "небесной возникнет,",
+                        "коль Волк его сгубит?»\""
                     ]
                 },
                 {
@@ -3882,13 +3899,13 @@
                     "type": "stanza",
                     "number": "47.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"A daughter bright",
-                        "Alfrothul bears",
-                        "Ere Fenrir snatches her forth;",
-                        "Her mother's paths",
-                        "shall the maiden tread",
-                        "When the gods to death have gone.\""
+                        "\"Вафтруднир сказал:",
+                        "«Прежде чем Волк",
+                        "Альвредуль сгубит,",
+                        "дочь породит она;",
+                        "боги умрут,",
+                        "и дорогою матери",
+                        "дева последует».\""
                     ]
                 },
                 {
@@ -3896,13 +3913,13 @@
                     "type": "stanza",
                     "number": "48.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared,",
-                        "much have I found,",
-                        "Much have I got of the gods:",
-                        "What maidens are they,",
-                        "so wise of mind.",
-                        "That forth o'er the sea shall fare?\""
+                        "\"Один сказал:",
+                        "«Я странствовал много,",
+                        "беседовал много",
+                        "с благими богами;",
+                        "какие три девы",
+                        "высоко над морем",
+                        "парят в поднебесье?»\""
                     ]
                 },
                 {
@@ -3910,13 +3927,13 @@
                     "type": "stanza",
                     "number": "49.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"O'er Mogthrasir's hill",
-                        "shall the maidens pass,",
-                        "And three are their throngs that come;",
-                        "They all shall protect",
-                        "the dwellers on earth,",
-                        "Though they come of the giants' kin.\""
+                        "\"Вафтруднир сказал:",
+                        "«Три мощных потока",
+                        "текут над жильем",
+                        "дочерей Мегтрасира;",
+                        "для людей эти девы —",
+                        "духи благие,",
+                        "хоть предки их — турсы».\""
                     ]
                 },
                 {
@@ -3924,13 +3941,13 @@
                     "type": "stanza",
                     "number": "50.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared,",
-                        "much have I found,",
-                        "Much have I got of the gods:",
-                        "Who then shall rule",
-                        "the realm of the gods,",
-                        "When the fires of Surt have sunk?\""
+                        "\"Один сказал:",
+                        "«Я странствовал много,",
+                        "беседовал много",
+                        "с благими богами;",
+                        "кто наследьем богов",
+                        "завладеет, когда",
+                        "пламя Сурта погаснет?»\""
                     ]
                 },
                 {
@@ -3938,13 +3955,13 @@
                     "type": "stanza",
                     "number": "51.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"In the gods' home Vithar",
-                        "and Vali shall dwell,",
-                        "When the fires of Surt have sunk;",
-                        "Mothi and Magni",
-                        "shall Mjollnir have",
-                        "When Vingnir falls in fight.\""
+                        "\"Вафтруднир сказал:",
+                        "«Будут Видар и Вали",
+                        "в Асгарде жить,",
+                        "когда пламя погаснет,",
+                        "Моди и Магни",
+                        "Мьелльнир возьмут.",
+                        "когда Вингнис погибнет».\""
                     ]
                 },
                 {
@@ -3952,13 +3969,13 @@
                     "type": "stanza",
                     "number": "52.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared,",
-                        "much have I found,",
-                        "Much have I got of the gods:",
-                        "What shall bring the doom",
-                        "of death to Othin,",
-                        "When the gods to destruction go?\""
+                        "\"Один сказал:",
+                        "«Я странствовал много,",
+                        "беседовал много",
+                        "с благими богами;",
+                        "как Один свою",
+                        "жизнь завершит,",
+                        "когда боги погибнут?»\""
                     ]
                 },
                 {
@@ -3966,13 +3983,13 @@
                     "type": "stanza",
                     "number": "53.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"The wolf shall fell",
-                        "the father of men,",
-                        "And this shall Vithar avenge;",
-                        "The terrible jaws",
-                        "shall he tear apart,",
-                        "And so the wolf shall he slay.\""
+                        "\"Вафтруднир сказал:",
+                        "«Фенрир проглотит",
+                        "отца всех людей,",
+                        "но мстить будет Видар;",
+                        "пасть разорвет он",
+                        "свирепую волчью,",
+                        "возмездье свершая».\""
                     ]
                 },
                 {
@@ -3980,13 +3997,13 @@
                     "type": "stanza",
                     "number": "54.",
                     "linesEN": [
-                        "Othin spake:",
-                        "\"Much have I fared,",
-                        "much have I found,",
-                        "Much have I got from the gods:",
-                        "What spake Othin himself",
-                        "in the ears of his son,",
-                        "Ere in the bale-fire he burned?\""
+                        "\"Один сказал:",
+                        "«Я странствовал много,",
+                        "беседовал много",
+                        "с благими богами;",
+                        "что сыну Один",
+                        "поведал, когда",
+                        "сын лежал на костре?»\""
                     ]
                 },
                 {
@@ -3994,16 +4011,16 @@
                     "type": "stanza",
                     "number": "55.",
                     "linesEN": [
-                        "Vafthruthnir spake:",
-                        "\"No man can tell",
-                        "what in olden time",
-                        "Thou spak'st in the ears of thy son;",
-                        "With fated mouth",
-                        "the fall of the gods",
-                        "And mine olden tales have I told;",
-                        "With Othin in knowledge",
-                        "now have I striven,",
-                        "And ever the wiser thou art.\""
+                        "\"Вафтруднир сказал:",
+                        "«Никто не узнает,",
+                        "что потаенно",
+                        "ты сыну сказал!",
+                        "О кончине богов",
+                        "я, обреченный,",
+                        "преданья поведал!",
+                        "С Одином тщился",
+                        "в споре тягаться:",
+                        "ты в мире мудрейший!»\""
                     ]
                 }
             ]
@@ -6216,12 +6233,9 @@
                     "number": "6.",
                     "linesEN": [
                         "Thor spake:",
-
                         "\"May we win, dost thou think,",
                         "this whirler of water?\"",
-
                         "Tyr spake:",
-
                         "\"Aye, friend, we can,",
                         "if cunning we are.\""
                     ]
@@ -6664,14 +6678,7 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesEN": [
-                        "Not long had they fared,",
-                        "ere backwards looked",
-                        "The son of Othin,",
-                        "once more to see;",
-                        "From their caves in the east",
-                        "beheld he coming",
-                        "With Hymir the throng",
-                        "of the many-headed."
+                        
                     ]
                 },
                 {
