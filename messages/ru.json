@@ -7,7 +7,7 @@
     "Poems": {
         "TheProphecyOfTheSeeress": {
             "Title": "Прорицание вёльвы",
-            "Source": "Древнеисландский текст, ред. Theodor Möbius (1860).<br />Текст на русском языке в переводе А. И. Корсуна",
+            "Source": "Древнеисландский текст, ред. Theodor Möbius (1860).Текст на русском языке в переводе А. И. Корсуна",
             "Texts": [
                 {
                     "id": "1",
@@ -4034,9 +4034,11 @@
                     "type": "prose",
                     "number": "1.",
                     "linesEN": [
-                        "Of the sons of King Hrauthung",
-                        "King Hrauthung had two sons: one was called Agnar, and the other Geirröth. Agnar was ten winters old, and Geirröth eight. Once they both rowed in a boat with their fishing-gear to catch little fish; and the wind drove them out into the sea. In the darkness of the night they were wrecked on the shore; and going up, they found a poor peasant, with whom they stayed through the winter. The housewife took care of Agnar, and the peasant cared for Geirröth, and taught him wisdom. In the spring the peasant gave him a boat; and when the couple led them to the shore, the peasant spoke secretly with Geirröth. They had a fair wind, and came to their father's landing-place. Geirröth was forward in the boat; he leaped up on land, but pushed out the boat and said, \"Go thou now where evil may have thee!\" The boat drifted out to sea. Geirröth, however, went up to the house, and was well received, but his father was dead. Then Geirröth was made king, and became a renowned man.",
-                        "Othin and Frigg sat in Hlithskjolf and looked over all the worlds. Othin said: \"Seest thou Agnar, thy foster ling, how he begets children with a giantess in the cave? But Geirröth, my fosterling, is a king, and now rules over his land.\" Frigg said: \"He is so miserly that he tortures his guests if he thinks that too many of them come to him.\" Othin replied that this was the greatest of lies; and they made a wager about this matter. Frigg sent her maid-servant, Fulla, to Geirröth. She bade the king beware lest a magician who was come thither to his land should bewitch him, and told this sign concerning him, that no dog was so fierce as to leap at him. Now it was a very great slander that King Geirröth was not hospitable; but nevertheless he had them take the man whom the dogs would not attack. He wore a dark-blue mantle and called himself Grimnir, but said no more about himself, though he was questioned. The king had him tortured to make him speak, and set him between two fires, and he sat there eight nights. King Geirröth had a son ten winters old, and called Agnar after his father's brother. Agnar went to Grimnir, and gave him a full horn to drink from, and said that the king did ill in letting him be tormented with out cause. Grimnir drank from the horn; the fire had come so near that the mantle burned on Grimnir's back. He spake:"
+                        "О сыновьях конунга Храудунга:",
+                        "У конунга Храудунга было два сына: одного звали Агнар, другого — Гейрред. Агнару было десять зим, а Гейрреду — восемь. Однажды они поехали вдвоем на лодке со своею снастью половить рыбу. Ветер унес их в открытое море. В ночной темноте их лодка разбилась о берег, они вышли на него и встретили там старика. У него они перезимовали. Старуха ходила за Агнаром, а старик — за Гейрредом. Весной старик дал им лодку. А когда старик и старуха провожали их к берегу, старик поговорил с глазу на глаз с Гейрредом. Им выдался попутный ветер, и они приплыли к пристани своего отца. Гейрред был на носу лодки; он выскочил на берег, оттолкнул лодку и сказал: «Плыви туда, где тролли возьмут тебя!» Лодку вынесло в море, а Гейрред пошел ко двору своего отца. Его хорошо приняли; отец его тогда уже умер. Гейрред был выбран конунгом и стал знаменитым мужем.",
+                        "Один и Фригг сидели однажды на престоле Хлидскьяльв и смотрели на все миры. Один сказал: «Видишь ты Агнара, твоего питомца, который народил детей с великаншей в пещере? А Гейрред, мой питомец, — конунг и правит страной!» Фригг говорит: «Он так скуп на еду, что морит голодом своих гостей, если ему кажется, что их слишком много пришло». Один говорит, что это величайшая ложь, и они бьются об заклад об этом.",
+                        "Фригг послала свою служанку Фуллу к Гейрреду. Она велела остеречь его против чар колдуна, который пришел в его земли, и сказала, что его легко узнать по тому, что ни одна собака, как бы она ни была зла, не нападет на него. Что Гейрред скуп на еду, было действительно величайшей неправдой. Но человека, на которого собаки не стали лаять, он все же велел схватить. Пришелец был в синем плаще и назвался Гримнир. Больше он о себе ничего не сказал, как его ни расспрашивали. Конунг велел пыткой добиться от него ответа и посадить между двух костров. Так он просидел восемь ночей.",
+                        "У конунга Гейрреда был сын десяти зим от роду, и он звался Агнар в честь брата его отца. Агнар подошел к Гримниру, дал ему напиться из полного рога и сказал, что конунг плохо поступает, пытая его, безвинного. Гримнир отпил. Огонь в это время подобрался так близко к Гримниру, что на нем затлел плащ. Он сказал:"
                     ]
                 },
                 {
@@ -4044,12 +4046,12 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesEN": [
-                        "Hot art thou, fire!",
-                        "too fierce by far;",
-                        "Get ye now gone, ye flames!",
-                        "The mantle is burnt,",
-                        "though I bear it aloft,",
-                        "And the fire scorches the fur."
+                        "\"Жжешь ты меня,",
+                        "могучее пламя,",
+                        "огонь, отойди!",
+                        "Тлеющий мех",
+                        "потушить не могу я,",
+                        "пылает мой плащ.\""
                     ]
                 },
                 {
@@ -4057,12 +4059,13 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesEN": [
-                        "Twixt the fires now",
-                        "eight nights have I sat,",
-                        "And no man brought meat to me,",
-                        "Save Agnar alone,",
-                        "and alone shall rule",
-                        "Geirröth's son o'er the Goths."
+                        "\"Восемь ночей",
+                        "я в муках провел",
+                        "без питья и без пищи:",
+                        "лишь Агнар меня",
+                        "напоил, и он будет",
+                        "властителем воинов,",
+                        "Гейрреда сын.\""
                     ]
                 },
                 {
@@ -4070,12 +4073,12 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesEN": [
-                        "Hail to thee, Agnar!",
-                        "for hailed thou art",
-                        "By the voice of Veratyr;",
-                        "For a single drink",
-                        "shalt thou never receive",
-                        "A greater gift as reward."
+                        "\"Счастлив будь, Агнар, —",
+                        "тебе пожелал",
+                        "Бог Воинов блага:",
+                        "какую награду",
+                        "выше найдешь ты",
+                        "за влаги глоток!\""
                     ]
                 },
                 {
@@ -4083,12 +4086,12 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesEN": [
-                        "The land is holy",
-                        "that lies hard by",
-                        "The gods and the elves together;",
-                        "And Thor shall ever",
-                        "in Thruthheim dwell,",
-                        "Till the gods to destruction go."
+                        "\"Священную землю",
+                        "вижу лежащей",
+                        "близ асов и альвов;",
+                        "а в Трудхейме будет",
+                        "Тор обитать",
+                        "до кончины богов.\""
                     ]
                 },
                 {
@@ -4096,12 +4099,12 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesEN": [
-                        "Ydalir call they",
-                        "the place where Ull",
-                        "A hall for himself hath set;",
-                        "And Alfheim the gods",
-                        "to Freyr once gave",
-                        "As a tooth-gift in ancient times."
+                        "\"Идалир — имя",
+                        "месту, где Улль",
+                        "палаты построил.",
+                        "Некогда Альвхейм",
+                        "был Фрейром получен",
+                        "от богов на зубок.\""
                     ]
                 },
                 {
@@ -4109,12 +4112,12 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesEN": [
-                        "A third home is there,",
-                        "with silver thatched",
-                        "By the hands of the gracious gods:",
-                        "Valaskjolf is it,",
-                        "in days of old",
-                        "Set by a god for himself."
+                        "\"Третий есть двор,",
+                        "серебром он украшен",
+                        "богами благими;",
+                        "Валаскьяльв двор тот,",
+                        "он асом воздвигнут",
+                        "в древнее время.\""
                     ]
                 },
                 {
@@ -4122,12 +4125,13 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesEN": [
-                        "Sökkvabekk is the fourth,",
-                        "where cool waves flow,",
-                        "And amid their murmur it stands;",
-                        "There daily do Othin",
-                        "and Saga drink",
-                        "In gladness from cups of gold."
+                        "\"Четвертый — то",
+                        "Секквабекк,",
+                        "плещут над ним",
+                        "холодные волны;",
+                        "там Один и Сага",
+                        "пьют каждый день",
+                        "из чаш златокованых.\""
                     ]
                 },
                 {
@@ -4135,12 +4139,12 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesEN": [
-                        "The fifth is Glathsheim,",
-                        "and gold-bright there",
-                        "Stands Valhall stretching wide;",
-                        "And there does Othin",
-                        "each day choose",
-                        "The men who have fallen in fight."
+                        "\"Гладсхейм — то пятый,",
+                        "там золотом пышно",
+                        "Вальгалла блещет;",
+                        "там Хрофт собирает",
+                        "воинов храбрых,",
+                        "убитых в бою.\""
                     ]
                 },
                 {
@@ -4148,12 +4152,12 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesEN": [
-                        "Easy is it to know",
-                        "for him who to Othin",
-                        "Comes and beholds the hall;",
-                        "Its rafters are spears,",
-                        "with shields is it roofed,",
-                        "On its benches are breastplates strewn."
+                        "\"Легко отгадать,",
+                        "где Одина дом,",
+                        "посмотрев на палаты:",
+                        "стропила там — копья,",
+                        "а кровля — щиты",
+                        "и доспехи на скамьях.\""
                     ]
                 },
                 {
@@ -4161,12 +4165,12 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesEN": [
-                        "Easy is it to know",
-                        "for him who to Othin",
-                        "Comes and beholds the hall;",
-                        "There hangs a wolf",
-                        "by the western door,",
-                        "And o'er it an eagle hovers."
+                        "\"Легко отгадать,",
+                        "где Одина дом,",
+                        "посмотрев на палаты:",
+                        "волк там на запад",
+                        "от двери висит,",
+                        "парит орел сверху.\""
                     ]
                 },
                 {
@@ -4174,12 +4178,12 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesEN": [
-                        "The sixth is Thrymheim,",
-                        "where Thjazi dwelt,",
-                        "The giant of marvelous might;",
-                        "Now Skathi abides,",
-                        "the god's fair bride,",
-                        "In the home that her father had."
+                        "\"Трюмхейм — шестой,",
+                        "где некогда Тьяци",
+                        "турс обитал;",
+                        "там Скади жилище,",
+                        "светлой богини,",
+                        "в доме отцовом.\""
                     ]
                 },
                 {
@@ -4187,12 +4191,12 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesEN": [
-                        "The seventh is Breithablik;",
-                        "Baldr has there",
-                        "For himself a dwelling set,",
-                        "In the land I know",
-                        "that lies so fair,",
-                        "And from evil fate is free."
+                        "\"Седьмой — это Брейдаблик,",
+                        "Бальдр там себе",
+                        "построил палаты;",
+                        "на этой земле",
+                        "злодейств никаких",
+                        "не бывало от века.\""
                     ]
                 },
                 {
@@ -4200,12 +4204,12 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesEN": [
-                        "Himinbjorg is the eighth,",
-                        "and Heimdall there",
-                        "O'er men holds sway, it is said;",
-                        "In his well-built house",
-                        "does the warder of heaven",
-                        "The good mead gladly drink."
+                        "\"Восьмой — то Химинбьерг,",
+                        "Хеймдалль, как слышно,",
+                        "там правит в палате:",
+                        "там страж богов",
+                        "сладостный мед",
+                        "в довольстве вкушает.\""
                     ]
                 },
                 {
@@ -4213,12 +4217,12 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesEN": [
-                        "The ninth is Folkvang,",
-                        "where Freyja decrees",
-                        "Who shall have seats in the hall;",
-                        "The half of the dead",
-                        "each day does she choose,",
-                        "And half does Othin have."
+                        "\"Фолькванг — девятый,",
+                        "там Фрейя решает,",
+                        "где сядут герои;",
+                        "поровну воинов,",
+                        "в битвах погибших,",
+                        "с Одином делит.\""
                     ]
                 },
                 {
@@ -4226,12 +4230,12 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesEN": [
-                        "The tenth is Glitnir;",
-                        "its pillars are gold,",
-                        "And its roof with silver is set;",
-                        "There most of his days",
-                        "does Forseti dwell,",
-                        "And sets all strife at end."
+                        "\"Глитнир столбами",
+                        "из золота убран,",
+                        "покрыт серебром;",
+                        "Форсети там",
+                        "живет много дней",
+                        "и ладит дела.\""
                     ]
                 },
                 {
@@ -4239,12 +4243,12 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesEN": [
-                        "The eleventh is Noatun;",
-                        "there has Njorth",
-                        "For himself a dwelling set;",
-                        "The sinless ruler",
-                        "of men there sits",
-                        "In his temple timbered high."
+                        "\"И Ноатун тоже —",
+                        "Ньерд себе там",
+                        "построил палаты;",
+                        "людей повелитель,",
+                        "лишенный пороков,",
+                        "владеет святилищем.\""
                     ]
                 },
                 {
@@ -4252,12 +4256,12 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesEN": [
-                        "Filled with growing trees",
-                        "and high-standing grass",
-                        "Is Vithi, Vithar's land;",
-                        "But there did the son",
-                        "from his steed leap down,",
-                        "When his father he fain would avenge."
+                        "\"Видара край",
+                        "покрыли кусты",
+                        "и высокие травы;",
+                        "там на коне",
+                        "герой обещает",
+                        "отмстить за отца.\""
                     ]
                 },
                 {
@@ -4265,12 +4269,12 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesEN": [
-                        "In Eldhrimnir",
-                        "Andhrimnir cooks",
-                        "Sæhrimnir's seething flesh,",
-                        "The best of food,",
-                        "but few men know",
-                        "On what fare the warriors feast."
+                        "\"Андхримнир варит",
+                        "Сехримнира-вепря",
+                        "в Эльдхримнире мясо —",
+                        "дичину отличную;",
+                        "немногие ведают",
+                        "яства эйнхериев.\""
                     ]
                 },
                 {
@@ -4278,12 +4282,12 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesEN": [
-                        "Freki and Geri",
-                        "does Heerfather feed,",
-                        "The far-famed fighter of old:",
-                        "But on wine alone",
-                        "does the weapon-decked god,",
-                        "Othin, forever live."
+                        "\"Гери и Фреки",
+                        "кормит воинственный",
+                        "Ратей Отец;",
+                        "но вкушает он сам",
+                        "только вино,",
+                        "доспехами блещущий.\""
                     ]
                 },
                 {
@@ -4291,12 +4295,12 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesEN": [
-                        "O'er Mithgarth Hugin",
-                        "and Munin both",
-                        "Each day set forth to fly;",
-                        "For Hugin I fear",
-                        "lest he come not home,",
-                        "But for Munin my care is more."
+                        "\"Хугин и Мунин",
+                        "над миром все время",
+                        "летают без устали;",
+                        "мне за Хугина страшно,",
+                        "страшней за Мунина, —",
+                        "вернутся ли вороны!\""
                     ]
                 },
                 {
@@ -4304,12 +4308,12 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesEN": [
-                        "Loud roars Thund,",
-                        "and Thjothvitnir's fish",
-                        "joyously fares in the flood;",
-                        "Hard does it seem",
-                        "to the host of the slain",
-                        "To wade the torrent wild."
+                        "\"Тунд шумит,",
+                        "Тьодвитнира рыба",
+                        "играет в стремнине;",
+                        "поток нелегко",
+                        "вброд перейти",
+                        "тем, кто в битве убит.\""
                     ]
                 },
                 {
@@ -4317,12 +4321,12 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesEN": [
-                        "There Valgrind stands,",
-                        "the sacred gate,",
-                        "And behind are the holy doors;",
-                        "Old is the gate,",
-                        "but few there are",
-                        "Who can tell how it tightly is locked."
+                        "\"Вальгринд — ворота,",
+                        "стоящие в поле",
+                        "у входа в святилище;",
+                        "неведомы людям",
+                        "древних ворот",
+                        "замки и запоры.\""
                     ]
                 },
                 {
@@ -4330,12 +4334,12 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesEN": [
-                        "Five hundred doors",
-                        "and forty there are,",
-                        "I ween, in Valhall's walls;",
-                        "Eight hundred fighters",
-                        "through one door fare",
-                        "When to war with the wolf they go."
+                        "\"Пять сотен дверей",
+                        "и сорок еще",
+                        "в Вальгалле, верно;",
+                        "восемьсот воинов",
+                        "выйдут из каждой",
+                        "для схватки с Волком.\""
                     ]
                 },
                 {
@@ -4343,12 +4347,12 @@
                     "type": "stanza",
                     "number": "25",
                     "linesEN": [
-                        "Five hundred rooms",
-                        "and forty there are",
-                        "I ween, in Bilskirnir built;",
-                        "Of all the homes",
-                        "whose roofs I beheld,",
-                        "My son's the greatest meseemed."
+                        "\"Пять сотен палат",
+                        "и сорок еще",
+                        "Бильскирнир вмещает;",
+                        "из всех чертогов",
+                        "владеет мой сын",
+                        "самым просторным.\""
                     ]
                 },
                 {
@@ -4356,12 +4360,12 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesEN": [
-                        "Heithrun is the goat",
-                        "who stands by Heerfather's hall,",
-                        "And the branches of Lærath she bites;",
-                        "The pitcher she fills",
-                        "with the fair, clear mead,",
-                        "Ne'er fails the foaming drink."
+                        "\"Хейдрун коза,",
+                        "на Вальгалле стоя,",
+                        "ест Лерад листву;",
+                        "мед сверкающий",
+                        "в чан она цедит,",
+                        "тот мед не иссякнет.\""
                     ]
                 },
                 {
@@ -4369,12 +4373,12 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesEN": [
-                        "Eikthyrnir is the hart",
-                        "who stands by Heerfather's hall",
-                        "And the branches of Lærath he bites;",
-                        "From his horns a stream",
-                        "into Hvergelmir drops,",
-                        "Thence all the rivers run."
+                        "\"Эйктюрнир олень,",
+                        "на Вальгалле стоя,",
+                        "ест Лерад листву;",
+                        "в Хвергельмир падает",
+                        "влага с рогов —",
+                        "всех рек то истоки:\""
                     ]
                 },
                 {
@@ -4382,17 +4386,17 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesEN": [
-                        "Sith and Vith,",
-                        "Sækin and Ækin,",
-                        "Svol and Fimbulthul,",
-                        "Gunnthro, and Fjorm,",
-                        "Rin and Rinnandi,",
-                        "Gipul and Gopul,",
-                        "Gomul and Geirvimul,",
-                        "That flow through the fields of the gods;",
-                        "Thyn and Vin,",
-                        "Thol and Hol,",
-                        "Groth and Gunnthorin."
+                        "\"Сид и Вид,",
+                        "Секин и Эйкин,",
+                        "Свель и Гуннтро,",
+                        "Фьерм и Фимбультуль,",
+                        "Рейн и Реннанди,",
+                        "Гипуль и Гепуль,",
+                        "Гемуль и Гейрвимуль",
+                        "у жилища богов,",
+                        "Тюн и Вин,",
+                        "Телль и Хелль,",
+                        "Град и Гуннтраин.\""
                     ]
                 },
                 {
@@ -4400,18 +4404,18 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesEN": [
-                        "Vino is one,",
-                        "Vegsvin another,",
-                        "And Thjothnuma a third;",
-                        "Nyt and Not,",
-                        "Non and Hron,",
-                        "Slith and Hrith,",
-                        "Sylg and Ylg,",
-                        "Vith and Von,",
-                        "Vond and Strond,",
-                        "Gjol and Leipt,",
-                        "that go among men,",
-                        "And hence they fall to Hel."
+                        "\"Вина — одна,",
+                        "Вегсвин — другая,",
+                        "Тьоднума — третья,",
+                        "Нют и Нет,",
+                        "Ненн и Хренн,",
+                        "Слид и Хрид,",
+                        "Сильг и Ильг,",
+                        "Виль и Ван,",
+                        "Венд и Стренд,",
+                        "Гьель и Лейфтр, —",
+                        "те — в землях людей,",
+                        "но в Хель стремятся.\""
                     ]
                 },
                 {
@@ -4419,15 +4423,15 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesEN": [
-                        "Kormt and Ormt",
-                        "and the Kerlaugs twain",
-                        "Shall Thor each day wade through,",
-                        "(When dooms to give",
-                        "he forth shall go",
-                        "To the ash-tree Yggdrasil;)",
-                        "For heaven's bridge",
-                        "burns all in flame,",
-                        "And the sacred waters seethe."
+                        "\"Кермт и Эрмт",
+                        "и Керлауг обе",
+                        "Тор вброд переходит",
+                        "в те дни, когда асы",
+                        "вершат правосудье",
+                        "у ясеня Иггдрасиль;",
+                        "в ту пору священные",
+                        "воды кипят,",
+                        "пламенеет мост асов.\""
                     ]
                 },
                 {
@@ -4435,15 +4439,15 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesEN": [
-                        "Glath and Gyllir,",
-                        "Gler and Skeithbrimir,",
-                        "Silfrintopp and Sinir,",
-                        "Gisl and Falhofnir,",
-                        "Golltopp and Lettfeti,",
-                        "On these steeds the gods shall go",
-                        "When dooms to give",
-                        "each day they ride",
-                        "To the ash-tree Yggdrasil."
+                        "\"Гюллир и Глад,",
+                        "Глер и Скейдбримир,",
+                        "Синир и Сильвринтопп,",
+                        "Фальхофнир, Гисль,",
+                        "Гулльтопп и Леттфети —",
+                        "те кони носят",
+                        "асов на суд,",
+                        "что вершится под сенью",
+                        "ясеня Иггдрасиль.\""
                     ]
                 },
                 {
@@ -4451,12 +4455,12 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesEN": [
-                        "Three roots there are",
-                        "that three ways run",
-                        "'Neath the ash-tree Yggdrasil;",
-                        "'Neath the first lives Hel,",
-                        "'neath the second the frost-giants,",
-                        "'Neath the last are the lands of men."
+                        "\"Три корня растут",
+                        "на три стороны",
+                        "у ясеня Иггдрасиль:",
+                        "Хель под одним,",
+                        "под другим исполины",
+                        "и люди под третьим.\""
                     ]
                 },
                 {
@@ -4464,12 +4468,12 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesEN": [
-                        "Ratatosk is the squirrel",
-                        "who there shall run",
-                        "On the ash-tree Yggdrasil;",
-                        "From above the words",
-                        "of the eagle he bears,",
-                        "And tells them to Nithhogg beneath."
+                        "\"Рататоск белка",
+                        "резво снует",
+                        "по ясеню Иггдрасиль;",
+                        "все речи орла",
+                        "спешит отнести она",
+                        "Нидхеггу вниз.\""
                     ]
                 },
                 {
@@ -4477,12 +4481,11 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesEN": [
-                        "Four harts there are,",
-                        "that the highest twigs",
-                        "Nibble with necks bent back;",
-                        "Dain and Dvalin,",
-                        "*********",
-                        "Duneyr and Dyrathror."
+                        "\"И четыре оленя,",
+                        "рога запрокинув,",
+                        "гложут побеги:",
+                        "Даин и Двалин,",
+                        "Дунейр и Дуратрор.\""
                     ]
                 },
                 {
@@ -4490,15 +4493,15 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesEN": [
-                        "More serpents there are",
-                        "beneath the ash",
-                        "Than an unwise ape would think;",
-                        "Goin and Moin,",
-                        "Grafvitnir's sons,",
-                        "Grabak and Grafvolluth,",
-                        "Ofnir and Svafnir",
-                        "shall ever, methinks,",
-                        "Gnaw at the twigs of the tree."
+                        "\"Глупцу не понять,",
+                        "сколько ползает змей",
+                        "под ясенем Иггдрасиль:",
+                        "Гоин и Моин —",
+                        "Граввитнира дети, —",
+                        "Грабак и Граввеллуд,",
+                        "Офнир и Свафнир, —",
+                        "они постоянно",
+                        "ясень грызут.\""
                     ]
                 },
                 {
@@ -4506,12 +4509,12 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesEN": [
-                        "Yggdrasil's ash",
-                        "great evil suffers,",
-                        "Far more than men do know;",
-                        "The hart bites its top,",
-                        "its trunk is rotting,",
-                        "And Nithhogg gnaws beneath."
+                        "\"Не ведают люди,",
+                        "какие невзгоды",
+                        "у ясеня Иггдрасиль:",
+                        "корни ест Нидхегг,",
+                        "макушку — олень,",
+                        "ствол гибнет от гнили.\""
                     ]
                 },
                 {
@@ -4519,15 +4522,15 @@
                     "type": "stanza",
                     "number": "37.",
                     "linesEN": [
-                        "Hrist and Mist",
-                        "bring the horn at my will,",
-                        "Skeggjold and Skogul;",
-                        "Hild and Thruth,",
-                        "Hlok and Herfjotur,",
-                        "Gol and Geironul,",
-                        "Randgrith and Rathgrith",
-                        "and Reginleif",
-                        "Beer to the warriors bring."
+                        "\"Христ и Мист",
+                        "пусть рог мне подносят,",
+                        "Скеггьельд и Скегуль,",
+                        "Хильд и Труд,",
+                        "Хлекк и Херфьетур,",
+                        "Гейр и Гейрелуль,",
+                        "Рандгрид и Радгрид",
+                        "и Регинлейв тоже",
+                        "цедят пиво эйнхериям.\""
                     ]
                 },
                 {
@@ -4535,12 +4538,12 @@
                     "type": "stanza",
                     "number": "38.",
                     "linesEN": [
-                        "Arvak and Alsvith",
-                        "up shall drag",
-                        "Weary the weight of the sun;",
-                        "But an iron cool",
-                        "have the kindly gods",
-                        "Of yore set under their yokes."
+                        "\"Арвак и Альсвинн",
+                        "солнце наверх",
+                        "усталые тащат;",
+                        "боги меха",
+                        "кузнечные им",
+                        "положили под плечи.\""
                     ]
                 },
                 {
@@ -4548,12 +4551,12 @@
                     "type": "stanza",
                     "number": "39.",
                     "linesEN": [
-                        "In front of the sun",
-                        "does Svalin stand,",
-                        "The shield for the shining god;",
-                        "Mountains and sea",
-                        "would be set in flames",
-                        "If it fell from before the sun."
+                        "\"Свалин зовется",
+                        "щит, он скрывает",
+                        "солнца сиянье;",
+                        "коль упадет он,",
+                        "пламя охватит",
+                        "и горы и море.\""
                     ]
                 },
                 {
@@ -4561,12 +4564,12 @@
                     "type": "stanza",
                     "number": "40.",
                     "linesEN": [
-                        "Skoll is the wolf",
-                        "that to Ironwood",
-                        "Follows the glittering god,",
-                        "And the son of Hrothvitnir,",
-                        "Hati, awaits",
-                        "The burning bride of heaven."
+                        "\"Сколль имя Волка,",
+                        "за солнцем бежит он",
+                        "до самого леса;",
+                        "а Хати другой,",
+                        "Хродвитнира сын,",
+                        "предшествует солнцу.\""
                     ]
                 },
                 {
@@ -4574,12 +4577,12 @@
                     "type": "stanza",
                     "number": "41.",
                     "linesEN": [
-                        "Out of Ymir's flesh",
-                        "was fashioned the earth,",
-                        "And the ocean out of his blood;",
-                        "Of his bones the hills,",
-                        "of his hair the trees,",
-                        "Of his skull the heavens high."
+                        "\"Имира плоть",
+                        "стала землей,",
+                        "кровь его — морем,",
+                        "кости — горами,",
+                        "череп стал небом,",
+                        "а волосы — лесом.\""
                     ]
                 },
                 {
@@ -4587,12 +4590,12 @@
                     "type": "stanza",
                     "number": "42.",
                     "linesEN": [
-                        "Mithgarth the gods",
-                        "from his eyebrows made,",
-                        "And set for the sons of men;",
-                        "And out of his brain",
-                        "the baleful clouds",
-                        "They made to move on high."
+                        "\"Из ресниц его Мидгард",
+                        "людям был создан",
+                        "богами благими;",
+                        "из мозга его",
+                        "созданы были",
+                        "темные тучи.\""
                     ]
                 },
                 {
@@ -4600,12 +4603,12 @@
                     "type": "stanza",
                     "number": "43.",
                     "linesEN": [
-                        "His the favor of Ull",
-                        "and of all the gods",
-                        "Who first in the flames will reach;",
-                        "For the house can be seen",
-                        "by the sons of the gods",
-                        "If the kettle aside were cast."
+                        "\"Боги и Улль",
+                        "тем благо даруют,",
+                        "кто пламя размечет;",
+                        "если снимут котлы,",
+                        "откроется взорам",
+                        "мир сынов асов.\""
                     ]
                 },
                 {
@@ -4613,12 +4616,12 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesEN": [
-                        "In days of old",
-                        "did Ivaldi's sons",
-                        "Skithblathnir fashion fair,",
-                        "The best of ships",
-                        "for the bright god Freyr,",
-                        "The noble son of Njorth."
+                        "\"Ивальда отпрыски",
+                        "некогда стали",
+                        "Скидбладнир строить",
+                        "для сына Ньерда,",
+                        "светлого Фрейра,",
+                        "струг самый крепкий.\""
                     ]
                 },
                 {
@@ -4626,16 +4629,15 @@
                     "type": "stanza",
                     "number": "45.",
                     "linesEN": [
-                        "The best of trees",
-                        "must Yggdrasil be,",
-                        "Skithblathnir best of boats;",
-                        "Of all the gods",
-                        "is Othin the greatest,",
-                        "And Sleipnir the best of steeds;",
-                        "Bifrost of bridges,",
-                        "Bragi of skalds,",
-                        "Hobrok of hawks,",
-                        "and Garm of hounds."
+                        "\"Дерево лучшее —",
+                        "ясень Иггдрасиль,",
+                        "лучший струг — Скидбладнир,",
+                        "лучший ас — Один,",
+                        "лучший конь — Слейпнир,",
+                        "лучший мост — Бильрест,",
+                        "скальд лучший — Браги",
+                        "и ястреб — Хаброк,",
+                        "а Гарм — лучший пес.\""
                     ]
                 },
                 {
@@ -4643,13 +4645,13 @@
                     "type": "stanza",
                     "number": "46.",
                     "linesEN": [
-                        "To the race of the gods",
-                        "my face have I raised,",
-                        "And the wished-for aid have I waked;",
-                        "For to all the gods",
-                        "has the message gone",
-                        "That sit in Ægir's seats,",
-                        "That drink within Ægir's doors."
+                        "\"Лик свой открыл я",
+                        "асов сынам,",
+                        "близко спасенье;",
+                        "скоро все асы",
+                        "собраны будут",
+                        "за Эгира стол,",
+                        "на Эгира пир.\""
                     ]
                 },
                 {
@@ -4657,12 +4659,12 @@
                     "type": "stanza",
                     "number": "47.",
                     "linesEN": [
-                        "Grim is my name,",
-                        "Gangleri am I,",
-                        "Herjan and Hjalmberi,",
-                        "Thekk and Thrithi,",
-                        "Thuth and Uth,",
-                        "Helblindi and Hor;"
+                        "\"Звался я Грим,",
+                        "звался я Ганглери,",
+                        "Херьян и Хьяльмбери,",
+                        "Текк и Триди",
+                        "Тунд и Уд,",
+                        "Хар и Хельблинди;\""
                     ]
                 },
                 {
@@ -4670,12 +4672,13 @@
                     "type": "stanza",
                     "number": "48.",
                     "linesEN": [
-                        "Sath and Svipal",
-                        "and Sanngetal,",
-                        "Herteit and Hnikar,",
-                        "Bileyg, Baleyg,",
-                        "Bolverk, Fjolnir, Grim and Grimnir,",
-                        "Glapsvith, Fjolsvith."
+                        "\"Санн, и Свипуль,",
+                        "и Саннгеталь тоже,",
+                        "Бильейг и Бальейг,",
+                        "Бельверк и Фьельнир,",
+                        "Хертейт и Хникар,",
+                        "Гримнир и Грим,",
+                        "Глапсвинн и Фьельсвинн;\""
                     ]
                 },
                 {
@@ -4683,13 +4686,13 @@
                     "type": "stanza",
                     "number": "49.",
                     "linesEN": [
-                        "Sithhott, Sithskegg,",
-                        "Sigfather, Hnikuth,",
-                        "Allfather, Valfather,",
-                        "Atrith, Farmatyr:",
-                        "A single name",
-                        "have I never had",
-                        "Since first among men I fared."
+                        "\"Сидхетт, Сидскегг,",
+                        "Сигфедр, Хникуд,",
+                        "Альфедр, Вальфедр,",
+                        "Атрид и Фарматюр;",
+                        "с тех пор как хожу",
+                        "средь людей, немало",
+                        "имен у меня.\""
                     ]
                 },
                 {
@@ -4697,16 +4700,16 @@
                     "type": "stanza",
                     "number": "50.",
                     "linesEN": [
-                        "Grimnir they call me",
-                        "in Geirröth's hall,",
-                        "With Asmund Jalk am I;",
-                        "Kjalar I was",
-                        "when I went in a sledge,",
-                        "At the council Thror am I called,",
-                        "As Vithur I fare to the fight;",
-                        "Oski, Biflindi,",
-                        "Jafnhor and Omi,",
-                        "Gondlir and Harbarth midst gods."
+                        "\"Гримнир мне имя",
+                        "у Гейрреда было",
+                        "и Яльк у Асмунда,",
+                        "Кьялар, когда",
+                        "сани таскал;",
+                        "Трор на тингах,",
+                        "Видур в боях,",
+                        "Оски и Оми,",
+                        "Явнхар и Бивлинди,",
+                        "Гендлир и Харбард.\""
                     ]
                 },
                 {
@@ -4714,12 +4717,12 @@
                     "type": "stanza",
                     "number": "51.",
                     "linesEN": [
-                        "So. I deceived the giant",
-                        "Sokkmimir old",
-                        "As Svithur and Svithrir of yore;",
-                        "Of Mithvitnir's son",
-                        "the slayer I was",
-                        "When the famed one found his doom."
+                        "\"У Секкмимира я",
+                        "был Свидур и Свидрир,",
+                        "старого турса",
+                        "перехитрил я,",
+                        "Мидвитнира сына",
+                        "в схватке сразив.\""
                     ]
                 },
                 {
@@ -4727,12 +4730,12 @@
                     "type": "stanza",
                     "number": "52.",
                     "linesEN": [
-                        "Drunk art thou, Geirröth,",
-                        "too much didst thou drink,",
-                        "*********",
-                        "Much hast thou lost,",
-                        "for help no more",
-                        "From me or my heroes thou hast."
+                        "\"Пьян ты, Гейрред!",
+                        "Пил ты не в меру,",
+                        "отныне лишен ты",
+                        "подмоги моей,",
+                        "эйнхериев помощи,",
+                        "милости Одина.\""
                     ]
                 },
                 {
@@ -4740,12 +4743,12 @@
                     "type": "stanza",
                     "number": "53.",
                     "linesEN": [
-                        "Small heed didst thou take",
-                        "to all that I told,",
-                        "And false were the words of thy friends;",
-                        "For now the sword",
-                        "of my friend I see,",
-                        "That waits all wet with blood."
+                        "\"Много я рассказал,",
+                        "но мало ты помнишь;",
+                        "друг тебя предал;",
+                        "вижу я меч",
+                        "прежнего друга —",
+                        "кровью покрыт он.\""
                     ]
                 },
                 {
@@ -4753,12 +4756,12 @@
                     "type": "stanza",
                     "number": "54.",
                     "linesEN": [
-                        "Thy sword-pierced body",
-                        "shall Ygg have soon,",
-                        "For thy life is ended at last;",
-                        "The maids are hostile;",
-                        "now Othin behold!",
-                        "Now come to me if thou canst!"
+                        "\"Игг получит",
+                        "мечом пораженного,",
+                        "конец твой настал;",
+                        "разгневаны дисы,",
+                        "увидишь ты Одина,",
+                        "коль смеешь — приблизься!\""
                     ]
                 },
                 {
@@ -4766,15 +4769,15 @@
                     "type": "stanza",
                     "number": "55.",
                     "linesEN": [
-                        "Now am I Othin,",
-                        "Ygg was I once,",
-                        "Ere that did they call me Thund;",
-                        "Vak and Skilfing,",
-                        "Vofuth and Hroptatyr,",
-                        "Gaut and Jalk midst the gods;",
-                        "Ofnir and Svafnir,",
-                        "and all, methinks,",
-                        "Are names for none but me."
+                        "\"Один ныне зовусь,",
+                        "Игг звался прежде,",
+                        "Тунд звался тоже,",
+                        "Вак и Скильвинг,",
+                        "Вавуд и Хрофтатюр,",
+                        "Гаут и Яльк у богов,",
+                        "Офнир и Свафнир,",
+                        "но все имена",
+                        "стали мной неизменно.\""
                     ]
                 },
                 {
@@ -4782,7 +4785,7 @@
                     "type": "prose",
                     "number": "56.",
                     "linesEN": [
-                        "King Geirröth sat and had his sword on his knee, half drawn from its sheath. But when he heard that Othin was come thither, then he rose up and sought to take Othin from the fire. The sword slipped from his hand, and fell with the hilt down. The king stumbled and fell forward, and the sword pierced him through, and slew him. Then Othin vanished, but Agnar long ruled there as king."
+                        "Конунг Гейрред сидел, держа на коленях меч, наполовину обнаженный. Услыхав, что Один тут, он встал, чтобы оградить его от огня. Меч выскользнул у него рукоятью вниз. Конунг споткнулся и упал ничком, а меч пронзил его, и он умер. Тогда Один исчез. Агнар же стал конунгом и долго правил."
                     ]
                 }
             ]
@@ -4796,7 +4799,7 @@
                     "type": "prose",
                     "number": "1.",
                     "linesEN": [
-                        "Freyr, the son of Njorth, had sat one day in Hlithskjolf, and looked over all the worlds. He looked into Jotunheim, and saw there a fair maiden, as she went from her father's house to her bower. Forthwith he felt a mighty love-sickness. Skirnir was the name of Freyr's servant; Njorth bade him ask speech of Freyr. He said:"
+                        "Фрейр, сын Ньерда, сидел однажды на престоле Хлидскьяльв и обозревал все миры. Он взглянул на етунхейм и увидел красивую девушку. Она в это время шла из дома своего отца в кладовую. Увидев эту девушку, Фрейр очень опечалился. Скирниром звали слугу Фрейра. Ньерд попросил его поговорить с Фрейром. Тогда Скади сказала:"
                     ]
                 },
                 {
@@ -4804,12 +4807,12 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesEN": [
-                        "\"Go now, Skirnir!",
-                        "and seek to gain",
-                        "Speech from my son;",
-                        "And answer to win,",
-                        "for whom the wise one",
-                        "Is mightily moved.\""
+                        "\"Скирнир, вставай,",
+                        "ты должен сейчас",
+                        "у нашего сына",
+                        "все разузнать —",
+                        "чем так разгневан",
+                        "муж многомудрый.\""
                     ]
                 },
                 {
@@ -4817,13 +4820,13 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Ill words do I now",
-                        "await from thy son,",
-                        "If I seek to get speech with him,",
-                        "And answer to win,",
-                        "for whom the wise one",
-                        "Is mightily moved.\""
+                        "Скирнир сказал:",
+                        "\"Словом недобрым",
+                        "Фрейр мне ответит,",
+                        "коль стану пытаться",
+                        "все разузнать,",
+                        "чем так разгневан",
+                        "муж многомудрый\""
                     ]
                 },
                 {
@@ -4831,13 +4834,13 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Speak prithee, Freyr,",
-                        "foremost of the gods,",
-                        "For now I fain would know;",
-                        "Why sittest thou here",
-                        "in the wide halls,",
-                        "Days long, my prince, alone?\""
+                        "Скирнир сказал:",
+                        "\"Фрейр, ответь мне,",
+                        "владыка богов,",
+                        "поведай, прошу я:",
+                        "отчего дни за днями",
+                        "один ты сидишь",
+                        "в палате пустой?\""
                     ]
                 },
                 {
@@ -4845,13 +4848,13 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesEN": [
-                        "Freyr spake:",
-                        "\"How shall I tell thee,",
-                        "thou hero young,",
-                        "Of all my grief so great?",
-                        "Though every day",
-                        "the elfbeam dawns,",
-                        "It lights my longing never.\""
+                        "Фрейр сказал:",
+                        "\"Как я поведаю,",
+                        "воин юный,",
+                        "о тягостном горе?",
+                        "Альвов светило",
+                        "всем радость несет,",
+                        "но не любви моей\""
                     ]
                 },
                 {
@@ -4859,13 +4862,13 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Thy longings, methinks,",
-                        "are not so large",
-                        "That thou mayst not tell them to me;",
-                        "Since in days of yore",
-                        "we were young together,",
-                        "We two might each other trust.\""
+                        "Скирнир сказал:",
+                        "\"Так ли любовь",
+                        "твоя велика,",
+                        "чтоб о ней не поведать?",
+                        "Смолоду вместе",
+                        "мы всюду с тобой",
+                        "и верим друг другу\""
                     ]
                 },
                 {
@@ -4873,13 +4876,13 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesEN": [
-                        "Freyr spake:",
-                        "\"From Gymir's house",
-                        "I beheld go forth",
-                        "A maiden dear to me;",
-                        "Her arms glittered,",
-                        "and from their gleam",
-                        "Shone all the sea and sky.\""
+                        "Фрейр сказал:",
+                        "\"Близ дома Гюмира",
+                        "мне довелось",
+                        "желанную видеть;",
+                        "от рук ее свет",
+                        "исходил, озаряя",
+                        "свод неба и воды.\""
                     ]
                 },
                 {
@@ -4887,10 +4890,12 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesEN": [
-                        "\"To me more dearthan in days of old",
-                        "Was ever maiden to man;",
-                        "But no one of godsor elves will grant",
-                        "That we both together should be.\""
+                        "\"Со страстью моей",
+                        "в мире ничья",
+                        "страсть не сравнится,",
+                        "но согласья не жду",
+                        "на счастье с нею",
+                        "от альвов и асов.\""
                     ]
                 },
                 {
@@ -4898,13 +4903,13 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Then give me the horse",
-                        "that goes through the dark",
-                        "And magic flickering flames;",
-                        "And the sword as well",
-                        "that fights of itself",
-                        "Against the giants grim.\""
+                        "Скирнир сказал:",
+                        "\"Дай мне коня,",
+                        "пусть со мною проскачет",
+                        "сквозь полымя мрачное,",
+                        "и меч, разящий",
+                        "етунов род",
+                        "силой своею!\""
                     ]
                 },
                 {
@@ -4912,13 +4917,13 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesEN": [
-                        "Freyr spake:",
-                        "\"The horse will I give thee",
-                        "that goes through the dark",
-                        "And magic flickering flames,",
-                        "And the sword as well",
-                        "that will fight of itself",
-                        "If a worthy hero wields it.\""
+                        "Фрейр сказал:",
+                        "\"Вот конь, возьми,",
+                        "пусть с тобою проскачет",
+                        "сквозь полымя мрачное,",
+                        "и меч, разящий",
+                        "етунов род,",
+                        "если мудрый им бьется\""
                     ]
                 },
                 {
@@ -4926,14 +4931,14 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesEN": [
-                        "Skirnir spake to the horse:",
-                        "\"Dark is it without,",
-                        "and I deem it time",
-                        "To fare through the wild fells,",
-                        "(To fare through the giants' fastness;)",
-                        "We shall both come back,",
-                        "or us both together",
-                        "The terrible giant will take.\""
+                        "Скирнир сказал коню:",
+                        "\"Сумрак настал,",
+                        "нам ехать пора",
+                        "по влажным нагорьям",
+                        "к племени турсов;",
+                        "доедем ли мы,",
+                        "или нас одолеет",
+                        "етун могучий?\""
                     ]
                 },
                 {
@@ -4941,7 +4946,7 @@
                     "type": "prose",
                     "number": "12.",
                     "linesEN": [
-                        "Skirnir rode into Jotunheim to Gymir's house. There were fierce dogs bound before the gate of the fence which was around Gerth's hall. He rode to where a herdsman sat on a hill, and said:"
+                        "Скирнир поскакал в етунхейм к жилищу Гюмира. Там были злые псы, привязанные у ворот ограды, окружавшей дом Герд. Он подъехал к пастуху, сидевшему на холме, и приветствовал его:"
                     ]
                 },
                 {
@@ -4949,12 +4954,12 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesEN": [
-                        "\"Tell me, herdsman,",
-                        "sitting on the hill,",
-                        "And watching all the ways,",
-                        "How may I win",
-                        "a word with the maid",
-                        "Past the hounds of Gymir here?\""
+                        "\"Скажи мне, пастух, —",
+                        "ты сидишь на холме,",
+                        "стережешь все дороги, —",
+                        "как бы мне слово",
+                        "деве сказать?",
+                        "В том псы мне помеха\""
                     ]
                 },
                 {
@@ -4962,13 +4967,13 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesEN": [
-                        "The herdsman spake:",
-                        "\"Art thou doomed to die",
-                        "or already dead,",
-                        "Thou horseman that ridest hither?",
-                        "Barred from speech",
-                        "shalt thou ever be",
-                        "With Gymir's daughter good.\""
+                        "Пастух сказал:",
+                        "\"К смерти ты близок",
+                        "иль мертвым ты стал?",
+                        "*********",
+                        "С дочерью Гюмира",
+                        "речи вести",
+                        "тебе не придется\""
                     ]
                 },
                 {
@@ -4976,12 +4981,13 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Boldness is better",
-                        "than plaints can be",
-                        "For him whose feet must fare;",
-                        "To a destined day has mine age been doomed,",
-                        "And my life's span thereto laid.\""
+                        "Скирнир сказал:",
+                        "\"Что толку скорбеть,",
+                        "если сюда",
+                        "путь я направил?",
+                        "До часа последнего",
+                        "век мой исчислен",
+                        "и жребий измерен\""
                     ]
                 },
                 {
@@ -4989,11 +4995,13 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"What noise is that which now so loud",
-                        "I hear within our house?",
-                        "The ground shakes, and the home of Gymir",
-                        "Around me trembles too.\""
+                        "Герд сказала:",
+                        "\"Что там за шум",
+                        "и грохот я слышу",
+                        "в нашем жилище?",
+                        "Земля затряслась,",
+                        "и Гюмира дом",
+                        "весь содрогается\""
                     ]
                 },
                 {
@@ -5001,11 +5009,10 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesEN": [
-                        "The Serving-Maid spake:",
-                        "\"One stands without who has leapt from his steed,",
-                        "And lets his horse loose to graze;\"",
-                        "*********",
-                        "*********"
+                        "Служанка сказала:",
+                        "\"То воин приехал,",
+                        "сошел он с коня",
+                        "и пастись пустил его\""
                     ]
                 },
                 {
@@ -5013,11 +5020,13 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"Bid the man come in, and drink good mead",
-                        "Here within our hall;",
-                        "Though this I fear, that there without",
-                        "My brother's slayer stands.\""
+                        "Герд сказала:",
+                        "\"Гостя проси",
+                        "в палату войти",
+                        "и меда отведать!",
+                        "Хоть я и страшусь,",
+                        "что это приехал",
+                        "брата убийца.\""
                     ]
                 },
                 {
@@ -5025,12 +5034,12 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesEN": [
-                        "\"Art thou of the elves",
-                        "or the offspring of gods,",
-                        "Or of the wise Wanes?",
-                        "How camst thou alone",
-                        "through the leaping flame",
-                        "Thus to behold our home?\""
+                        "\"Ведь ты не из асов",
+                        "и не из альвов,",
+                        "не ванов ты сын?",
+                        "Зачем ты промчался",
+                        "сквозь бурное пламя",
+                        "и к нам прискакал?\""
                     ]
                 },
                 {
@@ -5038,13 +5047,13 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"I am not of the elves,",
-                        "nor the offspring of gods,",
-                        "Nor of the wise Wanes;",
-                        "Though I came alone",
-                        "through the leaping flame",
-                        "Thus to behold thy home.\""
+                        "Скирнир сказал:",
+                        "\"Я не из асов",
+                        "и не из альвов,",
+                        "не ванов я сын,",
+                        "но я промчался",
+                        "сквозь бурное пламя",
+                        "и к вам прискакал.\""
                     ]
                 },
                 {
@@ -5052,12 +5061,12 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesEN": [
-                        "\"Eleven apples,",
-                        "all of gold,",
-                        "Here will I give thee, Gerth,",
-                        "To buy thy troth",
-                        "that Freyr shall be",
-                        "Deemed to be dearest to you.\""
+                        "\"Одиннадцать яблок",
+                        "со мной золотых,",
+                        "тебе я отдам их,",
+                        "если в обмен",
+                        "ты Фрейра сочтешь",
+                        "желаннее жизни.\""
                     ]
                 },
                 {
@@ -5065,13 +5074,13 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"I will not take",
-                        "at any man's wish",
-                        "These eleven apples ever;",
-                        "Nor shall Freyr and I",
-                        "one dwelling find",
-                        "So long as we two live.\""
+                        "Герд сказала:",
+                        "\"Одиннадцать яблок",
+                        "в обмен на любовь",
+                        "никогда не возьму я:",
+                        "Фрейр никогда",
+                        "назваться не сможет",
+                        "мужем моим.\""
                     ]
                 },
                 {
@@ -5079,13 +5088,13 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Then do I bring thee",
-                        "the ring that was burned",
-                        "Of old with Othin's son;",
-                        "From it do eight",
-                        "of like weight fall",
-                        "On every ninth night.\""
+                        "Скирнир сказал:",
+                        "\"Кольцо тебе дам,",
+                        "что на костре",
+                        "Бальдра сгорело!",
+                        "Восемь колец",
+                        "в девятую ночь",
+                        "из него возникают\""
                     ]
                 },
                 {
@@ -5093,13 +5102,13 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"The ring I wish not,",
-                        "though burned it was",
-                        "Of old with Othin's son;",
-                        "In Gymir's home",
-                        "is no lack of gold",
-                        "In the wealth my father wields.\""
+                        "Герд сказала:",
+                        "\"Кольца не возьму,",
+                        "что на костре",
+                        "Бальдра сгорело!",
+                        "Вдоволь добра",
+                        "у Гюмира в доме,",
+                        "отцовых сокровищ\""
                     ]
                 },
                 {
@@ -5107,13 +5116,13 @@
                     "type": "stanza",
                     "number": "25",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Seest thou, maiden,",
-                        "this keen, bright sword",
-                        "That I hold here in my hand?",
-                        "Thy head from thy neck",
-                        "shall I straightway hew,",
-                        "If thou wilt not do my will.\""
+                        "Скирнир сказал:",
+                        "\"Видишь ты меч",
+                        "в ладони моей,",
+                        "изукрашенный знаками?",
+                        "Голову им",
+                        "Герд отрублю,",
+                        "коль согласья не даст\""
                     ]
                 },
                 {
@@ -5121,13 +5130,14 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"For no man's sake",
-                        "will I ever suffer",
-                        "To be thus moved by might;",
-                        "But gladly, methinks,",
-                        "will Gymir seek",
-                        "To fight if he finds thee here.\""
+                        "Герд сказала:",
+                        "\"Угроз не стерплю,",
+                        "согласьем на них",
+                        "никогда не отвечу;",
+                        "но если с Гюмиром",
+                        "встретишься ты,",
+                        "вы оба, я знаю,",
+                        "схватку затеете.\""
                     ]
                 },
                 {
@@ -5135,13 +5145,13 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"Seest thou, maiden,",
-                        "this keen, bright sword",
-                        "That I hold here in my hand?",
-                        "Before its blade the",
-                        "old giant bends,",
-                        "Thy father is doomed to die.\""
+                        "Скирнир сказал:",
+                        "\"Видишь ты меч",
+                        "в ладони моей,",
+                        "изукрашенный знаками?",
+                        "Старого турса",
+                        "я им поражу,",
+                        "в поединке падет он.\""
                     ]
                 },
                 {
@@ -5149,12 +5159,12 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesEN": [
-                        "\"I strike thee, maid,",
-                        "with my magic staff,",
-                        "To tame thee to work my will;",
-                        "There shalt thou go",
-                        "where never again",
-                        "The sons of men shall see thee.\""
+                        "\"Жезлом укрощенья",
+                        "ударю тебя,",
+                        "покоришься мне, дева;",
+                        "туда ты пойдешь,",
+                        "где люди тебя",
+                        "вовек не увидят.\""
                     ]
                 },
                 {
@@ -5162,12 +5172,13 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesEN": [
-                        "\"On the eagle's hill",
-                        "shalt thou ever sit,",
-                        "And gaze on the gates of Hel;",
-                        "More loathsome to thee",
-                        "than the light-hued snake",
-                        "To men, shall thy meat become.\""
+                        "\"На орлиной скале",
+                        "ты будешь сидеть,",
+                        "не глядя на мир,",
+                        "Хель озирая;",
+                        "еда тебе будет",
+                        "противней, чем змеи",
+                        "для взора людского!\""
                     ]
                 },
                 {
@@ -5175,13 +5186,13 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesEN": [
-                        "\"Fearful to see,",
-                        "if thou comest forth,",
-                        "Hrimnir will stand and stare,",
-                        "(Men will marvel at thee;)",
-                        "More famed shalt thou grow",
-                        "than the watchman of the gods!",
-                        "Peer forth, then, from thy prison,\""
+                        "\"Чудищем станешь,",
+                        "для всех, кто увидит!",
+                        "Пусть Хримнир глазеет,",
+                        "всяк пусть глазеет!",
+                        "Прославишься больше,",
+                        "чем сторож богов,",
+                        "сквозь решетку глядящая!\""
                     ]
                 },
                 {
@@ -5189,13 +5200,14 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesEN": [
-                        "\"Rage and longing,",
-                        "fetters and wrath,",
-                        "Tears and torment are thine;",
-                        "Where thou sittest down",
-                        "my doom is on thee",
-                        "Of heavy heart",
-                        "And double dole.\""
+                        "\"Безумье и муки,",
+                        "бред и тревога,",
+                        "отчаянье, боль",
+                        "пусть возрастают!",
+                        "Сядь предо мной —",
+                        "нашлю на тебя",
+                        "черную похоть",
+                        "и горе сугубое!\""
                     ]
                 },
                 {
@@ -5203,12 +5215,16 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesEN": [
-                        "\"In the giants' home",
-                        "shall vile things harm thee",
-                        "Each day with evil deeds;",
-                        "Grief shalt thou get",
-                        "instead of gladness,",
-                        "And sorrow to suffer with tears.\""
+                        "\"Тролли вседневно",
+                        "тебя будут мучить",
+                        "в жилье исполинов;",
+                        "в дом турсов инея",
+                        "будешь всегда",
+                        "безвольно плестись,",
+                        "неизбежно плестись;",
+                        "не радость познаешь,",
+                        "но тяжкое горе",
+                        "и скорбные слезы.\""
                     ]
                 },
                 {
@@ -5216,14 +5232,14 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesEN": [
-                        "\"With three-headed giants",
-                        "thou shalt dwell ever,",
-                        "Or never know a husband;",
-                        "(Let longing grip thee,",
-                        "let wasting waste thee,)",
-                        "Be like to the thistle",
-                        "that in the loft",
-                        "Was cast and there was crushed.\""
+                        "\"Трехглавого станешь",
+                        "турса женой",
+                        "или замуж не выйдешь!",
+                        "От похоти сохни,",
+                        "зачахни от хвори!",
+                        "Будь, как волчец,",
+                        "что под камень кладут,",
+                        "жатву закончив!\""
                     ]
                 },
                 {
@@ -5231,12 +5247,10 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesEN": [
-                        "\"I go to the wood,",
-                        "and to the wet forest,",
-                        "To win a magic wand;",
-                        "*********",
-                        "*********",
-                        "I won a magic wand.\""
+                        "\"Я в рощу пошел,",
+                        "в сырую дубраву",
+                        "за прутом волшебным;",
+                        "взял прут волшебный.\""
                     ]
                 },
                 {
@@ -5244,12 +5258,12 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesEN": [
-                        "\"Othin grows angry,",
-                        "angered is the best of the gods,",
-                        "Freyr shall be thy foe,",
-                        "Most evil maid,",
-                        "who the magic wrath",
-                        "Of gods hast got for thyself.\""
+                        "\"Ты разгневала Одина,",
+                        "асов главу,",
+                        "Фрейр тебе враг:",
+                        "преступная дева,",
+                        "навлекла ты богов",
+                        "неистовый гнев.\""
                     ]
                 },
                 {
@@ -5257,14 +5271,14 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesEN": [
-                        "\"Give heed, frost-rulers,",
-                        "hear it, giants.",
-                        "Sons of Suttung,",
-                        "And gods, ye too,",
-                        "How I forbid",
-                        "and how I ban",
-                        "The meeting of men with the maid,",
-                        "(The joy of men with the maid.)\""
+                        "\"Слушайте, етуны,",
+                        "слушайте, турсы,",
+                        "Суттунга семя,",
+                        "и сами асы!",
+                        "Запрет налагаю,",
+                        "заклятье кладу",
+                        "на девы утехи,",
+                        "на девичьи услады!\""
                     ]
                 },
                 {
@@ -5272,13 +5286,16 @@
                     "type": "stanza",
                     "number": "37.",
                     "linesEN": [
-                        "\"Hrimgrimnir is he,",
-                        "the giant who shall have thee",
-                        "In the depth by the doors of Hel;",
-                        "To the frost-giants' halls",
-                        "each day shalt thou fare,",
-                        "Crawling and craving in vain,",
-                        "(Crawling and having no hope.)\""
+                        "\"Хримгримнир турс",
+                        "за решетку смерти",
+                        "посадит тебя;",
+                        "тролли напоят",
+                        "тебя под землею",
+                        "козьей мочой;",
+                        "вкуснее питья",
+                        "ты не получишь,",
+                        "не по воле твоей,",
+                        "но по воле моей!\""
                     ]
                 },
                 {
@@ -5286,13 +5303,13 @@
                     "type": "stanza",
                     "number": "38.",
                     "linesEN": [
-                        "\"Base wretches there",
-                        "by the root of the tree",
-                        "Will hold for thee horns of filth;",
-                        "A fairer drink",
-                        "shalt thou never find,",
-                        "Maid, to meet thy wish,",
-                        "(Maid, to meet my wish.)\""
+                        "\"Руны я режу —",
+                        "«турс» и еще три:",
+                        "похоть, безумье",
+                        "и беспокойство;",
+                        "но истреблю их,",
+                        "так же как резал,",
+                        "когда захочу.\""
                     ]
                 },
                 {
@@ -5300,12 +5317,13 @@
                     "type": "stanza",
                     "number": "39.",
                     "linesEN": [
-                        "\"I write thee a charm",
-                        "and three runes therewith,",
-                        "Longing and madness and lust;",
-                        "But what I have writ",
-                        "I may yet unwrite",
-                        "If I find a need therefor.\""
+                        "Герд сказала:",
+                        "\"Нет, лучше прими",
+                        "привет мой и кубок",
+                        "старого меда!",
+                        "Не помышляла я,",
+                        "что полюблю",
+                        "ванов потомка\""
                     ]
                 },
                 {
@@ -5313,13 +5331,13 @@
                     "type": "stanza",
                     "number": "40.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"Find welcome rather,",
-                        "and with it take",
-                        "The frost-cup filled with mead;",
-                        "Though I did not believe",
-                        "that I should so love",
-                        "Ever one of the Wanes.\""
+                        "Скирнир сказал:",
+                        "\"Хочу я прямой",
+                        "ответ получить",
+                        "до отъезда отсюда:",
+                        "когда с сыном Ньерда",
+                        "свидеться хочешь",
+                        "и соединиться?\""
                     ]
                 },
                 {
@@ -5327,35 +5345,34 @@
                     "type": "stanza",
                     "number": "41.",
                     "linesEN": [
-                        "Skirnir spake:",
-                        "\"My tidings all",
-                        "must I truly learn",
-                        "Ere homeward hence I ride:",
-                        "How soon thou wilt",
-                        "with the mighty son",
-                        "Of Njorth a meeting make.\""
+                        "Герд сказала:",
+                        "\"Барри зовется",
+                        "тихая роща,",
+                        "знакомая нам;",
+                        "через девять ночей",
+                        "там Герд подарит",
+                        "любовь сыну Ньерда\""
                     ]
                 },
                 {
                     "id": "42",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "42.",
                     "linesEN": [
-                        "Gerth spake:",
-                        "\"Barri there is,",
-                        "which we both know well,",
-                        "A forest fair and still;",
-                        "And nine nights hence",
-                        "to the son of Njorth",
-                        "Will Gerth there grant delight.\""
+                        "Тогда Скирнир поехал назад. Фрейр стоял у входа и приветствовал его и спросил, что слышно:"
                     ]
                 },
                 {
                     "id": "43",
-                    "type": "prose",
+                    "type": "stanza",
                     "number": "43.",
                     "linesEN": [
-                        "Then Skirnir rode home. Freyr stood without, and spoke to him, and asked for tidings:"
+                        "\"Скирнир, скажи мне,",
+                        "прежде чем сбросишь",
+                        "с коня ты седло:",
+                        "добился ли ты",
+                        "девы согласья,",
+                        "исполнил ли просьбу?\""
                     ]
                 },
                 {
@@ -5363,12 +5380,13 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesEN": [
-                        "\"Tell me, Skimir,",
-                        "ere thou take off the saddle,",
-                        "Or farest forward a step:",
-                        "What hast thou done",
-                        "in the giants' dwelling",
-                        "To make glad thee or me?\""
+                        "Скирнир сказал:",
+                        "\"Барри зовется",
+                        "тихая роща,",
+                        "знакомая нам;",
+                        "через девять ночей",
+                        "там Герд подарит",
+                        "любовь сыну Ньерда\""
                     ]
                 },
                 {
@@ -5376,27 +5394,13 @@
                     "type": "stanza",
                     "number": "45.",
                     "linesEN": [
-                        "Skirnir spoke:",
-                        "\"Barri there is,",
-                        "which we both know well,",
-                        "A forest fair and still;",
-                        "And nine nights hence",
-                        "to the son of Njorth",
-                        "Will Gerth there grant delight.\""
-                    ]
-                },
-                {
-                    "id": "46",
-                    "type": "stanza",
-                    "number": "46.",
-                    "linesEN": [
-                        "Freyr spake:",
-                        "\"Long is one night,",
-                        "longer are two;",
-                        "How then shall I bear three?",
-                        "Often to me",
-                        "has a month seemed less",
-                        "Than now half a night of desire.\""
+                        "Фрейр сказал:",
+                        "\"Ночь длинна,",
+                        "две ночи длиннее,",
+                        "как вытерплю три!",
+                        "Часто казался мне",
+                        "месяц короче,",
+                        "чем ночи предбрачные\""
                     ]
                 }
             ]
@@ -7713,7 +7717,7 @@
         },
         "TheLayOfThrym": {
             "Title": "The Lay of Thrym",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -16531,7 +16535,7 @@
         },
         "TheSlayingOfTheNiflungs": {
             "Title": "The Slaying of The Niflungs",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -20182,7 +20186,7 @@
         },
         "GudrunsInciting": {
             "Title": "Gudrun's Inciting",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -24788,7 +24792,7 @@
         },
         "TheRiddlesOfKingHeithrek": {
             "Title": "",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Lee M. Hollander (1936).",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by Lee M. Hollander (1936).",
             "Texts": [
                 {
                     "id": "1",
@@ -25416,7 +25420,7 @@
         },
         "SongOfDorrud": {
             "Title": "",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by George W. DaSent (1861).",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by George W. DaSent (1861).",
             "Texts": [
                 {
                     "id": "1",
@@ -26281,7 +26285,7 @@
         },
         "OdinsRavensSong": {
             "Title": "",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1860).",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by Benjamin Thorpe (1860).",
             "Texts": [
                 {
                     "id": "1",
@@ -26676,7 +26680,7 @@
         },
         "GunnarsMelody": {
             "Title": "",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1865).",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.Translation by Benjamin Thorpe (1865).",
             "Texts": [
                 {
                     "id": "1",
