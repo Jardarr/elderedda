@@ -5414,7 +5414,7 @@
                     "type": "prose",
                     "number": "1.",
                     "linesEN": [
-                        "Thor was on his way back from a journey in the East, and came to a sound; on the other side of the sound was a ferryman with a boat. Thor called out:"
+                        "Тор возвращался с востока и подошел к какому-то проливу. По ту сторону пролива был перевозчик с лодкой. Тор крикнул:"
                     ]
                 },
                 {
@@ -5422,8 +5422,8 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesEN": [
-                        "\"Who is the fellow yonder,",
-                        "on the farther shore of the sound?\""
+                        "\"Что там за парень",
+                        "стоит у пролива?\""
                     ]
                 },
                 {
@@ -5431,9 +5431,9 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesEN": [
-                        "The ferryman spake:",
-                        "\"What kind of a peasant is yon,",
-                        "that calls o'er the bay?\""
+                        "Тот ответил:",
+                        "\"Что за старик",
+                        "кричит за проливом?\""
                     ]
                 },
                 {
@@ -5441,15 +5441,15 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Ferry me over the sound;",
-                        "I will feed thee therefor in the morning;",
-                        "A basket I have on my back,",
-                        "and food therein, none better;",
-                        "At leisure I ate,",
-                        "ere the house I left,",
-                        "Of herrings and porridge,",
-                        "so plenty I had.\""
+                        "Тор сказал:",
+                        "\"Переправь-ка меня!",
+                        "Дам пищи на завтра:",
+                        "за спиною в корзине",
+                        "еда — нет вкуснее!",
+                        "В путь отправляясь,",
+                        "наелся я вдоволь",
+                        "селедок с овсянкой",
+                        "и сыт до сих пор.\""
                     ]
                 },
                 {
@@ -5457,11 +5457,11 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesEN": [
-                        "The ferryman spake:",
-                        "\"Of thy morning feats art thou proud,",
-                        "but the future thou knowest not wholly;",
-                        "Doleful thine home-coming is:",
-                        "thy mother, me thinks, is dead.\""
+                        "Перевозчик сказал:",
+                        "\"Похвалился едой,",
+                        "а жребий свой знаешь ли?",
+                        "У тебя, наверно,",
+                        "и матери нет\""
                     ]
                 },
                 {
@@ -5469,11 +5469,11 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Now hast thou said",
-                        "what to each must seem",
-                        "The mightiest grief,",
-                        "that my mother is dead.\""
+                        "Тор сказал:",
+                        "\"Весть такая",
+                        "каждому тягостна —",
+                        "горько мне слышать",
+                        "о смерти матери!\""
                     ]
                 },
                 {
@@ -5481,12 +5481,12 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesEN": [
-                        "The ferryman spake:",
-                        "\"Three good dwellings,",
-                        "methinks, thou hast not;",
-                        "Barefoot thou standest,",
-                        "and wearest a beggar's dress;",
-                        "Not even hose dost thou have.\""
+                        "Перевозчик сказал:",
+                        "\"Едва ли тремя ты",
+                        "дворами владеешь,",
+                        "если ты бос",
+                        "и одет как бродяга:",
+                        "даже нет и штанов!\""
                     ]
                 },
                 {
@@ -5494,11 +5494,11 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Steer thou hither the boat;",
-                        "the landing here shall I show thee;",
-                        "But whose the craft",
-                        "that thou keepest on the shore?\""
+                        "Тор сказал:",
+                        "\"Правь-ка сюда,",
+                        "я скажу, где пристать;",
+                        "чей ты у берега",
+                        "держишь челнок?\""
                     ]
                 },
                 {
@@ -5506,17 +5506,17 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesEN": [
-                        "The ferryman spake:",
-                        "\"Hildolf is he",
-                        "who bade me have it,",
-                        "A hero wise;",
-                        "his home is at Rathsey's sound.",
-                        "He bade me no robbers to steer,",
-                        "nor stealers of steeds,",
-                        "But worthy men,",
-                        "and those whom well do I know.",
-                        "Say now thy name,",
-                        "if over the sound thou wilt fare.\""
+                        "Перевозчик сказал:",
+                        "\"Хильдольв челнок",
+                        "мне поручил,",
+                        "воин, живущий",
+                        "в Радсейярсунде;",
+                        "конокрадов возить",
+                        "и бродяг не велел он,",
+                        "но добрых людей",
+                        "и людей мне известных;",
+                        "назовись, и тогда",
+                        "тебя повезу я.\""
                     ]
                 },
                 {
@@ -5524,17 +5524,17 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"My name indeed shall I tell,",
-                        "though in danger I am,",
-                        "And all my race;",
-                        "I am Othin's son,",
-                        "Meili's brother,",
-                        "and Magni's father,",
-                        "The strong one of the gods;",
-                        "with Thor now speech canst thou get.",
-                        "And now would I know",
-                        "what name thou hast.\""
+                        "Тор сказал:",
+                        "\"Назову свое имя,",
+                        "хоть я средь врагов,",
+                        "и о роде скажу:",
+                        "я Одина сын,",
+                        "Мейли я брат",
+                        "и Магни отец;",
+                        "ты с владыкой богов",
+                        "беседуешь — с Тором!",
+                        "Знать я хочу,",
+                        "как сам ты зовешься.\""
                     ]
                 },
                 {
@@ -5542,9 +5542,9 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesEN": [
-                        "The ferryman spake:",
-                        "\"Harbarth am I,",
-                        "and seldom I hide my name.\""
+                        "Перевозчик сказал:",
+                        "\"Харбард мне имя,",
+                        "скажу откровенно.\""
                     ]
                 },
                 {
@@ -5552,9 +5552,9 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Why shouldst thou hide thy name,",
-                        "if quarrel thou hast not?\""
+                        "Тор сказал:",
+                        "\"А зачем бы тебе скрывать",
+                        "свое имя, если ты не в распре?\""
                     ]
                 },
                 {
@@ -5562,12 +5562,11 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"And though I had a quarrel,",
-                        "from such as thou art",
-                        "Yet none the less",
-                        "my life would I guard,",
-                        "Unless I be doomed to die.\""
+                        "Харбард сказал:",
+                        "\"Хотя бы и в распре,",
+                        "спасусь от тебя,",
+                        "если мне смерти",
+                        "судьба не сулит.\""
                     ]
                 },
                 {
@@ -5575,14 +5574,14 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Great trouble, methinks,",
-                        "would it be to come to thee,",
-                        "To wade the waters across,",
-                        "and wet my middle;",
-                        "Weakling, well shall I pay",
-                        "thy mocking words,",
-                        "if across the sound I come.\""
+                        "Тор сказал:",
+                        "\"Неохота мне вброд",
+                        "брести по заливу",
+                        "и ношу мочить;",
+                        "не то проучил бы",
+                        "тебя, сопляка,",
+                        "за брань и насмешки,",
+                        "на берег выйдя!\""
                     ]
                 },
                 {
@@ -5590,11 +5589,11 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Here shall I stand",
-                        "and await thee here;",
-                        "Thou hast found since Hrungnir died",
-                        "no fiercer man.\""
+                        "Харбард сказал:",
+                        "\"Я здесь постою,",
+                        "поджидая тебя;",
+                        "храбрецов ты не видел",
+                        "со смерти Хрунгнира.\""
                     ]
                 },
                 {
@@ -5602,14 +5601,14 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Fain art thou to tell",
-                        "how with Hrungnir I fought,",
-                        "The haughty giant,",
-                        "whose head of stone was made;",
-                        "And yet I felled him,",
-                        "and stretched him before me.",
-                        "What, Harbarth, didst thou the while?\""
+                        "Тор сказал:",
+                        "\"О том говоришь ты,",
+                        "как с Хрунгниром, турсом",
+                        "каменноглавым,",
+                        "славно я бился,",
+                        "но я поразил его",
+                        "в жарком бою.",
+                        "А что ты делал, Харбард?\""
                     ]
                 },
                 {
@@ -5617,15 +5616,15 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Five full winters",
-                        "with Fjolvar was I,",
-                        "And dwelt in the isle",
-                        "that is Algrön called;",
-                        "There could we fight,",
-                        "and fell the slain,",
-                        "Much could we seek,",
-                        "and maids could master.\""
+                        "Харбард сказал:",
+                        "\"Сидел я у Фьельвара",
+                        "целых пять зим,",
+                        "на острове том,",
+                        "что Альгрен зовется;",
+                        "бились мы там,",
+                        "убивали врагов,",
+                        "и то еще делали —",
+                        "дев соблазняли».\""
                     ]
                 },
                 {
@@ -5633,8 +5632,8 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"How won ye success with your women?\""
+                        "Тор сказал:",
+                        "\"Ну и как у вас шло с ними дело?\""
                     ]
                 },
                 {
@@ -5642,22 +5641,20 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Lively women we had,",
-                        "if they wise for us were;",
-                        "Wise were the women we had,",
-                        "if they kind for us were;",
-                        "For ropes of sand",
-                        "they would seek to wind,",
-                        "And the bottom to dig",
-                        "from the deepest dale.",
-                        "Wiser than all",
-                        "in counsel I was,",
-                        "And there I slept",
-                        "by the sisters seven,",
-                        "And joy full great",
-                        "did I get from each.",
-                        "What, Thor, didst thou the while?\""
+                        "Харбард сказал:",
+                        "\"Милыми были,",
+                        "когда покорялись,",
+                        "разумными были,",
+                        "верность храня;",
+                        "веревку они",
+                        "из песка свивали,",
+                        "землю копали",
+                        "в глубокой долине;",
+                        "я всех был хитрей —",
+                        "с семью я сестрами",
+                        "ложе делил,",
+                        "их любовью владел.",
+                        "А что ты делал, Тор?\""
                     ]
                 },
                 {
@@ -5665,16 +5662,16 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Thjazi I felled,",
-                        "the giant fierce,",
-                        "And I hurled the eyes",
-                        "of Alvaldi's son",
-                        "To the heavens hot above;",
-                        "Of my deeds the mightiest",
-                        "marks are these,",
-                        "That all men since can see.",
-                        "What, Harbarth, didst thou the while?\""
+                        "Тор сказал:",
+                        "\"Я Тьяци убил,",
+                        "турса могучего,",
+                        "бросил глаза я",
+                        "Альвальди сына",
+                        "в ясное небо;",
+                        "вот лучший памятник",
+                        "подвигам Тора,",
+                        "все видят его.",
+                        "А что ты делал, Харбард?\""
                     ]
                 },
                 {
@@ -5682,14 +5679,14 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesEN": [
-                        "Harbarth spoke:",
-                        "\"Much love-craft I wrought",
-                        "with them who ride by night,",
-                        "When I stole them by stealth from their husbands;",
-                        "A giant hard",
-                        "was Hlebarth, methinks:",
-                        "His wand he gave me as gift,",
-                        "And I stole his wits away.\""
+                        "Харбард сказал:",
+                        "\"Соблазнял я искусно",
+                        "наездниц ночных,",
+                        "отнимал у мужей их;",
+                        "жезл волшебства",
+                        "Хлебард мне отдал,",
+                        "турс храбрый, а я",
+                        "рассудка лишил его.\""
                     ]
                 },
                 {
@@ -5697,8 +5694,9 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Thou didst repay good gifts with evil mind.\""
+                        "Тор сказал:",
+                        "\"Злом отплатил ты",
+                        "за добрый подарок.\""
                     ]
                 },
                 {
@@ -5706,11 +5704,11 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"The oak must have",
-                        "what it shaves from another;",
-                        "In such things each for himself.",
-                        "What, Thor, didst thou the while?\""
+                        "Харбард сказал:",
+                        "\"Срежь ветви дубка —",
+                        "другой разрастется;",
+                        "всяк занят собой.",
+                        "А что ты делал, Тор?\""
                     ]
                 },
                 {
@@ -5718,16 +5716,16 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Eastward I fared,",
-                        "of the giants I felled",
-                        "Their ill-working women",
-                        "who went to the mountain;",
-                        "And large were the giants' throng",
-                        "if all were alive;",
-                        "No men would there be",
-                        "in Mithgarth more.",
-                        "What, Harbarth, didst thou the while?\""
+                        "Тор сказал:",
+                        "\"На востоке я был,",
+                        "там истреблял я",
+                        "злобных жен турсов,",
+                        "в горы бежавших;",
+                        "когда б то не сделал,",
+                        "разросся бы род их",
+                        "и в Мидгарде люди",
+                        "жить не смогли б.",
+                        "А что ты делал, Харбард?\""
                     ]
                 },
                 {
@@ -5735,14 +5733,14 @@
                     "type": "stanza",
                     "number": "25",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"In Valland I was,",
-                        "and wars I raised,",
-                        "Princes I angered,",
-                        "and peace brought never;",
-                        "The noble who fall",
-                        "in the fight hath Othin,",
-                        "And Thor hath the race of the thralls.\""
+                        "Харбард сказал:",
+                        "\"Я в Валланде был,",
+                        "в битвах участвовал,",
+                        "князей подстрекал,",
+                        "не склонял их к миру;",
+                        "у Одина — ярлы,",
+                        "павшие в битвах,",
+                        "у Тора — рабы.\""
                     ]
                 },
                 {
@@ -5750,10 +5748,10 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Unequal gifts",
-                        "of men wouldst thou give to the gods,",
-                        "If might too much thou shouldst have.\""
+                        "Тор сказал:",
+                        "\"Неравно бы ты",
+                        "людей разделил,",
+                        "если властью владел бы.\""
                     ]
                 },
                 {
@@ -5761,16 +5759,15 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Thor has might enough,",
-                        "but never a heart;",
-                        "For cowardly fear",
-                        "in a glove wast thou fain to crawl,",
-                        "And there forgot thou wast Thor;",
-                        "Afraid there thou wast,",
-                        "thy fear was such,",
-                        "To fart or sneeze",
-                        "lest Fjalar should hear.\""
+                        "Харбард сказал:",
+                        "\"У Тора сил вдоволь,",
+                        "да смелости мало;",
+                        "со страху ты раз",
+                        "залез в рукавицу,",
+                        "забыв, кто ты есть;",
+                        "от страха чихать",
+                        "и греметь ты не смел, —",
+                        "не услышал бы Фьялар.\""
                     ]
                 },
                 {
@@ -5778,10 +5775,10 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Thou womanish Harbarth,",
-                        "to hell would I smite thee straight,",
-                        "Could mine arm reach over the sound.\""
+                        "Top сказал:",
+                        "\"Харбард срамной!",
+                        "Я убил бы тебя,",
+                        "да пролив мне помеха.\""
                     ]
                 },
                 {
@@ -5789,10 +5786,10 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Wherefore reach over the sound,",
-                        "since strife we have none?",
-                        "What, Thor, didst thou do then?\""
+                        "Харбард сказал:",
+                        "\"Что спешишь за пролив, —",
+                        "я не в распре с тобой.",
+                        "А что ты делал, Тор?\""
                     ]
                 },
                 {
@@ -5800,16 +5797,16 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Eastward I was,",
-                        "and the river I guarded well,",
-                        "Where the sons of Svarang",
-                        "sought me there;",
-                        "Stones did they hurl;",
-                        "small joy did they have of winning;",
-                        "Before me there",
-                        "to ask for peace did they fare.",
-                        "What, Harbarth, didst thou the while?\""
+                        "Тор сказал:",
+                        "\"На востоке я был,",
+                        "поток охранял,",
+                        "со мною схватились",
+                        "Сваранга дети;",
+                        "камни кидали,",
+                        "да нечем кичиться им —",
+                        "первыми стали",
+                        "мира просить.",
+                        "А что ты делал, Харбард?\""
                     ]
                 },
                 {
@@ -5817,13 +5814,13 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Eastward I was,",
-                        "and spake with a certain one,",
-                        "I played with the linen-white maid,",
-                        "and met her by stealth;",
-                        "I gladdened the gold-decked one,",
-                        "and she granted me joy.\""
+                        "Харбард сказал:",
+                        "\"На востоке я был,",
+                        "беседовал с девой,",
+                        "с белокурой я тешился,",
+                        "тайно встречаясь,",
+                        "одарял ее щедро, —",
+                        "она отдалась мне.\""
                     ]
                 },
                 {
@@ -5831,8 +5828,8 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Full fair was thy woman-finding.\""
+                        "Тор сказал:",
+                        "\"То встречи изрядные.\""
                     ]
                 },
                 {
@@ -5840,9 +5837,9 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Thy help did I need then, Thor,",
-                        "to hold the white maid fast.\""
+                        "Харбард сказал:",
+                        "\"Ты мне бы помог",
+                        "сохранить эту деву.\""
                     ]
                 },
                 {
@@ -5850,9 +5847,9 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Gladly, had I been there,",
-                        "my help to thee had been given.\""
+                        "Тор сказал:",
+                        "\"Если ведал бы чем,",
+                        "помог бы охотно.\""
                     ]
                 },
                 {
@@ -5860,9 +5857,9 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"I might have trusted thee then,",
-                        "didst thou not betray thy troth.\""
+                        "Харбард сказал:",
+                        "\"Поверил бы я,",
+                        "коль не ждал бы обмана.\""
                     ]
                 },
                 {
@@ -5870,9 +5867,9 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"No heel-biter am I, in truth,",
-                        "like an old leather shoe in spring.\""
+                        "Тор сказал:",
+                        "\"Не кусаю я пяток,",
+                        "как старая обувь.\""
                     ]
                 },
                 {
@@ -5880,8 +5877,8 @@
                     "type": "stanza",
                     "number": "37.",
                     "linesEN": [
-                        "Harbarth spoke:",
-                        "\"What, Thor, didst thou the while?\""
+                        "Харбард сказал:",
+                        "\"А что ты делал, Тор?\""
                     ]
                 },
                 {
@@ -5889,11 +5886,11 @@
                     "type": "stanza",
                     "number": "38.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"In Hlesey the brides",
-                        "of the Berserkers slew I;",
-                        "Most evil they were,",
-                        "and all they betrayed.\""
+                        "Тор сказал:",
+                        "\"Я жен берсерков",
+                        "на Хлесей разил;",
+                        "они извели",
+                        "волшбою народ.\""
                     ]
                 },
                 {
@@ -5901,9 +5898,9 @@
                     "type": "stanza",
                     "number": "39.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Shame didst thou win,",
-                        "that women thou slewest, Thor.\""
+                        "Харбард сказал:",
+                        "\"Вот дело позорное —",
+                        "жен истреблять.\""
                     ]
                 },
                 {
@@ -5911,14 +5908,14 @@
                     "type": "stanza",
                     "number": "40.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"She-wolves they were like,",
-                        "and women but little;",
-                        "My ship, which well",
-                        "I had trimmed, did they shake;",
-                        "With clubs of iron they threatened,",
-                        "and Thjalfi they drove off.",
-                        "What, Harbarth, didst thou the while?\""
+                        "Тор сказал:",
+                        "\"То были волчицы,",
+                        "а вовсе не жены:",
+                        "разбили мой струг,",
+                        "на подпорках стоявший,",
+                        "грозили дубинами",
+                        "и Тьяльви прогнали.",
+                        "А что ты делал, Харбард?\""
                     ]
                 },
                 {
@@ -5926,11 +5923,11 @@
                     "type": "stanza",
                     "number": "41.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"In the host I was",
-                        "that hither fared,",
-                        "The banners to raise,",
-                        "and the spear to redden.\""
+                        "Харбард сказал:",
+                        "\"Был я в дружине,",
+                        "спешившей сюда",
+                        "стяг битвы поднять",
+                        "и копье окровавить.\""
                     ]
                 },
                 {
@@ -5938,9 +5935,9 @@
                     "type": "stanza",
                     "number": "42.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Wilt thou now say",
-                        "that hatred thou soughtest to bring us?\""
+                        "Тор сказал:",
+                        "\"Ты о том говоришь,",
+                        "чем хотел досадить нам!\""
                     ]
                 },
                 {
@@ -5948,11 +5945,11 @@
                     "type": "stanza",
                     "number": "43.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"A ring for thy hand",
-                        "shall make all right for thee,",
-                        "As the judge decides",
-                        "who sets us two at peace.\""
+                        "Харбард сказал:",
+                        "\"Кольцом я готов",
+                        "тебе отплатить,",
+                        "если нам помириться",
+                        "посредники скажут.\""
                     ]
                 },
                 {
@@ -5960,11 +5957,11 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Where foundest thou",
-                        "so foul and scornful a speech?",
-                        "More foul a speech",
-                        "I never before have heard.\""
+                        "Тор сказал:",
+                        "\"Ты где научился",
+                        "речам глумливым?",
+                        "Глумливее слов",
+                        "не слыхал никогда я.\""
                     ]
                 },
                 {
@@ -5972,10 +5969,10 @@
                     "type": "stanza",
                     "number": "45.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"I learned it from men,",
-                        "the men so old,",
-                        "Who dwell in the hills of home.\""
+                        "Харбард сказал:",
+                        "\"Я их перенял",
+                        "у древних людей",
+                        "из домашних курганов.\""
                     ]
                 },
                 {
@@ -5983,10 +5980,10 @@
                     "type": "stanza",
                     "number": "46.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"A name full good",
-                        "to heaps of stones thou givest",
-                        "When thou callest them hills of home.\""
+                        "Тор сказал:",
+                        "\"Ты ладно придумал",
+                        "могильные кучи",
+                        "курганами звать.\""
                     ]
                 },
                 {
@@ -5994,8 +5991,8 @@
                     "type": "stanza",
                     "number": "47.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Of such things speak I so.\""
+                        "Харбард сказал:",
+                        "\"Так придумать я вправе.\""
                     ]
                 },
                 {
@@ -6003,13 +6000,13 @@
                     "type": "stanza",
                     "number": "48.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Ill for thee comes",
-                        "thy keenness of tongue,",
-                        "If the water I choose to wade;",
-                        "Louder, I ween,",
-                        "than a wolf thou cryest,",
-                        "If a blow of my hammer thou hast.\""
+                        "Тор сказал:",
+                        "\"Отплачу я тебе",
+                        "за обидные речи,",
+                        "пролив переплыв:",
+                        "громче волка ты будешь",
+                        "выть, коль ударю",
+                        "молотом мощным!\""
                     ]
                 },
                 {
@@ -6017,11 +6014,11 @@
                     "type": "stanza",
                     "number": "49.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Sif has a lover at home,",
-                        "and him shouldst thou meet;",
-                        "More fitting it were",
-                        "on him to put forth thy strength.\""
+                        "Харбард сказал:",
+                        "\"С любовником Сив",
+                        "повстречайся в доме, —",
+                        "важнее тебе",
+                        "свершить этот подвиг!\""
                     ]
                 },
                 {
@@ -6029,10 +6026,12 @@
                     "type": "stanza",
                     "number": "50.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Thy tongue still makes thee say",
-                        "what seems most ill to me,",
-                        "Thou witless man! Thou liest, I ween.\""
+                        "Тор сказал:",
+                        "\"Изрыгаешь ты все,",
+                        "что в рот тебе лезет,",
+                        "чтоб мне досадить,",
+                        "воин трусливый!",
+                        "Сдается, что врешь ты!\""
                     ]
                 },
                 {
@@ -6040,11 +6039,11 @@
                     "type": "stanza",
                     "number": "51.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Truth do I speak,",
-                        "but slow on thy way thou art;",
-                        "Far hadst thou gone",
-                        "if now in the boat thou hadst fared.\""
+                        "Харбард сказал:",
+                        "\"Правду я молвил,",
+                        "в пути ты мешкаешь,",
+                        "был бы далеко,",
+                        "челн захватив мой.\""
                     ]
                 },
                 {
@@ -6052,9 +6051,9 @@
                     "type": "stanza",
                     "number": "52.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Thou womanish Harbarth!",
-                        "here hast thou held me too long.\""
+                        "Тор сказал:",
+                        "\"Харбард срамной,",
+                        "задержал ты меня!\""
                     ]
                 },
                 {
@@ -6062,10 +6061,10 @@
                     "type": "stanza",
                     "number": "53.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"I thought not ever",
-                        "that Asathor would be hindered",
-                        "By a ferryman thus from faring.\""
+                        "Харбард сказал:",
+                        "\"Я не думал, что станет",
+                        "Асатору помехой",
+                        "в пути перевозчик.\""
                     ]
                 },
                 {
@@ -6073,11 +6072,11 @@
                     "type": "stanza",
                     "number": "54.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"One counsel I bring thee now:",
-                        "row hither thy boat;",
-                        "No more of scoffing;",
-                        "set Magni's father across.\""
+                        "Тор сказал:",
+                        "\"Слушай совет мой:",
+                        "греби-ка сюда!",
+                        "Брань прекратим,",
+                        "переправь отца Магни!\""
                     ]
                 },
                 {
@@ -6085,9 +6084,9 @@
                     "type": "stanza",
                     "number": "55.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"From the sound go hence;",
-                        "the passage thou hast not.\""
+                        "Харбард сказал:",
+                        "\"Переправы не жди,",
+                        "уходи от пролива!\""
                     ]
                 },
                 {
@@ -6095,8 +6094,9 @@
                     "type": "stanza",
                     "number": "56.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"The way now show me, since thou takest me not o'er the water.\""
+                        "Тор сказал:",
+                        "\"Как в обход мне идти,",
+                        "коль везти ты не хочешь?\""
                     ]
                 },
                 {
@@ -6104,12 +6104,18 @@
                     "type": "stanza",
                     "number": "57.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"To refuse it is little, to fare it is long;",
-                        "A while to the stock, and a while to the stone;",
-                        "Then the road to thy left, till Verland thou reachest;",
-                        "And there shall Fjorgyn her son Thor find,",
-                        "And the road of her children she shows him to Othin's realm.\""
+                        "Харбард сказал:",
+                        "\"Быстр был отказ мой,",
+                        "твой путь будет долог:",
+                        "до бревна ты дойдешь",
+                        "и дальше — до камня,",
+                        "влево возьми —",
+                        "дойдешь ты до Верланда;",
+                        "там с сыном Тором",
+                        "встретится Фьергюн,",
+                        "она объяснит",
+                        "путь в Одина земли,",
+                        "дорогу к родне.\""
                     ]
                 },
                 {
@@ -6117,8 +6123,8 @@
                     "type": "stanza",
                     "number": "58.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"May I come so far in a day?\""
+                        "Тор сказал:",
+                        "\"Доберусь ли сегодня?\""
                     ]
                 },
                 {
@@ -6126,9 +6132,8 @@
                     "type": "stanza",
                     "number": "59.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"With toil and trouble perchance,",
-                        "While the sun still shines, or so I think.\""
+                        "Харбард сказал:",
+                        "\"На рассвете с трудом.\""
                     ]
                 },
                 {
@@ -6136,9 +6141,11 @@
                     "type": "stanza",
                     "number": "60.",
                     "linesEN": [
-                        "Thor spake:",
-                        "\"Short now shall be our speech, for thou speakest in mockery only;",
-                        "The passage thou gavest me not I shall pay thee if ever we meet.\""
+                        "Тор сказал:",
+                        "\"Кратко скажу я",
+                        "в ответ на глумленья:",
+                        "тебе за отказ",
+                        "отомщу при встрече!\""
                     ]
                 },
                 {
@@ -6146,8 +6153,8 @@
                     "type": "stanza",
                     "number": "61.",
                     "linesEN": [
-                        "Harbarth spake:",
-                        "\"Get hence where every evil thing shall have thee!\""
+                        "Харбард сказал:",
+                        "\"Да возьмут тебя тролли!\""
                     ]
                 }
             ]
