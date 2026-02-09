@@ -6,11 +6,12 @@ const gripirsprophecy = [
         contentON: (
             <span>
                 <p className="mb-2">
-                    <span className="font-Eileen text-3xl/4">
-                        G
-                    </span>
-                    rípir hét sonr Eylima, bróðir Hjördísar. Hann réð löndum ok var allra manna vitrastr ok framvíss. Sigurðr reið einn saman ok kom til hallar Grípis. Sigurðr var
-                    auðkenndr. Hann hitti mann at máli úti fyrir höllini. Sá nefndist Geitir. Þá kvaddi Sigurðr hann máls ok spyrr:
+                    <span className="font-Eileen text-3xl/4">G</span>
+                    rípir hét sonr Eylima, bróðir Hjördísar. Hann réð löndum ok
+                    var allra manna vitrastr ok framvíss. Sigurðr reið einn
+                    saman ok kom til hallar Grípis. Sigurðr var auðkenndr. Hann
+                    hitti mann at máli úti fyrir höllini. Sá nefndist Geitir. Þá
+                    kvaddi Sigurðr hann máls ok spyrr:
                 </p>
             </span>
         ),
@@ -18,8 +19,12 @@ const gripirsprophecy = [
         contentRU: (
             <span>
                 <p>
-                    Грипиром звался сын Эйлими, брат Хьердис. Он правил землями и был мудрейшим из всех людей и знал будущее. Сигурд ехал один и приехал в палаты Грипира. Сигурда
-                    было легко узнать. Он встретил какого-то человека и обратился к нему снаружи перед домом. Тот назвался Гейтиром. Сигурд вступил с ним в разговор и спросил:
+                    Грипиром звался сын Эйлими, брат Хьердис. Он правил землями
+                    и был мудрейшим из всех людей и знал будущее. Сигурд ехал
+                    один и приехал в палаты Грипира. Сигурда было легко узнать.
+                    Он встретил какого-то человека и обратился к нему снаружи
+                    перед домом. Тот назвался Гейтиром. Сигурд вступил с ним в
+                    разговор и спросил:
                 </p>
             </span>
         ),
