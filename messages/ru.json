@@ -17156,7 +17156,8 @@
                     "type": "prose",
                     "number": "1.",
                     "linesRU": [
-                        "Herkja was the name of a serving-woman of Atli's; she had been his concubine. She told Atli that she had seen Thjothrek and Guthrun both together. Atli was greatly angered thereby. Then Guthrun said:"
+                        "Песнь о Гудрун",
+                        "Херкьей звалась служанка Атли. Она когда-то была его любовницей. Она сказала Атли, что видела Тьодрека и Гудрун вместе. Атли очень опечалился. Тогда Гудрун сказала:"
                     ]
                 },
                 {
@@ -17164,14 +17165,15 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesRU": [
-                        "\"What thy sorrow, Atli,",
-                        "Buthli's son?",
-                        "Is thy heart heavy-laden?",
-                        "Why laughest thou never?",
-                        "It would better befit",
-                        "the warrior far",
-                        "To speak with men,",
-                        "and me to look on.\""
+                        Гудрун сказала:
+                        Что с тобой, Атли,
+                        сын Будли, скажи мне!
+                        Отчего ты невесел,
+                        чем ты встревожен?
+                        Были бы ярлы
+                        более рады,
+                        коль ты привечал бы
+                        людей и меня!
                     ]
                 },
                 {
@@ -17179,15 +17181,15 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesRU": [
-                        "Atli spake:",
-                        "\"It troubles me, Guthrun,",
-                        "Gjuki's daughter,",
-                        "What Herkja here",
-                        "in the hall hath told me,",
-                        "That thou in the bed",
-                        "with Thjothrek liest,",
-                        "Beneath the linen",
-                        "in lovers' guise.\""
+                        Атли сказал:
+                        Недоброе, Гудрун,
+                        дочь Гьюки, узнал я, —
+                        Херкья сейчас мне
+                        в палате сказала:
+                        с Тьодреком ты
+                        уснула на ложе,
+                        обняв его ласково
+                        под покрывалом.
                     ]
                 },
                 {
@@ -17195,15 +17197,15 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesRU": [
-                        "Guthrun spake:",
-                        "\"This shall I",
-                        "with oaths now swear,",
-                        "Swear by the sacred",
-                        "stone so white,",
-                        "That nought was there",
-                        "with Thjothmar's son",
-                        "That man or woman",
-                        "may not know.\""
+                        Гудрун сказала:
+                        В том я поклясться
+                        тебе готова
+                        клятвой на белом
+                        священном камне:
+                        с сыном Тьодмара
+                        я не свершала
+                        дел, недостойных
+                        мужчины и женщины!
                     ]
                 },
                 {
@@ -17211,14 +17213,14 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesRU": [
-                        "\"Nor ever once",
-                        "did my arms embrace",
-                        "The hero brave,",
-                        "the leader of hosts;",
-                        "In another manner",
-                        "our meeting was,",
-                        "When our sorrows we",
-                        "in secret told.\""
+                        Не обнимала
+                        его никогда я,
+                        вождя дружины,
+                        достойного конунга.
+                        С ним встречаясь,
+                        речи вели мы,
+                        и скорбными были
+                        наши беседы.
                     ]
                 },
                 {
@@ -17226,14 +17228,14 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesRU": [
-                        "\"With thirty warriors",
-                        "Thjothrek came,",
-                        "Nor of all his men",
-                        "doth one remain;",
-                        "Thou hast murdered my brothers",
-                        "and mail-clad men,",
-                        "Thou hast murdered all",
-                        "the men of my race.\""
+                        Тьодрек привел
+                        тридцать воителей,
+                        никто из дружины
+                        в живых не остался!
+                        С близкой родней
+                        меня разлучили.
+                        нет моих братьев.
+                        ни воинов храбрых!
                     ]
                 },
                 {
@@ -17241,10 +17243,10 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesRU": [
-                        "\"Summon Saxi,",
-                        "the southrons' king,",
-                        "For be the boiling",
-                        "kettle can hallow.\""
+                        За Сакси пошли,
+                        за князем южан:
+                        он может котел
+                        освятить кипящий!
                     ]
                 },
                 {
@@ -17252,10 +17254,10 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesRU": [
-                        "\"Seven hundred",
-                        "there were in the hall,",
-                        "Ere the queen her hand",
-                        "in the kettle thrust.\""
+                        Семь сотен людей
+                        в палату вступили,
+                        прежде чем Гудрун
+                        к котлу подошла.
                     ]
                 },
                 {
@@ -17263,15 +17265,15 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesRU": [
-                        "Guthrun spake:",
-                        "\"Gunnar comes not,",
-                        "Hogni I greet not,",
-                        "No longer I see",
-                        "my brothers loved;",
-                        "My sorrow would Hogni",
-                        "avenge with the sword,",
-                        "Now myself for my woes",
-                        "I shall payment win.\""
+                        Гудрун сказала:
+                        Гуннара с Хегни
+                        позвать не могу я,
+                        братьев моих
+                        мне не увидеть, —
+                        Хегни мечом бы
+                        отмстил за обиду, —
+                        сама я должна
+                        позор этот смыть».
                     ]
                 },
                 {
@@ -17279,14 +17281,16 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesRU": [
-                        "To the bottom she reached",
-                        "with hand so bright,",
-                        "And forth she brought",
-                        "the flashing stones:",
-                        "\"Behold, ye warriors,",
-                        "well am I cleared",
-                        "Of sin by the kettle's",
-                        "sacred boiling.\""
+                        Ладонь в кипяток
+                        до дна погрузила,
+                        со дна подняла
+                        драгоценные камни.
+                        ""
+                        Гудрун сказала:
+                        Взгляните, вот суд
+                        свершился священный, —
+                        пусть влага кипит
+                        в котле — я оправдана!
                     ]
                 },
                 {
@@ -17294,14 +17298,16 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesRU": [
-                        "Then Atli's heart",
-                        "in happiness laughed,",
-                        "When Guthrun's hand",
-                        "unhurt he saw;",
-                        "\"Now Herkja shall come",
-                        "the kettle to try,",
-                        "She who grief",
-                        "for Guthrun planned.\""
+                        У Атли в груди
+                        душа взыграла,
+                        когда он руки
+                        Гудрун увидел.
+                        ""
+                        Атли сказал:
+                        Пусть Херкья теперь
+                        к котлу подойдет,
+                        та, что сгубить
+                        собиралась Гудрун!
                     ]
                 },
                 {
@@ -17309,14 +17315,14 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesRU": [
-                        "\"Ne'er saw man sight",
-                        "more sad than this,",
-                        "How burned were the hands",
-                        "of Herkja then;",
-                        "In a bog so foul",
-                        "the maid they flung,",
-                        "And so was Guthrun's",
-                        "grief requited.\""
+                        Жалок для взора
+                        вид был у Херкьи,
+                        руки свои
+                        в котле обварившей.
+                        Повели тогда деву
+                        в глухое болото —
+                        так смыть обиду
+                        Гудрун смогла.
                     ]
                 }
             ]
@@ -17330,7 +17336,7 @@
                     "type": "prose",
                     "number": "1.",
                     "linesRU": [
-                        "Heithrek was the name of a king, whose daughter was called Borgny. Vilmund was the name of the man who was her lover. She could not give birth to a child until Oddrun, Atli's sister, had come to her; Oddrun had been beloved of Gunnar, son of Gjuki. About this story is the following poem."
+                        "Одного конунга звали Хейдрек. Его дочь звали Боргню. Вильмундом звали того, кто был ее любовником. Она не могла разродиться, пока не подоспела Оддрун, сестра Атли. Оддрун была раньше возлюбленной Гуннара, сына Гьюки. Об этом здесь рассказывается."
                     ]
                 },
                 {
@@ -17338,14 +17344,14 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesRU": [
-                        "\"I have heard it told",
-                        "in olden tales",
-                        "How a maiden came",
-                        "to Morningland;",
-                        "No one of all",
-                        "on earth above",
-                        "To Heithrek's daughter",
-                        "help could give.\""
+                        Слышал рассказ я
+                        в древних сагах,
+                        как дева явилась
+                        однажды в Морналанд;
+                        никто из людей
+                        на земле не мог ей
+                        дочери Хейдрека,
+                        помощь подать.
                     ]
                 },
                 {
@@ -17353,14 +17359,14 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesRU": [
-                        "\"This Oddrun learned,",
-                        "the sister of Atli,",
-                        "That sore the maiden's",
-                        "sickness was;",
-                        "The bit-bearer forth",
-                        "from his stall she brought,",
-                        "And the saddle laid",
-                        "on the steed so black.\""
+                        Услышала Оддрун,
+                        Атли сестра,
+                        что тяжкие боли
+                        деву схватили;
+                        из стойла взяла
+                        удилам покорного,
+                        на вороного
+                        седло возложила.
                     ]
                 },
                 {
@@ -17368,16 +17374,16 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesRU": [
-                        "\"She let the horse go",
-                        "o'er the level ground,",
-                        "Till she reached the hall",
-                        "that loftily rose,",
-                        "(And in she went",
-                        "from the end of the hall;)",
-                        "From the weary steed",
-                        "the saddle she took;",
-                        "Hear now the speech",
-                        "that first she spake:\""
+                        Пустила коня
+                        по ровным путям,
+                        пока не достигла
+                        палат высоких;
+                        в дом войдя,
+                        прошла вдоль палаты,
+                        с коня усталого
+                        скинув седло,
+                        и сразу сказала
+                        слова такие:
                     ]
                 },
                 {
@@ -17385,15 +17391,16 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesRU": [
-                        "\"What news on earth,",
-                        "*********",
-                        "Or what has happened",
-                        "in Hunland now?\"",
-                        "A serving-maid spake:",
-                        "\"Here Borgny lies",
-                        "in bitter pain,",
-                        "Thy friend, and, Oddrun,",
-                        "thy help would find.\""
+                        Что на земле здесь
+                        достойно вниманья?
+                        Какие услышу
+                        в Хуналанд вести?
+                        ""
+                        Служанка сказала:
+                        Боргню лежит здесь,
+                        боль ее мучит,
+                        подруге твоей
+                        не поможешь ли, Оддрун?
                     ]
                 },
                 {
@@ -17401,11 +17408,11 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "\"Who worked this woe",
-                        "for the woman thus,",
-                        "Or why so sudden",
-                        "is Borgny sick?\""
+                        Оддрун сказала:
+                        Кто же в позоре
+                        этом повинен?
+                        Откуда у Боргню
+                        внезапные боли?
                     ]
                 },
                 {
@@ -17413,13 +17420,13 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesRU": [
-                        "The serving-maid spake:",
-                        "\"Vilmund is he,",
-                        "the heroes' friend,",
-                        "Who wrapped the woman",
-                        "in bedclothes warm,",
-                        "(For winters five,",
-                        "yet her father knew not).\""
+                        Служанка сказала:
+                        Вильмунд зовется
+                        воин, что деву
+                        покровом окутывал
+                        целых пять зим, —
+                        в этом отцу
+                        она не призналась.
                     ]
                 },
                 {
@@ -17427,14 +17434,14 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesRU": [
-                        "\"Then no more",
-                        "they spake, methinks;",
-                        "She went at the knees",
-                        "of the woman to sit;",
-                        "With magic Oddrun",
-                        "and mightily Oddrun",
-                        "Chanted for Borgny",
-                        "potent charms.\""
+                        Больше ни слова
+                        они не сказали:
+                        сев рядом с девой,
+                        радея о помощи,
+                        громко запела,
+                        могуче запела
+                        Оддрун для Боргню
+                        благие заклятья.
                     ]
                 },
                 {
@@ -17442,14 +17449,14 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesRU": [
-                        "\"At last were born",
-                        "a boy and girl,",
-                        "Son and daughter",
-                        "of Hogni's slayer;",
-                        "Then speech the woman",
-                        "so weak began,",
-                        "Nor said she aught",
-                        "ere this she spake:\""
+                        Двойня родилась —
+                        мальчик и девочка,
+                        славные дети
+                        убийцы Хегни.
+                        Слово промолвила
+                        в муке предсмертной
+                        дева, молчанье
+                        дотоле хранившая;
                     ]
                 },
                 {
@@ -17457,12 +17464,12 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesRU": [
-                        "\"So may the holy",
-                        "ones thee help,",
-                        "Frigg and Freyja",
-                        "and favoring gods,",
-                        "As thou hast saved me",
-                        "from sorrow now.\""
+                        Пусть тебе Фригг
+                        и Фрейя помогут
+                        и боги другие,
+                        благо дающие,
+                        как ты отвела
+                        от меня погибель!
                     ]
                 },
                 {
@@ -17470,17 +17477,17 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "\"I came not hither",
-                        "to help thee thus",
-                        "Because thou ever",
-                        "my aid didst earn;",
-                        "I fulfilled the oath",
-                        "that of old I swore,",
-                        "That aid to all",
-                        "I should ever bring,",
-                        "(When they shared the wealth",
-                        "the warriors had).\""
+                        Оддрун сказала:
+                        Не потому я
+                        пришла на помощь,
+                        что тебя считала
+                        того достойной;
+                        исполнила я,
+                        что обещала,
+                        когда делили
+                        добычу конунги:
+                        всем помогать,
+                        кто помощи ищет.
                     ]
                 },
                 {
@@ -17488,15 +17495,15 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesRU": [
-                        "Borgny spake:",
-                        "\"Wild art thou, Oddrun,",
-                        "and witless now,",
-                        "That so in hatred",
-                        "to me thou speakest;",
-                        "I followed thee",
-                        "where thou didst fare,",
-                        "As we had been born",
-                        "of brothers twain.\""
+                        Боргню сказала:
+                        Безумна ты, Оддрун,
+                        твой разум затмился, —
+                        зачем ты, озлобясь,
+                        меня осуждаешь?
+                        А я от тебя
+                        оторваться не в силах,
+                        как будто отцы наши
+                        братьями были!
                     ]
                 },
                 {
@@ -17504,15 +17511,17 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "\"I remember the evil",
-                        "one eve thou spakest,",
-                        "When a draught I gave",
-                        "to Gunnar then;",
-                        "Thou didst say that never",
-                        "such a deed",
-                        "By maid was done",
-                        "save by me alone.\""
+                        Оддрун сказала:
+                        Я помню слова,
+                        что ты молвила вечером,
+                        Гуннару я
+                        напиток готовила:
+                        деве другой
+                        не довелось бы
+                        так поступить,
+                        как я поступила.
+                        *********
+                        *********
                     ]
                 },
                 {
@@ -17520,10 +17529,10 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesRU": [
-                        "\"Then the sorrowing woman",
-                        "sat her down",
-                        "To tell the grief",
-                        "of her troubles great.\""
+                        Села тогда
+                        жена и скорбно
+                        о горе своем
+                        рассказывать стала.
                     ]
                 },
                 {
@@ -17531,14 +17540,15 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesRU": [
-                        "\"Happy I grew",
-                        "in the hero's hall",
-                        "As the warriors wished,",
-                        "and they loved me well;",
-                        "Glad I was",
-                        "of my father's gifts,",
-                        "For winters five,",
-                        "while my father lived.\""
+                        Оддрун сказала:
+                        Вскормили меня
+                        в княжьих хоромах —
+                        всем на радость —
+                        по воле людей.
+                        Владела я счастьем
+                        и отчей землей
+                        всего лишь пять лет,
+                        пока жив был отец мой.
                     ]
                 },
                 {
@@ -17546,14 +17556,14 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesRU": [
-                        "\"These were the words",
-                        "the weary king,",
-                        "Ere he died,",
-                        "spake last of all:",
-                        "He bade me with red gold",
-                        "dowered to be,",
-                        "And to Grimhild's son",
-                        "in the South be wedded.\""
+                        Последнее слово
+                        конунг промолвил,
+                        пред смертью своей
+                        так повелел он:
+                        надеть мне уборы
+                        из красного золота
+                        и замуж идти мне
+                        за сына Гримхильд;
                     ]
                 },
                 {
@@ -17561,15 +17571,14 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "\"But Brynhild the helm",
-                        "he bade to wear,",
-                        "A wish-maid bright",
-                        "he said she should be;",
-                        "For a nobler maid",
-                        "would never be born",
-                        "On earth, he said,",
-                        "if death should spare her.\""
+                        Брюнхильд он шлем
+                        взять повелел,
+                        сказал, что валькирией
+                        быть суждено ей.
+                        сказал, что другой
+                        на свете не будет
+                        девы, мне равной,
+                        коль не умру я.
                     ]
                 },
                 {
@@ -17577,14 +17586,14 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesRU": [
-                        "\"At her weaving Brynhild",
-                        "sat in her bower,",
-                        "Lands and folk",
-                        "alike she had;",
-                        "The earth and heaven",
-                        "high resounded",
-                        "When Fafnir's slayer",
-                        "the city saw.\""
+                        Брюнхильд в покоях
+                        ткала покровы,
+                        дружина и земли
+                        ее окружали;
+                        земля и небо
+                        покоились мирно
+                        в час, когда Сигурд
+                        чертог увидел.
                     ]
                 },
                 {
@@ -17592,14 +17601,14 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesRU": [
-                        "\"Then battle was fought",
-                        "with the foreign swords,",
-                        "And the city was broken",
-                        "that Brynhild had;",
-                        "Not long thereafter,",
-                        "but all too soon,",
-                        "Their evil wiles",
-                        "full well she knew.\""
+                        Вальским клинком
+                        воин ударил,
+                        Брюнхильд палаты
+                        были разрушены;
+                        следом затем
+                        все она сведала,
+                        как ей чинили
+                        обманные козни.
                     ]
                 },
                 {
@@ -17607,14 +17616,14 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesRU": [
-                        "\"Woeful for this",
-                        "her vengeance was,",
-                        "As so we learned",
-                        "to our sorrow all;",
-                        "In every land",
-                        "shall all men hear",
-                        "How herself at Sigurth's",
-                        "side she slew.\""
+                        За это она
+                        отомстила жестоко,
+                        все испытали мы
+                        беды великие:
+                        в мире повсюду
+                        молва разнесется,
+                        как Брюнхильд себя
+                        убила на Сигурде!
                     ]
                 },
                 {
@@ -17622,10 +17631,10 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesRU": [
-                        "\"Love to Gunnar",
-                        "then I gave,",
-                        "To the breaker of rings,",
-                        "as Brynhild might;\""
+                        Гуннар был дорог
+                        мне, как Брюнхильд
+                        должен был конунг
+                        стать дорогим.
                     ]
                 },
                 {
@@ -17633,15 +17642,14 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "To Atli rings",
-                        "so red they offered,",
-                        "And mighty gifts",
-                        "to my brother would give.",
-                        "\"Fifteen dwellings",
-                        "fain would he give",
-                        "For me, and the burden",
-                        "that Grani bore;\""
+                        Много колец
+                        красного золота
+                        и выкуп большой
+                        брату предложен был;
+                        а мне предложил он
+                        пятнадцать дворов
+                        и Грани поклажу,
+                        когда б пожелала я.
                     ]
                 },
                 {
@@ -17649,14 +17657,14 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesRU": [
-                        "But Atli said",
-                        "he would never receive",
-                        "Marriage gold",
-                        "from Gjuki's son.",
-                        "\"Yet could we not",
-                        "our love o'ercome,",
-                        "And my head I laid",
-                        "on the hero's shoulder;\""
+                        Но Атли сказал,
+                        что от Гьюки сынов
+                        взять никогда
+                        не захочет он вена.
+                        А мы побороть
+                        любовь не могли,
+                        и я к плечу
+                        князя прильнула.
                     ]
                 },
                 {
@@ -17664,14 +17672,14 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesRU": [
-                        "\"Many there were",
-                        "of kinsmen mine",
-                        "Who said that together",
-                        "us they had seen.",
-                        "Atli said",
-                        "that never I",
-                        "Would evil plan,",
-                        "or ill deed do;\""
+                        Многие родичи
+                        речи вели
+                        о том, что вместе
+                        видели нас;
+                        И Атли молвил,
+                        что мне не пристали
+                        греховный поступок
+                        и дело позорное.
                     ]
                 },
                 {
@@ -17679,10 +17687,10 @@
                     "type": "stanza",
                     "number": "25",
                     "linesRU": [
-                        "\"But none may this",
-                        "of another think,",
-                        "Or surely speak,",
-                        "when love is shared.\""
+                        Но отрекаться
+                        нельзя от любви,
+                        где править людьми
+                        она начинает!
                     ]
                 },
                 {
@@ -17690,14 +17698,14 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesRU": [
-                        "\"Soon his men",
-                        "did Atli send,",
-                        "In the murky wood",
-                        "on me to spy;",
-                        "Thither they came",
-                        "where they should not come,",
-                        "Where beneath one cover",
-                        "close we lay.\""
+                        Атли своих
+                        послал соглядатаев
+                        тайно за мною
+                        в темную чащу, —
+                        пришли, — хоть туда
+                        идти бы не след им, —
+                        когда наш покров
+                        постлать мы хотели.
                     ]
                 },
                 {
@@ -17705,15 +17713,14 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "\"To the warriors ruddy",
-                        "rings we offered,",
-                        "That nought to Atli",
-                        "e'er they should say;",
-                        "But swiftly home",
-                        "they hastened thence,",
-                        "And eager all",
-                        "to Atli told.\""
+                        Красные им
+                        посулили мы кольца,
+                        чтоб скрыли они
+                        от Атли, что видели,
+                        но поспешили
+                        посланцы Атли
+                        в дом возвратиться
+                        и все рассказать.
                     ]
                 },
                 {
@@ -17721,12 +17728,10 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesRU": [
-                        "\"But close from Guthrun",
-                        "kept they hid",
-                        "What first of all",
-                        "she ought to have known.",
-                        "*********",
-                        "*********\""
+                        Но Гудрун от них
+                        ничего не узнала,
+                        а ей бы вдвойне
+                        пристало то ведать.
                     ]
                 },
                 {
@@ -17734,14 +17739,14 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesRU": [
-                        "\"Great was the clatter",
-                        "of gilded hoofs",
-                        "When Gjuki's sons",
-                        "through the gateway rode;",
-                        "The heart they hewed",
-                        "from Hogni then,",
-                        "And the other they cast",
-                        "in the serpents' cave.\""
+                        Цокот раздался
+                        копыт золотых,
+                        прибыли к нам
+                        наследники Гьюки, —
+                        вырвали сердце
+                        из ребер у Хегни,
+                        в ров змеиный
+                        Гуннара ввергли.
                     ]
                 },
                 {
@@ -17749,17 +17754,16 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesRU": [
-                        "\"Alone was I gone",
-                        "to Geirmund then,",
-                        "The draught to mix",
-                        "and ready to make;",
-                        "The hero wise",
-                        "on his harp then smote,",
-                        "*********",
-                        "For help from me",
-                        "in his heart yet hoped",
-                        "The high-born king,",
-                        "might come to him.\""
+                        Случилось тогда
+                        быть мне у Гейрмунда,
+                        там я питье
+                        принялась готовить,
+                        а Гуннар играть
+                        на арфе начал, —
+                        подумал он, видно,
+                        конунг великий,
+                        что помощь ему
+                        оказать поспешу я.
                     ]
                 },
                 {
@@ -17767,14 +17771,14 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesRU": [
-                        "\"Sudden I heard",
-                        "from Hlesey clear",
-                        "How in sorrow the strings",
-                        "of the harp resounded.",
-                        "I bade the serving-maids",
-                        "ready to be,",
-                        "For I longed the hero's",
-                        "life to save;\""
+                        Ко мне донеслись
+                        с острова Хлесей
+                        струн голоса,
+                        горестно певшие;
+                        служанкам велела
+                        в дорогу собраться,
+                        князя от смерти
+                        хотела спасти я!
                     ]
                 },
                 {
@@ -17782,11 +17786,10 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesRU": [
-                        "Oddrun spake:",
-                        "\"Across the sound",
-                        "the boats we sailed,",
-                        "Till we saw the whole",
-                        "of Atli's home.\""
+                        Ладья поплыла
+                        через пролив,
+                        пока не достигла
+                        Атли палат.
                     ]
                 },
                 {
@@ -17794,14 +17797,14 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesRU": [
-                        "\"Then crawling the evil",
-                        "woman came,",
-                        "Atli's mother",
-                        "may she ever rot!",
-                        "And hard she bit",
-                        "to Gunnar's heart,",
-                        "So I could not help",
-                        "the hero brave.\""
+                        Но тут приползла
+                        коварная мать
+                        конунга Атли, —
+                        истлеть бы проклятой! —
+                        Гуннару в сердце
+                        жало вонзила,
+                        и конуга я
+                        спасти не могла.
                     ]
                 },
                 {
@@ -17809,14 +17812,14 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesRU": [
-                        "\"Oft have I wondered",
-                        "how after this,",
-                        "Serpents'-bed goddess!",
-                        "I still might live,",
-                        "For well I loved",
-                        "the warrior brave,",
-                        "The giver of swords,",
-                        "as my very self.\""
+                        Нередко дивлюсь,
+                        как ныне могу я,
+                        женщина, в горести
+                        жить и томиться,
+                        если властитель,
+                        мечи вручавший,
+                        в битвах могучий,
+                        как жизнь, мне был дорог!
                     ]
                 },
                 {
@@ -17824,14 +17827,14 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesRU": [
-                        "\"Thou didst see and listen,",
-                        "the while I said",
-                        "The mighty grief",
-                        "that was mine and theirs;",
-                        "Each man lives",
-                        "as his longing wills,",
-                        "Oddrun's lament",
-                        "is ended now.\""
+                        Слушала ты
+                        скорбные речи
+                        о горестных судьбах
+                        моих и родни моей.
+                        Желанья людские
+                        жизнью правят —
+                        так кончается
+                        Оддрун плач».
                     ]
                 }
             ]
@@ -17845,7 +17848,7 @@
                     "type": "prose",
                     "number": "1.",
                     "linesRU": [
-                        "Guthrun, Gjuki's daughter, avenged her brothers, as has become well known. She slew first Atli's sons, and thereafter she slew Atli, and burned the hall with his whole company. Concerning this was the following poem made:"
+                        "Гудрун, дочь Гьюки, отомстила за своих братьев, как об этом много рассказывалось: она убила сначала сыновей Атли, а потом самого Атли и сожгла его палаты и всю его дружину. Об этом сложена такая песнь:"
                     ]
                 },
                 {
@@ -17853,14 +17856,14 @@
                     "type": "stanza",
                     "number": "2.",
                     "linesRU": [
-                        "\"Atli sent",
-                        "of old to Gunnar",
-                        "A keen-witted rider,",
-                        "Knefröth did men call him;",
-                        "To Gjuki's home came he",
-                        "and to Gunnar's dwelling,",
-                        "With benches round the hearth,",
-                        "and to the beer so sweet.\""
+                        Атли когда-то
+                        отправил к Гуннару
+                        хитрого мужа
+                        по имени Кнефред;
+                        в вотчину Гьюки,
+                        к Гуннару прибыл он,
+                        в дом, к очагу,
+                        к вкусному пиву.
                     ]
                 },
                 {
@@ -17868,14 +17871,14 @@
                     "type": "stanza",
                     "number": "3.",
                     "linesRU": [
-                        "\"Then the followers, hiding",
-                        "their falseness, all drank",
-                        "Their wine in the war-hall,",
-                        "of the Huns' wrath wary;",
-                        "And Knefröth spake loudly,",
-                        "his words were crafty,",
-                        "The hero from the south,",
-                        "on the high bench sitting:\""
+                        Дружинники пили
+                        в вальгалле вино
+                        и гуннам не верили,
+                        молчали предатели;
+                        Кнефред воскликнул
+                        недобрым голосом, —
+                        на высокой скамье
+                        сидел южанин.
                     ]
                 },
                 {
@@ -17883,14 +17886,14 @@
                     "type": "stanza",
                     "number": "4.",
                     "linesRU": [
-                        "\"Now Atli has sent me",
-                        "his errand to ride,",
-                        "On my bit-champing steed",
-                        "through Myrkwood the secret,",
-                        "To bid You, Gunnar,",
-                        "to his benches to come,",
-                        "With helms round the hearth,",
-                        "and Atli's home seek.\""
+                        Атли я послан
+                        сюда с порученьем,
+                        верхом проскакал я
+                        сквозь чащу Мюрквид
+                        просить вас с Гуннаром
+                        к Атли в гости,
+                        в дом свой зовет он
+                        вас, шлемоносные!
                     ]
                 },
                 {
@@ -17898,14 +17901,14 @@
                     "type": "stanza",
                     "number": "5.",
                     "linesRU": [
-                        "\"Shields shall ye choose there,",
-                        "and shafts made of ash-wood,",
-                        "Gold-adorned helmets,",
-                        "and slaves out of Hunland,",
-                        "Silver-gilt saddle-cloths,",
-                        "shirts of bright scarlet,",
-                        "With lances and spears too,",
-                        "and bit-champing steeds.\""
+                        Дадут вам щиты
+                        и пики на выбор,
+                        в золоте шлемы,
+                        попоны расшитые,
+                        множество гуннов,
+                        рубахи червленые,
+                        стяги на копьях,
+                        ретивых коней!
                     ]
                 },
                 {
@@ -17913,14 +17916,14 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesRU": [
-                        "\"The field shall be given you",
-                        "of wide Gnitaheith,",
-                        "With loud-ringing lances,",
-                        "and stems gold-o'er-laid,",
-                        "Treasures full huge,",
-                        "and the home of Danp,",
-                        "And the mighty forest",
-                        "that Myrkwood is called.\""
+                        Широкое даст
+                        Гнитахейд поле,
+                        пики звенящие,
+                        челны златоносные.
+                        золота груды,
+                        и Данпа земли,
+                        и лес знаменитый,
+                        что Мюрквид зовется!
                     ]
                 },
                 {
@@ -17928,14 +17931,14 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesRU": [
-                        "His head turned Gunnar,",
-                        "and to Hogni he said:",
-                        "\"What thy counsel, young hero,",
-                        "when such things we hear?",
-                        "No gold do I know",
-                        "on Gnitaheith lying",
-                        "So fair that other",
-                        "its equal we have not.\""
+                        Гуннар тогда
+                        повернулся к Хегни:
+                        Что скажешь,
+                        брат младший?
+                        Не знаю я золота
+                        с полей Гнитахейд,
+                        что нашей добычей
+                        давно бы не стало!
                     ]
                 },
                 {
@@ -17943,18 +17946,18 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesRU": [
-                        "\"We have seven halls,",
-                        "each of swords is full,",
-                        "(And all of gold",
-                        "is the hilt of each;)",
-                        "My steed is the swiftest,",
-                        "my sword is sharpest,",
-                        "My bows adorn benches,",
-                        "my byrnies are golden,",
-                        "My helm is the brightest",
-                        "that came from Kjar's hall,",
-                        "(Mine own is better",
-                        "than all the Huns' treasure.)\""
+                        У нас семь палат,
+                        полных мечами,
+                        их рукояти
+                        в резьбе золотой,
+                        конь мой, я знаю,
+                        коней всех ретивей,
+                        острее мой меч,
+                        красивей мой шлем
+                        из Кьярова дома,
+                        кольчуги из золота,
+                        и лук мой лучше
+                        всех гуннских луков!
                     ]
                 },
                 {
@@ -17962,15 +17965,15 @@
                     "type": "stanza",
                     "number": "9.",
                     "linesRU": [
-                        "Hogni spake:",
-                        "\"What seeks she to say,",
-                        "that she sends us a ring,",
-                        "Woven with a wolf's hair?",
-                        "methinks it gives warning;",
-                        "In the red ring a hair",
-                        "of the heath-dweller found I,",
-                        "Wolf-like shall our road be",
-                        "if we ride on this journey.\""
+                        Хегни сказал:
+                        Почему нам жена
+                        кольцо прислала
+                        в волчьей одежде?
+                        Остеречь нас хотела?
+                        Волос вплетен был
+                        волчий в кольцо —
+                        по волчьей тропе
+                        придется нам ехать!
                     ]
                 },
                 {
@@ -17978,14 +17981,14 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesRU": [
-                        "\"Not eager were his comrades,",
-                        "nor the men of his kin,",
-                        "The wise nor the wary,",
-                        "nor the warriors bold.",
-                        "But Gunnar spake forth",
-                        "as befitted a king,",
-                        "Noble in the beer-hall,",
-                        "and bitter his scorn:\""
+                        Не подстрекали
+                        родичи Гуннара,
+                        молчали советчики,
+                        воины смелые;
+                        велел тогда Гуннар,
+                        как должно владыке
+                        от щедрой души,
+                        на пиршестве княжьем:
                     ]
                 },
                 {
@@ -17993,12 +17996,10 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesRU": [
-                        "\"Stand forth now, Fjornir!",
-                        "and hither on the floor",
-                        "The beakers all golden",
-                        "shalt thou bring to the warriors.",
-                        "*********",
-                        "*********\""
+                        Фьернир, вставай!
+                        Пусть вкруговую
+                        ковши золотые
+                        пойдут по рукам!
                     ]
                 },
                 {
@@ -18006,14 +18007,14 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesRU": [
-                        "\"The wolves then shall rule",
-                        "the wealth of the Niflungs,",
-                        "Wolves aged and grey-hued,",
-                        "if Gunnar is lost,",
-                        "And black-coated bears",
-                        "with rending teeth bite,",
-                        "And make glad the dogs,",
-                        "if Gunnar returns not.\""
+                        Пусть волки наследье
+                        отнимут у Нифлунгов —
+                        серые звери, —
+                        коль я останусь!
+                        Пусть мирные хижины
+                        станут добычей
+                        белых медведей,
+                        коль я не поеду!
                     ]
                 },
                 {
@@ -18021,14 +18022,14 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesRU": [
-                        "A following gallant",
-                        "fared forth with the ruler,",
-                        "Yet they wept as their home",
-                        "with the hero they left;",
-                        "And the little heir",
-                        "of Hogni called loudly:",
-                        "\"Go safe now, ye wise ones,",
-                        "wherever ye will!\""
+                        Простились люди
+                        с конунгом, плача,
+                        когда уезжал он
+                        из гуннского дома;
+                        сказал тогда юный
+                        наследник Хегни:
+                        Путь свой вершите,
+                        как дух вам велит!
                     ]
                 },
                 {
@@ -18036,14 +18037,14 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesRU": [
-                        "\"Then let the bold heroes",
-                        "their bit-champing horses",
-                        "On the mountains gallop,",
-                        "and through Myrkwood the secret;",
-                        "All Hunland was shaken",
-                        "where the hard-souled ones rode,",
-                        "On the whip-fearers fared they",
-                        "through fields that were green.\""
+                        Рысью пустили
+                        резвых коней
+                        по горным склонам
+                        сквозь чащу Мюрквид;
+                        Хунмарк дрожал
+                        от топота конского,
+                        гнали покорных
+                        по травам зеленым.
                     ]
                 },
                 {
@@ -18051,14 +18052,22 @@
                     "type": "stanza",
                     "number": "15.",
                     "linesRU": [
-                        "\"Then they saw Atli's halls,",
-                        "and his watch-towers high,",
-                        "On the walls so lofty",
-                        "stood the warriors of Buthli;",
-                        "The hall of the southrons",
-                        "with seats was surrounded,",
-                        "With targets bound",
-                        "and shields full bright.\""
+                        Атли владенья
+                        они увидели,
+                        воинов Бикки
+                        на стенах высоких;
+                        в палатах южан
+                        скамьи поставлены,
+                        на стенах тарчи,
+                        щиты и доспехи,
+                        стяги на копьях;
+                        Атли там пил
+                        в вальгалле вино;
+                        стража была
+                        наготове снаружи,
+                        чтоб Гуннара встретить,
+                        когда бы затеял он
+                        с конунгом битву.
                     ]
                 },
                 {
@@ -18066,14 +18075,14 @@
                     "type": "stanza",
                     "number": "16.",
                     "linesRU": [
-                        "\"Mid weapons and lances",
-                        "did Atli his wine",
-                        "In the war-hall drink,",
-                        "without were his watchmen,",
-                        "For Gunnar they waited,",
-                        "if forth he should go,",
-                        "With their ringing spears",
-                        "they would fight with the ruler.\""
+                        Первой сестра
+                        братьев приметила —
+                        хмельной не была она —
+                        у входа в палату:
+                        Гуннар, ты предан!
+                        Гунны коварны,
+                        не справишься с ними, —
+                        спасайся скорее!
                     ]
                 },
                 {
@@ -18081,28 +18090,20 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesRU": [
-                        "This their sister saw,",
-                        "as soon as her brothers",
-                        "Had entered the hall,",
-                        "little ale had she drunk:",
-                        "\"Betrayed art thou, Gunnar!",
-                        "what guard hast thou, hero,",
-                        "'Gainst the plots of the Huns?",
-                        "from the hall flee swiftly!",
-                        "Brother, twere far better",
-                        "to have come in byrnie,",
-                        "With thy household helmed,",
-                        "to see Atli's home,",
-                        "And to sit in the saddle",
-                        "all day neath the sun,",
-                        "(That the sword-norns might weep",
-                        "for the death-pale warriors,",
-                        "And the Hunnish shield-maids",
-                        "might shun not the sword,)",
-                        "And send Atli himself",
-                        "to the den of the snakes;",
-                        "(Now the den of the snakes",
-                        "for thee is destined.\""
+                        Лучше б тебе
+                        кольчугу надеть,
+                        а не шлем, окованный
+                        кольцами золота,
+                        ясные дни
+                        проводил бы в седле,
+                        дал бы бледные трупы
+                        норнам оплакивать,
+                        дев гуннских воинственных
+                        впряг в борону бы,
+                        вверг бы ты Атли
+                        в ров змеиный,
+                        а ныне вы сами
+                        в него попадаете!
                     ]
                 },
                 {
@@ -18110,14 +18111,13 @@
                     "type": "stanza",
                     "number": "18.",
                     "linesRU": [
-                        "Gunnar spake:",
-                        "*********",
-                        "\"Too late is it, sister,",
-                        "to summon the Niflungs,",
-                        "Long is it to come",
-                        "to the throng of our comrades,",
-                        "The heroes gallant,",
-                        "from the hills of the Rhine.\""
+                        Гуннар сказал:
+                        Не успеть мне, сестра,
+                        Нифлунгов кликнуть,
+                        далеко искать
+                        удалую дружину,
+                        с холмов красных Рейна
+                        воинов храбрых!
                     ]
                 },
                 {
@@ -18125,10 +18125,10 @@
                     "type": "stanza",
                     "number": "19.",
                     "linesRU": [
-                        "\"Then Gunnar they seized,",
-                        "and they set him in chains,",
-                        "The Burgundians' king,",
-                        "and fast they bound him.\""
+                        Схвачен был Гуннар,
+                        накрепко скован,
+                        друг бургундов,
+                        связан надежно.
                     ]
                 },
                 {
@@ -18136,14 +18136,15 @@
                     "type": "stanza",
                     "number": "20.",
                     "linesRU": [
-                        "\"Hogni slew seven",
-                        "with sword so keen,",
-                        "And an eighth he flung",
-                        "in the fire hot;",
-                        "A hero should fight",
-                        "with his foemen thus,",
-                        "As Hogni strove",
-                        "in Gunnar's behalf.\""
+                        Хегни сразил
+                        мечом семерых,
+                        восьмого спихнул
+                        в огонь пылавший.
+                        Так должен смелый
+                        сражаться с врагом,
+                        как Хегни бился,
+                        себя защищая.
+                        *********
                     ]
                 },
                 {
@@ -18151,12 +18152,10 @@
                     "type": "stanza",
                     "number": "21.",
                     "linesRU": [
-                        "\"*********",
-                        "*********",
-                        "The leader they asked",
-                        "if his life he fain",
-                        "With gold would buy,",
-                        "the king of the Goths.\""
+                        Спросили, не хочет ли
+                        готов властитель
+                        золото дать,
+                        откупиться от смерти.
                     ]
                 },
                 {
@@ -18164,13 +18163,13 @@
                     "type": "stanza",
                     "number": "22.",
                     "linesRU": [
-                        "Gunnar spake:",
-                        "\"First the heart of Hogni",
-                        "shall ye lay in my hands,",
-                        "All bloody from the breast",
-                        "of the bold one cut",
-                        "With ke-en-biting sword,",
-                        "from the son of the king.\""
+                        Гуннар сказал:
+                        Пусть сердце Хегни
+                        в руке моей будет,
+                        сердце кровавое
+                        сына конунга,
+                        острым ножом
+                        из груди исторгнуто.
                     ]
                 },
                 {
@@ -18178,11 +18177,10 @@
                     "type": "stanza",
                     "number": "23.",
                     "linesRU": [
-                        "\"*********",
-                        "They cut out the heart",
-                        "from the breast of Hjalli,",
-                        "On a platter they bore it,",
-                        "and brought it to Gunnar.\""
+                        Вырвали сердце
+                        у Хьялли из ребер,
+                        на блюде кровавое
+                        подали Гуннару.
                     ]
                 },
                 {
@@ -18190,16 +18188,16 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesRU": [
-                        "Then Gunnar spake forth,",
-                        "the lord of the folk:",
-                        "\"Here have I the heart",
-                        "of Hjalli the craven,",
-                        "Unlike to the heart",
-                        "of Hogni the valiant,",
-                        "For it trembles still",
-                        "as it stands on the platter;",
-                        "Twice more did it tremble",
-                        "in the breast of the man.\""
+                        Гуннар воскликнул,
+                        владыка дружины:
+                        Тут лежит сердце
+                        трусливого Хьялли,
+                        это не сердце
+                        смелого Хегни, —
+                        даже на блюде
+                        лежа, дрожит оно, —
+                        у Хьялли в груди
+                        дрожало сильнее!
                     ]
                 },
                 {
@@ -18207,13 +18205,12 @@
                     "type": "stanza",
                     "number": "25",
                     "linesRU": [
-                        "\"Then Hogni laughed",
-                        "when they cut out the heart",
-                        "Of the living helm-hammerer;",
-                        "tears he had not.",
-                        "*********",
-                        "On a platter they bore it,",
-                        "and brought it to Gunnar.\""
+                        Вождь рассмеялся —
+                        страха не ведал он, —
+                        когда грудь рассекли
+                        дробящего шлемы
+                        и сердце на блюде
+                        подали Гуннару.
                     ]
                 },
                 {
@@ -18221,16 +18218,16 @@
                     "type": "stanza",
                     "number": "26.",
                     "linesRU": [
-                        "Then Gunnar spake forth,",
-                        "the spear of the Niflungs:",
-                        "\"Here have I the heart",
-                        "of Hogni the valiant,",
-                        "Unlike to the heart",
-                        "of Hjalli the craven,",
-                        "Little it trembles",
-                        "as it lies on the platter,",
-                        "Still less did it tremble",
-                        "when it lay in his breast.\""
+                        Гуннар сказал,
+                        славный Нифлунг:
+                        Тут лежит сердце
+                        смелого Хегни,
+                        это не сердце
+                        трусливого Хьялли,
+                        оно не дрожит,
+                        лежа на блюде,
+                        как не дрожало
+                        и прежде, в груди его!
                     ]
                 },
                 {
@@ -18238,16 +18235,14 @@
                     "type": "stanza",
                     "number": "27.",
                     "linesRU": [
-                        "\"So distant, Atli,",
-                        "from all men's eyes,",
-                        "Shalt thou be as thou",
-                        "********* from the gold.",
-                        "*********",
-                        "*********",
-                        "To no one save me",
-                        "is the secret known",
-                        "Of the Niflungs' hoard,",
-                        "now Hogni is dead;\""
+                        Атли, ты радости
+                        так не увидишь,
+                        как не увидишь
+                        ты наших сокровищ!
+                        Я лишь один,
+                        если Хегни убит,
+                        знаю, где скрыто
+                        сокровище Нифлунгов!
                     ]
                 },
                 {
@@ -18255,18 +18250,18 @@
                     "type": "stanza",
                     "number": "28.",
                     "linesRU": [
-                        "Of old there were two,",
-                        "while we twain were alive,",
-                        "Now is none but I,",
-                        "for I only am living.",
-                        "\"The swift Rhine shall hold",
-                        "the strife-gold of heroes,",
-                        "That once was the gods,",
-                        "the wealth of the Niflungs,",
-                        "In the depths of the waters",
-                        "the death-rings shall glitter,",
-                        "And not shine on the hands",
-                        "of the Hunnish men.\""
+                        Был жив он — сомненье
+                        меня донимало,
+                        нет его больше —
+                        нет и сомненья:
+                        останется в Рейне
+                        раздора металл, —
+                        в реке быстроводной
+                        асов богатство!
+                        Пусть в водах сверкают
+                        вальские кольца,
+                        а не на руках
+                        отпрысков гуннских!
                     ]
                 },
                 {
@@ -18274,10 +18269,13 @@
                     "type": "stanza",
                     "number": "29.",
                     "linesRU": [
-                        "Atli spake:",
-                        "\"Ye shall bring the wagon,",
-                        "for now is he bound.\"",
-                        "*********"
+                        Атли сказал:
+                        Готовьте повозку,
+                        пленник закован!
+                        И стража сокровищ,
+                        Одина битвы,
+                        поводья рвущий
+                        на гибель повез.
                     ]
                 },
                 {
@@ -18285,14 +18283,13 @@
                     "type": "stanza",
                     "number": "30.",
                     "linesRU": [
-                        "\"On the long-maned Glaum",
-                        "rode Atli the great,",
-                        "About him were warriors",
-                        "*********",
-                        "But Guthrun, akin",
-                        "to the gods of slaughter,",
-                        "Yielded not to her tears",
-                        "in the hall of tumult.\""
+                        Атли могучий
+                        ехал на Глауме,
+                        (непонятное место)
+                        Гудрун богов
+                        *********
+                        слез не лила,
+                        войдя в палату.
                     ]
                 },
                 {
@@ -18300,20 +18297,15 @@
                     "type": "stanza",
                     "number": "31.",
                     "linesRU": [
-                        "Guthrun spake:",
-                        "\"It shall go with thee, Atli,",
-                        "as with Gunnar thou heldest",
-                        "The oaths ofttimes sworn,",
-                        "and of old made firm,",
-                        "By the sun in the south,",
-                        "by Sigtyr's mountain,",
-                        "By the horse of the rest-bed,",
-                        "and the ring of Ull.",
-                        "Then the champer of bits",
-                        "drew the chieftain great,",
-                        "The gold-guarder, down",
-                        "to the place of death.",
-                        "*********\""
+                        Гудрун сказала:
+                        Клятвы тебя
+                        пусть покарают,
+                        которые Гуннару
+                        часто давал ты,
+                        клялся ты солнцем,
+                        Одина камнем,
+                        ложа конем
+                        и Улля кольцом!
                     ]
                 },
                 {
@@ -18321,18 +18313,18 @@
                     "type": "stanza",
                     "number": "32.",
                     "linesRU": [
-                        "\"By the warriors' host",
-                        "was the living hero",
-                        "Cast in the den",
-                        "where crawling about",
-                        "Within were serpents,",
-                        "but soon did Gunnar",
-                        "With his hand in wrath",
-                        "on the harp-strings smite;",
-                        "The strings resounded,",
-                        "so shall a hero,",
-                        "A ring-breaker, gold",
-                        "from his enemies guard.\""
+                        Воины конунга
+                        взяли живого,
+                        в ров положили.
+                        где ползали змеи;
+                        в гневе один
+                        Гуннар остался,
+                        пальцами струн
+                        на арфе касаясь;
+                        струны звенели;
+                        так должен смелый —
+                        кольца дарящий —
+                        добро защищать!
                     ]
                 },
                 {
@@ -18340,14 +18332,14 @@
                     "type": "stanza",
                     "number": "33.",
                     "linesRU": [
-                        "\"Then Atli rode",
-                        "on his earth-treading steed,",
-                        "Seeking his home,",
-                        "from the slaughter-place;",
-                        "There was clatter of hoofs",
-                        "of the steeds in the court,",
-                        "And the clashing of arms",
-                        "as they came from the field.\""
+                        Атли направил
+                        в путь обратный
+                        коня своего
+                        после убийства.
+                        С топотом кони
+                        теснились в ограде,
+                        звенели доспехи
+                        дружины вернувшейся.
                     ]
                 },
                 {
@@ -18355,14 +18347,14 @@
                     "type": "stanza",
                     "number": "34.",
                     "linesRU": [
-                        "Out then came Guthrun",
-                        "to meeting with Atli,",
-                        "With a golden beaker",
-                        "as gift to the monarch:",
-                        "\"Thou mayst eat now, chieftain,",
-                        "within thy dwelling,",
-                        "Blithely with Guthrun",
-                        "young beasts fresh slaughtered.\""
+                        Вышла Гудрун,
+                        чтоб Атли встретить
+                        с кубком в руках
+                        золотым, как пристало;
+                        Конунг, прими
+                        в палатах твоих
+                        от Гудрун зверенышей,
+                        в сумрак ушедших!
                     ]
                 },
                 {
@@ -18370,12 +18362,12 @@
                     "type": "stanza",
                     "number": "35.",
                     "linesRU": [
-                        "\"The wine-heavy ale-cups",
-                        "of Atli resounded,",
-                        "When there in the hall",
-                        "the Hunnish youths clamored,",
-                        "And the warriors bearded,",
-                        "the brave ones, entered.\""
+                        Звенели чаши,
+                        от пива тяжелые,
+                        когда собрались
+                        гунны усатые,
+                        в палате толпились
+                        храбрые воины.
                     ]
                 },
                 {
@@ -18383,14 +18375,12 @@
                     "type": "stanza",
                     "number": "36.",
                     "linesRU": [
-                        "\"Then in came the shining one,",
-                        "*********",
-                        "*********",
-                        "and drink she bore them;",
-                        "Unwilling and bitter",
-                        "brought she food to the warrior,",
-                        "Till in scorn to the white-faced",
-                        "Atli did she speak:\""
+                        Плавно вошла
+                        с питьем яснолицая,
+                        еду подала
+                        побледневшему Атли,
+                        сказала ему
+                        слова оскорбленья:
                     ]
                 },
                 {
@@ -18398,14 +18388,14 @@
                     "type": "stanza",
                     "number": "37.",
                     "linesRU": [
-                        "\"Thou giver of swords,",
-                        "of thy sons the hearts",
-                        "All heavy with blood",
-                        "in honey thou hast eaten;",
-                        "Thou shalt stomach, thou hero,",
-                        "the flesh of the slain,",
-                        "To eat at thy feast,",
-                        "and to send to thy followers.\""
+                        С медом ты съел
+                        сердца сыновей —
+                        кровавое мясо,
+                        мечи раздающий!
+                        Перевари теперь
+                        трупную пищу,
+                        что съедена с пивом,
+                        и после извергни!
                     ]
                 },
                 {
@@ -18413,16 +18403,14 @@
                     "type": "stanza",
                     "number": "38.",
                     "linesRU": [
-                        "\"Thou shalt never call",
-                        "to thy knees again",
-                        "Erp or Eitil,",
-                        "when merry with ale;",
-                        "Thou shalt never see",
-                        "in their seats again",
-                        "The sharers of gold",
-                        "their lances shaping,",
-                        "(Clipping the manes",
-                        "or minding their steeds.)\""
+                        Не подзовешь,
+                        не возьмешь на колени
+                        Эйтиля с Эрпом,
+                        веселых от пива;
+                        не увидишь, как дротики
+                        крепят на древки,
+                        гривы стригут,
+                        скачут верхом!
                     ]
                 },
                 {
@@ -18430,16 +18418,16 @@
                     "type": "stanza",
                     "number": "39.",
                     "linesRU": [
-                        "\"There was clamor on the benches,",
-                        "and the cry of men,",
-                        "The clashing of weapons,",
-                        "and weeping of the Huns,",
-                        "Save for Guthrun only,",
-                        "she wept not ever",
-                        "For her bear-fierce brothers,",
-                        "or the boys so dear,",
-                        "So young and so unhappy,",
-                        "whom with Atli she had.\""
+                        Вопили неистово
+                        люди в палате,
+                        коврами увешанной,
+                        плакали гунны;
+                        одна только Гудрун
+                        не стала оплакивать
+                        братьев смелых
+                        и милых сынов,
+                        юных, немудрых,
+                        от Атли рожденных
                     ]
                 },
                 {
@@ -18447,14 +18435,14 @@
                     "type": "stanza",
                     "number": "40.",
                     "linesRU": [
-                        "\"Gold did she scatter,",
-                        "the swan-white one,",
-                        "And rings of red gold",
-                        "to the followers gave she;",
-                        "The fate she let grow,",
-                        "and the shining wealth go,",
-                        "Nor spared she the treasure",
-                        "of the temple itself.\""
+                        Золото сеяла
+                        лебяжьебелая,
+                        челяди кольца
+                        дарила червонные;
+                        судьбе покорясь,
+                        раздавала сокровища,
+                        капищ она
+                        не жалела, щедрая.
                     ]
                 },
                 {
@@ -18462,14 +18450,14 @@
                     "type": "stanza",
                     "number": "41.",
                     "linesRU": [
-                        "\"Unwise then was Atli,",
-                        "he had drunk to wildness,",
-                        "No weapon did he have,",
-                        "and of Guthrun bewared not;",
-                        "Oft their play was better",
-                        "when both in gladness",
-                        "Each other embraced",
-                        "among princes all.\""
+                        Атли беспечный
+                        пьян был от пива,
+                        меча не схватил,
+                        не противился Гудрун
+                        иными бывали
+                        их прежние встречи,
+                        когда он при всех
+                        обнимал ее нежно!
                     ]
                 },
                 {
@@ -18477,14 +18465,14 @@
                     "type": "stanza",
                     "number": "42.",
                     "linesRU": [
-                        "\"With her sword she gave blood",
-                        "for the bed to drink,",
-                        "With her death-dealing hand,",
-                        "and the hounds she loosed,",
-                        "The thralls she awakened,",
-                        "and a firebrand threw",
-                        "In the door of the hall;",
-                        "so vengeance she had.\""
+                        Постель она с лезвия
+                        кровью насытила
+                        рукой, в Хель ведущей,
+                        выгнала псов,
+                        дверь заперла,
+                        подняла домочадцев,
+                        дом запалила
+                        в отплату за братьев.
                     ]
                 },
                 {
@@ -18492,16 +18480,16 @@
                     "type": "stanza",
                     "number": "43.",
                     "linesRU": [
-                        "\"To the flames she gave all",
-                        "who yet were within,",
-                        "And from Myrkheim had come",
-                        "from the murder of Gunnar;",
-                        "The timbers old fell,",
-                        "the temple was in flames,",
-                        "The dwelling of the Buthlungs,",
-                        "and the shield-maids burned,",
-                        "They were slain in the house,",
-                        "in the hot flames they sank.\""
+                        Всех предала
+                        огню, кто вернулся
+                        из Мюркхейма вспять
+                        после Гуннара смерти;
+                        рушились балки,
+                        дымилось капище,
+                        Будлунгов двор,
+                        щитоносные девы
+                        падали мертвые
+                        в жаркое пламя.
                     ]
                 },
                 {
@@ -18509,22 +18497,22 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesRU": [
-                        "\"Now the tale is all told,",
-                        "nor in later time",
-                        "Will a woman in byrnie",
-                        "avenge so her brothers;",
-                        "The fair one to three",
-                        "of the kings of the folk",
-                        "Brought the doom of death",
-                        "ere herself she died.\""
+                        Довольно об этом!
+                        Жены другие
+                        кольчуг не наденут
+                        для мести подобной!
+                        Трем конунгам смерть
+                        она принесла,
+                        прежде чем гибель
+                        ее постигла!
                     ]
                 },
                 {
                     "id": "45",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "45.",
                     "linesRU": [
-                        "Still more is told in the Greenland ballad of Atli."
+                        "Еще подробнее об этом рассказано в Гренландских Речах Атли."
                     ]
                 }
             ]
