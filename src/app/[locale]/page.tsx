@@ -61,9 +61,7 @@ export default function Home() {
         <div className="flex flex-col items-center justify-center">
             <Hero />
             <div className="font-GoodVibes max-w-2xl text-center p-5 text-lg sm:text-2xl sea-color dark:text-neutral-300">
-                <p className="mb-2">{t("Greeting1")}</p>
-                <p className="mb-2">{t("Greeting2")}</p>
-                <p>{t("Greeting3")}</p>
+                <p className="mb-2">{t("Greeting")}</p>
             </div>
         </div>
     );
