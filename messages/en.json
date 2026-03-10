@@ -1014,8 +1014,8 @@
             ]
         },
         "SayingsOfTheHighOne": {
-            "Title": "",
-            "Source": "",
+            "Title": "Sayings of the High One",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -3246,8 +3246,8 @@
             ]
         },
         "TheLayOfVafthrudnir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Vafthrúdnir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -3804,9 +3804,9 @@
                     "number": "41.",
                     "linesEN": [
                         "Vafthruthnir spake:",
-                        "All the champions every day contend in Óðin's courtyard;",
+                        "\"All the champions every day contend in Óðin's courtyard;",
                         "they choose the slaughter and ride from the field,",
-                        "thenceforth sit reconciled."
+                        "thenceforth sit reconciled.\""
                     ]
                 },
                 {
@@ -4013,8 +4013,8 @@
             ]
         },
         "TheLayOfGrímnir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Grímnir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -4775,8 +4775,8 @@
             ]
         },
         "TheLayOfSkírnir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Skírnir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -5389,8 +5389,8 @@
             ]
         },
         "TheLayOfHarbard": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Hárbard",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -6136,8 +6136,8 @@
             ]
         },
         "TheLayOfHymir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Hymir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -6222,7 +6222,7 @@
                         "Thor spake:",
                         "\"May we win, dost thou think,",
                         "this whirler of water?\"",
-
+                        "",
                         "Tyr spake:",
                         "\"Aye, friend, we can,",
                         "if cunning we are.\""
@@ -6628,7 +6628,7 @@
                         "So spake the giant:",
                         "\"No more can I say",
                         "In days to be,",
-                        "'Thou art brewed, mine ale.'"
+                        "'Thou art brewed, mine ale.'\""
                     ]
                 },
                 {
@@ -6738,8 +6738,8 @@
             ]
         },
         "TheFlytingOfLoki": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Flyting of Loki",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -8206,8 +8206,8 @@
             ]
         },
         "TheLayOfAlvís": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Alvís",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -8703,8 +8703,8 @@
         },
 
         "TheLayOfVolund": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Volund",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -9382,8 +9382,8 @@
             ]
         },
         "TheLayOfHelgiTheSonOfHjorvard": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Helgi the Son of Hjörvard",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -9923,7 +9923,7 @@
                 },
                 {
                     "id": "40",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "40.",
                     "linesEN": [
                         "Helgi spoke thus because he foresaw his death, for his following-spirits had met Hethin when he saw the woman riding on the wolf. Alf was the name of a king, the son of Hrothmar, who had marked out a battle-place with Helgi at Sigarsvoll after a stay of three nights. Then Helgi spake:"
@@ -10080,7 +10080,7 @@
                 },
                 {
                     "id": "51",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "51.",
                     "linesEN": [
                         "Of Helgi and Svava it is said that they were born again."
@@ -10089,8 +10089,8 @@
             ]
         },
         "TheFirstLayOfHelgiHundingsbane": {
-            "Title": "",
-            "Source": "",
+            "Title": "The First Lay of Helgi Hundingsbane",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -10979,8 +10979,8 @@
             ]
         },
         "TheSecondLayOfHelgiHundingsbane": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Second Lay of Helgi Hundingsbane",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -11887,8 +11887,8 @@
             ]
         },
         "OfSinfjotlisDeath": {
-            "Title": "",
-            "Source": "",
+            "Title": "Of Sinfjötli's Death",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -11902,8 +11902,8 @@
             ]
         },
         "TheProphecyOfGrípir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Prophecy of Grípir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -12766,8 +12766,8 @@
             ]
         },
         "TheLayOfRegin": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Regin",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -12979,7 +12979,7 @@
                 },
                 {
                     "id": "18",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "18.",
                     "linesEN": [
                         "All these happenings did Regin tell to Sigurth.",
@@ -13221,7 +13221,7 @@
                 },
                 {
                     "id": "37",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "37.",
                     "linesEN": [
                         "Sigurth went home to Hjalprek's house; thereupon Regin egged him on to fight with Fafnir."
@@ -13230,8 +13230,8 @@
             ]
         },
         "TheLayOfFafnir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Fáfnir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -13675,7 +13675,7 @@
                 },
                 {
                     "id": "34",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "34.",
                     "linesEN": [
                         "Then Regin went up to Fafnir and cut out his heart with his sword, that was named Rithil, and then he drank blood from the wounds. Regin said:"
@@ -13696,7 +13696,7 @@
                 },
                 {
                     "id": "36",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "36.",
                     "linesEN": [
                         "Sigurth took Fafnir's heart and cooked it on a spit. When he thought that it was fully cooked, and the blood foamed out of the heart, then he tried it with his finger to see whether it was fully cooked. He burned his finger, and put it in his mouth. But when Fafnir's heart's-blood came on his tongue, he understood the speech of birds. He heard nut-hatches chattering in the thickets. A nut hatch said:"
@@ -13904,7 +13904,7 @@
                 },
                 {
                     "id": "51",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "51.",
                     "linesEN": [
                         "Sigurth rode along Fafnir's trail to his lair, and found it open. The gate-posts were of iron, and the gates; of iron, too, were all the beams in the house, which was dug down into the earth. There Sigurth found a mighty store of gold, and he filled two chests full thereof; he took the fear-helm and a golden mail-coat and the sword Hrotti, and many other precious things, and loaded Grani with them, but the horse would not go forward until Sigurth mounted on his back."
@@ -13913,8 +13913,8 @@
             ]
         },
         "TheLayOfSigrdrífa": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Sigrdrífa",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -14479,8 +14479,8 @@
             ]
         },
         "FragmentOfASigurdLay": {
-            "Title": "Brot af Sigurðarkviðu",
-            "Source": "",
+            "Title": "Fragment of a Sigurd Lay",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -14789,8 +14789,8 @@
             ]
         },
         "TheFirstLayOfGuthrun": {
-            "Title": "",
-            "Source": "",
+            "Title": "The First Lay of Gudrún",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -15219,8 +15219,8 @@
             ]
         },
         "TheShortLayOfSigurth": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Short Lay of Sigurd",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -16298,8 +16298,8 @@
             ]
         },
         "BrynhildsHellRide": {
-            "Title": "",
-            "Source": "",
+            "Title": "Brynhild's Hell-Ride",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -16542,8 +16542,8 @@
             ]
         },
         "TheSecondLayOfGudrun": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Second Lay of Gudrún",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -17242,8 +17242,8 @@
             ]
         },
         "TheThirdLayOfGudrun": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Third Lay of Gudrún",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -17416,8 +17416,8 @@
             ]
         },
         "TheLamentOfOddrun": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lament of Oddrún",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -17931,8 +17931,8 @@
             ]
         },
         "TheGreenlandLayOfAtli": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Greenland Lay of Atli",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -18615,7 +18615,7 @@
                 },
                 {
                     "id": "45",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "45.",
                     "linesEN": [
                         "Still more is told in the Greenland ballad of Atli."
@@ -18624,8 +18624,8 @@
             ]
         },
         "TheGreenlandBalladOfAtli": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Greenland Ballad of Atli",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -20513,8 +20513,8 @@
             ]
         },
         "TheBalladOfHamdir": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Ballad of Hamdir",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -20970,8 +20970,8 @@
         },
 
         "BaldrsDreams": {
-            "Title": "",
-            "Source": "",
+            "Title": "Baldr's Dreams",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -21195,8 +21195,8 @@
             ]
         },
         "TheSongOfRíg": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Song of Ríg",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -21941,8 +21941,8 @@
             ]
         },
         "TheLayOfHyndla": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Lay of Hyndla",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -22492,8 +22492,8 @@
             ]
         },
         "TheShortSeeressProphecy": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Short Seeress' Prophecy",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -22707,8 +22707,8 @@
             ]
         },
         "TheSongOfGrotti": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Song of Grotti",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -22989,8 +22989,8 @@
             ]
         },
         "GroasSpell": {
-            "Title": "",
-            "Source": "",
+            "Title": "Gróa's Spell",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -23211,7 +23211,7 @@
             ]
         },
         "TheLayOfFjolsvid": {
-            "Title": "",
+            "Title": "The Lay of Fjolsvid",
             "Source": "",
             "Texts": [
                 {
@@ -23915,7 +23915,7 @@
             ]
         },
         "TheLayOfHjalmar": {
-            "Title": "",
+            "Title": "The Lay of Hjalmar",
             "Source": "",
             "Texts": [
                 {
@@ -23929,8 +23929,8 @@
             ]
         },
         "TheWakingOfAngantyr": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Waking of Angantýr",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -24296,8 +24296,8 @@
             ]
         },
         "LayOfHlod": {
-            "Title": "",
-            "Source": "",
+            "Title": "Lay of Hlöd",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
                     "id": "1",
@@ -24593,7 +24593,7 @@
                 },
                 {
                     "id": "29",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "29.",
                     "linesEN": [
                         "When Angantýr heard this he stroked his beard and was silent for a long time. At last he said:"
@@ -24643,7 +24643,7 @@
                 },
                 {
                     "id": "34",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "34.",
                     "linesEN": [
                         "To the Huns where shall I herald battle?"
@@ -24768,7 +24768,7 @@
             ]
         },
         "SongOfTheWarriorsOfHalva": {
-            "Title": "",
+            "Title": "Song of the Warriors of Halva",
             "Source": "",
             "Texts": [
                 {
@@ -24782,7 +24782,7 @@
             ]
         },
         "TheRiddlesOfKingHeithrek": {
-            "Title": "",
+            "Title": "The riddles of King Heithrek",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Lee M. Hollander (1936).",
             "Texts": [
                 {
@@ -25410,7 +25410,7 @@
             ]
         },
         "SongOfDorrud": {
-            "Title": "",
+            "Title": "Song of Dorrud",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by George W. DaSent (1861).",
             "Texts": [
                 {
@@ -25583,7 +25583,7 @@
             ]
         },
         "BjarkisOldSpeeches": {
-            "Title": "",
+            "Title": "Bjarkis Old Speeches",
             "Source": "",
             "Texts": [
                 {
@@ -25598,8 +25598,8 @@
         },
         
         "SongsOfTheSun": {
-            "Title": "",
-            "Source": "",
+            "Title": "The Song of the Sun",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1866).",
             "Texts": [
                 {
                     "id": "1",
@@ -26276,8 +26276,8 @@
             ]
         },
         "OdinsRavensSong": {
-            "Title": "",
-            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1860).",
+            "Title": "Odin’s Ravens’ Song",
+            "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1865).",
             "Texts": [
                 {
                     "id": "1",
@@ -26671,7 +26671,7 @@
             ]
         },
         "GunnarsMelody": {
-            "Title": "",
+            "Title": "Gunnar's Melody",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1865).",
             "Texts": [
                 {
