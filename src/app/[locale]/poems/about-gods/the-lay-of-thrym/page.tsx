@@ -4,6 +4,7 @@ import { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import DOMPurify from "isomorphic-dompurify";
+import onData from "../../../../utils/on.json"
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Песнь о Трюме",
@@ -68,6 +69,7 @@ export default function TheLayOfThrym() {
     const locale = useLocale();
     const source = DOMPurify.sanitize(t.raw("Source"));
     const translatedBlocks = t.raw("Texts") || [];
+    const onBlocks = (onData.Poems.TheLayOfThrym.Texts as any[]) || [];
     return (
         <main className="flex items-center justify-center text-sm md:text-base">
             <div className="flex flex-col w-[600px] rounded-md mt-20">
@@ -88,7 +90,7 @@ export default function TheLayOfThrym() {
                     <h1>Þrymskviða</h1>
                     <h2 className="mt-2">{t("Title")}</h2>
                 </div>
-                {thelayofthrym.map((block) => {
+                {onBlocks.map((block) => {
                     const translated = translatedBlocks.find(
                         (b: any) => b.id === block.id
                     );
@@ -111,7 +113,7 @@ export default function TheLayOfThrym() {
                                 )}
                                 <div className="flex mt-1">
                                     <div className="font-Kells w-40 sm:w-60 text-xl/6 sm:text-3xl/6">
-                                        {block.linesON.map((line, i) => (
+                                        {block.linesON.map((line: string, i: number) => (
                                             <p key={i}>{line}</p>
                                         ))}
                                     </div>
@@ -131,7 +133,7 @@ export default function TheLayOfThrym() {
                     return (
                         <div key={block.id} className="mb-6 mx-3 sm:mx-0">
                             <div className="font-Kells text-xl/6 sm:text-3xl/6">
-                                {block.linesON.map((line, i) => (
+                                {block.linesON.map((line: string, i: number) => (
                                     <p key={i}>{line}</p>
                                 ))}
                             </div>

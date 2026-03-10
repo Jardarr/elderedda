@@ -1,51 +1,54 @@
 import { Metadata, Viewport } from "next";
 import Hero from "../components/Hero";
-import { useTranslations } from "next-intl";
+import { getTranslations } from "next-intl/server";
 
-export const metadata: Metadata = {
-    title: "Gjallarbru | Старшая Эдда",
-    description: "Гибнут стада, родня умирает, и смертен ты сам; но знаю одно, что вечно бессмертно: умершего слава.",
-    keywords: ["Elder Edda, Старшая Эдда"],
-    authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
-    applicationName: "Gjallarbru | Elder Edda",
-    openGraph: {
-        title: "Gjallarbru | Старшая Эдда",
-        description: "Гибнут стада, родня умирает, и смертен ты сам; но знаю одно, что вечно бессмертно: умершего слава.",
-        url: "https://gjallarbru.ru",
-        siteName: "Gjallarbru | Elder Edda",
-        images: [
-            {
-                url: "/og-logo.jpg",
-                width: 800,
-                height: 600,
-                alt: "Gjallarbru | Elder Edda",
-            },
-        ],
-        locale: "ru-RU",
-        type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Gjallarbru | Старшая Эдда",
-        description: "Гибнут стада, родня умирает, и смертен ты сам; но знаю одно, что вечно бессмертно: умершего слава.",
-        images: ["/og-logo.jpg"],
-    },
-    robots: {
-        index: true,
-        follow: true,
-        nocache: true,
-        googleBot: {
+export async function generateMetadata(): Promise<Metadata> {
+    const t = await getTranslations("HomePage.Metadata");
+    return {
+        title: t("title"),
+        description: t("description"),
+        keywords: ["Elder Edda, Старшая Эдда, Älteste Edda, Élder Edda, Anziana Edda, Anciã Edda, Edda Seanóir, Vanhin Edda, Eldri Edda, Äldste Edda, Eldste Edda"],
+        authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+        applicationName: "Gjallarbru | Elder Edda",
+        openGraph: {
+            title: t("title"),
+            description: t("description"),
+            url: "https://gjallarbru.ru",
+            siteName: t("title"),
+            images: [
+                {
+                    url: "/og-logo.jpg",
+                    width: 800,
+                    height: 600,
+                    alt: t("title"),
+                },
+            ],
+            locale: "ru-RU",
+            type: "website",
+        },
+        twitter: {
+            card: "summary_large_image",
+            title: t("title"),
+            description: t("description"),
+            images: ["/og-logo.jpg"],
+        },
+        robots: {
             index: true,
             follow: true,
-            noimageindex: false,
-            "max-snippet": -1,
-            "max-image-preview": "large",
-            "max-video-preview": -1,
+            nocache: true,
+            googleBot: {
+                index: true,
+                follow: true,
+                noimageindex: false,
+                "max-snippet": -1,
+                "max-image-preview": "large",
+                "max-video-preview": -1,
+            },
         },
-    },
-    alternates: {
-        canonical: "https://gjallarbru.ru",
-    },
+        alternates: {
+            canonical: "https://gjallarbru.ru",
+        },
+    }
 };
 
 export const viewport: Viewport = {
@@ -55,13 +58,18 @@ export const viewport: Viewport = {
     userScalable: false,
 };
 
-export default function Home() {
-    const t = useTranslations("HomePage");
+export default async function Home() {
+    const t = await getTranslations("HomePage");
+    const greeting = t.raw("Greeting") as String[];
     return (
         <div className="flex flex-col items-center justify-center">
             <Hero />
             <div className="font-GoodVibes max-w-2xl text-center p-5 text-lg sm:text-2xl sea-color dark:text-neutral-300">
-                <p className="mb-2">{t("Greeting")}</p>
+                {greeting.map((text, index) => (
+                    <div key={index} className="my-8">
+                        {text}
+                    </div>
+                ))}
             </div>
         </div>
     );
