@@ -2,8 +2,8 @@
 	//Global font-color
 	--sea-color: #203e51;
 	//Fonts
-	--elementary: "Elementary", sans-serif;
-	--feofan: "Feofan", sans-serif;
+	// --elementary: "Elementary", sans-serif;
+	// --feofan: "Feofan", sans-serif;
 }
 
 @font-face {
@@ -62,13 +62,13 @@
 	font-style: normal;
 }
 
-h1 {
-	font-family: var(--elementary);
-}
+// h1 {
+// 	font-family: var(--elementary);
+// }
 
-h2 {
-	font-family: var(--feofan);
-}
+// h2 {
+// 	font-family: var(--feofan);
+// }
 
 .sea-color {
 	color: var(--sea-color);

@@ -1,6 +1,8 @@
-﻿{
+{
     "Poems": {
         "TheProphecyOfTheSeeress": {
+            "slug": "the-prophecy-of-the-seeress",
+            "category": "about-gods",
             "Title": "Völuspá",
             "Source": "",
             "Texts": [
@@ -992,10 +994,20 @@
                         "Níðhöggr nái.",
                         "Nú mun hon sökkvask!\""
                     ]
+                },
+                {
+                    "id": "66",
+                    "type": "stanza",
+                    "number": "66.",
+                    "linesON": [
+                        ""
+                    ]
                 }
             ]
         },
         "SayingsOfTheHighOne": {
+            "slug": "saying-of-the-high-one",
+            "category": "about-gods",
             "Title": "Hávamál",
             "Source": "",
             "Texts": [
@@ -3236,6 +3248,8 @@
             ]
         },
         "TheLayOfVafthrudnir": {
+            "slug": "the-lay-of-vafthrudnir",
+            "category": "about-gods",
             "Title": "Vafþrúðnismál",
             "Source": "",
             "Texts": [
@@ -4016,6 +4030,8 @@
             ]
         },
         "TheLayOfGrímnir": {
+            "slug": "the-lay-of-grimnir",
+            "category": "about-gods",
             "Title": "Grímnismál",
             "Source": "",
             "Texts": [
@@ -4785,6 +4801,8 @@
             ]
         },
         "TheLayOfSkírnir": {
+            "slug": "the-lay-of-skirnir",
+            "category": "about-gods",
             "Title": "Skírnismál (För Skírnis)",
             "Source": "",
             "Texts": [
@@ -5398,6 +5416,8 @@
             ]
         },
         "TheLayOfHarbard": {
+            "slug": "the-lay-of-harbard",
+            "category": "about-gods",
             "Title": "Hárbarðsljóð",
             "Source": "",
             "Texts": [
@@ -6156,6 +6176,8 @@
             ]
         },
         "TheLayOfHymir": {
+            "slug": "the-lay-of-hymir",
+            "category": "about-gods",
             "Title": "Hymiskviða",
             "Source": "",
             "Texts": [
@@ -6754,6 +6776,8 @@
             ]
         },
         "TheFlytingOfLoki": {
+            "slug": "the-flyting-of-loki",
+            "category": "about-gods",
             "Title": "Lokasenna",
             "Source": "",
             "Texts": [
@@ -7718,6 +7742,8 @@
             ]
         },
         "TheLayOfThrym": {
+            "slug": "the-lay-of-thrym",
+            "category": "about-gods",
             "Title": "Þrymskviða",
             "Source": "",
             "Texts": [
@@ -8207,10 +8233,20 @@
                         "Svá kom Óðins sonr",
                         "endr at hamri.\""
                     ]
+                },
+                {
+                    "id": "33",
+                    "type": "stanza",
+                    "number": "33.",
+                    "linesON": [
+                        ""
+                    ]
                 }
             ]
         },
         "TheLayOfAlvís": {
+            "slug": "the-lay-of-alvis",
+            "category": "about-gods",
             "Title": "Alvíssmál",
             "Source": "",
             "Texts": [
@@ -8706,8 +8742,9 @@
                 }
             ]
         },
-
         "TheLayOfVolund": {
+            "slug": "the-lay-of-volund",
+            "category": "about-heroes",
             "Title": "Völundarkviða",
             "Source": "",
             "Texts": [
@@ -8961,6 +8998,14 @@
                 },
                 {
                     "id": "18",
+                    "type": "stanza",
+                    "number": "18.",
+                    "linesON": [
+                        ""
+                    ]
+                },
+                {
+                    "id": "19",
                     "type": "prose",
                     "number": "18.",
                     "linesON": [
@@ -8968,7 +9013,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "20",
                     "type": "stanza",
                     "number": "19.",
                     "linesON": [
@@ -8985,7 +9030,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "21",
                     "type": "prose",
                     "number": "20.",
                     "linesON": [
@@ -8993,7 +9038,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "22",
                     "type": "stanza",
                     "number": "21.",
                     "linesON": [
@@ -9010,7 +9055,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "23",
                     "type": "stanza",
                     "number": "22.",
                     "linesON": [
@@ -9021,7 +9066,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "24",
                     "type": "stanza",
                     "number": "23.",
                     "linesON": [
@@ -9036,7 +9081,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "25",
                     "type": "stanza",
                     "number": "24.",
                     "linesON": [
@@ -9051,7 +9096,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "26",
                     "type": "stanza",
                     "number": "25",
                     "linesON": [
@@ -9067,7 +9112,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "27",
                     "type": "stanza",
                     "number": "26.",
                     "linesON": [
@@ -9082,7 +9127,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "28",
                     "type": "stanza",
                     "number": "27.",
                     "linesON": [
@@ -9097,7 +9142,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "29",
                     "type": "stanza",
                     "number": "28.",
                     "linesON": [
@@ -9112,7 +9157,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "30",
                     "type": "stanza",
                     "number": "29.",
                     "linesON": [
@@ -9126,7 +9171,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "31",
                     "type": "stanza",
                     "number": "30.",
                     "linesON": [
@@ -9142,7 +9187,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "32",
                     "type": "stanza",
                     "number": "31.",
                     "linesON": [
@@ -9157,7 +9202,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "33",
                     "type": "stanza",
                     "number": "32.",
                     "linesON": [
@@ -9174,7 +9219,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "34",
                     "type": "stanza",
                     "number": "33.",
                     "linesON": [
@@ -9189,7 +9234,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "35",
                     "type": "stanza",
                     "number": "34.",
                     "linesON": [
@@ -9205,7 +9250,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "36",
                     "type": "stanza",
                     "number": "35.",
                     "linesON": [
@@ -9216,7 +9261,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "37",
                     "type": "stanza",
                     "number": "36.",
                     "linesON": [
@@ -9238,7 +9283,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "38",
                     "type": "stanza",
                     "number": "37.",
                     "linesON": [
@@ -9253,7 +9298,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "39",
                     "type": "stanza",
                     "number": "38.",
                     "linesON": [
@@ -9268,7 +9313,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "40",
                     "type": "stanza",
                     "number": "39.",
                     "linesON": [
@@ -9283,7 +9328,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "41",
                     "type": "stanza",
                     "number": "40.",
                     "linesON": [
@@ -9301,7 +9346,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "42",
                     "type": "stanza",
                     "number": "41.",
                     "linesON": [
@@ -9312,7 +9357,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "43",
                     "type": "stanza",
                     "number": "42.",
                     "linesON": [
@@ -9326,7 +9371,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "44",
                     "type": "stanza",
                     "number": "43.",
                     "linesON": [
@@ -9337,7 +9382,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "45",
                     "type": "stanza",
                     "number": "44.",
                     "linesON": [
@@ -9353,10 +9398,20 @@
                         "ek vætr hánum",
                         "vinna máttak.\""
                     ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "46.",
+                    "linesON": [
+                        ""
+                    ]
                 }
             ]
         },
         "TheLayOfHelgiTheSonOfHjorvard": {
+            "slug": "the-lay-of-helgi-the-son-of-hjorvard",
+            "category": "about-heroes",
             "Title": "Helgakviða Hjörvarðssonar með Hrímgerðarmálum",
             "Source": "",
             "Texts": [
@@ -20989,7 +21044,6 @@
                 }
             ]
         },
-
         "BaldrsDreams": {
             "Title": "Baldrs draumar. Vegtamskviða",
             "Source": "",
@@ -26885,7 +26939,6 @@
                 }
             ]
         },
-        
         "SongsOfTheSun": {
             "Title": "Sólarljóð",
             "Source": "",
