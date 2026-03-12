@@ -10153,6 +10153,8 @@
             ]
         },
         "TheFirstLayOfHelgiHundingsbane": {
+            "slug": "the-first-lay-of-helgi-hundingsbane",
+            "category": "about-heroes",
             "Title": "Helgakviða Hundingsbana in fyrri",
             "Source": "",
             "Texts": [
@@ -11026,6 +11028,8 @@
             ]
         },
         "TheSecondLayOfHelgiHundingsbane": {
+            "slug": "the-second-lay-of-helgi-hundingsbane",
+            "category": "about-heroes",
             "Title": "Helgakviða Hundingsbana önnur",
             "Source": "",
             "Texts": [
@@ -11090,17 +11094,10 @@
                 },
                 {
                     "id": "6",
-                    "type": "prose",
-                    "number": "6.",
-                    "linesON": [
-                        "Hagall svaraði ok kvað:"
-                    ]
-                },
-                {
-                    "id": "7",
                     "type": "stanza",
                     "number": "7.",
                     "linesON": [
+                        "Hagall svaraði ok kvað:",
                         "\"Þat er lítil vá,",
                         "þótt lúðr þrumi",
                         "er mær konungs",
@@ -11118,7 +11115,7 @@
                     ]
                 },
                 {
-                    "id": "8",
+                    "id": "7",
                     "type": "prose",
                     "number": "8.",
                     "linesON": [
@@ -11126,7 +11123,7 @@
                     ]
                 },
                 {
-                    "id": "9",
+                    "id": "8",
                     "type": "stanza",
                     "number": "9.",
                     "linesON": [
@@ -11141,7 +11138,7 @@
                     ]
                 },
                 {
-                    "id": "10",
+                    "id": "9",
                     "type": "stanza",
                     "number": "10.",
                     "linesON": [
@@ -11157,7 +11154,7 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "10",
                     "type": "stanza",
                     "number": "11.",
                     "linesON": [
@@ -11173,7 +11170,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "11",
                     "type": "stanza",
                     "number": "12.",
                     "linesON": [
@@ -11189,7 +11186,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "12",
                     "type": "stanza",
                     "number": "13.",
                     "linesON": [
@@ -11200,7 +11197,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "13",
                     "type": "stanza",
                     "number": "14.",
                     "linesON": [
@@ -11216,7 +11213,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "14",
                     "type": "stanza",
                     "number": "15.",
                     "linesON": [
@@ -11232,7 +11229,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "15",
                     "type": "stanza",
                     "number": "16.",
                     "linesON": [
@@ -11248,7 +11245,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "16",
                     "type": "stanza",
                     "number": "17.",
                     "linesON": [
@@ -11265,7 +11262,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "17",
                     "type": "prose",
                     "number": "18.",
                     "linesON": [
@@ -11273,7 +11270,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "18",
                     "type": "stanza",
                     "number": "19.",
                     "linesON": [
@@ -11288,7 +11285,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "19",
                     "type": "stanza",
                     "number": "20.",
                     "linesON": [
@@ -11299,7 +11296,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "20",
                     "type": "stanza",
                     "number": "21.",
                     "linesON": [
@@ -11315,7 +11312,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "21",
                     "type": "stanza",
                     "number": "22.",
                     "linesON": [
@@ -11326,7 +11323,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "22",
                     "type": "stanza",
                     "number": "23.",
                     "linesON": [
@@ -11342,7 +11339,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "23",
                     "type": "prose",
                     "number": "24.",
                     "linesON": [
@@ -11350,7 +11347,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "24",
                     "type": "stanza",
                     "number": "25",
                     "linesON": [
@@ -11365,7 +11362,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "25",
                     "type": "stanza",
                     "number": "26.",
                     "linesON": [
@@ -11381,7 +11378,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "26",
                     "type": "stanza",
                     "number": "27.",
                     "linesON": [
@@ -11397,7 +11394,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "27",
                     "type": "stanza",
                     "number": "28.",
                     "linesON": [
@@ -11413,7 +11410,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "28",
                     "type": "stanza",
                     "number": "29.",
                     "linesON": [
@@ -11429,7 +11426,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "29",
                     "type": "stanza",
                     "number": "30.",
                     "linesON": [
@@ -11446,7 +11443,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "30",
                     "type": "prose",
                     "number": "31.",
                     "linesON": [
@@ -11454,7 +11451,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "31",
                     "type": "stanza",
                     "number": "32.",
                     "linesON": [
@@ -11469,18 +11466,11 @@
                     ]
                 },
                 {
-                    "id": "33",
-                    "type": "prose",
-                    "number": "33.",
-                    "linesON": [
-                        "Þá hitti hon Helga ok varð allfegin. Hann kvað:"
-                    ]
-                },
-                {
-                    "id": "34",
+                    "id": "32",
                     "type": "stanza",
                     "number": "34.",
                     "linesON": [
+                        "Þá hitti hon Helga ok varð allfegin. Hann kvað:",
                         "\"Er-at þér at öllu,",
                         "alvitr, gefit,",
                         "— þó kveð ek nökkvi",
@@ -11492,7 +11482,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "33",
                     "type": "stanza",
                     "number": "35.",
                     "linesON": [
@@ -11507,7 +11497,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "34",
                     "type": "stanza",
                     "number": "36.",
                     "linesON": [
@@ -11522,7 +11512,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "35",
                     "type": "stanza",
                     "number": "37.",
                     "linesON": [
@@ -11537,7 +11527,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "36",
                     "type": "prose",
                     "number": "38.",
                     "linesON": [
@@ -11545,7 +11535,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "37",
                     "type": "stanza",
                     "number": "39.",
                     "linesON": [
@@ -11562,7 +11552,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "38",
                     "type": "stanza",
                     "number": "40.",
                     "linesON": [
@@ -11578,7 +11568,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "39",
                     "type": "stanza",
                     "number": "41.",
                     "linesON": [
@@ -11593,7 +11583,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "40",
                     "type": "stanza",
                     "number": "42.",
                     "linesON": [
@@ -11612,7 +11602,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "41",
                     "type": "stanza",
                     "number": "43.",
                     "linesON": [
@@ -11628,7 +11618,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "42",
                     "type": "stanza",
                     "number": "44.",
                     "linesON": [
@@ -11643,7 +11633,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "43",
                     "type": "stanza",
                     "number": "45.",
                     "linesON": [
@@ -11661,7 +11651,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "44",
                     "type": "stanza",
                     "number": "46.",
                     "linesON": [
@@ -11676,7 +11666,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "45",
                     "type": "stanza",
                     "number": "47.",
                     "linesON": [
@@ -11693,15 +11683,15 @@
                     ]
                 },
                 {
-                    "id": "48",
-                    "type": "stanza",
+                    "id": "46",
+                    "type": "prose",
                     "number": "48.",
                     "linesON": [
                         "Haugr var gjörr eftir Helga. En er hann kom til Valhallar, þá bauð Óðinn honum öllu at ráða með sér. Helgi kvað:"
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "47",
                     "type": "stanza",
                     "number": "49.",
                     "linesON": [
@@ -11716,7 +11706,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "48",
                     "type": "prose",
                     "number": "50.",
                     "linesON": [
@@ -11724,7 +11714,7 @@
                     ]
                 },
                 {
-                    "id": "51",
+                    "id": "49",
                     "type": "stanza",
                     "number": "51.",
                     "linesON": [
@@ -11739,7 +11729,7 @@
                     ]
                 },
                 {
-                    "id": "52",
+                    "id": "50",
                     "type": "stanza",
                     "number": "52.",
                     "linesON": [
@@ -11755,18 +11745,11 @@
                     ]
                 },
                 {
-                    "id": "53",
-                    "type": "prose",
-                    "number": "53.",
-                    "linesON": [
-                        "Heim gekk ambátt ok sagði Sigrúnu:"
-                    ]
-                },
-                {
-                    "id": "54",
+                    "id": "51",
                     "type": "stanza",
                     "number": "54.",
                     "linesON": [
+                        "Heim gekk ambátt ok sagði Sigrúnu:",
                         "\"Út gakk þú, Sigrún",
                         "frá Sefafjöllum,",
                         "ef þik folks jaðar",
@@ -11780,18 +11763,11 @@
                     ]
                 },
                 {
-                    "id": "55",
-                    "type": "prose",
-                    "number": "55.",
-                    "linesON": [
-                        "Sigrún gekk í hauginn til Helga ok kvað:"
-                    ]
-                },
-                {
-                    "id": "56",
+                    "id": "52",
                     "type": "stanza",
                     "number": "56.",
                     "linesON": [
+                        "Sigrún gekk í hauginn til Helga ok kvað:",
                         "\"Nú em ek svá fegin",
                         "fundi okkrum",
                         "sem átfrekir",
@@ -11803,7 +11779,7 @@
                     ]
                 },
                 {
-                    "id": "57",
+                    "id": "53",
                     "type": "stanza",
                     "number": "57.",
                     "linesON": [
@@ -11822,7 +11798,7 @@
                     ]
                 },
                 {
-                    "id": "58",
+                    "id": "54",
                     "type": "stanza",
                     "number": "58.",
                     "linesON": [
@@ -11842,7 +11818,7 @@
                     ]
                 },
                 {
-                    "id": "59",
+                    "id": "55",
                     "type": "stanza",
                     "number": "59.",
                     "linesON": [
@@ -11861,18 +11837,11 @@
                     ]
                 },
                 {
-                    "id": "60",
-                    "type": "prose",
-                    "number": "60.",
-                    "linesON": [
-                        "Sigrún bjó sæing í hauginum."
-                    ]
-                },
-                {
-                    "id": "61",
+                    "id": "56",
                     "type": "stanza",
                     "number": "61.",
                     "linesON": [
+                        "Sigrún bjó sæing í hauginum.",
                         "\"Hér hefi ek þér, Helgi,",
                         "hvílu görva",
                         "angrlausa mjök,",
@@ -11884,7 +11853,7 @@
                     ]
                 },
                 {
-                    "id": "62",
+                    "id": "57",
                     "type": "stanza",
                     "number": "62.",
                     "linesON": [
@@ -11902,7 +11871,7 @@
                     ]
                 },
                 {
-                    "id": "63",
+                    "id": "58",
                     "type": "stanza",
                     "number": "63.",
                     "linesON": [
@@ -11917,7 +11886,7 @@
                     ]
                 },
                 {
-                    "id": "64",
+                    "id": "59",
                     "type": "prose",
                     "number": "64.",
                     "linesON": [
@@ -11925,7 +11894,7 @@
                     ]
                 },
                 {
-                    "id": "65",
+                    "id": "60",
                     "type": "stanza",
                     "number": "65.",
                     "linesON": [
@@ -11942,7 +11911,7 @@
                     ]
                 },
                 {
-                    "id": "66",
+                    "id": "61",
                     "type": "stanza",
                     "number": "66.",
                     "linesON": [
@@ -11958,7 +11927,7 @@
                     ]
                 },
                 {
-                    "id": "67",
+                    "id": "62",
                     "type": "prose",
                     "number": "67.",
                     "linesON": [
@@ -11968,6 +11937,8 @@
             ]
         },
         "OfSinfjotlisDeath": {
+            "slug": "of-sinfjotlis-death",
+            "category": "about-heroes",
             "Title": "Frá dauða Sinfjötla",
             "Source": "",
             "Texts": [
@@ -11978,7 +11949,7 @@
                     "linesON": [
                         "Sigmundr Völsungsson var konungr á Frakklandi. Sinfjötli var elztr hans sona, annarr Helgi, þriði Hámundr. Borghildr, kona Sigmundar, átti bróður, er hét.........En Sinfjötli, stjúpson hennar, ok.........báðu einnar konu báðir, ok fyrir þá sök drap Sinfjötli hann.",
                         "En er hann kom heim, þá bað Borghildr hann fara á brott, en Sigmundr bauð henni fébætr, ok þat varð hon at þiggja. En at erfinu bar Borghildr öl. Hon tók eitr mikit, horn fullt, ok bar Sinfjötla.",
-                        "En er hann sá í hornit, skilði hann, at eitr var í, ok mælti til Sigmundar: \"Göróttr er drykkrinn, ái.",
+                        "En er hann sá í hornit, skilði hann, at eitr var í, ok mælti til Sigmundar: \"Göróttr er drykkrinn, ái.\"",
                         "Sigmundr tók hornit ok drakk af. Svá er sagt at Sigmundr var harðgörr, at hvárki mátti hánum eitr granda útan né innan, en allir synir hans stóðust eitr á hörund útan.",
                         "Borghildr bar annat horn Sinfjötla ok bað drekka, ok fór allt sem fyrr. Ok enn it þriðja sinn bar hon hánum hornit ok þó ámælisorð með, ef hann drykki eigi af. Hann mælti enn sem fyrr við Sigmund.",
                         "Hann sagði: \"Láttu grön sía þá, sonr.\"",
@@ -11990,6 +11961,8 @@
             ]
         },
         "TheProphecyOfGrípir": {
+            "slug": "the-prophecy-of-gripir",
+            "category": "about-heroes",
             "Title": "Grípisspá. Sigurðarkviða Fáfnisbana I",
             "Source": "",
             "Texts": [
@@ -12043,9 +12016,10 @@
                         "\"Þess mun glaðr konungr",
                         "Geiti spyrja,",
                         "hverr sá maðr sé,",
-                        "er máls kveðr Grípi. ",
+                        "er máls kveðr Grípi.\"",
+                        "",
                         "Sigurðr kvað:",
-                        "Sigurðr ek heiti,",
+                        "\"Sigurðr ek heiti,",
                         "borinn Sigmundi,",
                         "en Hjördís er",
                         "hilmis móðir.\""
@@ -12071,11 +12045,11 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesON": [
-                        "\"Gengr ór skála",
+                        "Gengr ór skála",
                         "skatna dróttinn",
                         "ok heilsar vel",
                         "hilmi komnum:",
-                        "þiggðu hér, Sigurðr,",
+                        "\"þiggðu hér, Sigurðr,",
                         "væri sæmra fyrr,",
                         "en þú, Geitir, tak",
                         "við Grana sjalfum.\""
@@ -12086,12 +12060,12 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesON": [
-                        "\"Mæla námu",
+                        "Mæla námu",
                         "ok margt hjala",
                         "þá er ráðspakir",
                         "rekkar fundusk.",
                         "Sigurðr kvað:",
-                        "Segðu mér, ef þú veizt,",
+                        "\"Segðu mér, ef þú veizt,",
                         "móðurbróðir:",
                         "Hvé mun Sigurði",
                         "snúna ævi.\""
@@ -12851,6 +12825,8 @@
             ]
         },
         "TheLayOfRegin": {
+            "slug": "the-lay-of-regin",
+            "category": "about-heroes",
             "Title": "Reginsmál. Sigurðarkviða Fáfnisbana II",
             "Source": "",
             "Texts": [
@@ -13316,6 +13292,8 @@
             ]
         },
         "TheLayOfFafnir": {
+            "slug": "the-lay-of-fafnir",
+            "category": "about-heroes",
             "Title": "Fáfnismál",
             "Source": "",
             "Texts": [
@@ -13764,6 +13742,14 @@
                 },
                 {
                     "id": "35",
+                    "type": "prose",
+                    "number": "35.",
+                    "linesON": [
+                        ""
+                    ]
+                },
+                {
+                    "id": "36",
                     "type": "stanza",
                     "number": "35.",
                     "linesON": [
@@ -13776,7 +13762,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "37",
                     "type": "prose",
                     "number": "36.",
                     "linesON": [
@@ -13784,7 +13770,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "38",
                     "type": "stanza",
                     "number": "37.",
                     "linesON": [
@@ -13799,7 +13785,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "39",
                     "type": "stanza",
                     "number": "38.",
                     "linesON": [
@@ -13815,7 +13801,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "40",
                     "type": "stanza",
                     "number": "39.",
                     "linesON": [
@@ -13829,7 +13815,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "41",
                     "type": "stanza",
                     "number": "40.",
                     "linesON": [
@@ -13845,7 +13831,7 @@
                     ]
                 },
                 {
-                    "id": "41",
+                    "id": "42",
                     "type": "stanza",
                     "number": "41.",
                     "linesON": [
@@ -13861,7 +13847,7 @@
                     ]
                 },
                 {
-                    "id": "42",
+                    "id": "43",
                     "type": "stanza",
                     "number": "42.",
                     "linesON": [
@@ -13875,7 +13861,7 @@
                     ]
                 },
                 {
-                    "id": "43",
+                    "id": "44",
                     "type": "stanza",
                     "number": "43.",
                     "linesON": [
@@ -13889,7 +13875,7 @@
                     ]
                 },
                 {
-                    "id": "44",
+                    "id": "45",
                     "type": "stanza",
                     "number": "44.",
                     "linesON": [
@@ -13903,7 +13889,7 @@
                     ]
                 },
                 {
-                    "id": "45",
+                    "id": "46",
                     "type": "prose",
                     "number": "45.",
                     "linesON": [
@@ -13911,7 +13897,7 @@
                     ]
                 },
                 {
-                    "id": "46",
+                    "id": "47",
                     "type": "stanza",
                     "number": "46.",
                     "linesON": [
@@ -13926,7 +13912,7 @@
                     ]
                 },
                 {
-                    "id": "47",
+                    "id": "48",
                     "type": "stanza",
                     "number": "47.",
                     "linesON": [
@@ -13941,7 +13927,7 @@
                     ]
                 },
                 {
-                    "id": "48",
+                    "id": "49",
                     "type": "stanza",
                     "number": "48.",
                     "linesON": [
@@ -13956,7 +13942,7 @@
                     ]
                 },
                 {
-                    "id": "49",
+                    "id": "50",
                     "type": "stanza",
                     "number": "49.",
                     "linesON": [
@@ -13971,7 +13957,7 @@
                     ]
                 },
                 {
-                    "id": "50",
+                    "id": "51",
                     "type": "stanza",
                     "number": "50.",
                     "linesON": [
@@ -13986,7 +13972,7 @@
                     ]
                 },
                 {
-                    "id": "51",
+                    "id": "52",
                     "type": "prose",
                     "number": "51.",
                     "linesON": [
@@ -13996,6 +13982,8 @@
             ]
         },
         "TheLayOfSigrdrífa": {
+            "slug": "the-lay-of-sigrdrifa",
+            "category": "about-heroes",
             "Title": "Sigrdrífumál",
             "Source": "",
             "Texts": [
@@ -14098,7 +14086,7 @@
                 },
                 {
                     "id": "9",
-                    "type": "prose",
+                    "type": "stanza",
                     "number": "9.",
                     "linesON": [
                         "\"Sigrúnar skaltu kunna,",
@@ -14111,6 +14099,14 @@
                 },
                 {
                     "id": "10",
+                    "type": "prose",
+                    "number": "9.",
+                    "linesON": [
+                        ""
+                    ]
+                },
+                {
+                    "id": "11",
                     "type": "stanza",
                     "number": "10.",
                     "linesON": [
@@ -14123,7 +14119,15 @@
                     ]
                 },
                 {
-                    "id": "11",
+                    "id": "12",
+                    "type": "prose",
+                    "number": "10.",
+                    "linesON": [
+                        ""
+                    ]
+                },
+                {
+                    "id": "13",
                     "type": "stanza",
                     "number": "11.",
                     "linesON": [
@@ -14136,7 +14140,7 @@
                     ]
                 },
                 {
-                    "id": "12",
+                    "id": "14",
                     "type": "stanza",
                     "number": "12.",
                     "linesON": [
@@ -14149,7 +14153,7 @@
                     ]
                 },
                 {
-                    "id": "13",
+                    "id": "15",
                     "type": "stanza",
                     "number": "13.",
                     "linesON": [
@@ -14165,7 +14169,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "16",
                     "type": "stanza",
                     "number": "14.",
                     "linesON": [
@@ -14178,7 +14182,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "17",
                     "type": "stanza",
                     "number": "15.",
                     "linesON": [
@@ -14194,7 +14198,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "18",
                     "type": "stanza",
                     "number": "16.",
                     "linesON": [
@@ -14211,7 +14215,7 @@
                     ]
                 },
                 {
-                    "id": "17",
+                    "id": "19",
                     "type": "stanza",
                     "number": "17.",
                     "linesON": [
@@ -14224,7 +14228,7 @@
                     ]
                 },
                 {
-                    "id": "18",
+                    "id": "20",
                     "type": "stanza",
                     "number": "18.",
                     "linesON": [
@@ -14239,7 +14243,7 @@
                     ]
                 },
                 {
-                    "id": "19",
+                    "id": "21",
                     "type": "stanza",
                     "number": "19.",
                     "linesON": [
@@ -14254,7 +14258,7 @@
                     ]
                 },
                 {
-                    "id": "20",
+                    "id": "22",
                     "type": "stanza",
                     "number": "20.",
                     "linesON": [
@@ -14269,7 +14273,7 @@
                     ]
                 },
                 {
-                    "id": "21",
+                    "id": "23",
                     "type": "stanza",
                     "number": "21.",
                     "linesON": [
@@ -14284,7 +14288,7 @@
                     ]
                 },
                 {
-                    "id": "22",
+                    "id": "24",
                     "type": "stanza",
                     "number": "22.",
                     "linesON": [
@@ -14300,7 +14304,7 @@
                     ]
                 },
                 {
-                    "id": "23",
+                    "id": "25",
                     "type": "stanza",
                     "number": "23.",
                     "linesON": [
@@ -14313,7 +14317,7 @@
                     ]
                 },
                 {
-                    "id": "24",
+                    "id": "26",
                     "type": "stanza",
                     "number": "24.",
                     "linesON": [
@@ -14327,7 +14331,7 @@
                     ]
                 },
                 {
-                    "id": "25",
+                    "id": "27",
                     "type": "stanza",
                     "number": "25",
                     "linesON": [
@@ -14341,7 +14345,7 @@
                     ]
                 },
                 {
-                    "id": "26",
+                    "id": "28",
                     "type": "stanza",
                     "number": "26.",
                     "linesON": [
@@ -14354,7 +14358,7 @@
                     ]
                 },
                 {
-                    "id": "27",
+                    "id": "29",
                     "type": "stanza",
                     "number": "27.",
                     "linesON": [
@@ -14367,7 +14371,7 @@
                     ]
                 },
                 {
-                    "id": "28",
+                    "id": "30",
                     "type": "stanza",
                     "number": "28.",
                     "linesON": [
@@ -14383,7 +14387,7 @@
                     ]
                 },
                 {
-                    "id": "29",
+                    "id": "31",
                     "type": "stanza",
                     "number": "29.",
                     "linesON": [
@@ -14396,7 +14400,7 @@
                     ]
                 },
                 {
-                    "id": "30",
+                    "id": "32",
                     "type": "stanza",
                     "number": "30.",
                     "linesON": [
@@ -14409,7 +14413,7 @@
                     ]
                 },
                 {
-                    "id": "31",
+                    "id": "33",
                     "type": "stanza",
                     "number": "31.",
                     "linesON": [
@@ -14422,7 +14426,7 @@
                     ]
                 },
                 {
-                    "id": "32",
+                    "id": "34",
                     "type": "stanza",
                     "number": "32.",
                     "linesON": [
@@ -14435,7 +14439,7 @@
                     ]
                 },
                 {
-                    "id": "33",
+                    "id": "35",
                     "type": "stanza",
                     "number": "33.",
                     "linesON": [
@@ -14448,7 +14452,7 @@
                     ]
                 },
                 {
-                    "id": "34",
+                    "id": "36",
                     "type": "stanza",
                     "number": "34.",
                     "linesON": [
@@ -14461,7 +14465,7 @@
                     ]
                 },
                 {
-                    "id": "35",
+                    "id": "37",
                     "type": "stanza",
                     "number": "35.",
                     "linesON": [
@@ -14474,7 +14478,7 @@
                     ]
                 },
                 {
-                    "id": "36",
+                    "id": "38",
                     "type": "stanza",
                     "number": "36.",
                     "linesON": [
@@ -14487,7 +14491,7 @@
                     ]
                 },
                 {
-                    "id": "37",
+                    "id": "39",
                     "type": "stanza",
                     "number": "37.",
                     "linesON": [
@@ -14500,7 +14504,7 @@
                     ]
                 },
                 {
-                    "id": "38",
+                    "id": "40",
                     "type": "stanza",
                     "number": "38.",
                     "linesON": [
@@ -14514,7 +14518,7 @@
                     ]
                 },
                 {
-                    "id": "39",
+                    "id": "41",
                     "type": "stanza",
                     "number": "39.",
                     "linesON": [
@@ -14527,7 +14531,7 @@
                     ]
                 },
                 {
-                    "id": "40",
+                    "id": "42",
                     "type": "stanza",
                     "number": "40.",
                     "linesON": [
@@ -14538,10 +14542,36 @@
                         "lofðungs vita;",
                         "römm eru róg of risin.\""
                     ]
+                },
+                {
+                    "id": "43",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesON": [
+                        ""
+                    ]
+                },
+                {
+                    "id": "44",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesON": [
+                        ""
+                    ]
+                },
+                {
+                    "id": "45",
+                    "type": "stanza",
+                    "number": "40.",
+                    "linesON": [
+                        ""
+                    ]
                 }
             ]
         },
         "FragmentOfASigurdLay": {
+            "slug": "fragment-of-a-sigurd-lay",
+            "category": "about-heroes",
             "Title": "Sigurðarkviða in meiri. Brot af Sigurðarkviðu",
             "Source": "",
             "Texts": [
@@ -14688,11 +14718,11 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesON": [
-                        "\"Úti stóð Guðrún",
+                        "Úti stóð Guðrún",
                         "Gjúka dóttir,",
                         "ok hon þat orða",
                         "alls fyrst of kvað:",
-                        "Hvar er nú Sigurðr,",
+                        "\"Hvar er nú Sigurðr,",
                         "seggja dróttinn,",
                         "er frændr mínir",
                         "fyrri ríða?\""
@@ -14703,9 +14733,9 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesON": [
-                        "\"Einn því Högni",
+                        "Einn því Högni",
                         "andsvör veitti:",
-                        "Sundr höfum Sigurð",
+                        "\"Sundr höfum Sigurð",
                         "sverði höggvinn;",
                         "gnapir æ grár jór",
                         "yfir gram dauðum.\""
@@ -14898,7 +14928,7 @@
                 {
                     "id": "24",
                     "type": "prose",
-                    "number": "24.",
+                    "number": "",
                     "linesON": [
                         "Frá dauða Sigurðar",
                         "Hér er sagt í þessi kviðu frá dauða Sigurðar, ok víkr hér svá til sem þeir dræpi hann úti, en sumir segja svá, at þeir dræpi hann inni í rekkju sinni sofanda. En þýðverskir menn segja svá, at þeir dræpi hann úti í skógi, ok svá segir í Guðrúnarkviðu inni fornu, at Sigurðr ok Gjúkasynir hefði til þings riðit, þá er hann var drepinn. En þat segja allir einnig, at þeir sviku hann í tryggð ok vógu at hánum liggjanda ok óbúnum."
@@ -14907,6 +14937,8 @@
             ]
         },
         "TheFirstLayOfGuthrun": {
+            "slug": "the-first-lay-of-guthrun",
+            "category": "about-heroes",
             "Title": "Guðrúnarkviða in fyrsta",
             "Source": "",
             "Texts": [
@@ -14998,9 +15030,9 @@
                     "type": "stanza",
                     "number": "7.",
                     "linesON": [
-                        "\"Þá kvað þat Herborg,",
+                        "Þá kvað þat Herborg,",
                         "Húnalands dróttning:",
-                        "Hefi ek harðara",
+                        "\"Hefi ek harðara",
                         "harm at segja;",
                         "mínir sjau synir",
                         "sunnan lands,",
@@ -15099,11 +15131,11 @@
                     "type": "stanza",
                     "number": "14.",
                     "linesON": [
-                        "\"Svipti hon blæju",
+                        "Svipti hon blæju",
                         "af Sigurði",
                         "ok vatt vengi",
                         "fyr vífs knéum:",
-                        "Líttu á ljúfan,",
+                        "\"Líttu á ljúfan,",
                         "leggðu munn við grön,",
                         "sem þú halsaðir",
                         "heilan stilli.\""
@@ -15252,9 +15284,9 @@
                     "type": "stanza",
                     "number": "24.",
                     "linesON": [
-                        "\"Þá kvað þat Brynhildr",
+                        "Þá kvað þat Brynhildr",
                         "Buðla dóttir:",
-                        "Vön sé sú véttr",
+                        "\"Vön sé sú véttr",
                         "vers ok barna,",
                         "er þik, Guðrún,",
                         "gráts of beiddi",
@@ -15267,9 +15299,9 @@
                     "type": "stanza",
                     "number": "25",
                     "linesON": [
-                        "\"Þá kvað þat Gullrönd",
+                        "Þá kvað þat Gullrönd",
                         "Gjúka dóttir:",
-                        "Þegi þú, þjóðleið,",
+                        "\"Þegi þú, þjóðleið,",
                         "þeira orða;",
                         "urðr öðlinga",
                         "hefir þú æ verit;",
@@ -15335,6 +15367,8 @@
             ]
         },
         "TheShortLayOfSigurth": {
+            "slug": "the-short-lay-of-sigurth",
+            "category": "about-heroes",
             "Title": "Sigurðarkviða in skamma",
             "Source": "",
             "Texts": [
@@ -15420,11 +15454,11 @@
                     "type": "stanza",
                     "number": "6.",
                     "linesON": [
-                        "\"Ein sat hon úti",
+                        "Ein sat hon úti",
                         "aftan dags,",
                         "nam hon svá margt",
                         "um at mælask:",
-                        "Hafa skal ek Sigurð,",
+                        "\"Hafa skal ek Sigurð,",
                         "— eða þó svelta, —",
                         "mög frumungan",
                         "mér á armi.\""
@@ -15476,9 +15510,9 @@
                     "type": "stanza",
                     "number": "10.",
                     "linesON": [
-                        "\"Nam af þeim heiftum",
+                        "Nam af þeim heiftum",
                         "hvetjask at vígi:",
-                        "Þú skalt, Gunnarr,",
+                        "\"Þú skalt, Gunnarr,",
                         "gerst of láta",
                         "mínu landi",
                         "ok mér sjalfri;",
@@ -15591,9 +15625,9 @@
                     "type": "stanza",
                     "number": "17.",
                     "linesON": [
-                        "\"Einu því Högni",
+                        "Einu því Högni",
                         "andsvör veitti:",
-                        "Samir eigi okkr",
+                        "\"Samir eigi okkr",
                         "slíkt at vinna,",
                         "sverði rofna",
                         "svarna eiða,",
@@ -15996,9 +16030,9 @@
                     "type": "stanza",
                     "number": "44.",
                     "linesON": [
-                        "\"Nam hann sér Högna",
+                        "Nam hann sér Högna",
                         "hvetja at rúnum:",
-                        "Seggi vil ek alla",
+                        "\"Seggi vil ek alla",
                         "í sal ganga",
                         "þína með mínum,",
                         "— nú er þörf mikil, —",
@@ -16015,9 +16049,9 @@
                     "type": "stanza",
                     "number": "45.",
                     "linesON": [
-                        "\"Einu því Högni",
+                        "Einu því Högni",
                         "andsvör veitti:",
-                        "Leti-a maðr hana",
+                        "\"Leti-a maðr hana",
                         "langrar göngu,",
                         "þars hon aftrborin",
                         "aldri verði;",
@@ -16086,11 +16120,11 @@
                     "type": "stanza",
                     "number": "50.",
                     "linesON": [
-                        "\"Þögðu allir,",
+                        "Þögðu allir,",
                         "við því orði",
                         "ok allir senn",
                         "andsvör veittu:",
-                        "Ærnar soltnar,",
+                        "\"Ærnar soltnar,",
                         "munum enn lifa.",
                         "Verða salkonur",
                         "sæmð at vinna.\""
@@ -16101,11 +16135,11 @@
                     "type": "stanza",
                     "number": "51.",
                     "linesON": [
-                        "\"Unz af hyggjandi",
+                        "Unz af hyggjandi",
                         "hörskrýdd kona,",
                         "ung at aldri",
                         "orð viðr of kvað:",
-                        "Vilk-at ek mann trauðan",
+                        "\"Vilk-at ek mann trauðan",
                         "né torbænan",
                         "um óra sök",
                         "aldri týna.\""
@@ -16129,9 +16163,9 @@
                     "type": "stanza",
                     "number": "53.",
                     "linesON": [
-                        "\"Sezktu niðr, Gunnarr,",
+                        "Sezktu niðr, Gunnarr,",
                         "mun ek segja þér",
-                        "lífs örvæna",
+                        "\"lífs örvæna",
                         "ljósa brúði;",
                         "mun-a yðvart far",
                         "allt í sundi,",
@@ -16408,6 +16442,8 @@
             ]
         },
         "BrynhildsHellRide": {
+            "slug": "brynhilds-hell-ride",
+            "category": "about-heroes",
             "Title": "Helreið Brynhildar",
             "Source": "",
             "Texts": [
@@ -16642,12 +16678,14 @@
             ]
         },
         "TheSlayingOfTheNiflungs": {
+            "slug": "drap-niflunga",
+            "category": "about-heroes",
             "Title": "Dráp Niflunga",
             "Source": "",
             "Texts": [
                 {
                     "id": "1",
-                    "type": "stanza",
+                    "type": "prose",
                     "number": "1.",
                     "linesON": [
                         "Gunnarr ok Högni tóku þá gullit allt, Fáfnis arf. Ófriðr var þá í milli Gjúkunga ok Atla. Kenndi hann Gjúkungum völd um andlát Brynhildar. Þat var til sætta, at þeir skyldu gifta hánum Guðrúnu, ok gáfu henni óminnisveig at drekka, áðr hon játti at giftast Atla. Synir Atla váru þeir Erpr ok Eitill, en Svanhildr var Sigurðar dóttir ok Guðrúnar. Atli konungr bauð heim Gunnari ok Högna ok sendi Vinga eða Knéfröð. Guðrún vissi vélar ok sendi með rúnum orð, at þeir skyldu eigi koma, ok til jartegna sendi hon Högna hringinn Andvaranaut ok knýtti í vargshár. Gunnarr hafði beðit Oddrúnar, systur Atla, ok gat eigi. Þá fekk hann Glaumvarar, en Högni átti Kostberu. Þeira synir váru þeir Sólarr ok Snævarr ok Gjúki. En er Gjúkungar kómu til Atla, þá bað Guðrún sonu sína, at þeir bæði Gjúkungum lífs, en þeir vildu eigi. Hjarta var skorit ór Högna, en Gunnarr settr í ormgarð. Hann sló hörpu ok svæfði ormana, en naðra stakk hann til lifrar."
@@ -16655,7 +16693,9 @@
                 }
             ]
         },
-        "TheSecondLayOfGudrun": {
+        "TheSecondLayOfGuthrun": {
+            "slug": "the-second-lay-of-guthrun",
+            "category": "about-heroes",
             "Title": "Guðrúnarkviða in forna",
             "Source": "",
             "Texts": [
@@ -16758,11 +16798,11 @@
                     "type": "stanza",
                     "number": "8.",
                     "linesON": [
-                        "\"Hnipnaði Gunnarr,",
+                        "Hnipnaði Gunnarr,",
                         "sagði mér Högni",
                         "frá Sigurðar",
                         "sárum dauða:",
-                        "Liggr of höggvinn",
+                        "\"Liggr of höggvinn",
                         "fyr handan ver",
                         "Gothorms bani",
                         "of gefinn ulfum.\""
@@ -17337,10 +17377,20 @@
                         "þrágjarn í kör;",
                         "þat man ek görva.\""
                     ]
+                },
+                {
+                    "id": "46",
+                    "type": "stanza",
+                    "number": "45.",
+                    "linesON": [
+                        ""
+                    ]
                 }
             ]
         },
-        "TheThirdLayOfGudrun": {
+        "TheThirdLayOfGuthrun": {
+            "slug": "the-third-lay-of-guthrun",
+            "category": "about-heroes",
             "Title": "Guðrúnarkviða in þriðja",
             "Source": "",
             "Texts": [
@@ -17665,8 +17715,8 @@
                     "type": "stanza",
                     "number": "11.",
                     "linesON": [
-                        "\"Oddrún kvað:",
-                        "Hnék-at ek af því",
+                        "Oddrún kvað:",
+                        "\"Hnék-at ek af því",
                         "til hjalpar þér,",
                         "at þú værir þess",
                         "verð aldregi;",
@@ -17683,8 +17733,8 @@
                     "type": "stanza",
                     "number": "12.",
                     "linesON": [
-                        "\"Borgný kvað:",
-                        "Ær ertu, Oddrún,",
+                        "Borgný kvað:",
+                        "\"Ær ertu, Oddrún,",
                         "ok örvita,",
                         "er þú mér af fári",
                         "flest orð of kvatt,",
@@ -17699,8 +17749,8 @@
                     "type": "stanza",
                     "number": "13.",
                     "linesON": [
-                        "\"Oddrún kvað:",
-                        "Man ek, hvat þú",
+                        "Oddrún kvað:",
+                        "\"Man ek, hvat þú",
                         "mæltir enn um aftan,",
                         "þá er ek Gunnari",
                         "gerðak drekku;",
