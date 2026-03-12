@@ -92,6 +92,11 @@ export default async function PoemPage({ params }: Props) {
                                             <p key={i}>{line}</p>
                                         ))}
                                     </div>
+                                    {translated?.number && (
+                                        <div className="text-base">
+                                            {translated.number}
+                                        </div>
+                                    )}
                                     <div className="w-40 sm:w-60">
                                         {linesTranslated.map((line: string, i: number) => (
                                             <p key={i}>{line}</p>

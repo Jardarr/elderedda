@@ -50,7 +50,7 @@ export default async function CategoryPage({ params }: Props) {
                     <h1>{cat.ON}</h1>
                     <h2 className="mt-2">{cat.RU}</h2>
                 </div>
-                <nav className="flex flex-col items-center w-full max-w-72 lg:max-w-full my-5">
+                <nav className="flex flex-col items-center my-5">
                     {poems.length > 0 ? (
                         poems.map((poem: any) => (
                             <Link
