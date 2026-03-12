@@ -2,7 +2,6 @@ import React from "react";
 import { Metadata } from "next";
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
-import DOMPurify from "dompurify";
 import onData from "../../../utils/on.json";
 import { notFound } from "next/navigation";
 
@@ -46,11 +45,9 @@ export default async function PoemPage({ params }: Props) {
     const onBlocks = poem.data.Texts || [];
     const translatedBlocksRaw = t.raw("Texts");
     // Преобразуем объект в массив
-    const translatedBlocks = Array.isArray(translatedBlocksRaw) 
-        ? translatedBlocksRaw 
+    const translatedBlocks = Array.isArray(translatedBlocksRaw)
+        ? translatedBlocksRaw
         : Object.values(translatedBlocksRaw || {});
-    
-    const source = DOMPurify.sanitize(t.raw("Source"));
 
     return (
         <main className="flex items-center justify-center text-sm md:text-base">
@@ -123,7 +120,7 @@ export default async function PoemPage({ params }: Props) {
                     );
                 })}
                 <div className="flex justify-center text-center my-8 mx-4">
-                    <span dangerouslySetInnerHTML={{ __html: source }}></span>
+                    <span dangerouslySetInnerHTML={{ __html: t.raw("Source") }}></span>
                 </div>
             </div>
         </main>
