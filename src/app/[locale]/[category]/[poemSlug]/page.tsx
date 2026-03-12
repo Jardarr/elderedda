@@ -2,7 +2,7 @@ import React from "react";
 import { Metadata } from "next";
 import Link from "next/link";
 import { getTranslations } from "next-intl/server";
-import DOMPurify from "isomorphic-dompurify";
+import DOMPurify from "dompurify";
 import onData from "../../../utils/on.json";
 import { notFound } from "next/navigation";
 
