@@ -10,6 +10,9 @@
             "description": "Cattle die, and kinsmen die, And so one dies one's self; But a noble name will never die, If good renown one gets."
         }
     },
+    "Links": {
+        "Home": "Home"
+    },
     "Poems": {
         "TheProphecyOfTheSeeress": {
             "Title": "The Prophecy of the Seeress",
