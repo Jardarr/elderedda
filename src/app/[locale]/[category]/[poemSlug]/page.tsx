@@ -3,10 +3,14 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import onData from "../../../utils/on.json";
 import { notFound } from "next/navigation";
+import categoryLinksRaw from "../../../utils/categoryLinks.json";
+import { pickTitle, type LocalizedTitle } from "../../../utils/localeTitle";
 
 type Props = {
 	params: Promise<{ locale: string; category: string; poemSlug: string }>;
 };
+
+const categoryLinks = categoryLinksRaw as Record<string, LocalizedTitle>;
 
 function findPoemBySlug(slug: string) {
 	const poems = onData.Poems as any;
@@ -84,9 +88,11 @@ export default async function PoemPage({ params }: Props) {
 	}
 
 	const t = await getTranslations(`Poems.${poem.key}`);
+	const categoryTitle = categoryLinks[poem.data.category];
+	const categoryLabel = categoryTitle ? pickTitle(locale, categoryTitle) : poem.data.category;
 	const onBlocks = poem.data.Texts || [];
+	const onTitle = poem.data.Title || "";
 	const translatedBlocksRaw = t.raw("Texts");
-	// Преобразуем объект в массив
 	const translatedBlocks = Array.isArray(translatedBlocksRaw) ? translatedBlocksRaw : Object.values(translatedBlocksRaw || {});
 
 	return (
@@ -97,13 +103,14 @@ export default async function PoemPage({ params }: Props) {
 						Gjallarbru
 					</Link>
 					&nbsp;/&nbsp;
-					<Link className="hover:text-sky-500" href={`/${poem.data.category}`}>
-						{poem.data.category}
+					<Link className="hover:text-sky-500" href={`/${locale}/${poem.data.category}`}>
+						{categoryLabel}
 					</Link>
 					&nbsp;/&nbsp;<span>{t("Title")}</span>
 				</span>
 				<div className="m-8 text-3xl sea-color text-center font-bold">
-					<h1>{t("Title")}</h1>
+					{onTitle}
+					<p>{t("Title")}</p>
 				</div>
 				{onBlocks.map((block: any) => {
 					const translated = translatedBlocks.find((b: any) => b.id === block.id);

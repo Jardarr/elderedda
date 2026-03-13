@@ -1,0 +1,9 @@
+{
+    "about-gods": {"ON": "Goðakvæði", "RU": "Песни о Богах", "EN": "About Gods" },
+    "about-heroes": {"ON": "Hetjukvæði", "RU": "Песни о Героях", "EN": "About Heroes"},
+    "edda-songs": {"ON": "Eddukvæði", "RU": "Эддические песни", "EN": "Eddic Songs"},
+    "edda-app": {"ON": "Viðbætir", "RU": "Приложения к Эдде", "EN": "Appendices to the Edda"},
+    "poetry": {"ON": "Ljóð", "RU": "Поэзия", "EN": "Poetry" },
+    "stora-edda": {"ON": "Stóra Edda", "RU": "Большая Эдда", "EN": "The Great Edda" },
+    "on-dictionary": {"ON": "Orðabók", "RU": "Словарь Древнеисландского языка", "EN": "Old-Norse Dictionary"}
+}

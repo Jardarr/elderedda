@@ -1,66 +1,67 @@
-import React from "react";
 import { Metadata } from "next";
 import { Link } from "../../../i18n/routing";
 import onData from "../../utils/on.json";
 import { notFound } from "next/navigation";
+import categoryTitlesRaw from "../../utils/categoryLinks.json";
+import { pickTitle, type LocalizedTitle } from "../../utils/localeTitle";
+import { getTranslations } from "next-intl/server";
 
-const categories = ["about-gods", "about-heroes", "edda-songs", "edda-app"];
-
-const categoryTitles: Record<string, { ON: string; RU: string }> = {
-    "about-gods": { ON: "Goðakvæði", RU: "Песни о Богах" },
-    "about-heroes": { ON: "Hetjukvæði", RU: "Песни о Героях" },
-    "edda-songs": { ON: "Eddukvæði", RU: "Песни Эдды" },
-    "edda-app": { ON: "Viðbætir", RU: "Приложение к Эдде" },
-};
+const categories = ["about-gods", "about-heroes", "edda-songs", "edda-app"] as const;
+type Category = (typeof categories)[number];
+const categoryTitles = categoryTitlesRaw as Record<Category, LocalizedTitle>;
 
 type Props = {
     params: Promise<{ locale: string; category: string }>;
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-    const { category } = await params;
+    const { category, locale } = await params;
     
-    if (!categories.includes(category)) {
+    if (!categories.includes(category as Category)) {
         return { title: "Category not found" };
     }
 
-    const cat = categoryTitles[category];
+    const cat = categoryTitles[category as Category];
+    const localeTitle = pickTitle(locale, cat);
     return {
-        title: `Gjallarbru | ${cat.RU}`,
-        description: `${cat.ON} - Elder Edda`,
+        title: `Gjallarbru | ${localeTitle}`,
+        description: `${localeTitle} - Elder Edda`,
     };
 }
 
 export default async function CategoryPage({ params }: Props) {
-    const { locale, category } = await params;
+    const { category, locale } = await params;
     
-    if (!categories.includes(category)) {
+    if (!categories.includes(category as Category)) {
         notFound();
     }
 
-    const poems = Object.values(onData.Poems as any)
-        .filter((poem: any) => poem.category === category);
+    const poems = Object.entries(onData.Poems as Record<string, any>)
+        .map(([key, data]) => ({ key, data }))
+        .filter((poem) => poem.data.category === category);
 
-    const cat = categoryTitles[category];
+    const cat = categoryTitles[category as Category];
+    const localeTitle = pickTitle(locale, cat);
+    const t = await getTranslations({ locale });
 
     return (
         <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
             <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
                 <div className="m-8 text-3xl sea-color text-center font-bold">
                     <h1>{cat.ON}</h1>
-                    <h2 className="mt-2">{cat.RU}</h2>
+                    <h2 className="mt-2">{localeTitle}</h2>
                 </div>
                 <nav className="flex flex-col items-center my-5">
                     {poems.length > 0 ? (
-                        poems.map((poem: any) => (
+                        poems.map((poem) => (
                             <Link
-                                key={poem.slug}
-                                href={`/${category}/${poem.slug}`}
-                                title={poem.Title}
-                                aria-label={poem.Title}
+                                key={poem.data.slug}
+                                href={`/${category}/${poem.data.slug}`}
+                                title={t(`Poems.${poem.key}.Title`)}
+                                aria-label={t(`Poems.${poem.key}.Title`)}
                             >
-                                <p className="font-Kells mt-2 text-xl sm:text-3xl hover:text-sky-500">
-                                    {poem.Title}
+                                <p className="mt-2 hover:text-sky-500">
+                                    {t(`Poems.${poem.key}.Title`)}
                                 </p>
                             </Link>
                         ))
