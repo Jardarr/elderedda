@@ -13,6 +13,7 @@
     "Poems": {
         "TheProphecyOfTheSeeress": {
             "Title": "The Prophecy of the Seeress",
+            "Description": "Hearing I ask from the holy races, From Heimdall's sons, both high and low; Thou wilt, Valfather, that well I relate Old tales I remember of men long ago.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -1019,6 +1020,7 @@
         },
         "SayingsOfTheHighOne": {
             "Title": "Sayings of the High One",
+            "Description": "Within the gates ere a man shall go, (Full warily let him watch,) Full long let him look about him; For little he knows where a foe may lurk, And sit in the seats within.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -3251,6 +3253,7 @@
         },
         "TheLayOfVafthrudnir": {
             "Title": "The Lay of Vafthrúdnir",
+            "Description": "Othin spake: Counsel me, Frigg, for I long to fare, And Vafthruthnir fain would find; fit wisdom old with the giant wise Myself would I seek to match.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -4018,6 +4021,7 @@
         },
         "TheLayOfGrímnir": {
             "Title": "The Lay of Grímnir",
+            "Description": "King Hrauthung had two sons: one was called Agnar, and the other Geirröth. Agnar was ten winters old, and Geirröth eight.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -4780,6 +4784,7 @@
         },
         "TheLayOfSkírnir": {
             "Title": "The Lay of Skírnir",
+            "Description": "Freyr, the son of Njorth, had sat one day in Hlithskjolf, and looked over all the worlds.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -5394,6 +5399,7 @@
         },
         "TheLayOfHarbard": {
             "Title": "The Lay of Hárbard",
+            "Description": "Thor was on his way back from a journey in the East, and came to a sound; on the other side of the sound was a ferryman with a boat.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -6141,6 +6147,7 @@
         },
         "TheLayOfHymir": {
             "Title": "The Lay of Hymir",
+            "Description": "Of old the gods made feast together, And drink they sought ere sated they were; Twigs they shook, and blood they tried: Rich fare in Ægir's hall they found.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -6751,6 +6758,7 @@
         },
         "TheFlytingOfLoki": {
             "Title": "The Flyting of Loki",
+            "Description": "Ægir, who was also called Gymir, had prepared ale for the gods, after he had got the mighty kettle, as now has been told. To this feast came Othin and Frigg, his wife.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -7713,6 +7721,7 @@
         },
         "TheLayOfThrym": {
             "Title": "The Lay of Thrym",
+            "Description": "Wild was Vingthor when he awoke, And when his mighty hammer he missed; He shook his beard, his hair was bristling, As the son of Jorth about him sought.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -8212,6 +8221,7 @@
         },
         "TheLayOfAlvís": {
             "Title": "The Lay of Alvís",
+            "Description": "Alvis spake: \"Now shall the bride my benches adorn, And homeward haste forthwith; Eager for wedlock to all shall I seem, Nor at home shall they rob me of rest.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -8708,6 +8718,7 @@
         },
         "TheLayOfVolund": {
             "Title": "The Lay of Volund",
+            "Description": "There was a king in Sweden named Nithuth. He had two sons and one daughter; her name was Bothvild. There were three brothers, sons of a king of the Finns: one was called Slagfith, another Egil, the third Völund. They went on snowshoes and hunted wild beasts. They came into Ulfdalir and there they built themselves a house; there was a lake there which is called Ulfsjar. Early one morning they found on the shore of the lake three women, who were spinning flax. Near them were their swan garments, for they were Valkyries. Two of them were daughters of King Hlothver, Hlathguth the Swan-White and Hervor the All-Wise, and the third was Olrun, daughter of Kjar from Valland. These did they bring home to their hall with them. Egil took Olrun, and Slagfith Swan-White, and Völund All-Wise. There they dwelt seven winters; but then they flew away to find battles, and came back no more. Then Egil set forth on his snowshoes to follow Olrun, and Slagfith followed Swan White, but Völund stayed in Ulfdalir. He was a most skillful man, as men know from old tales. King Nithuth had him taken by force, as the poem here tells.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -9387,6 +9398,7 @@
         },
         "TheLayOfHelgiTheSonOfHjorvard": {
             "Title": "The Lay of Helgi the Son of Hjörvard",
+            "Description": "Of Hjorvarth and Sigrlin Hjorvarth was the name of a king, who had four wives: one was called Alfhild, and their son was named Hethin; the second was called Særeith, and their son was named Humlung; the third was called Sinrjoth, and their son was named Hymling. King Hjorvarth had made a great vow to have as wife whatsoever woman he knew was fairest. He learned that King Svafnir had a daughter fairer than all others, whose name was Sigrlin. Ithmund was the name of one of his jarls; he had a son called Atli, who went to woo Sigrlin on behalf of the king. He dwelt the winter long with King Svafnir. There was a jarl called Franmar, Sigrlin's foster-father; his daughter was named Alof. The jarl told him that the maiden's hand was denied, and Atli went home. Atli, the jarl's son, stood one day in a certain wood; a bird sat in the branches up over him, and it had heard that his men called Hjorvarth's wives the fairest of women. The bird twittered, and Atli hearkened to what it spoke. It said:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -10103,6 +10115,7 @@
         },
         "TheFirstLayOfHelgiHundingsbane": {
             "Title": "The First Lay of Helgi Hundingsbane",
+            "Description": "Here begins the poem of Helgi Hundingsbane and and that of Hodbrodd",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -10993,6 +11006,7 @@
         },
         "TheSecondLayOfHelgiHundingsbane": {
             "Title": "The Second Lay of Helgi Hundingsbane",
+            "Description": "King Sigmund, the son of Volsung, had as wife Borghild, from Bralund. They named their son Helgi, after Helgi Hjorvarthsson; Hagal was Helgi's foster-father. Hunding was the name of a powerful king, and Hundland is named from him. He was a mighty warrior, and had many sons with him on his campaigns. There was enmity and strife between these two, King Hunding and King Sigmund, and each slew the other's kinsmen. King Sigmund and his family were called Volsungs and Ylfings. Helgi went as a spy to the home of King Hunding in disguise. Hæming, a son of King Hunding's, was at home. When Helgi went forth, then he met a young herdsman, and said:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -11901,6 +11915,7 @@
         },
         "OfSinfjotlisDeath": {
             "Title": "Of Sinfjötli's Death",
+            "Description": "Sigmund, the son of Volsung, was a king in the land of the Franks; Sinfjotli was his eldest son, the second was Helgi, and the third Hamund. Borghild, Sigmund's wife, had a brother who was named.........Sinfjotli, her stepson, and.........both wooed the same woman, wherefore Sinfjotli slew him. And when he came home, Borghild bade him depart, but Sigmund offered her atonement-money, and this she had to accept. At the funeral feast Borghild brought in ale; she took poison, a great horn full, and brought it to Sinfjotli. But when he looked into the horn, he saw that it was poison, and said to Sigmund: \"Muddy is the drink, Father!\" Sigmund took the horn and drank therefrom. It is said that Sigmund was so hardy that poison might not harm him, either outside or in, but all his sons could withstand poison only without on their skin. Borghild bore another horn to Sinfjotli and bade him drink, and all happened as before. And yet a third time she brought him a horn, and spoke therewith scornful words of him if he should not drink from it. He spoke as before with Sigmund. The latter said: \"Let it trickle through your beard, Son!\" Sinfjotli drank, and straight way was dead. Sigmund bore him a long way in his arms, and came to a narrow and long fjord, and there was a little boat and a man in it. He offered to take Sigmund across the fjord. But when Sigmund had borne the corpse out into the boat, then the craft was full. The man told Sigmund to go round the inner end of the fjord. Then the man pushed the boat off, and disappeared. King Sigmund dwelt long in Denmark in Borghild's kingdom after he had married her. Thereafter Sigmund went south into the land of the Franks, to the kingdom which he had there. There he married Hjordis, the daughter of King Eylimi; their son was Sigurth. King Sigmund fell in a battle with the sons of Hunding, and Hjordis then married Alf the son of King Hjalprek. There Sigurth grew up in his boyhood. Sigmund and all his sons were far above all other men in might and stature and courage and every kind of ability. Sigurth, however, was the fore most of all, and all men call him in the old tales the noblest of mankind and the mightiest leader.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -11916,6 +11931,7 @@
         },
         "TheProphecyOfGrípir": {
             "Title": "The Prophecy of Grípir",
+            "Description": "Sigmundr son of Völsung was king in Frankland. Sinfjötli was his eldest son, the second Helgi, and the third Hámundr. Borghildr, Sigmund's queen, had a brother, who was called . . . . But Sinfjötli, her stepson, and . . . both sought the hand of the same woman, and therefore he sought the death of Sinfjötli. But when he came home, Borghildr told him to go away, but Sigmundr offered him wergild, and she was going to receive it. But at the funeral feast, Borghildr bore the ale. She took a great deal of poison, a horn full, and presented it to Sinfjötli. But when he looked into the horn, he discerned that it was poison in it, and said to Sigmundr, \"Ouch, the drink is poisoned.\" Sigmundr took the horn and drained it. They say that Sigmund was so tough that no poison could harm him inside or outside, and all his sons could withstand poison outside, on their flesh. Borghildr brought a second horn to Sinfjötli and told him to drink, and everything happened as before. And then the third time she brought him the horn, plus scolding words if he did not drink it up. But he spoke to Sigmund as before. He said, \"Let your beard sift it, son.\" Sinfjötli drank, and died of it. Sigmundr carried him in his arms a long way and came to a long, narrow fjord, and there was a small ship and one man in it. He told Sigmundr to cross the fjord. But when Sigmundr carried the body out onto the ship, then the vessel was full. The fellow said that Sigmund should go inside the fjord. The fellow quickly took the ship out and away. King Sigmundr stayed for a long time in Denmark, in Borghild's kingdom, after he married her. Then Sigmundr traveled south into Frankland to the kingdom he had there. Then he married Hjördís, daughter of King Eylimi. Their son was Sigurðr. King Sigmund fell in battle with the sons of Hunding, and then Hjördís married Álfr, son of King Hjálprek. Sigurðr spent his childhood there. Sigmundr and all his sons were far above all other men in strength, stature, intelligence, and all accomplishments. However, Sigurðr was the greatest of all, and in the old tales all men call him the greatest of all men and the noblest of kings. Gripir was the name of Eylimi's son, the brother of Hjordis; he ruled over lands and was of all men the wisest and most forward-seeing. Sigurth once was riding alone and came to Gripir's hall. Sigurth was easy to recognize; he found out in front of the hall a man whose name was Geitir. Then Sigurth questioned him and asked:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -12782,6 +12798,7 @@
         },
         "TheLayOfRegin": {
             "Title": "The Lay of Regin",
+            "Description": "Sigurth went to Hjalprek's stud and chose for himself a horse, who thereafter was called Grani. At that time Regin, the son of Hreithmar, was come to Hjalprek's home; he was more ingenious than all other men, and a dwarf in stature; he was wise, fierce and skilled in magic. Regin undertook Sigurth's bringing up and teaching, and loved him much. He told Sigurth of his forefathers, and also of this: that once Othin and Hönir and Loki had come to Andvari's waterfall, and in the fall were many fish. Andvari was a dwarf, who had dwelt long in the waterfall in the shape of a pike, and there he got his food. \"Otr was the name of a brother of ours,\" said. Regin, \"who often went into the fall in the shape of an otter; he had caught a salmon, and sat on the high bank eating it with his eyes shut. Loki threw a stone at him and killed him; the gods thought they bad had great good luck, and stripped the skin off the otter. That same evening they sought a night's lodging at Hreithmar's house, and showed their booty. Then we seized them, and told them, as ransom for their lives, to fill the otter skin with gold, and completely cover it outside as well with red gold. Then they sent Loki to get the gold; he went to Ron and got her net, and went then to Andvari's fall and cast the net in front of the pike, and the pike leaped into the net.\" Then Loki said:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -13247,6 +13264,7 @@
         },
         "TheLayOfFafnir": {
             "Title": "The Lay of Fáfnir",
+            "Description": "Sigurth and Regin went up to the Gnitaheith, and found there the track that Fafnir made when he crawled to water. Then Sigurth made a great trench across the path, and took his place therein. When Fafnir crawled from his gold, he blew out venom, and it ran down from above on Sigurth's head. But when Fafnir crawled over the trench, then Sigurth thrust his sword into his body to the heart. Fafnir writhed and struck out with his head and tail. Sigurth leaped from the trench, and each looked at the other. Fafnir said:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -13938,6 +13956,7 @@
         },
         "TheLayOfSigrdrífa": {
             "Title": "The Lay of Sigrdrífa",
+            "Description": "Sigurth rode up on Hindarfjoll and turned southward toward the land of the Franks. On the mountain he saw a great light, as if fire were burning, and the glow reached up to heaven.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -14529,6 +14548,7 @@
         },
         "FragmentOfASigurdLay": {
             "Title": "Fragment of a Sigurd Lay",
+            "Description": "Hogni spake: \"(What evil deed has Sigurth) done, That the hero's life thou fain wouldst have?\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -14863,6 +14883,7 @@
         },
         "TheFirstLayOfGuthrun": {
             "Title": "The First Lay of Gudrún",
+            "Description": "Guthrun sat by the dead Sigurth; she did not weep as other women, but her heart was near to bursting with grief. The men and women came to her to console her, but that was not easy to do. It is told of men that Guthrun had eaten of Fafnir's heart, and that she under stood the speech of birds. This is a poem about Guthrun.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -15293,6 +15314,7 @@
         },
         "TheShortLayOfSigurth": {
             "Title": "The Short Lay of Sigurd",
+            "Description": "\"Of old did Sigurth Gjuki seek, The Volsung young, in battles victor; Well he trusted the brothers twain, With mighty oaths among them sworn.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -16372,6 +16394,7 @@
         },
         "BrynhildsHellRide": {
             "Title": "Brynhild's Hell-Ride",
+            "Description": "After the death of Brynhild there were made two bale-fires, the one for Sigurth, and that burned first, and on the other was Brynhild burned, and she was on a wagon which was covered with a rich cloth. Thus it is told, that Brynhild went in the wagon on Hel-way, and passed by a house where dwelt a certain giantess. The giantess spake:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -16607,6 +16630,7 @@
         },
         "TheSlayingOfTheNiflungs": {
             "Title": "The Slaying of The Niflungs",
+            "Description": "Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -16624,6 +16648,7 @@
         },
         "TheSecondLayOfGuthrun": {
             "Title": "The Second Lay of Gudrún",
+            "Description": "King Thjothrek was with Atli, and had lost most of his men. Thjothrek and Guthrun lamented their griefs together. She spoke to him, saying:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -17324,6 +17349,7 @@
         },
         "TheThirdLayOfGuthrun": {
             "Title": "The Third Lay of Gudrún",
+            "Description": "Herkja was the name of a serving-woman of Atli's; she had been his concubine. She told Atli that she had seen Thjothrek and Guthrun both together. Atli was greatly angered thereby. Then Guthrun said:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -17498,6 +17524,7 @@
         },
         "TheLamentOfOddrun": {
             "Title": "The Lament of Oddrún",
+            "Description": "Heithrek was the name of a king, whose daughter was called Borgny. Vilmund was the name of the man who was her lover. She could not give birth to a child until Oddrun, Atli's sister, had come to her; Oddrun had been beloved of Gunnar, son of Gjuki. About this story is the following poem.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -18014,6 +18041,7 @@
         },
         "TheGreenlandLayOfAtli": {
             "Title": "The Greenland Lay of Atli",
+            "Description": "Guthrun, Gjuki's daughter, avenged her brothers, as has become well known. She slew first Atli's sons, and thereafter she slew Atli, and burned the hall with his whole company. Concerning this was the following poem made:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -18707,6 +18735,7 @@
         },
         "TheGreenlandBalladOfAtli": {
             "Title": "The Greenland Ballad of Atli",
+            "Description": "\"There are many who know how of old did men In counsel gather; little good did they get; In secret they plotted, it was sore for them later, And for Gjuki's sons, whose trust they deceived.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -20259,6 +20288,7 @@
         },
         "GudrunsInciting": {
             "Title": "Gudrun's Inciting",
+            "Description": "Guthrun went forth to the sea after she had slain Atli. She went out into the sea and fain would drown herself, but she could not sink.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -20596,6 +20626,7 @@
         },
         "TheBalladOfHamdir": {
             "Title": "The Ballad of Hamdir",
+            "Description": "\"Great the evils once that grew, With the dawning sad of the sorrow of elves; In early mom awake for men The evils that grief to each shall bring.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -21052,6 +21083,7 @@
         },
         "BaldrsDreams": {
             "Title": "Baldr's Dreams",
+            "Description": "\"Once were the gods together met, And the goddesses came and council held, And the far-famed ones the truth would find, Why baleful dreams to Baldr had come.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -21277,6 +21309,7 @@
         },
         "TheSongOfRíg": {
             "Title": "The Song of Ríg",
+            "Description": "They tell in old stories that one of the gods, whose name was Heimdall, went on his way along a certain seashore, and came to a dwelling, where he called himself Rig. According to these stories is the following poem:",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -22023,6 +22056,7 @@
         },
         "TheLayOfHyndla": {
             "Title": "The Lay of Hyndla",
+            "Description": "Freyja spake: \"Maiden, awake! wake thee, my friend, My sister Hyndla, in thy hollow cave! Already comes darkness, and ride must we To Valhall to seek the sacred hall.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -22574,6 +22608,7 @@
         },
         "TheShortSeeressProphecy": {
             "Title": "The Short Seeress' Prophecy",
+            "Description": "\"Eleven in number the gods were known, When Baldr o'er the hill of death was bowed; And this to avenge was Vali swift, When his brother's slayer soon he slew.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -22789,6 +22824,7 @@
         },
         "TheSongOfGrotti": {
             "Title": "The Song of Grotti",
+            "Description": "Skjöldr was a son of Odin from whom the Skjöldungs are descended. He had his residence in and ruled the land that is now called Denmark, which was then called Gotland.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -23071,6 +23107,7 @@
         },
         "GroasSpell": {
             "Title": "Gróa's Spell",
+            "Description": "Svipdag spake: \"Wake thee, Groa! wake, mother good! At the doors of the dead I call thee; Thy son, bethink thee, thou badst to seek Thy help at the hill of death.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -23293,6 +23330,7 @@
         },
         "TheLayOfFjolsvid": {
             "Title": "The Lay of Fjolsvid",
+            "Description": "\"Before the house he beheld one coming To the home of the giants high.\" Svipdag spake: \"What giant is here, in front of the house, And around him fires are flaming?\"",
             "Source": "",
             "Texts": [
                 {
@@ -23997,6 +24035,7 @@
         },
         "TheLayOfHjalmar": {
             "Title": "The Lay of Hjalmar",
+            "Description": "The Lay of Hjalmar",
             "Source": "",
             "Texts": [
                 {
@@ -24011,6 +24050,7 @@
         },
         "TheWakingOfAngantyr": {
             "Title": "The Waking of Angantýr",
+            "Description": "The Shepherd said: \"Who by himself hath come hither on isle? Go thou straightway, get thee shelter!\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -24378,6 +24418,7 @@
         },
         "LayOfHlod": {
             "Title": "Lay of Hlöd",
+            "Description": "\"Of yore, say they, Humli over Huns held sway; Gizur over Gauts; over Goths, Angantýr; Valdar over Danes, but over the Welsh, Kíar; and Alrek the Bold over English folk.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Henry Adams Bellows.",
             "Texts": [
                 {
@@ -24899,6 +24940,7 @@
         },
         "SongOfTheWarriorsOfHalva": {
             "Title": "Song of the Warriors of Halva",
+            "Description": "Song of the Warriors of Halva",
             "Source": "",
             "Texts": [
                 {
@@ -24913,6 +24955,7 @@
         },
         "TheRiddlesOfKingHeithrek": {
             "Title": "The riddles of King Heithrek",
+            "Description": "Gestumblindi said: \"That would I have which I had yesterday; heed what I had: men’s hamperer, word’s hinderer, and speeder of speech. Aright read now this riddle, Heithrek!\" Heithrek said: \"Good is thy riddle, Gestumblindi, and guessed it is: give him ale! That hampers many a man’s wits; by it, some become talkative, but other men’s wits are mazed.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Lee M. Hollander (1936).",
             "Texts": [
                 {
@@ -25845,6 +25888,7 @@
         },
         "SongOfDorrud": {
             "Title": "Song of Dorrud",
+            "Description": "\"See! warp is stretched For warriors' fall, Lo! weft in loom Tis wet with blood; Now fight foreboding, Neath friends swift fingers, Our gray woof waxeth With war's alarms, Our warp bloodred, Our weft corseblue.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by George W. DaSent (1861).",
             "Texts": [
                 {
@@ -26018,6 +26062,7 @@
         },
         "BjarkisOldSpeeches": {
             "Title": "Bjarkis Old Speeches",
+            "Description": "Bjarkis Old Speeches",
             "Source": "",
             "Texts": [
                 {
@@ -26032,6 +26077,7 @@
         },
         "SongsOfTheSun": {
             "Title": "The Song of the Sun",
+            "Description": "Of life and property a fierce freebooter despoiled mankind; over the ways beset by him might no one living pass.",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1866).",
             "Texts": [
                 {
@@ -26710,6 +26756,7 @@
         },
         "OdinsRavensSong": {
             "Title": "Odin’s Ravens’ Song",
+            "Description": "\"Alfather works, the Alfar discern, the Vanir know, the Nornir indicate, the Ividia brings forth, men endure, the Thursar await, The Valkyruir long.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1865).",
             "Texts": [
                 {
@@ -27105,6 +27152,7 @@
         },
         "GunnarsMelody": {
             "Title": "Gunnar's Melody",
+            "Description": "\"It of old befell that Gunnar, Giuki's son, was doomed to die in Grábak's halls. The feet were free of the king's son, but his hands were bound with hard bonds.\"",
             "Source": "An ancient Icelandic text, edited by Guðni Jónsson.<br />Translation by Benjamin Thorpe (1865).",
             "Texts": [
                 {
