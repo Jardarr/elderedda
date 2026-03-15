@@ -64,7 +64,7 @@ export default async function Home() {
     return (
         <div className="flex flex-col items-center justify-center">
             <Hero />
-            <div className="font-GoodVibes max-w-2xl text-center p-5 text-lg sm:text-2xl sea-color dark:text-neutral-300">
+            <div className="max-w-2xl text-center p-5 sea-color dark:text-neutral-300">
                 {greeting.map((text, index) => (
                     <div key={index} className="my-8">
                         {text}
