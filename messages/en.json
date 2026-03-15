@@ -10,8 +10,14 @@
             "description": "Cattle die, and kinsmen die, And so one dies one's self; But a noble name will never die, If good renown one gets."
         }
     },
-    "Links": {
-        "Home": "Home"
+    "Dictionary": {
+        "Description": "Old Norse Dictionary. An online version of the classic Old Norse/Old Icelandic dictionary by Richard Cleasby and Guðbrand Vigfússon, originally published in 1874.",
+        "Title": "Dictionary search",
+        "Error": "Error loading data:",
+        "Placeholder": "Enter a search word...",
+        "Negative": "Nothing found",
+        "Loader": "Loading...",
+        "EndMessage": "These are all the results"
     },
     "Poems": {
         "TheProphecyOfTheSeeress": {

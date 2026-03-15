@@ -1,5 +1,6 @@
 import SearchInDict from "../../components/SearchInDict";
 import { Metadata, Viewport } from "next";
+import { getTranslations } from "next-intl/server";
 
 export const metadata: Metadata = {
     title: "Gjallarbru | Словарь",
@@ -54,15 +55,15 @@ export const viewport: Viewport = {
     userScalable: false,
 };
 
-export default function Home() {
+export default async function Home() {
+    const t = await getTranslations("Dictionary")
     return (
         <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
             <div className="flex flex-col items-center w-[600px] rounded-md min-h-screen mt-20">
                 <div className="flex flex-col w-full p-8 sea-color text-center">
                     <h1 className="text-2xl font-bold">Cleasby & Vigfusson Old Norse dictionary</h1>
                     <p className="font-GoodVibes text-neutral-900 dark:text-neutral-200 text-xl mt-4">
-                        Словарь древнескандинавского языка. Онлайн-версия классического древнескандинавского/древнеисландского словаря Ричарда Клисби и Гудбранда Вигфуссона,
-                        первоначально опубликованного в 1874 году.
+                        {t("Description")}
                     </p>
                 </div>
                 <SearchInDict />
