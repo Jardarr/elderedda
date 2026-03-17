@@ -5,10 +5,12 @@ import { Link } from "../../i18n/routing";
 import { getFullLinks } from "../utils/linksBuilder";
 import Copyright from "./Copyright";
 import { usePathname } from "next/navigation";
+import { use } from "react";
+import { useLocale } from "next-intl";
 
 export default function Footer() {
     const pathname = usePathname();
-    const locale = pathname.split("/")[1] || "en";
+    const locale = useLocale();
     const footerLinks = getFullLinks(locale);
     return (
         <footer className="flex flex-col lg:justify-between lg:flex-row md:text-xs sea-color dark:text-neutral-500 text-xs">
