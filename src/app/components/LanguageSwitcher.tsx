@@ -1,36 +1,27 @@
 "use client";
 
-import { usePathname, useRouter } from "next/navigation";
-import { useState, useEffect } from "react";
+import { useLocale } from "next-intl";
+import { usePathname, useRouter } from "../../i18n/routing";
 
-export default function Themebutton() {
-	const router = useRouter();
+export default function LanguageSwitcher() {
+    const router = useRouter();
     const pathname = usePathname();
-    const [currentLocale, setCurrentLocale] = useState("en");
+    const locale = useLocale();
 
-    useEffect(() => {
-        const segments = pathname.split("/");
-        if (segments[1]) {
-            setCurrentLocale(segments[1]);
-        }
-    }, [pathname]);
-
-    const switchLanguage = (locale: string) => {
-        const segments = pathname.split("/");
-        segments[1] = locale; // Assuming the locale is the first segment after the domain
-        const newPathname = segments.join("/");
-        router.push(newPathname);
+    const handleChange = (nextLocale: string) => {
+        const safePathname = pathname ?? "/";
+        router.push(safePathname, { locale: nextLocale, scroll: false });
     };
 
-    const handleChange = (locale: string) => {
-        switchLanguage(locale);
-    };
-	return (
+    return (
 		<button
-			onClick={() => handleChange(currentLocale === "ru" ? "en" : "ru")}
+            type="button"
+            aria-label="Переключить язык"
+            value={locale}
+			onClick={() => handleChange(locale === "ru" ? "en" : "ru")}
 			className="bg-neutral-500/30 dark:bg-neutral-700/30 p-2 rounded-lg sea-color dark:text-neutral-300 border border-transparent transition ease-in-out duration-300 hover:border-sky-400"
 		>
-			{currentLocale === "ru" ? "EN" : "RU"}
+			{locale === "ru" ? "EN" : "RU"}
 		</button>
-	);
+    );
 }

@@ -7,10 +7,11 @@ import BurgerMenu from "./BurgerMenu";
 import { getHeaderLinks } from "../utils/linksBuilder";
 import LanguageSwitcher from "./LanguageSwitcher";
 import { usePathname } from "next/navigation";
+import { useLocale } from "next-intl";
 
 export default function Header() {
 	const pathname = usePathname();
-	const locale = pathname.split("/")[1] || "en";
+	const locale = useLocale();
 	const headerLinks = getHeaderLinks(locale);
 	return (
 		<header className="flex w-full justify-between bg-white/20 dark:bg-gradient-to-r from-sky-950/30 via-black/30 to-sky-950/30 backdrop-blur-lg shadow-lg absolute top-0 right-0 left-0 z-50 px-4 md:px-24">
