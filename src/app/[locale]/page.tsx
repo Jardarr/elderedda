@@ -1,14 +1,19 @@
 import { Metadata, Viewport } from "next";
 import Hero from "../components/Hero";
 import { getTranslations } from "next-intl/server";
+import Toast from "../components/Toast";
 
 export async function generateMetadata(): Promise<Metadata> {
     const t = await getTranslations("HomePage.Metadata");
     return {
         title: t("title"),
         description: t("description"),
-        keywords: ["Elder Edda, Старшая Эдда, Älteste Edda, Élder Edda, Anziana Edda, Anciã Edda, Edda Seanóir, Vanhin Edda, Eldri Edda, Äldste Edda, Eldste Edda"],
-        authors: [{ name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" }],
+        keywords: [
+            "Elder Edda, Старшая Эдда, Älteste Edda, Élder Edda, Anziana Edda, Anciã Edda, Edda Seanóir, Vanhin Edda, Eldri Edda, Äldste Edda, Eldste Edda",
+        ],
+        authors: [
+            { name: "jardarr", url: "https://jardarr-portfolio.vercel.app/" },
+        ],
         applicationName: "Gjallarbru | Elder Edda",
         openGraph: {
             title: t("title"),
@@ -48,8 +53,8 @@ export async function generateMetadata(): Promise<Metadata> {
         alternates: {
             canonical: "https://gjallarbru.ru",
         },
-    }
-};
+    };
+}
 
 export const viewport: Viewport = {
     width: "device-width",
@@ -71,6 +76,7 @@ export default async function Home() {
                     </div>
                 ))}
             </div>
+            <Toast />
         </div>
     );
 }
