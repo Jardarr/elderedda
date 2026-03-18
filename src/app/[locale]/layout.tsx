@@ -24,7 +24,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     }
 
     return (
-        <html lang={locale}>
+        <html lang={locale} suppressHydrationWarning>
             <body
                 className={`${inter.className} bg-neutral-300 text-neutral-800 dark:bg-gradient-to-r from-sky-950 via-black to-sky-950 dark:text-neutral-200`}
             >
