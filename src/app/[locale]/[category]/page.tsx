@@ -46,12 +46,13 @@ export default async function CategoryPage({ params }: Props) {
 
     return (
         <main className="flex items-center justify-center text-sm md:text-base min-h-screen sm:h-fit">
-            <div className="flex flex-col items-center w-[600px] rounded-md mt-20">
-                <div className="m-8 text-3xl sea-color text-center font-bold">
-                    <h1>{cat.ON}</h1>
-                    <h2 className="mt-2">{localeTitle}</h2>
+            <div className="flex flex-col items-center w-[600px] rounded-md mt-20 px-2 sm:px-0">
+                <div className="w-full flex flex-col gap-2 border border-1 rounded-xl p-4 border-amber-800/20 bg-amber-50 dark:bg-zinc-900 dark:border-zinc-800">
+                    <span className="uppercase text-xs text-amber-900/60 dark:text-amber-200/40">{t("Titles.Category")}</span>
+                    <h1 className="text-2xl text-zinc-900 dark:text-zinc-300">{cat.ON}</h1>
+                    <h2 className="text-base dark:text-zinc-400">{localeTitle}</h2>
                 </div>
-                <nav className="flex flex-col items-center my-5">
+                <nav className="flex flex-col items-center my-5 w-full">
                     {poems.length > 0 ? (
                         poems.map((poem) => (
                             <Link
@@ -59,10 +60,12 @@ export default async function CategoryPage({ params }: Props) {
                                 href={`/${category}/${poem.data.slug}`}
                                 title={t(`Poems.${poem.key}.Title`)}
                                 aria-label={t(`Poems.${poem.key}.Title`)}
+                                className="w-full inline-flex justify-between border border-1 rounded-xl p-4 mb-4 border-amber-800/20 bg-amber-50 dark:bg-zinc-900 dark:border-zinc-800"
                             >
-                                <p className="mt-2 hover:text-sky-500">
+                                <p className="dark:text-zinc-400">
                                     {t(`Poems.${poem.key}.Title`)}
                                 </p>
+                                <span className="text-amber-900 dark:text-amber-200/40">›</span>
                             </Link>
                         ))
                     ) : (

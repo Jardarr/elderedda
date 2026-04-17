@@ -1,13 +1,12 @@
 import { Inter } from "next/font/google";
-import "../globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { Provider } from "../components/Provider";
-import "../index.css";
 import ToTopButton from "../components/ToTopButton";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { routing } from "../../i18n/routing";
+import "../globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,7 +25,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     return (
         <html lang={locale} suppressHydrationWarning>
             <body
-                className={`${inter.className} bg-neutral-300 text-neutral-800 dark:bg-gradient-to-r from-sky-950 via-black to-sky-950 dark:text-neutral-200`}
+                className={`${inter.className} bg-amber-100/50 text-neutral-800 dark:bg-neutral-950 dark:text-neutral-200`}
             >
                 <NextIntlClientProvider locale={locale}>
                     <Provider>

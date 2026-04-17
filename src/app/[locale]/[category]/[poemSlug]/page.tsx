@@ -87,18 +87,19 @@ export default async function PoemPage({ params }: Props) {
 		notFound();
 	}
 
-	const t = await getTranslations(`Poems.${poem.key}`);
+	const tPoem = await getTranslations(`Poems.${poem.key}`);
+	const tTitle = await getTranslations("Titles");
 	const categoryTitle = categoryLinks[poem.data.category];
 	const categoryLabel = categoryTitle ? pickTitle(locale, categoryTitle) : poem.data.category;
 	const onBlocks = poem.data.Texts || [];
 	const onTitle = poem.data.Title || "";
-	const translatedBlocksRaw = t.raw("Texts");
+	const translatedBlocksRaw = tPoem.raw("Texts");
 	const translatedBlocks = Array.isArray(translatedBlocksRaw) ? translatedBlocksRaw : Object.values(translatedBlocksRaw || {});
 
 	return (
 		<main className="flex items-center justify-center text-sm md:text-base">
-			<div className="flex flex-col w-[600px] rounded-md mt-20">
-				<span className="hidden sm:flex text-xs text-neutral-500">
+			<div className="flex flex-col w-[600px] rounded-md mt-20 px-2 sm:px-0">
+				<span className="hidden sm:flex text-xs text-amber-900/60 dark:text-amber-200/40">
 					<Link className="hover:text-sky-500" href="/">
 						Gjallarbru
 					</Link>
@@ -106,11 +107,15 @@ export default async function PoemPage({ params }: Props) {
 					<Link className="hover:text-sky-500" href={`/${locale}/${poem.data.category}`}>
 						{categoryLabel}
 					</Link>
-					&nbsp;/&nbsp;<span>{t("Title")}</span>
+					&nbsp;/&nbsp;<span>{tPoem("Title")}</span>
 				</span>
-				<div className="m-8 text-3xl sea-color text-center font-bold">
-					{onTitle}
-					<p>{t("Title")}</p>
+				<div className="w-full flex flex-col gap-2 border border-1 rounded-xl p-4 my-5 border-amber-800/20 bg-amber-50 dark:bg-zinc-900 dark:border-zinc-800">
+					<span className="uppercase text-xs text-amber-900/60 dark:text-amber-200/40">{tTitle("Poem")}</span>
+					<h1 className="text-2xl text-zinc-900 dark:text-zinc-300">{onTitle}</h1>
+					<h2 className="text-base dark:text-zinc-400">{tPoem("Title")}</h2>
+				</div>
+				<div className="w-full flex flex-col gap-2 border border-1 rounded-xl p-4 mb-5 border-amber-800/20 bg-amber-50 dark:bg-zinc-900 dark:border-zinc-800">
+					<span dangerouslySetInnerHTML={{ __html: tPoem.raw("Source") }} className="dark:text-zinc-400"></span>
 				</div>
 				{onBlocks.map((block: any) => {
 					const translated = translatedBlocks.find((b: any) => b.id === block.id);
@@ -154,9 +159,6 @@ export default async function PoemPage({ params }: Props) {
 						</div>
 					);
 				})}
-				<div className="flex justify-center text-center my-8 mx-4">
-					<span dangerouslySetInnerHTML={{ __html: t.raw("Source") }}></span>
-				</div>
 			</div>
 		</main>
 	);

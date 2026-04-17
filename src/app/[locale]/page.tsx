@@ -65,18 +65,36 @@ export const viewport: Viewport = {
 
 export default async function Home() {
     const t = await getTranslations("HomePage");
-    const greeting = t.raw("Greeting") as String[];
+
     return (
-        <div className="flex flex-col items-center justify-center">
+        <>
             <Hero />
-            <div className="max-w-2xl text-center p-5 sea-color dark:text-neutral-300">
-                {greeting.map((text, index) => (
-                    <div key={index} className="my-8">
-                        {text}
-                    </div>
-                ))}
-            </div>
+
+            <section className="w-full bg-amber-50/60 px-6 py-16 dark:bg-neutral-950 md:py-24">
+                <div className="mx-auto max-w-3xl text-center">
+                    <p className="text-sm uppercase tracking-[0.2em] text-neutral-600 dark:text-neutral-400">
+                        {t("Greeting.eyebrow")}
+                    </p>
+
+                    <h1 className="mt-4 font-serif text-4xl leading-tight text-neutral-900 dark:text-neutral-100 md:text-5xl">
+                        Gjallarbru
+                    </h1>
+
+                    <p className="mt-6 text-lg leading-8 text-neutral-800 dark:text-neutral-200 md:text-xl">
+                        {t("Greeting.lead")}
+                    </p>
+
+                    <p className="mx-auto mt-8 max-w-2xl text-base leading-8 text-neutral-700 dark:text-neutral-300 md:text-lg">
+                        {t("Greeting.body")}
+                    </p>
+
+                    <p className="mt-10 font-serif text-xl italic text-neutral-800 dark:text-neutral-200 md:text-2xl">
+                        {t("Greeting.closing")}
+                    </p>
+                </div>
+            </section>
+
             <Toast />
-        </div>
+        </>
     );
 }

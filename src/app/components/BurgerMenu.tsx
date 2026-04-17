@@ -14,7 +14,7 @@ export default function BurgerMenu() {
 		setIsSheetOpen(false);
 	};
 	return (
-		<nav className="flex items-center sm:hidden">
+		<nav className="flex items-center md:hidden">
 			<Sheet open={isSheetOpen} onOpenChange={setIsSheetOpen}>
 				<SheetTrigger
 					onClick={() => setIsSheetOpen(true)}
